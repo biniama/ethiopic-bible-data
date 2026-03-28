@@ -1,0 +1,1930 @@
+{
+  "book_number": 21,
+  "book_name_am": "መጽሐፈ መክብብ",
+  "book_short_name_am": "መክ",
+  "book_name_en": "Ecclesiastes",
+  "book_short_name_en": "Eccl",
+  "book_name_geez": null,
+  "testament": "old",
+  "sources": [
+    "ethiopicbible.com"
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "በኢየሩሳሌም የነገሠ የሰባኪው የዳዊት ልጅ ቃል።",
+            "en": "The words of the Preacher, the son of David, king in Jerusalem.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ሰባኪው። ከንቱ፥ ከንቱ፥ የከንቱ ከንቱ ሁሉ ከንቱ ነው ይላል።",
+            "en": "Vanity of vanities, saith the Preacher, vanity of vanities; all is vanity.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ከፀሐይ በታች በሚደክምበት ድካም ሁሉ የሰው ትርፉ ምንድር ነው?",
+            "en": "What profit hath a man of all his labour which he taketh under the sun?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ትውልድ ይሄዳል፥ ትውልድም ይመጣል፤ ምድር ግን ለዘላለም ነው።",
+            "en": "One generation passeth away, and another generation cometh: but the earth abideth for ever.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ፀሐይ ትወጣለች፥ ፀሐይም ትገባለች፥ ወደምትወጣበትም ስፍራ ትቸኵላለች።",
+            "en": "The sun also ariseth, and the sun goeth down, and hasteth to his place where he arose.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ነፋስ ወደ ደቡብ ይሄዳል፥ ወደ ሰሜንም ይዞራል፤ ዘወትር በዙረቱ ይዞራል፥ ነፋስም በዙረቱ ደግሞ ይመለሳል።",
+            "en": "The wind goeth toward the south, and turneth about unto the north; it whirleth about continually, and the wind returneth again according to his circuits.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ፈሳሾች ሁሉ ወደ ባሕር ይሄዳሉ፥ ባሕሩ ግን አይሞላም፤ ፈሳሾች ወደሚሄዱበት ስፍራ እንደ ገና ወደዚያ ይመለሳሉ።",
+            "en": "All the rivers run into the sea; yet the sea is not full; unto the place from whence the rivers come, thither they return again.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ነገር ሁሉ ያደክማል ሰው ይናገረው ዘንድ አይችልም፤ ዓይን ከማየት አይጠግብም፥ ጆሮም ከመስማት አይሞላም።",
+            "en": "All things are full of labour; man cannot utter it: the eye is not satisfied with seeing, nor the ear filled with hearing.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "የሆነው ነገር እርሱ የሚሆን ነው፥ የተደረገውም ነገር እርሱ የሚደረግ ነው፤ ከፀሐይም በታች አዲስ ነገር የለም።",
+            "en": "The thing that hath been, it is that which shall be; and that which is done is that which shall be done: and there is no new thing under the sun.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ማንም። እነሆ፥ ይህ ነገር አዲስ ነው ይል ዘንድ ይችላልን? እርሱ ከእኛ በፊት በነበሩት ዘመናት ተደርጎአል።",
+            "en": "Is there any thing whereof it may be said, See, this is new? it hath been already of old time, which was before us.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ለፊተኞቹ ነገሮች መታሰቢያ የላቸውም፤ ከኋለኞቹም ነገሮች ከእነርሱ በኋላ በሚነሡት ሰዎች ዘንድ መታሰቢያ አይገኝላቸውም።",
+            "en": "There is no remembrance of former things; neither shall there be any remembrance of things that are to come with those that shall come after.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "እኔ ሰባኪው በእስራኤል ላይ በኢየሩሳሌም ንጉሥ ነበርሁ።",
+            "en": "I the Preacher was king over Israel in Jerusalem.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ከሰማይም በታች የተደረገውን ሁሉ በጥበብ እፈልግና እመረምር ዘንድ ልቤን አተጋሁ፤ እግዚአብሔር ይደክሙባት ዘንድ ይህችን ለሰው ልጆች የሰጠ ክፉ ጥረት ናት።",
+            "en": "And I gave my heart to seek and search out by wisdom concerning all things that are done under heaven: this sore travail hath God given to the sons of man to be exercised therewith.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ከፀሐይ በታች የተሠራውን ሥራ ሁሉ አየሁ፤ እነሆም፥ ሁሉ ከንቱ ነው፥ ነፋስንም እንደ መከተል ነው።",
+            "en": "I have seen all the works that are done under the sun; and, behold, all is vanity and vexation of spirit.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ጠማማ ይቀና ዘንድ አይችልም፤ ጐደሎም ይቈጠር ዘንድ አይችልም።",
+            "en": "That which is crooked cannot be made straight: and that which is wanting cannot be numbered.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "እኔ በልቤ። እነሆ፥ ከእኔ አስቀድመው በኢየሩሳሌም ላይ ከነበሩት ሁሉ ይልቅ ጥበብን አብዝቼ ጨመርሁ፤ ልቤም ብዙ ጥበብንና እውቀትን ተመለከተ ብዬ ተናገርሁ።",
+            "en": "I communed with mine own heart, saying, Lo, I am come to great estate, and have gotten more wisdom than all they that have been before me in Jerusalem: yea, my heart had great experience of wisdom and knowledge.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "ጥበብንና ዕብደትን ሞኝነትንም አውቅ ዘንድ ልቤን ሰጠሁ፤ ይህም ደግሞ ነፋስን እንደ መከተል እንደ ሆነ አስተዋልሁ።",
+            "en": "And I gave my heart to know wisdom, and to know madness and folly: I perceived that this also is vexation of spirit.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "በጥበብ መብዛት ትካዜ ይበዛልና፤ እውቀትንም የሚጨምር ኀዘንን ይጨምራልና።",
+            "en": "For in much wisdom is much grief: and he that increaseth knowledge increaseth sorrow.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "እኔ በልቤ። ና በደስታም እፈትንሃለሁ፥ መልካምንም ቅመስ አልሁ፤ ይህም ደግሞ እነሆ ከንቱ ነበረ።",
+            "en": "I said in mine heart, Go to now, I will prove thee with mirth, therefore enjoy pleasure: and, behold, this also is vanity.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ሳቅን። ዕብድ ነህ፤ ደስታንም። ምን ታደርጋለህ? አልሁት።",
+            "en": "I said of laughter, It is mad: and of mirth, What doeth it?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "የሰው ልጆች በሕይወታቸው ዘመን ሁሉ ከፀሐይ በታች ሊሠሩት መልካም ነገር ምን እንደ ሆነ እስካይ ድረስ ልቤ በጥበብ እየመራኝ፥ ሰውነቴን በወይን ጠጅ ደስ ለማሰኘት ስንፍናንም ለመያዝ በልቤ መረመርሁ።",
+            "en": "I sought in mine heart to give myself unto wine, yet acquainting mine heart with wisdom; and to lay hold on folly, till I might see what was that good for the sons of men, which they should do under the heaven all the days of their life.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ትልቅ ሥራን ሠራሁ፥ ቤቶችንም አደረግሁ፥ ወይንም ተከልሁ፤",
+            "en": "I made me great works; I builded me houses; I planted me vineyards:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "አትክልትንና ገነትን አደረግሁ፥ ልዩ ልዩ ፍሬ ያለባቸውንም ዛፎች ተከልሁባቸው፤",
+            "en": "I made me gardens and orchards, and I planted trees in them of all kind of fruits:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "በዱር የተተከሉትን ዛፎች አጠጣበት ዘንድ የውኃ ማጠራቀሚያ አደረግሁ።",
+            "en": "I made me pools of water, to water therewith the wood that bringeth forth trees:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ወንዶችንና ሴቶችን ባሪያዎች ገዛሁ፥ የቤት ውልድ ባሪያዎችም ነበሩኝ፤ ከእኔ አስቀድመው በኢየሩሳሌም ከነበሩት ሁሉ ይልቅ ብዙ ከብቶችና መንጋዎች ነበሩኝ።",
+            "en": "I got me servants and maidens, and had servants born in my house; also I had great possessions of great and small cattle above all that were in Jerusalem before me:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ብርንና ወርቅን የከበረውንም የነገሥታትና የአውራጆችን መዝገብ ሰበሰብሁ፤ አዝማሪዎችንና አርሆዎችን የሰዎች ልጆችንም ተድላ እጅግ የበዙ ሴቶችንም አከማቸሁ።",
+            "en": "I gathered me also silver and gold, and the peculiar treasure of kings and of the provinces: I gat me men singers and women singers, and the delights of the sons of men, as musical instruments, and that of all sorts.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ታላቅም ሆንሁ፥ ከእኔም አስቀድመው በኢየሩሳሌም ከነበሩት ሁሉ ይልቅ ከበርሁ፤ ደግምም ጥበቤ ከእኔ ጋር ጸንታ ቀረች።",
+            "en": "So I was great, and increased more than all that were before me in Jerusalem: also my wisdom remained with me.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ዓይኖቼንም ከፈለጉት ሁሉ አልከለከልኋቸውም፤ ልቤም በድካሜ ሁሉ ደስ ይለው ነበርና ልቤን ከደስታ ሁሉ አላራቅሁትም ከድካሜም ሁሉ ይህ እድል ፈንታዬ ሆነ።",
+            "en": "And whatsoever mine eyes desired I kept not from them, I withheld not my heart from any joy; for my heart rejoiced in all my labour: and this was my portion of all my labour.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "እጄ የሠራቻችን ሥራዬን ሁሉ የደከምሁበትንም ድካሜን ሁሉ ተመለከትሁ፤ እነሆ፥ ሁሉ ከንቱ ነፋስንም እንደ መከተል ነበር፥ ከፀሐይ በታችም ትርፍ አልነበረም።",
+            "en": "Then I looked on all the works that my hands had wrought, and on the labour that I had laboured to do: and, behold, all was vanity and vexation of spirit, and there was no profit under the sun.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "እኔም ጥበብን ዕብደትንና ስንፍናን አይ ዘንድ ተመለከትሁ፤ በፊት ከተደረገው በቀር፥ ከንጉሥ በኋላ የሚመጣው ሰው ምን ያደርጋል?",
+            "en": "And I turned myself to behold wisdom, and madness, and folly: for what can the man do that cometh after the king? even that which hath been already done.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "እኔም ብርሃን ከጨለማ እንደሚበልጥ እንዲሁ ጥበብ ከስንፍና እንዲበልጥ አየሁ።",
+            "en": "Then I saw that wisdom excelleth folly, as far as light excelleth darkness.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "የጠቢብ ዓይኖች በራሱ ላይ ናቸው፥ ሰነፍ ግን በጨለማ ይሄዳል፤ ደግሞ ለሁለቱ መጨረሻቸው አንድ እንደ ሆነ አስተዋልሁ።",
+            "en": "The wise man's eyes are in his head; but the fool walketh in darkness: and I myself perceived also that one event happeneth to them all.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "እኔም በልቤ። ለሰነፍ የሚደርሰው ለእኔም ይደርሳል፤ ለምን እጅግ ጠቢብ ሆንሁ? አልሁ። የዚያን ጊዜም በልቤ። ይህ ደግሞ ከንቱ ነው አልሁ።",
+            "en": "Then said I in my heart, As it happeneth to the fool, so it happeneth even to me; and why was I then more wise? Then I said in my heart, that this also is vanity.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "በሚመጣው ዘመን ነገር ሁሉ የተረሳ ይሆናልና ለዘላለም የሚሆን የጠቢብና የሰነፍ መታሰቢያ አይገኝም። አዬ ጉድ! ጠቢብ ከሰነፍ ጋር እንዴት ይሞታል!",
+            "en": "For there is no remembrance of the wise more than of the fool for ever; seeing that which now is in the days to come shall all be forgotten. And how dieth the wise man? as the fool.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "ከፀሐይም በታች የተሠራው ሥራ ሁሉ ከብዶብኛልና ሕይወትን ጠላሁ፤ ሁሉም ከንቱ ነፋስንም እንደ መከተል ነው።",
+            "en": "Therefore I hated life; because the work that is wrought under the sun is grievous unto me: for all is vanity and vexation of spirit.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "ከእኔ በኋላ ለሚመጣው ሰው እተወዋለሁና ከፀሐይ በታች የደከምሁበትን ሁሉ ጠላሁት።",
+            "en": "Yea, I hated all my labour which I had taken under the sun: because I should leave it unto the man that shall be after me.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "ጠቢብ ወይም ሰነፍ እንዲሆን የሚያውቅ ሰው ማን ነው? ከፀሐይ በታች በደከምሁበትና ጠቢብ በሆንሁበት በድካሜ ሁሉ ላይ ጌታ ይሆንበታል፤ ይህም ደግሞ ከንቱ ነው።",
+            "en": "And who knoweth whether he shall be a wise man or a fool? yet shall he have rule over all my labour wherein I have laboured, and wherein I have shewed myself wise under the sun. This is also vanity.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "እኔም ተመልሼ ልቤን ከፀሐይ በታች በደከምሁበት ድካም ሁሉ ተስፋ አስቈረጥሁት።",
+            "en": "Therefore I went about to cause my heart to despair of all the labour which I took under the sun.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "ሰው በጥበብና በእውቀት በብልሃትም ከደከመ በኋላ ለሌላ ላልደከመበት ሰው ያወርሰዋልና፤ ይህም ደግሞ ከንቱ ትልቅም መከራ ነው።",
+            "en": "For there is a man whose labour is in wisdom, and in knowledge, and in equity; yet to a man that hath not laboured therein shall he leave it for his portion. This also is vanity and a great evil.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 22,
+          "text": {
+            "am": "ከፀሐይ በታች በደከመበት ድካም ሁሉና በልቡ አሳብ የሰው ጥቅም ምንድር ነው?",
+            "en": "For what hath man of all his labour, and of the vexation of his heart, wherein he hath laboured under the sun?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 23,
+          "text": {
+            "am": "ዘመኑ ሁሉ ኀዘን፥ ጥረትም ትካዜ ነው፤ ልቡም በሌሊት አይተኛም፤ ይህም ደግሞ ከንቱ ነው።",
+            "en": "For all his days are sorrows, and his travail grief; yea, his heart taketh not rest in the night. This is also vanity.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 24,
+          "text": {
+            "am": "ለሰው ከሚበላና ከሚጠጣ በድካሙም ደስ ከሚለው በቀር የሚሻለው ነገር የለም፤ ይህም ደግሞ ከእግዚአብሔር እጅ እንደ ተሰጠ አየሁ።",
+            "en": "There is nothing better for a man, than that he should eat and drink, and that he should make his soul enjoy good in his labour. This also I saw, that it was from the hand of God.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 25,
+          "text": {
+            "am": "ያለ እርሱ ፈቃድ የበላ ደስ ብሎትም ተድላን የቀመሰ ማን ነው?",
+            "en": "For who can eat, or who else can hasten hereunto, more than I?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 26,
+          "text": {
+            "am": "እርሱም ደስ ለሚያሰኘው ሰው ጥበብንና እውቀትን ደስታንም ይሰጠዋል፤ ለኃጢአተኛ ግን እግዚአብሔርን ደስ ለሚያሰኘው ሰው ይሰጥ ዘንድ እንዲሰበስብና እንዲያከማች ጥረትን ይሰጠዋል። ይህም ደግሞ ከንቱ ነፋስንም እንደ መከተል ነው።",
+            "en": "For God giveth to a man that is good in his sight wisdom, and knowledge, and joy: but to the sinner he giveth travail, to gather and to heap up, that he may give to him that is good before God. This also is vanity and vexation of spirit.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "ለሁሉ ዘመን አለው፥ ከሰማይ በታችም ለሆነ ነገር ሁሉ ጊዜ አለው።",
+            "en": "To every thing there is a season, and a time to every purpose under the heaven:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ለመወለድ ጊዜ አለው፥ ለመሞትም ጊዜ አለው፤ ለመትከል ጊዜ አለው፥ የተተከለውንም ለመንቀል ጊዜ አለው፤",
+            "en": "A time to be born, and a time to die; a time to plant, and a time to pluck up that which is planted;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ለመግደል ጊዜ አለው፥ ለመፈወስም ጊዜ አለው፤ ለማፍረስ ጊዜ አለው፥ ለመሥራትም ጊዜ አለው፤",
+            "en": "A time to kill, and a time to heal; a time to break down, and a time to build up;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ለማልቀስ ጊዜ አለው፥ ለመሳቅም ጊዜ አለው፤ ዋይ ለማለት ጊዜ አለው፥ ለመዝፈንም ጊዜ አለው፤",
+            "en": "A time to weep, and a time to laugh; a time to mourn, and a time to dance;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ድንጋይን ለመጣል ጊዜ አለው፥ ድንጋይንም ለመሰብሰብ ጊዜ አለው፤ ለመተቃቀፍ ጊዜ አለው፥ ከመተቃቀፍም ለመራቅ ጊዜ አለው፤",
+            "en": "A time to cast away stones, and a time to gather stones together; a time to embrace, and a time to refrain from embracing;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ለመፈለግ ጊዜ አለው፥ ለማጥፋትም ጊዜ አለው፤ ለመጠበቅ ጊዜ አለው፥ ለመጣልም ጊዜ አለው፤",
+            "en": "A time to get, and a time to lose; a time to keep, and a time to cast away;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ለመቅደድ ጊዜ አለው፥ ለመስፋትም ጊዜ አለው፤ ዝም ለማለት ጊዜ አለው፥ ለመናገርም ጊዜ አለው፤",
+            "en": "A time to rend, and a time to sew; a time to keep silence, and a time to speak;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ለመውደድ ጊዜ አለው፥ ለመጥላትም ጊዜ አለው፤ ለጦርነት ጊዜ አለው፥ ለሰላምም ጊዜ አለው።",
+            "en": "A time to love, and a time to hate; a time of war, and a time of peace.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ለሠራተኛ የድካሙ ትርፍ ምንድር ነው?",
+            "en": "What profit hath he that worketh in that wherein he laboureth?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "እግዚአብሔር ለሰው ልጆች ይደክሙበት ዘንድ የሰጣቸውን ጥረት አይቻለሁ።",
+            "en": "I have seen the travail, which God hath given to the sons of men to be exercised in it.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ነገርን ሁሉ በጊዜው ውብ አድርጎ ሠራው፤ እግዚአብሔርም ከጥንት ጀምሮ እስከ ፍጻሜ ድረስ የሠራውን ሥራ ሰው መርምሮ እንዳያገኝ ዘላለምነትን በልቡ ሰጠው።",
+            "en": "He hath made every thing beautiful in his time: also he hath set the world in their heart, so that no man can find out the work that God maketh from the beginning to the end.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "ሰው ደስ ከሚለው ና በሕይወቱ ሳለ መልካምን ነገር ከሚያደርግ በቀር መልካም ነገር እንደሌለ አወቅሁ።",
+            "en": "I know that there is no good in them, but for a man to rejoice, and to do good in his life.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ደግሞም ሰው ሁሉ ይበላና ይጠጣ ዘንድ በድካሙም ሁሉ ደስ ይለው ዘንድ የእግዚአብሔር ስጦታ ነው።",
+            "en": "And also that every man should eat and drink, and enjoy the good of all his labour, it is the gift of God.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "እግዚአብሔር ያደረገው ሁሉ ለዘላለም እንዲኖር አወቅሁ፤ ሊጨመርበት ወይም ከእርሱ ሊጐድል አይቻልም፤ እግዚአብሔርም በፊቱ ይፈሩ ዘንድ አደረገ።",
+            "en": "I know that, whatsoever God doeth, it shall be for ever: nothing can be put to it, nor any thing taken from it: and God doeth it, that men should fear before him.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "አሁን ያለው በፊት ነበረ፥ የሚሆነውም በፊት ሆኖ ነበር፤ እግዚአብሔርም ያለፈውን መልሶ ይሻዋል።",
+            "en": "That which hath been is now; and that which is to be hath already been; and God requireth that which is past.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ደግሞም ከፀሐይ በታች በፍርድ ስፍራ ኃጢአት፥ በጽድቅም ስፍራ ኃጢአት እንዳለ አየሁ።",
+            "en": "And moreover I saw under the sun the place of judgment, that wickedness was there; and the place of righteousness, that iniquity was there.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "እኔም በልቤ። በዚያ ለነገር ሁሉና ለሥራ ሁሉ ጊዜ አለውና በጻድቅና በኃጢአተኛ ላይ እግዚአብሔር ይፈርዳል አልሁ።",
+            "en": "I said in mine heart, God shall judge the righteous and the wicked: for there is a time there for every purpose and for every work.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "እኔ በልቤ ስለ ሰው ልጆች። እንደ እንስሳ መሆናቸውን እንዲያዩ እግዚአብሔር ይፈትናቸዋል አልሁ።",
+            "en": "I said in mine heart concerning the estate of the sons of men, that God might manifest them, and that they might see that they themselves are beasts.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "የሰው ልጆችና የእንስሳ እድል ፈንታ አንድ ነው፤ ድርሻቸውም ትክክል ነው፤ አንዱ እንደሚሞት ሌላውም እንዲሁ ይሞታል፤ የሁሉም እስትንፋስ አንድ ነው፤ ሁሉም ከንቱ ነውና ሰው ከእንስሳ ብልጫ የለውም ።",
+            "en": "For that which befalleth the sons of men befalleth beasts; even one thing befalleth them: as the one dieth, so dieth the other; yea, they have all one breath; so that a man hath no preeminence above a beast: for all is vanity.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "ሁሉ ወደ አንድ ቦታ ይሄዳል፤ ሁሉ ከአፈር ነው ሁሉም ወደ አፈር ይመለሳል።",
+            "en": "All go unto one place; all are of the dust, and all turn to dust again.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "የሰው ልጆች ነፍስ ወደ ላይ እንደምትወጣ የእንስሳም ነፍስ ወደ ታች ወደ ምድር እንደምትወርድ የሚያውቅ ማን ነው?",
+            "en": "Who knoweth the spirit of man that goeth upward, and the spirit of the beast that goeth downward to the earth?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 22,
+          "text": {
+            "am": "ያም እድል ፈንታው ነውና ሰው በሥራው ደስ ከሚለው በቀር ሌላ መልካም ነገር እንደሌለው አየሁ፤ ከእርሱ በኋላስ የሚሆነውን ያይ ዘንድ የሚያመጣው ማን ነው?",
+            "en": "Wherefore I perceive that there is nothing better, than that a man should rejoice in his own works; for that is his portion: for who shall bring him to see what shall be after him?",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "እኔም ተመለስሁ፥ ከፀሐይ በታችም የሚደረገውን ግፍ ሁሉ አየሁ፤ እነሆም፥ የተገፉት ሰዎች እንባ ነበረ፤ የሚያጽናናቸውም አልነበረም፤ በሚገፉአቸውም እጅ ኃይል ነበረ፥ እነርሱን ግን የሚያጽናናቸው አልነበረም።",
+            "en": "So I returned, and considered all the oppressions that are done under the sun: and behold the tears of such as were oppressed, and they had no comforter; and on the side of their oppressors there was power; but they had no comforter.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "እኔም እስከ ዛሬ በሕይወት ካሉት ይልቅ በቀድሞ ዘመን የሞቱትን አመሰገንሁ፤",
+            "en": "Wherefore I praised the dead which are already dead more than the living which are yet alive.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ከእነዚህም ከሁለቱ ይልቅ ገና ያልተወለደው ከፀሐይም በታች የሚደረገውን ግፍ ያላየው ይሻላል።",
+            "en": "Yea, better is he than both they, which hath not yet been, who hath not seen the evil work that is done under the sun.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ደግሞም የሰውን ድካምና የብልሃት ሥራውን ሁሉ ተመለከትሁ፥ በባልንጀራውም ዘንድ ቅንዓት እንዲያስነሣ አየሁ፤ ይህም ደግሞ ከንቱ ነፋስንም እንደ መከተል ነው።",
+            "en": "Again, I considered all travail, and every right work, that for this a man is envied of his neighbour. This is also vanity and vexation of spirit.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ሰነፍ እጆቹን ኮርትሞ ይቀመጣል፤ የገዛ ሥጋውንም ይበላል።",
+            "en": "The fool foldeth his hands together, and eateth his own flesh.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "በድካምና ነፋስን በመከተል ከሁለት እጅ ሙሉ ይልቅ አንድ እጅ ሙሉ በዕረፍት ይሻላል።",
+            "en": "Better is an handful with quietness, than both the hands full with travail and vexation of spirit.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "እኔም ተመለስሁ፥ ከፀሐይ በታችም ከንቱን ነገር አየሁ።",
+            "en": "Then I returned, and I saw vanity under the sun.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "አንድ ሰው ብቻውን አለ፥ ሁለተኛም የለውም ልጅም ሆነ ወንድም የለውም ፤ ለድካሙ ግን መጨረሻ የለውም ፥ ዓይኖቹም ከባለጠግነት አይጠግቡም። ለማን እደክማለሁ፥ ሰውነቴንስ መልካሙን ነገር ለምን እነፍጋታለሁ? ይላል። ይህም ደግሞ ከንቱ ነገር ክፉም ጥረት ነው።",
+            "en": "There is one alone, and there is not a second; yea, he hath neither child nor brother: yet is there no end of all his labour; neither is his eye satisfied with riches; neither saith he, For whom do I labour, and bereave my soul of good? This is also vanity, yea, it is a sore travail.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ድካማቸው መልካም ዋጋ አለውና አንድ ብቻ ከመሆን ሁለት መሆን ይሻላል።",
+            "en": "Two are better than one; because they have a good reward for their labour.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ቢወድቁ አንዱ ሁለተኛውን ያነሣዋልና፤ አንዱ ብቻውን ሆኖ በወደቀ ጊዜ ግን የሚያነሣው ሁለተኛ የለውም ና ወዮለት።",
+            "en": "For if they fall, the one will lift up his fellow: but woe to him that is alone when he falleth; for he hath not another to help him up.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ሁለቱም በአንድነት ቢተኙ ይሞቃቸዋል፤ አንድ ብቻውን ግን እንዴት ይሞቀዋል?",
+            "en": "Again, if two lie together, then they have heat: but how can one be warm alone?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "አንዱም አንዱን ቢያሸንፍ ሁለቱ በፊቱ ይቆማሉ፤ በሦስትም የተገመደ ገመድ ፈጥኖ አይበጠስም።",
+            "en": "And if one prevail against him, two shall withstand him; and a threefold cord is not quickly broken.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ድሀና ጠቢብ ብላቴና ተግሣጽን መቀበል ከእንግዲህ ወዲህ ከማያውቅ ከሰነፍ ሽማግሌ ንጉሥ ይሻላል።",
+            "en": "Better is a poor and a wise child than an old and foolish king, who will no more be admonished.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ምንም በመንግሥቱ አገር ደግሞ ችግረኛ ሆኖ ቢወለድ፥ ከግዞቱ ቤት ወደ መንግሥት ወጥቶአልና።",
+            "en": "For out of prison he cometh to reign; whereas also he that is born in his kingdom becometh poor.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ከፀሐይ በታች የሚሄዱትን ሕያዋን ሁሉ በእርሱ ፋንታ ከሚነሣው ከሌላው ጎበዝ ጋር ሆነው አየሁ።",
+            "en": "I considered all the living which walk under the sun, with the second child that shall stand up in his stead.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ከእርሱ በፊት የተገዙለት ሕዝብ ሁሉ አይቈጠሩም፤ በኋላ የሚመጡት ግን በእርሱ ደስ አይላቸውም። ይህም ደግሞ ከንቱ ነፋስንም እንደ መከተል ነው።",
+            "en": "There is no end of all the people, even of all that have been before them: they also that come after shall not rejoice in him. Surely this also is vanity and vexation of spirit.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "ወደ እግዚአብሔር ቤት በገባህ ጊዜ እግርህን ጠብቅ፤ ለመስማት መቅረብ ከሰነፎች መሥዋዕት ይበልጣልና፤ እነርሱም ክፉ እንዲያደርጉ አያውቁምና።",
+            "en": "Keep thy foot when thou goest to the house of God, and be more ready to hear, than to give the sacrifice of fools: for they consider not that they do evil.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "እግዚአብሔር በሰማይ፥ አንተም በምድር ነህና በአፍህ አትፍጠን፥ በእግዚአብሔርም ፊት ቃልን ይናገር ዘንድ ልብህ አይቸኵል፤ ስለዚህም ቃልህ ጥቂት ትሁን።",
+            "en": "Be not rash with thy mouth, and let not thine heart be hasty to utter any thing before God: for God is in heaven, and thou upon earth: therefore let thy words be few.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ሕልም በሥራ ብዛት ይታያል፤ እንዲሁም የሰነፍ ድምፅ በቃሉ ብዛት ይሰማል።",
+            "en": "For a dream cometh through the multitude of business; and a fool's voice is known by multitude of words.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ሰነፎች ደስ አያሰኙትምና ለእግዚአብሔር ስእለት በተሳልህ ጊዜ ትፈጽመው ዘንድ አትዘግይ፤ የተሳልኸውን ፈጽመው።",
+            "en": "When thou vowest a vow unto God, defer not to pay it; for he hath no pleasure in fools: pay that which thou hast vowed.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ተስለህ የማትፈጽም ብትሆን ባትሳል ይሻላል።",
+            "en": "Better is it that thou shouldest not vow, than that thou shouldest vow and not pay.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ሥጋህን በኃጢአት እንዳያስተው ለአፍህ አርነት አትስጥ፥ በመልአክም ፊት። ስሕተት ነበረ አትበል፤ እግዚአብሔር በቃልህ ይቈጣ ዘንድ የእጅህንም ሥራ ያጠፋ ዘንድ ስለምን ትሻለህ?",
+            "en": "Suffer not thy mouth to cause thy flesh to sin; neither say thou before the angel, that it was an error: wherefore should God be angry at thy voice, and destroy the work of thine hands?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ብዙ ሕልም ባለበት ዘንድ፥ እንዲሁም ደግሞ ብዙ ቃል ባለበት ስፍራ በዚያ ብዙ ከንቱ ነገር አለ፤ አንተ ግን እግዚአብሔርን ፍራ።",
+            "en": "For in the multitude of dreams and many words there are also divers vanities: but fear thou God.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ከፍ ካለው በላይ ከፍ ያለ ይመለከታልና፥ ከእነርሱም በላይ ደግሞ ሌሎች ከፍ ይላሉና በአገሩ ድሆች ሲገፉ፥ ፍርድና ጽድቅም ሲነጠቅ ባየህ ጊዜ በዚህ ነገር አታድንቅ።",
+            "en": "If thou seest the oppression of the poor, and violent perverting of judgment and justice in a province, marvel not at the matter: for he that is higher than the highest regardeth; and there be higher than they.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "በጠቅላላው ግን የአገሩ ጥቅም እርሻን የሚወድድ ንጉሥ ቢኖር ነው።",
+            "en": "Moreover the profit of the earth is for all: the king himself is served by the field.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ብርን የሚወድድ ሰው ብርን አይጠግብም፤ ባለጠግነትንም የሚወድድ ትርፉን አይጠግብም፤ ይህም ደግሞ ከንቱ ነው።",
+            "en": "He that loveth silver shall not be satisfied with silver; nor he that loveth abundance with increase: this is also vanity.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ሀብት ሲበዛ የሚበሉት ይበዛሉ፤ ሀብቱን በዓይኑ ብቻ ከማየት በቀር ለባለቤቱ ምን ይጠቅመዋል?",
+            "en": "When goods increase, they are increased that eat them: and what good is there to the owners thereof, saving the beholding of them with their eyes?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "እጅግ ወይም ጥቂት ቢበላ የሠራተኛ እንቅልፍ ጣፋጭ ነው የባለጠጋ ጥጋብ ግን እንቅልፍን ይከለክለዋል።",
+            "en": "The sleep of a labouring man is sweet, whether he eat little or much: but the abundance of the rich will not suffer him to sleep.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ከፀሐይ በታች የሚያሳዝን ክፉ ነገር አየሁ፤ ለመከራው በባለቤቱ ዘንድ የተቈጠበች ባለጠግነት ናት።",
+            "en": "There is a sore evil which I have seen under the sun, namely, riches kept for the owners thereof to their hurt.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ያችም ባለጠግነት በክፉ ነገር ትጠፋለች፤ ልጅንም ቢወልድ በእጁ ምንም የለውም።",
+            "en": "But those riches perish by evil travail: and he begetteth a son, and there is nothing in his hand.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ከእናቱ ሆድ ራቁቱን እንደ ወጣ እንዲሁ እንደ መጣው ይመለሳል፤ ከጥረቱም በእጁ ሊወስድ የሚችለውን ምንም አያገኝም።",
+            "en": "As he came forth of his mother's womb, naked shall he return to go as he came, and shall take nothing of his labour, which he may carry away in his hand.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ይህም ደግሞ የሚያሳዝን ክፉ ነገር ነው፤ እንደ መጣ እንዲሁ ይሄዳል፤ ድካሙም ለነፋስ ከሆነ ጥቅሙ ምንድር ነው?",
+            "en": "And this also is a sore evil, that in all points as he came, so shall he go: and what profit hath he that hath laboured for the wind?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "ዘመኑን ሁሉ በጨለማ በኀዘን በብስጭት በደዌና በቍጣ ነው።",
+            "en": "All his days also he eateth in darkness, and he hath much sorrow and wrath with his sickness.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "እነሆ፥ እኔ ያየሁት መልካምና የተዋበ ነገር ሰው እግዚአብሔር በሰጠው በሕይወቱ ዘመን ሁሉ ይበላና ይጠጣ ዘንድ፥ ከፀሐይ በታችም በሚደክምበት ድካም ሁሉ ደስ ይለው ዘንድ ነው፤ ይህ እድል ፈንታው ነውና።",
+            "en": "Behold that which I have seen: it is good and comely for one to eat and to drink, and to enjoy the good of all his labour that he taketh under the sun all the days of his life, which God giveth him: for it is his portion.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "እግዚአብሔር ለሰው ሁሉ ባለጠግነትንና ሀብትን መስጠቱ፥ ከእርስዋም ይበላና እድል ፈንታውን ይወስድ ዘንድ በድካሙም ደስ ይለው ዘንድ ማሠልጠኑ፤ ይህ የእግዚአብሔር ስጦታ ነው።",
+            "en": "Every man also to whom God hath given riches and wealth, and hath given him power to eat thereof, and to take his portion, and to rejoice in his labour; this is the gift of God.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "እግዚአብሔር በልቡ ደስታን ስለ ሰጠው እርሱ የሕይወቱን ዘመን እጅግ አያስብም።",
+            "en": "For he shall not much remember the days of his life; because God answereth him in the joy of his heart.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "ከፀሐይ በታች ያየሁት ክፉ ነገር አለ፥ እርሱም በሰው ላይ እጅግ የከበደ ነው።",
+            "en": "There is an evil which I have seen under the sun, and it is common among men:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "እግዚአብሔር ለሰው ሀብትንና ጥሪትን ክብርንም ሰጠው፥ ከወደደውም ሁሉ ለነፍሱ አልጐደለውም፤ ነገር ግን ሌላ ሰው ይበላዋል እንጂ ከእርሱ ይበላ ዘንድ እግዚአብሔር አላሠለጠነውም፤ ይህም ከንቱና ክፉ ደዌ ነው።",
+            "en": "A man to whom God hath given riches, wealth, and honour, so that he wanteth nothing for his soul of all that he desireth, yet God giveth him not power to eat thereof, but a stranger eateth it: this is vanity, and it is an evil disease.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ሰው መቶ ልጆች ቢወልድ እጅግ ዘመንም በሕይወት ቢኖር ዕድሜውም እጅግ ዓመት ቢሆን፥ ነፍሱም መልካምን ባትጠግብ መቃብርንም ባያገኝ፥ እኔ ስለ እርሱ። ከእርሱ ይልቅ ጭንጋፍ ይሻላል አልሁ።",
+            "en": "If a man beget an hundred children, and live many years, so that the days of his years be many, and his soul be not filled with good, and also that he have no burial; I say, that an untimely birth is better than he.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "በከንቱ መጥቶአል በጨለማ ይሄዳል ስሙም በጨለማ ይሸፈናል፤",
+            "en": "For he cometh in with vanity, and departeth in darkness, and his name shall be covered with darkness.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ደግሞም ፀሐይን አላየውም አላወቀውምም፤ ለዚህም ከዚያ ይልቅ ዕረፍት አለው።",
+            "en": "Moreover he hath not seen the sun, nor known any thing: this hath more rest than the other.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ሺህ ዓመት ሁለት ጊዜ በሕይወት ቢኖር መልካምንም ባያይ፥ ሁሉ ወደ አንድ ስፍራ የሚሄድ አይደለምን?",
+            "en": "Yea, though he live a thousand years twice told, yet hath he seen no good: do not all go to one place?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "የሰው ድካም ሁሉ ለአፉ ነው፥ ነፍሱ ግን አትጠግብም።",
+            "en": "All the labour of man is for his mouth, and yet the appetite is not filled.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ከሰነፍ ይልቅ ለጥበበኛ ጥቅም ምንድር ነው? በሕያዋን ፊትስ መሄድ ለሚያውቅ ለድሀ ጥቅሙ ምንድር ነው?",
+            "en": "For what hath the wise more than the fool? what hath the poor, that knoweth to walk before the living?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "በዓይን ማየት በነፍስ ከመቅበዝበዝ ይሻላል፤ ይህም ደግሞ ከንቱ ነፋስንም እንደ መከተል ነው።",
+            "en": "Better is the sight of the eyes than the wandering of the desire: this is also vanity and vexation of spirit.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "የሆነው ስሙ አስቀድሞ ተጠራ፥ ሰውም እንደ ሆነ ታወቀ፤ ከእርሱ ከሚበረታው ጋር ይፋረድ ዘንድ አይችልም።",
+            "en": "That which hath been is named already, and it is known that it is man: neither may he contend with him that is mightier than he.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ከንቱን የሚያበዛ ብዙ ነገር አለና ለሰው ጥቅሙ ምንድር ነው?",
+            "en": "Seeing there be many things that increase vanity, what is man the better?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "ሰው በከንቱ ወራቱ ቍጥርና እንደ ጥላ በሚያሳልፈው ዘመኑ በሕይወቱ ሳለ ለሰው የሚሻለውን የሚያውቅ ማነው? ወይስ ለሰው ከፀሐይ በታች ከእርሱ በኋላ የሚሆነውን ማን ይነግረዋል?",
+            "en": "For who knoweth what is good for man in this life, all the days of his vain life which he spendeth as a shadow? for who can tell a man what shall be after him under the sun?",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "ከመልካም ሽቱ መልካም ስም፥ ከመወለድ ቀንም የሞት ቀን ይሻላል።",
+            "en": "A good name is better than precious ointment; and the day of death than the day of one's birth.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ወደ ግብዣ ቤት ከመሄድ ወደ ልቅሶ ቤት መሄድ ይሻላል፤ እርሱ የሰው ሁሉ ፍጻሜ ነውና፥ ሕያውም የሆነ በልቡ ያኖረዋልና።",
+            "en": "It is better to go to the house of mourning, than to go to the house of feasting: for that is the end of all men; and the living will lay it to his heart.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ከሳቅ ኀዘን ይሻላል፥ ከፊት ኀዘን የተነሣ ልብ ደስ ይሰኛልና።",
+            "en": "Sorrow is better than laughter: for by the sadness of the countenance the heart is made better.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "የጠቢባን ልብ በልቅሶ ቤት ነው፤ የሰነፎች ልብ ግን በደስታ ቤት ነው።",
+            "en": "The heart of the wise is in the house of mourning; but the heart of fools is in the house of mirth.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ሰው የሰነፎችን ዜማ ከሚሰማ ይልቅ የጠቢባንን ተግሣጽ መስማት ይሻለዋል።",
+            "en": "It is better to hear the rebuke of the wise, than for a man to hear the song of fools.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ከድስት በታች እንደሚቃጠል እሾህ ድምፅ የሰነፍ ሳቅ እንዲሁ ነው፤ ይህም ደግሞ ከንቱ ነው።",
+            "en": "For as the crackling of thorns under a pot, so is the laughter of the fool: this also is vanity.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ግፍ ጠቢቡን ያሳብደዋል፤ ጉቦም ልቡን ያጠፋዋል።",
+            "en": "Surely oppression maketh a wise man mad; and a gift destroyeth the heart.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "የነገር ፍጻሜ ከመጀመሪያው ይሻላል፤ ታጋሽም ከትዕቢተኛ ይሻላል።",
+            "en": "Better is the end of a thing than the beginning thereof: and the patient in spirit is better than the proud in spirit.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "በነፍስህ ለቍጣ ችኩል አትሁን ቍጣ በሰነፍ ብብት ያርፋልና።",
+            "en": "Be not hasty in thy spirit to be angry: for anger resteth in the bosom of fools.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ከዚህ ዘመን ይልቅ ያለፈው ዘመን ለምን ተሻለ? ብለህ አትናገር፤ የዚህን ነገር በጥበብ አትጠይቅምና።",
+            "en": "Say not thou, What is the cause that the former days were better than these? for thou dost not enquire wisely concerning this.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ጥበብ ከርስት ጋር መልካም ነው፤ ፀሐይንም ለሚያዩ ሰዎች ትርፍን ይሰጣል።",
+            "en": "Wisdom is good with an inheritance: and by it there is profit to them that see the sun.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "የጥበብ ጥላ እንደ ገንዘብ ጥላ ናትና፤ የእውቀትም ብልጫዋ ጥበብ ገንዘብ ላደረጋት ሕይወትን እንድትሰጥ ነው።",
+            "en": "For wisdom is a defence, and money is a defence: but the excellency of knowledge is, that wisdom giveth life to them that have it.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "የእግዚአብሔርን ሥራ ተመልከት፤ እርሱ ጠማማ ያደረገውን ማን ሊያቀናው ይችላል?",
+            "en": "Consider the work of God: for who can make that straight, which he hath made crooked?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "በመልካም ቀን ደስ ይበልህ፤ በክፉም ቀን ተመልከት፤ ሰው ከእርሱ በኋላ መርምሮ ምንም እንዳያገኝ እግዚአብሔር ይህንም ያንም እንደዚያ ሠርቶአል።",
+            "en": "In the day of prosperity be joyful, but in the day of adversity consider: God also hath set the one over against the other, to the end that man should find nothing after him.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ጻድቅ በጽድቁ ሲጠፋ ኀጥእም በክፋቱ እጅግ ዘመን ሲኖር፥ ይህን ሁሉ ከንቱ በሆነ ዘመኔ አየሁ።",
+            "en": "All things have I seen in the days of my vanity: there is a just man that perisheth in his righteousness, and there is a wicked man that prolongeth his life in his wickedness.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "እጅግ ጻድቅ አትሁን፥ እጅግ ጠቢብም አትሁን፥ እንዳትጠፋ።",
+            "en": "Be not righteous over much; neither make thyself over wise: why shouldest thou destroy thyself?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "እጅግ ክፉ አትሁን፥ እልከኛም አትሁን፥ ጊዜህ ሳይደርስ እንዳትሞት።",
+            "en": "Be not over much wicked, neither be thou foolish: why shouldest thou die before thy time?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "እግዚአብሔርን የሚፈራ ከሁሉ ይወጣልና ይህን ብትይዝ ከዚያም ደግሞ እጅህን ባታርቅ መልካም ነው።",
+            "en": "It is good that thou shouldest take hold of this; yea, also from this withdraw not thine hand: for he that feareth God shall come forth of them all.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "በከተማ ከሚኖሩ ከአሥር ገዢዎች ይልቅ ጥበብ ጠቢብን ታበረታለች።",
+            "en": "Wisdom strengtheneth the wise more than ten mighty men which are in the city.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "በምድር ላይ መልካምን የሚሠራ ኃጢአትንም የማያደርግ ጻድቅ አይገኝምና።",
+            "en": "For there is not a just man upon earth, that doeth good, and sinneth not.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "ባሪያህ ሲረግምህ እንዳትሰማ በሚጫወቱበት ቃል ሁሉ ልብህን አትጣል፤",
+            "en": "Also take no heed unto all words that are spoken; lest thou hear thy servant curse thee:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 22,
+          "text": {
+            "am": "አንተ ደግሞ ሌሎችን እንደ ረገምህ ልብህ ያውቃልና።",
+            "en": "For oftentimes also thine own heart knoweth that thou thyself likewise hast cursed others.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 23,
+          "text": {
+            "am": "ይህን ሁሉ በጥበብ ፈተንሁ፤ ጠቢብ እሆናለሁ አልሁ፥ እርስዋ ግን ከእኔ ራቀች።",
+            "en": "All this have I proved by wisdom: I said, I will be wise; but it was far from me.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 24,
+          "text": {
+            "am": "የሆነው ራቀ እጅግም ጠለቀ፤ መርምሮ የሚያገኘውስ ማን ነው?",
+            "en": "That which is far off, and exceeding deep, who can find it out?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 25,
+          "text": {
+            "am": "አውቅና እመረምር ዘንድ፥ ጥበብንና የነገሩን ሁሉ መደምደሚያ እፈልግ ዘንድ፥ ኃጢአትም ስንፍና፥ ስንፍናም እብደት እንደ ሆነች አውቅ ዘንድ እኔ በልቤ ዞርሁ።",
+            "en": "I applied mine heart to know, and to search, and to seek out wisdom, and the reason of things, and to know the wickedness of folly, even of foolishness and madness:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 26,
+          "text": {
+            "am": "እኔም ከሞት ይልቅ የመረረ ነገር መርምሬ አገኘሁ፤ እርስዋም ልብዋ ወጥመድና መርበብ የሆነ፥ እጆችዋም እግር ብረት የሆኑ ሴት ናት፤ በእግዚአብሔር ፊት መልካም የሆነ ከእርስዋ ያመልጣል፥ ኃጢአተኛ ግን ይጠመድባታል።",
+            "en": "And I find more bitter than death the woman, whose heart is snares and nets, and her hands as bands: whoso pleaseth God shall escape from her; but the sinner shall be taken by her.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 27,
+          "text": {
+            "am": "አንዱን በአንዱ ላይ ጨምሬ ወደ ነገሩ ሁሉ መደምደሚያ እደርስ ዘንድ፥ እነሆ፥ ይህን ነገር አገኘሁ ይላል ሰባኪው፤",
+            "en": "Behold, this have I found, saith the preacher, counting one by one, to find out the account:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 28,
+          "text": {
+            "am": "ነፍሴ እስከ ዛሬ ድረስ ትሻታለች፥ ነገር ግን አላገኘሁም፤ ከሺህ ወንዶች አንድ አገኘሁ፥ ከእነዚያ ሁሉ መካከል ግን አንዲት ሴት አላገኘሁም።",
+            "en": "Which yet my soul seeketh, but I find not: one man among a thousand have I found; but a woman among all those have I not found.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 29,
+          "text": {
+            "am": "እግዚአብሔር ሰዎችን ቅኖች አድርጎ እንደ ሠራቸው፥ እነሆ፥ ይህን ብቻ አገኘሁ፤ እነርሱ ግን ብዙ ብልሃትን ፈለጉ።",
+            "en": "Lo, this only have I found, that God hath made man upright; but they have sought out many inventions.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "ጻድቃንና ጠቢባን ሥራዎቻቸውም በእግዚአብሔር እጅ እንደ ሆኑ፥ ይህን ሁሉ እመረምር ዘንድ በልቤ አኖርሁ፤ ፍቅር ወይም ጥል ቢሆን ሰው አያውቅም ሁሉ ወደ ፊታቸው ነው።",
+            "en": "Who is as the wise man? and who knoweth the interpretation of a thing? a man's wisdom maketh his face to shine, and the boldness of his face shall be changed.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "የጻድቁና የበደለኛው፥ የመልካሙና የክፉው፥ የንጹሑና የርኩሱ፥ መሥዋዕትን የሚሠዋውና የማይሠዋው፥ የሰው ሁሉ ድርሻው አንድ ነው፤ እንደ መልካሙ ሰው እንዲሁ ኃጢአተኛው፥ እንደ መሐለኛው ሰው እንዲሁ መሐላን የሚፈራው ነው።",
+            "en": "I counsel thee to keep the king's commandment, and that in regard of the oath of God.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "አንድ ድርሻ ሁሉን እንዲያገኝ ከፀሐይ በታች በተደረገው ሁሉ ይህ ነገር ክፉ ነው፤ ደግሞም የሰው ልጆች ልብ ክፋትን ትሞላለች፥ በሕይወታቸውም ሳሉ እብደት በልባቸው ነው፥ ከዚያም በኋላ ወደ ሙታን ይወርዳሉ።",
+            "en": "Be not hasty to go out of his sight: stand not in an evil thing; for he doeth whatsoever pleaseth him.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ያልሞተ ውሻ ከሞተ አንበሳ ይሻላልና ሰው ከሕያዋን ሁሉ ጋር በአንድነት ቢኖር ተስፋ አለው።",
+            "en": "Where the word of a king is, there is power: and who may say unto him, What doest thou?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ሕያዋን እንዲሞቱ ያውቃሉና፤ ሙታን ግን አንዳች አያውቁም፤ መታሰቢያቸውም ተረስቶአልና ከዚያ በኋላ ዋጋ የላቸውም።",
+            "en": "Whoso keepeth the commandment shall feel no evil thing: and a wise man's heart discerneth both time and judgment.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ፍቅራቸውና ጥላቸው ቅንዓታቸውም በአንድነት ጠፍቶአል፥ ከፀሐይ በታችም በሚሠራው ነገር ለዘላለም እድል ፈንታ ከእንግዲህ ወዲህ የላቸውም።",
+            "en": "Because to every purpose there is time and judgment, therefore the misery of man is great upon him.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "እግዚአብሔር ሥራህን ተቀብሎታልና ሂድ፥ እንጀራህን በደስታ ብላ፥ የወይን ጠጅህንም በተድላ ጠጣ።",
+            "en": "For he knoweth not that which shall be: for who can tell him when it shall be?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ሁልጊዜ ልብስህ ነጭ ይሁን፤ ቅባትም ከራስህ ላይ አይታጣ።",
+            "en": "There is no man that hath power over the spirit to retain the spirit; neither hath he power in the day of death: and there is no discharge in that war; neither shall wickedness deliver those that are given to it.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "በሕይወትህ፥ አንተም ከፀሐይ በታች በምትደክምበት ድካም ይህ እድል ፈንታህ ነውና ከንቱ በሆነ በሕይወትህ ዘመን ሁሉ፥ ከፀሐይ በታች በሰጠህ፥ በከንቱ ዘመንህ ሁሉ፥ ከምትወድዳት ሚስትህ ጋር ደስ ይበልህ።",
+            "en": "All this have I seen, and applied my heart unto every work that is done under the sun: there is a time wherein one man ruleth over another to his own hurt.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "አንተ በምትሄድበት በሲኦል ሥራና አሳብ እውቀትና ጥበብ አይገኙምና እጅህ ለማድረግ የምታገኘውን ሁሉ እንደ ኃይልህ አድርግ።",
+            "en": "And so I saw the wicked buried, who had come and gone from the place of the holy, and they were forgotten in the city where they had so done: this is also vanity.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "እኔም ተመለስሁ፥ ከፀሐይ በታችም ሩጫ ለፈጣኖች፥ ሰልፍም ለኃያላን፥ እንጀራም ለጠቢባን፥ ባለጠግነትም ለአስተዋዮች፥ ሞገስም ለአዋቂዎች እንዳልሆነ አየሁ፤ ጊዜና እድል ግን ሁሉን ይገናኛቸዋል።",
+            "en": "Because sentence against an evil work is not executed speedily, therefore the heart of the sons of men is fully set in them to do evil.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "ሰውም ጊዜውን አያውቅም፤ በክፉ መረብ እንደ ተጠመዱ ዓሣዎች፥ በወጥመድም እንደ ተያዙ ወፎች፥ እንዲሁ የሰው ልጆች በክፉ ጊዜ በድንገት ሲወድቅባቸው ይጠመዳሉ።",
+            "en": "Though a sinner do evil an hundred times, and his days be prolonged, yet surely I know that it shall be well with them that fear God, which fear before him:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ከፀሐይ በታችም ይህን ጥበብ አየሁ፥ እርስዋም በእኔ ዘንድ ታላቅ መሰለችኝ።",
+            "en": "But it shall not be well with the wicked, neither shall he prolong his days, which are as a shadow; because he feareth not before God.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ታናሽ ከተማ ነበረች፥ ጥቂቶች ሰዎችም ነበሩባት፤ ታላቅ ንጉሥም መጣባት ከበባትም፥ ታላቅ ግንብም ሠራባት።",
+            "en": "There is a vanity which is done upon the earth; that there be just men, unto whom it happeneth according to the work of the wicked; again, there be wicked men, to whom it happeneth according to the work of the righteous: I said that this also is vanity.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ጠቢብ ድሀ ሰውም ተገኘባት፥ ያችንም ከተማ በጥበቡ አዳናት፤ ያን ድሀ ሰው ግን ማንም አላሰበውም።",
+            "en": "Then I commended mirth, because a man hath no better thing under the sun, than to eat, and to drink, and to be merry: for that shall abide with him of his labour the days of his life, which God giveth him under the sun.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "እኔም። ከኃይል ይልቅ ጥበብ ትበልጣለች፤ የድሀው ጥበብ ግን ተናቀች ቃሉም አልተሰማችም አልሁ።",
+            "en": "When I applied mine heart to know wisdom, and to see the business that is done upon the earth: (for also there is that neither day nor night seeth sleep with his eyes:)",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "በሰነፎች መካከል ከሚጮኽ ከገዢው ጩኸት ይልቅ የጠቢባን ቃል በጸጥታ ትሰማለች።",
+            "en": "Then I beheld all the work of God, that a man cannot find out the work that is done under the sun: because though a man labour to seek it out, yet he shall not find it; yea further; though a wise man think to know it, yet shall he not be able to find it.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "ከጦር መሣሪያዎች ይልቅ ጥበብ ትሻላለች፤ አንድ ኃጢአተኛ ግን ብዙ መልካምን ያጠፋል።",
+            "en": null,
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "sections": [],
+      "verses": []
+    },
+    {
+      "chapter": 10,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "የሞቱ ዝንቦች የተቀመመውን የዘይት ሽቱ ያገሙታል፤ እንዲሁም ትንሽ ስንፍና ጥበብንና ክብርን ያጠፋል።",
+            "en": "Dead flies cause the ointment of the apothecary to send forth a stinking savour: so doth a little folly him that is in reputation for wisdom and honour.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "የጠቢብ ልብ በስተ ቀኙ ነው፥ የሰነፍ ልብ ግን በስተ ግራው ነው።",
+            "en": "A wise man's heart is at his right hand; but a fool's heart at his left.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ደግሞም ሰነፍ በመንገድ ሲመላለስ እርሱ ልብ ይጐድለዋል፥ የሚያስበውም ሁሉ ስንፍና ነው።",
+            "en": "Yea also, when he that is a fool walketh by the way, his wisdom faileth him, and he saith to every one that he is a fool.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ትዕግሥት ታላቁን ኃጢአት ጸጥ ያደርጋልና የገዢ ቍጣ የተነሣብህ እንደ ሆነ ስፍራህን አትልቀቅ።",
+            "en": "If the spirit of the ruler rise up against thee, leave not thy place; for yielding pacifieth great offences.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ከፀሐይ በታች ያየሁት ክፉ ነገር አለ፥ እርሱም ከገዢ የሚወጣ ስሕተት ነው፤",
+            "en": "There is an evil which I have seen under the sun, as an error which proceedeth from the ruler:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ሰነፍ በታላቅ ማዕርግ ተሾመ፥ ባለጠጎች ግን በተዋረደ ስፍራ ተቀመጡ።",
+            "en": "Folly is set in great dignity, and the rich sit in low place.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ባሪያዎች በፈረስ ላይ ሲቀመጡ መሳፍንትም እንደ ባሪያዎች በምድር ላይ ሲሄዱ አየሁ።",
+            "en": "I have seen servants upon horses, and princes walking as servants upon the earth.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ጕድጓድን የሚምስ ይወድቅበታል፥ ቅጥርንም የሚያፈርስን እባብ ትነድፈዋለች።",
+            "en": "He that diggeth a pit shall fall into it; and whoso breaketh an hedge, a serpent shall bite him.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ድንጋይን የሚፈነቅል ይታመምበታል፥ እንጨትንም የሚፈልጥ ይጐዳበታል።",
+            "en": "Whoso removeth stones shall be hurt therewith; and he that cleaveth wood shall be endangered thereby.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ብረት ቢደነዝዝ ሰውም ባይስለው ኃይልን ሊያበዛ ይገባዋል፤ ጥበብ ግን ሥራውን ለማከናወን ትጠቅመዋለች።",
+            "en": "If the iron be blunt, and he do not whet the edge, then must he put to more strength: but wisdom is profitable to direct.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ደጋሚ ሳይደግምባት እባብ ብትነድፍ ለደጋሚው ትርፍ የለውም።",
+            "en": "Surely the serpent will bite without enchantment; and a babbler is no better.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "የጠቢብ ሰው የአፉ ቃል ሞገስ ናት፤ የሰነፍ ከንፈሮች ግን ራሱን ይውጡታል።",
+            "en": "The words of a wise man's mouth are gracious; but the lips of a fool will swallow up himself.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "የአፉ ቃል መጀመሪያ ስንፍና ነው፥ የንግግሩ ፍጻሜም ክፉ እብደት ነው።",
+            "en": "The beginning of the words of his mouth is foolishness: and the end of his talk is mischievous madness.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ሰነፍ ቃሉን ያበዛል፤ ሰው ግን የሚሆነውን አያውቅም፤ ከእርሱስ በኋላ የሚሆነውን ማን ይነግረዋል?",
+            "en": "A fool also is full of words: a man cannot tell what shall be; and what shall be after him, who can tell him?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "የሰነፍ ሥራ ያደክመዋል ወደ ከተማ መሄድ አያውቅምና።",
+            "en": "The labour of the foolish wearieth every one of them, because he knoweth not how to go to the city.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ንጉሥሽ ሕፃን የሆነ፥ መኳንንቶችሽም ማልደው የሚበሉ፥ አንቺ አገር ሆይ፥ ወዮልሽ!",
+            "en": "Woe to thee, O land, when thy king is a child, and thy princes eat in the morning!",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "ንጉሥሽ የከበረ ልጅ የሆነ፥ ለብርታት እንጂ ለስካር ያይደለ በጊዜ የሚበሉ መኳንንት ያሉሽ፥ አንቺ አገር ሆይ፥ የተመሰገንሽ ነሽ።",
+            "en": "Blessed art thou, O land, when thy king is the son of nobles, and thy princes eat in due season, for strength, and not for drunkenness!",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "ተግባር በመፍታት ጣራው ይዘብጣል፥ በእጅም መታከት ቤት ያፈስሳል።",
+            "en": "By much slothfulness the building decayeth; and through idleness of the hands the house droppeth through.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "እንጀራን ለሳቅ የወይን ጠጅንም ለሕይወት ደስታ ያደርጉታል፥ ሁሉም ለገንዘብ ይገዛል።",
+            "en": "A feast is made for laughter, and wine maketh merry: but money answereth all things.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "የሰማይ ወፍ ቃሉን ይወስደዋልና፥ ባለ ክንፎችም ነገሩን ይናገራሉና በልብህ አሳብ እንኳ ቢሆን ንጉሥን አትስደብ፥ በመኝታ ቤትህም ባለጠጋን አትስደብ።",
+            "en": "Curse not the king, no not in thy thought; and curse not the rich in thy bedchamber: for a bird of the air shall carry the voice, and that which hath wings shall tell the matter.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "እንጀራህን በውኃ ፊት ላይ ጣለው፥ ከብዙ ቀን በኋላ ታገኛዋለህና።",
+            "en": "Cast thy bread upon the waters: for thou shalt find it after many days.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ለሰባት ደግሞም ለስምንት እድል ፈንታን ክፈል፥ በምድር ላይ የሚሆነውን ክፉ ነገር ምን እንደሆነ አታውቅምና።",
+            "en": "Give a portion to seven, and also to eight; for thou knowest not what evil shall be upon the earth.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ደመናት ዝናብ በሞሉ ጊዜ በምድር ላይ ያፈስሱታል፤ ዛፍም ወደ ደቡብ ወይም ወደ ሰሜን ቢወድቅ፥ ዛፉ በወደቀበት ስፍራ በዚያ ይኖራል።",
+            "en": "If the clouds be full of rain, they empty themselves upon the earth: and if the tree fall toward the south, or toward the north, in the place where the tree falleth, there it shall be.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ነፋስን የሚጠባበቅ አይዘራም፥ ደመናንም የሚመለከት አያጭድም።",
+            "en": "He that observeth the wind shall not sow; and he that regardeth the clouds shall not reap.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "የነፋስ መንገድ እንዴት እንደ ሆነች አጥንትም በእርጉዝ ሆድ እንዴት እንድትዋደድ እንደማታውቅ፥ እንዲሁም ሁሉን የሚሠራውን የእግዚአብሔርን ሥራ አታውቅም።",
+            "en": "As thou knowest not what is the way of the spirit, nor how the bones do grow in the womb of her that is with child: even so thou knowest not the works of God who maketh all.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ወይም ይህ ወይም ያ ማናቸው እንዲበቅል ወይም ሁለቱ መልካም እንዲሆኑ አታውቅምና በማለዳ ዘርህን ዝራ፥ በማታም እጅህን አትተው።",
+            "en": "In the morning sow thy seed, and in the evening withhold not thine hand: for thou knowest not whether shall prosper, either this or that, or whether they both shall be alike good.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ብርሃን ጣፋጭ ነው ፀሐይንም ማየት ለዓይን መልካም ነው።",
+            "en": "Truly the light is sweet, and a pleasant thing it is for the eyes to behold the sun:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ሰው ብዙ ዘመን በሕይወት ቢኖር በሁሉም ደስ ይበለው፤ ሆኖም የጨለማውን ዘመን ያስብ፥ ብዙ ቀን ይሆናልና። የሚመጣው ነገር ሁሉ ከንቱ ነው።",
+            "en": "But if a man live many years, and rejoice in them all; yet let him remember the days of darkness; for they shall be many. All that cometh is vanity.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "አንተ ጐበዝ፥ በጕብዝናህ ደስ ይበልህ፥ በጕብዝናህም ወራት ልብህን ደስ ይበለው፥ በልብህም መንገድ ዓይኖችህም በሚያዩት ሂድ፤ ዳሩ ግን ስለዚህ ነገር ሁሉ እግዚአብሔር ወደ ፍርድ እንዲያመጣህ እወቅ።",
+            "en": "Rejoice, O young man, in thy youth; and let thy heart cheer thee in the days of thy youth, and walk in the ways of thine heart, and in the sight of thine eyes: but know thou, that for all these things God will bring thee into judgment.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ሕፃንነትና ጕብዝና ከንቱዎች ናቸውና ከልብህ ኀዘንን አርቅ፥ ከሰውነትህም ክፉን ነገር አስወግድ።",
+            "en": "Therefore remove sorrow from thy heart, and put away evil from thy flesh: for childhood and youth are vanity.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "የጭንቀት ቀን ሳይመጣ በጕብዝናህ ወራት ፈጣሪህን አስብ፤ ደስ አያሰኙም የምትላቸውም ዓመታት ሳይደርሱ፤",
+            "en": "Remember now thy Creator in the days of thy youth, while the evil days come not, nor the years draw nigh, when thou shalt say, I have no pleasure in them;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ፀሐይና ብርሃን ጨረቃና ከዋክብትም ሳይጨልሙ፥ ደመናትም ከዝናብ በኋላ ሳይመለሱ፤",
+            "en": "While the sun, or the light, or the moon, or the stars, be not darkened, nor the clouds return after the rain:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ቤት ጠባቆች በሚንቀጠቀጡበት፥ ኃያላን ሰዎችም በሚጎብጡበት፥ ጥቂቶች ሆነዋልና ፈጭታዎች ሥራ በሚፈቱበት፥ በመስኮትም ሆነው የሚመለከቱ በሚጨልሙበት፥ በአደባባይም ደጆቹ በሚዘጉበት ቀን፤",
+            "en": "In the day when the keepers of the house shall tremble, and the strong men shall bow themselves, and the grinders cease because they are few, and those that look out of the windows be darkened,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "የወፍጮ ድምፅ ሲላሽ፥ ከወፍ ድምፅ የተነሣ ሰው ሲነሣ፥ ዜማም የሚጮኹ ሴቶች ልጆች ሁሉ ዝግ ሲሉ፤",
+            "en": "And the doors shall be shut in the streets, when the sound of the grinding is low, and he shall rise up at the voice of the bird, and all the daughters of musick shall be brought low;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ከፍ ያለውን ደግሞ ሲፈሩ፥ ድንጋጤም በመንገድ ላይ ሲሆን፤ ለውዝም ሲያብብ፥ አንበጣም እንደ ሸክም ሲከብድ፥ ፈቃድም ሲጠፋ፤ ሰው ወደ ዘላለም ቤት ሲሄድ፥ አልቃሾችም በአደባባይ ሲዞሩ፤",
+            "en": "Also when they shall be afraid of that which is high, and fears shall be in the way, and the almond tree shall flourish, and the grasshopper shall be a burden, and desire shall fail: because man goeth to his long home, and the mourners go about the streets:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "የብር ድሪ ሳይበጠስ፥ የወርቅም ኵስኵስት ሳይሰበር፥ ማድጋውም በምንጭ አጠገብ ሳይከሰከስ፥ መንኰራኵሩም በጕድጓድ ላይ ሳይሰበር፥",
+            "en": "Or ever the silver cord be loosed, or the golden bowl be broken, or the pitcher be broken at the fountain, or the wheel broken at the cistern.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "አፈርም ወደ ነበረበት ምድር ሳይመለስ፥ ነፍስም ወደ ሰጠው ወደ እግዚአብሔር ሳይመለስ ፈጣሪህን አስብ።",
+            "en": "Then shall the dust return to the earth as it was: and the spirit shall return unto God who gave it.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ሰባኪው። ከንቱ፥ ከንቱ፤ ሁሉ ከንቱ ነው ይላል።",
+            "en": "Vanity of vanities, saith the preacher; all is vanity.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ሰባኪውም ጠቢብ ስለ ሆነ ለሕዝቡ እውቀትን አስተማረ፤ እርሱም ብዙ ምሳሌዎችን መረመረና ፈላለገ አስማማም።",
+            "en": "And moreover, because the preacher was wise, he still taught the people knowledge; yea, he gave good heed, and sought out, and set in order many proverbs.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ሰባኪው ያማረውን በቅንም የተጻፈውን እውነተኛውን ቃል መርምሮ ለማግኘት ፈለገ።",
+            "en": "The preacher sought to find out acceptable words: and that which was written was upright, even words of truth.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "የጠቢባን ቃል እንደ በሬ መውጊያ ነው፥ የተሰበሰቡትም ከአንድ እረኛ የተሰጡት ቃላት እንደ ተቸነከሩ ችንካሮች ናቸው።",
+            "en": "The words of the wise are as goads, and as nails fastened by the masters of assemblies, which are given from one shepherd.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "ከዚህም ሁሉ በላይ፥ ልጄ ሆይ፥ ተግሣጽን ስማ፤ ብዙ መጻሕፍትን ማድረግ ፍጻሜ የለውም፥ እጅግም ምርምር ሰውነትን ያደክማል።",
+            "en": "And further, by these, my son, be admonished: of making many books there is no end; and much study is a weariness of the flesh.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "የነገሩን ሁሉ ፍጻሜ እንስማ፤ ይህ የሰው ሁለንተናው ነውና፤ እግዚአብሔርን ፍራ፥ ትእዛዙንም ጠብቅ።",
+            "en": "Let us hear the conclusion of the whole matter: Fear God, and keep his commandments: for this is the whole duty of man.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "እግዚአብሔር ሥራን ሁሉ የተሰወረውንም ነገር ሁሉ፥ መልካምም ቢሆን ክፉም ቢሆን፥ ወደ ፍርድ ያመጣዋልና።",
+            "en": "For God shall bring every work into judgment, with every secret thing, whether it be good, or whether it be evil.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    }
+  ]
+}

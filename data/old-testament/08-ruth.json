@@ -1,0 +1,803 @@
+{
+  "book_number": 8,
+  "book_name_am": "መጽሐፈ ሩት",
+  "book_short_name_am": "ሩት",
+  "book_name_en": "Ruth",
+  "book_short_name_en": "Ruth",
+  "book_name_geez": "መጽሐፈ ሩት",
+  "testament": "old",
+  "sources": [
+    "ethiopicbible.com"
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "እንዲህም ሆነ፤ መሳፍንት ይፈርዱ በነበረ ጊዜ በአገሩ ላይ ራብ ሆነ። አንድ ሰውም ከሚስቱና ከሁለቱ ልጆቹ ጋር በሞዓብ ምድር ሊቀመጥ ከቤተ ልሔም ይሁዳ ተነሥቶ ሄደ።",
+            "en": "Now it came to pass in the days when the judges ruled, that there was a famine in the land. And a certain man of Bethlehemjudah went to sojourn in the country of Moab, he, and his wife, and his two sons.",
+            "gez": "ወኮነ በመዋዕለ ይኴንኑ መሳፍንት መጽአ ረኃብ ውስተ ብሔር ወሖረ አሐዱ ብእሲ እምነ ቤተ ልሔም ዘይሁዳ ከመ ይንበር ውስተ ሐቅለ ሞአብ ውእቱ ወብእሲቱ ወደቂቁ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "የሰውዮውም ስም አቤሜሌክ፥ የሚስቱም ስም ኑኃሚን፥ የሁለቱም ልጆች ስም መሐሎንና ኬሌዎን ነበረ፤ የቤተ ልሔም ይሁዳም የኤፍራታ ሰዎች ነበሩ። ወደ ሞዓብም ምድር መጡ በዚያም ተቀመጡ።",
+            "en": "And the name of the man was Elimelech, and the name of his wife Naomi, and the name of his two sons Mahlon and Chilion, Ephrathites of Bethlehemjudah. And they came into the country of Moab, and continued there.",
+            "gez": "ወስሙ ለውእቱ ብእሲ አሊሜሌክ ወስመ ብእሲቱ ኖሔሚን ወአስማተ ደቂቁ ክልኤቱ መሐሎን ወኬሌዎን ኤፍራታዊያን እምነ ቤተ ልሔም ዘይሁዳ ወመጽኡ ውስተ ሐቅለ ሞአብ ወነበሩ ህየ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "የኑኃሚንም ባል አቤሜሌክ ሞተ፤ እርስዋና ሁለቱ ልጆችዋ ቀሩ።",
+            "en": "And Elimelech Naomi's husband died; and she was left, and her two sons.",
+            "gez": "ወሞተ አሊሜሌክ ምታ ለኖሔሚን ወተርፈት ይእቲ ወደቂቃ ክልኤሆሙ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "እነርሱም ከሞዓባውያን ሴቶች ሚስት አገቡ፤ የአንዲቱ ስም ዖርፋ የሁለተኛይቱም ስም ሩት ነበረ። በዚያም አሥር ዓመት ያህል ተቀመጡ።",
+            "en": "And they took them wives of the women of Moab; the name of the one was Orpah, and the name of the other Ruth: and they dwelled there about ten years.",
+            "gez": "ወነሥኡ ሎሙ አንስተ ሞአባውያተ ስማ ለአሐቲ ዖርፋ ወስመ ካልእታ ሩት ወነበሩ ህየ የአክል ዐሠርተ ዓመተ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "መሐሎንና ኬሌዎንም ሁለቱ ሞቱ፤ ሴቲቱም ከሁለቱ ልጆችዋና ከባልዋ ተለይታ ቀረች።",
+            "en": "And Mahlon and Chilion died also both of them; and the woman was left of her two sons and her husband.",
+            "gez": "ወሞቱ ክልኤሆሙ መሐሎን ወኬሌዎን ወተርፈት ይእቲ ብእሲት እምነ ምታ ወእምነ ክልኤሆሙ ደቂቃ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "እርስዋም በሞዓብ ምድር ሳለች እግዚአብሔር ሕዝቡን እንደ ጐበኘ እንጀራም እንደ ሰጣቸው ስለ ሰማች፥ ከሞዓብ ምድር ልትመለስ ከሁለቱ ምራቶችዋ ጋር ተነሣች።",
+            "en": "Then she arose with her daughters in law, that she might return from the country of Moab: for she had heard in the country of Moab how that the LORD had visited his people in giving them bread.",
+            "gez": "ወተንሥአት ይእቲ ወክልኤሆን መራዕዊሃ ወተመይጣ እምነ ሐቅለ ሞአብ እስመ ሰምዐት ከመ ተሣሀሎሙ እግዚአብሔር ለሕዝቡ ከመ የሀቦሙ እክለ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "እርስዋም ከሁለቱ ምራቶችዋ ጋር ከተቀመጠችበት ስፍራ ወጣች፤ ወደ ይሁዳም ምድር ሊመለሱ በመንገድ ሄዱ።",
+            "en": "Wherefore she went forth out of the place where she was, and her two daughters in law with her; and they went on the way to return unto the land of Judah.",
+            "gez": "ወወፅኣ እምነ ውእቱ መካን ኀበ ይነብራ ወክልኤሆን መራዕዊሃ ምስሌሃ ወሖራ ውስተ ፍኖት ከመ ይእትዋ ውስተ ምድረ ይሁዳ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ኑኃሚንም ምራቶችዋን። ሂዱ፥ ወደ እናቶቻችሁም ቤት ተመለሱ፤ በእኔና በሞቱት እንዳደረጋችሁ፥ እግዚአብሔር ቸርነት ያድርግላችሁ።",
+            "en": "And Naomi said unto her two daughters in law, Go, return each to her mother's house: the LORD deal kindly with you, as ye have dealt with the dead, and with me.",
+            "gez": "ወትቤሎን ኖሔሚን ለመራዕዊሃ ሑራ እትዋ አብያተ እማቲክን ወይግበር እግዚአብሔር ምስሌክን ምሕረቶ ከመ ገበርክን ምስለ እለ ሞቱ ወምስሌየ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "እግዚአብሔር በየባላችሁ ቤት ዕረፍት ይስጣችሁ አለቻቸው። ሳመቻቸውም፤ ድምፃቸውንም ከፍ አድርገው አለቀሱ።",
+            "en": "The LORD grant you that ye may find rest, each of you in the house of her husband. Then she kissed them; and they lifted up their voice, and wept.",
+            "gez": "ወየሀብክን እግዚአብሔር ትርከባ ዕረፍተ ውስተ አብያተ አምታቲክን ወሰዐመቶን ወጸርኃ ወበከያ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "እነርሱም። ከአንቺ ጋር ወደ ሕዝብሽ እንመለሳለን አሉአት።",
+            "en": "And they said unto her, Surely we will return with thee unto thy people.",
+            "gez": "ወይቤላሃ ምስሌኪ ንገብእ ውስተ ሕዝብኪ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ኑኃሚንም አለች። ልጆቼ ሆይ፥ ተመለሱ፤ ለምን ከእኔ ጋር ትሄዳላችሁ? ባሎቻችሁ የሚሆኑ ልጆች በሆዴ አሉኝን?",
+            "en": "And Naomi said, Turn again, my daughters: why will ye go with me? are there yet any more sons in my womb, that they may be your husbands?",
+            "gez": "ወትቤሎን ኖሔሚን እትዋ አዋልድየ ለምንት ትመጽኣ ምስሌየ ቦኑ ዘብየ ዓዲ ውሉደ ውስተ ከርሥየ እለ ያወስቡክን ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "ልጆቼ ሆይ፥ ተመለሱ፤ ባል ለማግባት አርጅቻለሁና ሂዱ፤ ተስፋ አለኝ ብል፥ ዛሬ ሌሊትስ እንኳ ባል ባገባ፥ ወንዶች ልጆችም ብወልድ፥",
+            "en": "Turn again, my daughters, go your way; for I am too old to have an husband. If I should say, I have hope, if I should have an husband also to night, and should also bear sons;",
+            "gez": "እትዋ እንከሰ አዋልድየ እስመ ረሣእኩ እምነ አውስቦ ዘእምወለድኩ ውሉደ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "እነርሱ እስኪያድጉ ድረስ ትቆያላችሁን? ስለ እነርሱስ ባል ማግባት ትተዋላችሁን? ልጆቼ ሆይ፥ እንዲህ አይደለም፤ የእግዚአብሔር እጅ በእኔ ወጥቶአልና ከእናንተ የተነሣ እጅግ ተመርሬአለሁ።",
+            "en": "Would ye tarry for them till they were grown? would ye stay for them from having husbands? nay, my daughters; for it grieveth me much for your sakes that the hand of the LORD is gone out against me.",
+            "gez": "ወትፀንሓሆሙ እስከ አመ ይልህቁ ወታጽንዓ ርእሰክን ወኢታውስባ፤አልቦ አዋልድየ እስመ መረረተኒ ነፍስየ ጥቀ ፈድፋደ እምኔክን እስመ ወፅአት እምኔየ እደ እግዚአብሔር ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ድምፃቸውንም ከፍ አድርገው እንደ ገና አለቀሱ፤ ዖርፋም አማትዋን ሳመች፤ ሩት ግን ተጠጋቻት።",
+            "en": "And they lifted up their voice, and wept again: and Orpah kissed her mother in law; but Ruth clave unto her.",
+            "gez": "ወጸርኃ ካዕበ ወበከያ ወሰዐመታ ዖርፋ ለሐማታ ወተመይጠት ኀበ ሕዝባ ወሩትሰ ተለወታ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ኑኃሚንም። እነሆ፥ ባልንጀራሽ ወደ ሕዝብዋና ወደ አማልክትዋ ተመልሳለች፤ አንቺም ደግሞ ከባልንጀራሽ ጋር ተመለሽ አለቻት።",
+            "en": "And she said, Behold, thy sister in law is gone back unto her people, and unto her gods: return thou after thy sister in law.",
+            "gez": "ወትቤላ ኖሔሚን ለሩት ናሁ አተወት ካልእትኪ ኀበ ሕዝባ ወኀበ አማልክቲሃ እትዊ አንቲኒ ምስለ ካልእትኪ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ሩትም። ወደምትሄጅበት እሄዳለሁና፥ በምታድሪበትም አድራለሁና እንድተውሽ ከአንቺም ዘንድ እንድመለስ አታስቸግሪኝ፤ ሕዝብሽ ሕዝቤ፥ አምላክሽም አምላኬ ይሆናል፤",
+            "en": "And Ruth said, Intreat me not to leave thee, or to return from following after thee: for whither thou goest, I will go; and where thou lodgest, I will lodge: thy people shall be my people, and thy God my God :",
+            "gez": "ወትቤላ ሩት ኢያብሐኒ ከመ እኅድጊ ወከመ እትመየጥ እምድኅሬኪ ኀበ ሖርኪ አንቲ አሐውር ወኀበ ኀደርኪ አኀድር ሕዝብኪ ሕዝብየ ወአምላክኪ አምላክየ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "በምትሞችበትም ስፍራ እሞታለሁ፥ በዚያም እቀበራለሁ፤ ከሞት በቀር አንቺንና እኔን አንዳች ቢለየን እግዚአብሔር ይህን ያድርግብኝ እንዲሁም ይጨምርብኝ አለች።",
+            "en": "Where thou diest, will I die, and there will I be buried: the LORD do so to me, and more also, if ought but death part thee and me.",
+            "gez": "ወበኀበ ሞትኪ እመውት ወህየ እትቀበር ከመዝ ለይረስየኒ እግዚአብሔር ወከመዝ ለይኩን ከመ አልቦ ዘይፈልጠኒ እምኔኪ እንበለ ሞት ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "ኑኃሚንም ከእርስዋ ጋር ለመሄድ እንደ ቈረጠች ባየች ጊዜ እርስዋን ከመናገር ዝም አለች።",
+            "en": "When she saw that she was stedfastly minded to go with her, then she left speaking unto her.",
+            "gez": "ወሶበ ርእየት ኖሔሚን ከመ አጽንዐት ለሐዊር ምስሌሃ ኀደገት እንከ ብሂሎታ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "ሁሉቱም እስከ ቤተ ልሔም ድረስ ሄዱ። ወደ ቤተ ልሔምም በደረሱ ጊዜ የከተማይቱ ሰዎች ሁሉ ስለ እነርሱ። ይህች ኑኃሚን ናትን? እያሉ ተንጫጩ።",
+            "en": "So they two went until they came to Bethlehem. And it came to pass, when they were come to Bethlehem, that all the city was moved about them, and they said, Is this Naomi?",
+            "gez": "ወሖራ ክልኤሆን እስከ በጽሓ ቤተ ልሔም ወደምፀት ኵሉ ሀገር በእንቲአሃ ወይቤልዋ ሕያውትኑ አንቲ ኖሔሚን ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "እርስዋም። ሁሉን የሚችል አምላክ አስመርሮኛልና ማራ በሉኝ እንጂ ኑኃሚን አትበሉኝ።",
+            "en": "And she said unto them, Call me not Naomi, call me Mara: for the Almighty hath dealt very bitterly with me.",
+            "gez": "ወትቤሎን ኢትስምያኒ ኖሔሚን ስምያኒ መራር እስመ መረርኩ ፈድፋደ ወብዙኀ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "በሙላት ወጣሁ፥ እግዚአብሔርም ወደ ቤቴ ባዶዬን መለሰኝ፤ እግዚአብሔር አዋርዶኛልና፥ ሁሉንም የሚችል አምላክ አስጨንቆኛልና ኑኃሚን ለምን ትሉኛላችሁ? አለቻቸው።",
+            "en": "I went out full, and the LORD hath brought me home again empty: why then call ye me Naomi, seeing the LORD hath testified against me, and the Almighty hath afflicted me?",
+            "gez": "አንሰ ምልእትየ ሖርኩ ወዕራቅየ አግብአኒ እግዚአብሔር ለምንት ትብላኒ ኖሔሚን እንዘ እግዚአብሔር አኅሰረኒ ወፈድፋደ አሕመመኒ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 22,
+          "text": {
+            "am": "ኑኃሚንም ከእርስዋም ጋር ከሞዓብ ምድር የተመለሰችው ሞዓባዊቱ ምራትዋ ሩት ተመለሱ። የገብስም መከር በተጀመረ ጊዜ ወደ ቤተልሔም መጡ።",
+            "en": "So Naomi returned, and Ruth the Moabitess, her daughter in law, with her, which returned out of the country of Moab: and they came to Bethlehem in the beginning of barley harvest.",
+            "gez": "ወገብአት ኖሔሚን ወሩት መርዓታ ሞአባዊት ወአተዋ እምነ ሐቅለ ሞአብ ወበጽሓ ውስተ ቤተ ልሔም አመ ቀዳሜ ማእረረ ስገም ።"
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "ለኑኃሚንም ባል የሚዘመደው ከአቤሜሌክ ወገን የሆነ ኃያል ሰው ስሙ ቦዔዝ የተባለ ሰው ነበረ።",
+            "en": "And Naomi had a kinsman of her husband's, a mighty man of wealth, of the family of Elimelech; and his name was Boaz.",
+            "gez": "ወባቲ ኖሔሚን ብእሴ ዘያአምሮ ለምታ ወውእቱ ብእሲ ጽኑዕ ወከሃሊ እምነ አዝማዲሁ ውእቱ ለአሊሜሌክ ወስሙ ቦዖስ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ሞዓባዊቱም ሩት ኑኃሚንን። በፊቱ ሞገስ የማገኘውን ተከትዬ እህል እንድቃርም ወደ እርሻ ልሂድ አለቻት። እርስዋም። ልጄ ሆይ፥ ሂጂ አለቻት።",
+            "en": "And Ruth the Moabitess said unto Naomi, Let me now go to the field, and glean ears of corn after him in whose sight I shall find grace. And she said unto her, Go, my daughter.",
+            "gez": "ወትቤላ ሩት ሞአባዊት ለኖሔሚን እሑርኑ ውስተ ገራህት እእሪ እክለ ኀበ እለ ረከብኩ ሞገሰ ወትቤላ ሑሪ ወለትየ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ሄደችም፥ ከአጫጆችም በኋኋኋ ላ በእርሻ ውስጥ ቃረ እንደ አጋጣሚውም የአቤሜሌክ ወገን ወደ ነበረው ወደ ቦዔዝ እርሻ ደረሰች።",
+            "en": "And she went, and came, and gleaned in the field after the reapers: and her hap was to light on a part of the field belonging unto Boaz, who was of the kindred of Elimelech.",
+            "gez": "ወሖረት ወአረየት እምውስተ ገራህት እንዘ ትተልዎሙ ለእለ የዐፅዱ ወበጽሐት ውስተ አሐዱ ሕብር እምነ ገራህቱ ለቦዖስ ዘእምነ ዘመዱ ለአሊሜሌክ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "እነሆም፥ ቦዔዝ ከቤተ ልሔም መጣ፥ አጫጆችንም። እግዚአብሔር ከእናንተ ጋር ይሁን አላቸው። እነርሱም። እግዚአብሔር ይባርክህ ብለው መለሱለት።",
+            "en": "And, behold, Boaz came from Bethlehem, and said unto the reapers, The LORD be with you. And they answered him, The LORD bless thee.",
+            "gez": "ወመጽአ ቦዖስ እምነ ቤተ ልሔም ወይቤሎሙ ለእለ የዐፅዱ እግዚአብሔር ምስሌክሙ ወይቤልዎ ይባርከ እግዚአብሔር ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ቦዔዝም በአጫጆች ላይ አዛዥ የነበረውን ሎሌውን። ይህች ቆንጆ የማን ናት? አለው።",
+            "en": "Then said Boaz unto his servant that was set over the reapers, Whose damsel is this?",
+            "gez": "ወይቤሎ ቦዖስ ለወልዱ ዘይቀውም ላዕለ እለ የዐፅዱ እንተ መኑ ዛቲ ወለት ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "የአጫጆቹም አዛዥ። ይህችማ ከሞዓብ ምድር ከኑኃሚን ጋር የመጣች ሞዓባዊቱ ቆንጆ ናት፤",
+            "en": "And the servant that was set over the reapers answered and said, It is the Moabitish damsel that came back with Naomi out of the country of Moab:",
+            "gez": "ወአውሥኦ ውእቱ ወልድ ዘይቀውም ላዕለ እለ የዐፅዱ ወይቤ እንታክቲ ወለት ሞአባዊት እንተ ገብአት ምስለ ኖሔሚን እምነ ሐቅለ ሞአብ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "እርስዋም። ከአጫጆቹ በኋላ በነዶው መካከል እንድቃርምና እንድለቅም፥ እባክህ፥ ፍቀድልኝ አለች፤ መጣችም፥ ከማለዳም ጀምራ እስከ አሁን ድረስ ቆይታለች፤ በቤትም ጥቂት ጊዜ እንኳ አላረፈችም አለው።",
+            "en": "And she said, I pray you, let me glean and gather after the reapers among the sheaves: so she came, and hath continued even from the morning until now, that she tarried a little in the house.",
+            "gez": "ወትቤ እእሪ ወኣስተጋብእ እምነ ዘወድቀ እምነ ክልስስታት ወእምድኅሬሆሙ ለእለ የዐፅዱ ወመጽአት ወቆመት እምነግህ እስከ ስርክ ወኢኀደገት ንስቲተኒ ውስተ ገራህት ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ቦዔዝም ሩትን። ልጄ ሆይ፥ ትሰሚያለሽን? ቃርሚያ ለመቃረም ወደ ሌላ እርሻ አትሂጂ፥ ከዚህም አትላወሺ፥ ነገር ግን ገረዶቼን ተጠጊ።",
+            "en": "Then said Boaz unto Ruth, Hearest thou not, my daughter? Go not to glean in another field, neither go from hence, but abide here fast by my maidens:",
+            "gez": "ወይቤላ ቦዖስ ለሩት ኢሰማዕኪኑ ወለትየ ኢትባኢ ውስተ ገራህተ ባዕድ ለአስተጋብኦ ወአንቲኒ ኢትሑሪ እምዝየ ባዕደ ትልዊዮን ለአዋልድየ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ወደሚያጭዱበትም ስፍራ ተመልከቺ፥ ተከተያቸውም፤ እንዳያስቸግሩሽም ጐበዛዝቱን አዝዣለሁ፤ በተጠማሽም ጊዜ ወደ ማድጋው ሄደሽ ጐበዛዝቱ ከቀዱት ውኃ ጠጪ አላት።",
+            "en": "Let thine eyes be on the field that they do reap, and go thou after them: have I not charged the young men that they shall not touch thee? and when thou art athirst, go unto the vessels, and drink of that which the young men have drawn.",
+            "gez": "ወነጽሪ ውስተ ገራህት ኀበ ዐፀዱ ወትልዊዮሙ ናሁ አዘዝኩ ለደቅ ከመ አልቦ ዘይልክፍኪ ወእመኒ ጸማእኪ ሑሪ ኀበ ንዋይ ወስተዪ እምነ ዘአምጽኡ ደቅ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "በግምባርዋም ተደፍታ በምድር ላይ ሰገደችለት። እኔንስ ለመቀበል በምን ነገር በፊትህ ሞገስ አገኘሁ? እኔ እንግዳ አይደለሁምን? አለችው።",
+            "en": "Then she fell on her face, and bowed herself to the ground, and said unto him, Why have I found grace in thine eyes, that thou shouldest take knowledge of me, seeing I am a stranger?",
+            "gez": "ወወድቀት በገጻ ወሰገደት ውስተ ምድር ወትቤሎ እመ ረከብኩ ሞገሰ ቅድመ አዕይንቲከ ዑቀኒ እስመ እንግዳ አነ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ቦዔዝም። ባልሽ ከሞተ በኋላ አባትሽንና እናትሽን የተወለድሽባትንም ምድር ትተሽ ቀድሞ ወደማታውቂው ሕዝብ እንደ መጣሽ፥ ለአማትሽ ያደረግሽውን ነገር ሁሉ ፈጽሞ ሰምቻለሁ።",
+            "en": "And Boaz answered and said unto her, It hath fully been shewed me, all that thou hast done unto thy mother in law since the death of thine husband: and how thou hast left thy father and thy mother, and the land of thy nativity, and art come unto a people which thou knewest not heretofore.",
+            "gez": "ወአውሥኣ ቦዖስ ወይቤላ ዜና ዜነውኒ ኵሎ ዘገበርኪ ምስለ ሐማትኪ እምድኅረ ሞተ ምትኪ ወእፎ ኀደጊ አባኪ ወእመኪ ወብሔረ ሙላድኪ ወመጻእኪ ኀበ ሕዝብ ዘኢታአምሪ ትካት ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "እግዚአብሔር እንደ ሥራሽ ይስጥሽ፤ ከክንፉም በታች መጠጊያ እንድታገኚ በመጣሽበት በእስራኤል አምላክ በእግዚአብሔር ዘንድ ደመወዝሽ ፍጹም ይሁን አላት።",
+            "en": "The LORD recompense thy work, and a full reward be given thee of the LORD God of Israel, under whose wings thou art come to trust.",
+            "gez": "ወይዕሲኪ እግዚአብሔር በከመ ገበርኪ ወይኩን ዕሴትኪ ፍጹመ በኀበ እግዚአብሔር አምላከ እስራኤል ዘመጻእኪ ኀቤሁ ከመ ትትአመኒ በክነፊሁ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "እርስዋም። ጌታዬ ሆይ፥ ከባሪያዎችህ እንደ አንዲቱ ሳልሆን አጽናንተኸኛልና፥ የባሪያህንም ልብ ደስ አሰኝተሃልና በዓይንህ ሞገስ ላግኝ አለችው።",
+            "en": "Then she said, Let me find favour in thy sight, my lord; for that thou hast comforted me, and for that thou hast spoken friendly unto thine handmaid, though I be not like unto one of thine handmaidens.",
+            "gez": "ወትቤሎ ሩት ረከብኩ ሞገሰ ቅድመ አዕይንቲከ እስመ አስተፈሣሕከኒ ወናዘዝካሁ ለልበ አመትከ ወናሁ አነ እከውነከ ከመ አሐቲ እምነ አእማቲከ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "በምሳም ጊዜ ቦዔዝ። ወደዚህ ቅረቢ፤ ምሳ ብዪ፥ እንጀራሽንም በሆምጣጤው አጥቅሽ አላት። በአጫጆቹም አጠገብ ተቀመጠች የተጠበሰም እሸት ሰጣት፥ በልታም ጠገበች፥ አተረፈችም።",
+            "en": "And Boaz said unto her, At mealtime come thou hither, and eat of the bread, and dip thy morsel in the vinegar. And she sat beside the reapers: and he reached her parched corn, and she did eat, and was sufficed, and left.",
+            "gez": "ወይቤላ ቦዖስ ሶበ ኮነ ጊዜ ምሳሕ ንዒ ዝየ ወብልዒ እክለኪ ወትጻብኂ ኅብስተኪ በብሒእ ወነበረት ሩት መንገለ ገቦሆሙ ለእለ የዐፅዱ ወአስተጋብአ ላቲ ቦዖስ ጥሕነ ወበልዐት ወጸግበት ወአትረፈት ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ደግሞም ልትቃርም በተነሣች ጊዜ ቦዔዝ ጐበዛዝቱን። በነዶው መካከል ትቃርም፥ እናንተም አታሳፍሩአት፤",
+            "en": "And when she was risen up to glean, Boaz commanded his young men, saying, Let her glean even among the sheaves, and reproach her not:",
+            "gez": "ወተንሥአት ትትቀረም ወአዘዞሙ ቦዖስ ለደቁ ወይቤሎሙ ለትእሪ ማእከለ ክልስስታት ወኢታስተኀፍርዋ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ደግሞ ከነዶው አስቀርታችሁ ተዉላት፤ እርስዋም ትቃርም፥ አትውቀሱአትም ብሎ አዘዛቸው።",
+            "en": "And let fall also some of the handfuls of purpose for her, and leave them, that she may glean them, and rebuke her not.",
+            "gez": "ወጹሩ ላቲ እምነ ዘአስተጋብአት ወኅድጉ ላቲ ወትብላዕ ወትእሪሂ ወኢትገሥጽዋ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "በእርሻውም ውስጥ እስከ ማታ ድረስ ቃረመች፤ የቃረመችውንም ወቃችው፤ አንድ የኢፍ መስፈሪያ ያህልም ገብስ ሆነ።",
+            "en": "So she gleaned in the field until even, and beat out that she had gleaned: and it was about an ephah of barley.",
+            "gez": "ወአረየት እምነ ገራህት እስከ መስየ ወዘበጠቶ ለዝክቱ ዘአስተጋብአት ወኮነ ስገሙ በመስፈርተ ኢፍ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "ተሸክማውም ወደ ከተማ ገባች፥ አማትዋም የቃረመችውን አየች፤ ከጠገበችም በኋላ የተረፋትን አውጥታ ሰጠቻት።",
+            "en": "And she took it up, and went into the city: and her mother in law saw what she had gleaned: and she brought forth, and gave to her that she had reserved after she was sufficed.",
+            "gez": "ወነሥአት ወአእተወት ሀገረ ወርእየት ሐማታ ዘአረየት ወአምጽአት ሩት ወወሀበታ ዘአትረፈት እምድኅረ ጸግበት ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "አማትዋም። ዛሬ ወዴት ቃረምሽ? ወዴትስ ሠራሽ? የተቀበለሽ የተባረከ ይሁን አለቻት። እርስዋም። ዛሬ የሠራሁበት ሰው ስም ቦዔዝ ይባላል ብላ በማን ዘንድ እንደ ሠራች ለአማትዋ ነገረቻት።",
+            "en": "And her mother in law said unto her, Where hast thou gleaned to day? and where wroughtest thou? blessed be he that did take knowledge of thee. And she shewed her mother in law with whom she had wrought, and said, The man's name with whom I wrought to day is Boaz.",
+            "gez": "ወትቤላ ሐማታ በአይቴ አረይኪ ዮም ወበአይቴ ገበርኪ፤ቡሩከ ለይኩን ዘአእመረኪ ወአይድዐታ ሩት ለሐማታ በአይቴ ገብረት ወነገረታ ስሙ ለውእቱ ብእሲ ዘኀቤሁ ወዓልኩ ዮም ቦዖስ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "ኑኃሚንም ምራትዋን። ቸርነቱን በሕያዋንና በሙታን ላይ አልተወምና በእግዚአብሔር የተባረከ ይሁን አለቻት። ኑኃሚንም ደግሞ። ይህ ሰው የቅርብ ዘመዳችን ነው፥ እርሱም ሊቤዡን ከሚችሉት አንዱ ነው አለቻት።",
+            "en": "And Naomi said unto her daughter in law, Blessed be he of the LORD , who hath not left off his kindness to the living and to the dead. And Naomi said unto her, The man is near of kin unto us, one of our next kinsmen.",
+            "gez": "ወትቤላ ኖሔሚን ለመርዓታ ቡሩክ ውእቱ ለእግዚአብሔር እስመ ኢኀደገ ምሕረቶ ምስለ ሕያዋን ወምስለ ምውታን ወትቤላ ኖሔሚን ብእሲሁሰ ቅሩብነ ውእቱ እምእለ ይትሐመውነ ውእቱ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "ሞዓባዊቱ ሩትም። ደግሞ። መከሬን እስኪጨርሱ ድረስ ጐበዛዝቴን ተጠጊ አለኝ አለቻት።",
+            "en": "And Ruth the Moabitess said, He said unto me also, Thou shalt keep fast by my young men, until they have ended all my harvest.",
+            "gez": "ወትቤላ ሩት ለሐማታ እስመ ይቤለኒ ምስለ አዋልድየ ትልዊ እስከ አመ የኀልቅ ማእረርነ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 22,
+          "text": {
+            "am": "ኑኃሚንም ምራትዋን ሩትን። ልጄ ሆይ፥ ከገረዶቹ ጋር ብትወጪ፥ በሌላም እርሻ ባያገኙሽ መልካም ነው አለቻት።",
+            "en": "And Naomi said unto Ruth her daughter in law, It is good, my daughter, that thou go out with his maidens, that they meet thee not in any other field.",
+            "gez": "ወትቤላ ኖሔሚን ለሩት መርዓታ ሠናይ ወለትየ እስመ ተለውኪ ምስለ አዋልዲሁ ወኢይርከቡኪ ውስተ ገራህተ ባዕድ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 23,
+          "text": {
+            "am": "ሩትም የገብሱና የስንዴው መከር እስኪጨረስ ድረስ ልትቃርም የቦዔዝን ገረዶች ተጠጋች፤ በአማትዋም ዘንድ ትቀመጥ ነበር።",
+            "en": "So she kept fast by the maidens of Boaz to glean unto the end of barley harvest and of wheat harvest; and dwelt with her mother in law.",
+            "gez": "ወተለወቶን ሩት ለአዋልደ ቦዖስ ከመ ትእሪ እስከ አመ የኀልቅ ማእረረ ስገም ወስርናይ ወነበረት ምስለ ሐማታ ።"
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "አማትዋም ኑኃሚን አለቻት። ልጄ ሆይ፥ መልካም እንዲሆንልሽ ዕረፍት አልፈልግልሽምን?",
+            "en": "Then Naomi her mother in law said unto her, My daughter, shall I not seek rest for thee, that it may be well with thee?",
+            "gez": "ወትቤላ ኖሔሚን ሐማታ ወለትየ ኢየኀሥሥኑ ለኪ ዕረፍተ ከመ ትሠኒ ላዕሌኪ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "አሁንም ከገረዶቹ ጋር የነበርሽበት ቦዔዝ ዘመዳችን አይደለምን? እነሆ፥ እርሱ በዛሬ ሌሊት በአውድማው ላይ ገብሱን በመንሽ ይበትናል።",
+            "en": "And now is not Boaz of our kindred, with whose maidens thou wast? Behold, he winnoweth barley to night in the threshingfloor.",
+            "gez": "ወይእዜኒ አኮኑ ቦዖስ ማእምርነ ዘምስለ አዋልዲሁ ሀሎኪ ናሁ ውእቱ ይገብር ውስተ ዐውደ እክሉ ዮም በዛቲ ሌሊት ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "እንግዲህ ታጠቢ፥ ተቀቢ፥ ልብስሽን ተላበሺ፥ ወደ አውድማውም ውረጂ፤ ነገር ግን መብሉንና መጠጡን እስኪጨርስ ድረስ ለሰውዮው አትታዪው።",
+            "en": "Wash thyself therefore, and anoint thee, and put thy raiment upon thee, and get thee down to the floor: but make not thyself known unto the man, until he shall have done eating and drinking.",
+            "gez": "ወአንቲሰ ተኀፀቢ ወተቀብኢ ወተለበሲ አልባሰኪ ወሑሪ ኀበ ዐውደ እክሉ ወአልቦ ሰብእ ዘይርአይኪ እስከ የኀልቅ በሊዐ ወሰትየ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "በተኛም ጊዜ የሚተኛበትን ስፍራ ተመልከቺ፥ ገብተሽም እግሩን ግለጪ፥ ተጋደሚም፤ የምታደርጊውንም እርሱ ይነግርሻል።",
+            "en": "And it shall be, when he lieth down, that thou shalt mark the place where he shall lie, and thou shalt go in, and uncover his feet, and lay thee down; and he will tell thee what thou shalt do.",
+            "gez": "ወሶበ ሰክበ አእምርዮ መካኖ ኀበ ኖመ ህየ ወሑሪ ወክሥቲ ኀበ እገሪሁ ወስክቢ ወውእቱ ለሊሁ ይኤዝዘኪ ዘከመ ትገብሪ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ሩትም። የተናገርሽኝን ሁሉ አደርጋለሁ አለቻት።",
+            "en": "And she said unto her, All that thou sayest unto me I will do.",
+            "gez": "ወትቤላ ሩት ኵሎ ዘከመ ትቤልኒ እገብር ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ወደ አውድማውም ወረደች፥ አማትዋም ያዘዘቻትን ሁሉ አደረገች።",
+            "en": "And she went down unto the floor, and did according to all that her mother in law bade her.",
+            "gez": "ወወረደት ኀበ ዐውደ እክል ወገብረት ኵሎ ዘከመ አዘዘታ ሐማታ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ቦዔዝም ከበላና ከጠጣ ሰውነቱንም ደስ ካሰኘ በኋላ፥ በእህሉ ክምር አጠገብ ሊተኛ ሄደ፤ ሩትም በቀስታ መጣች፥ እግሩንም ገልጣ ተኛች።",
+            "en": "And when Boaz had eaten and drunk, and his heart was merry, he went to lie down at the end of the heap of corn: and she came softly, and uncovered his feet, and laid her down.",
+            "gez": "ወበልዐ ቦዖስ ወተፈሥሐ ልቡ ወሖረ ወሰክበ ኀበ ክምር ወመጽአት ጽምሚተ ወከሠተት ኀበ እገሪሁ ወሰከበት ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "መንፈቀ ሌሊትም በሆነ ጊዜ ሰውዮው ደነገጠ፥ ዘወርም አለ፤ እነሆም፥ አንዲት ሴት በእግርጌው ተኝታ ነበረች።",
+            "en": "And it came to pass at midnight, that the man was afraid, and turned himself: and, behold, a woman lay at his feet.",
+            "gez": "ወመንፈቀ ሌሊት ከዊኖ ነቅሀ ብእሲ ወደንገፀ ወረከበ ብእሲተ ኀበ እገሪሁ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "እርሱም። ማን ነሽ? አለ። እርስዋም። እኔ ባሪያህ ሩት ነኝ፤ ዋርሳዬ ነህና ልብስህን በባሪያህ ላይ ዘርጋ አለችው።",
+            "en": "And he said, Who art thou? And she answered, I am Ruth thine handmaid: spread therefore thy skirt over thine handmaid; for thou art a near kinsman.",
+            "gez": "ወይቤላ መኑ አንቲ ወትቤሎ አነ ሩት አመትከ ወክድነኒ ጽንፈ ልብስከ እስመ መስተሐምው አንተ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ቦዔዝም አላት። ልጄ ሆይ፥ በእግዚአብሔር የተባረክሽ ሁኚ፤ ባለጠጋም ድሀም ብለሽ ጐበዛዝትን አልተከተልሽምና ከፊተኛው ይልቅ በመጨረሻው ጊዜ ቸርነት አድርገሻል።",
+            "en": "And he said, Blessed be thou of the LORD , my daughter: for thou hast shewed more kindness in the latter end than at the beginning, inasmuch as thou followedst not young men, whether poor or rich.",
+            "gez": "ወይቤላ ቦዖስ ቡርክት አንቲ ለእግዚአብሔር ወለትየ እስመ ኀየሰት ምሕረት ደኃሪት እምነ ቀዳሚትኪ ዘኢሖርኪ ወኢተለውኪ አዋልዳተ እለ ነዳያት ወኢለአብዕልት ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "አሁንም፥ ልጄ ሆይ፥ አትፍሪ፤ በአገሬ ያሉ ሕዝብ ሁሉ ምግባረ መልካም ሴት እንደ ሆንሽ ያውቃሉና ያልሽውን ነገር ሁሉ አደርግልሻለሁ።",
+            "en": "And now, my daughter, fear not; I will do to thee all that thou requirest: for all the city of my people doth know that thou art a virtuous woman.",
+            "gez": "ወይእዜኒ ወለትየ ኢትፍርሂ ኵሎ ዘትቤሊ እገብር ለኪ ወያአምር ኵሉ ነገደ ሕዝብየ ከመ ብእሲተ ኀይሎሙ አንቲ ወከመ መስተሐምው አነ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "የቅርብ ዘመድ መሆኔ እውነት ነው፤ ነገር ግን ከእኔ የቀረበ ዘመድ አለ።",
+            "en": "And now it is true that I am thy near kinsman: howbeit there is a kinsman nearer than I.",
+            "gez": "ወባሕቱ ቦ መስተሐምወ ዘይቀርብ እምኔየ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ዛሬ ሌሊት እደሪ፤ ነገም እርሱ ዋርሳ መሆን ቢወድድ መልካም ነው፥ ዋርሳ ይሁን፤ ዋርሳ ሊሆን ባይወድድ ግን፥ ሕያው እግዚአብሔርን እኔ ዋርሳ እሆንሻለሁ፤ እስኪነጋ ድረስ ተኚ።",
+            "en": "Tarry this night, and it shall be in the morning, that if he will perform unto thee the part of a kinsman, well; let him do the kinsman's part: but if he will not do the part of a kinsman to thee, then will I do the part of a kinsman to thee, as the LORD liveth: lie down until the morning.",
+            "gez": "ቢቲ ዛተ ሌሊተ ወሶበ ጸብሐ ለእመ ተሐመወ ሠናይ ለይትሐመውኪ ውእቱ ወእመሰ ኢፈቀደ ይትሐሞ ውእቱ ሕያው እግዚአብሔር ከመ አነ እትሐመወኪ ወቢቲ እስከ ይጸብሕ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "እስኪነጋም በእግርጌው ተኛች፤ ቦዔዝም። ሴት ወደ አውድማው እንደ መጣች ማንም እንዳያውቅ ብሎ ነበርና ገና ሰውና ሰው ሳይተያይ ተነሣች።",
+            "en": "And she lay at his feet until the morning: and she rose up before one could know another. And he said, Let it not be known that a woman came into the floor.",
+            "gez": "ወቤተት ኀበ እገሪሁ እስከ ይጸብሕ ወተንሥአት እንበለ ይትራአይ ሰብእ ወይቤ ቦዖስ አልቦ ዘያአምር ከመ መጽአት ብእሲት ኀበ ዐውደ እክል ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "እርሱም። የለበስሽውን ኩታ አምጥተሽ ያዢው አላት፤ በያዘችም ጊዜ ስድስት መስፈሪያ ገብስ ሰፈረላት አሸከማትም።",
+            "en": "Also he said, Bring the vail that thou hast upon thee, and hold it. And when she held it, he measured six measures of barley, and laid it on her: and she went into the city.",
+            "gez": "ወይቤላ አምጽኢ ልብሰ ዘላዕሌኪ ወአኀዘ ወሰፈረ ውስቴቱ ስድሰ እክለ ስገም ወአጾራ ወቦአት ውስተ ሀገር ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "እርሱም ወደ ከተማይቱ ሄደ። ወደ አማትዋም መጣች፥ አማትዋም። ልጄ ሆይ እንዴት ነሽ? አለቻት፤ እርስዋም ሰውዮው ያደረገላትን ሁሉ ነገረቻት።",
+            "en": "And when she came to her mother in law, she said, Who art thou, my daughter? And she told her all that the man had done to her.",
+            "gez": "ወአተወት ሩት ኀበ ሐማታ ወትቤላ ምንት ዝንቱ ወለትየ ወአይድዐታ ኵሎ ዘከመ ገብረ ላቲ ውእቱ ብእሲ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "ወደ አማትሽ ባዶ እጅሽን አትሂጂ ብሎ ይህን ስድስት መስፈሪያ ገብስ ሰጠኝ አለቻት።",
+            "en": "And she said, These six measures of barley gave he me; for he said to me, Go not empty unto thy mother in law.",
+            "gez": "ወትቤላ እላንተ ስድሰ እክለ ስገም ወሀበኒ እስመ ይቤለኒ ኢትእትዊ ዕራቅኪ ኀበ ሐማትኪ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "እርስዋም። ልጄ ሆይ፥ ሰውዮው ይህን ነገር ዛሬ እስኪጨርስ ድረስ አያርፍምና ፍጻሜው እስኪታወቅ ድረስ ዝም በዪ አለች።",
+            "en": "Then said she, Sit still, my daughter, until thou know how the matter will fall: for the man will not be in rest, until he have finished the thing this day.",
+            "gez": "ወትቤላ ንበሪ ወለትየ እስከ ትሬእዪ ከመ ኢይስሕት ቃልየ እስመ ኢያረምም ውእቱ ብእሲ ወኢያዐርፍ ዮም እስከ ይገብሮ ለዝንቱ ነገር ።"
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "ቦዔዝም ወደ ከተማይቱ በር አደባባይ ወጥቶ በዚያ ተቀመጠ። እነሆም፥ ቦዔዝ ስለ እርሱ ይናገር የነበረው የቅርብ ዘመድ ሲያልፍ ቦዔዝ። አንተ ቀርበህ በዚህ ተቀመጥ አለው። እርሱም ቀረብ ብሎ ተቀመጠ። - አንተ ቀርበህ በዚህ ተቀመጥ አለው።",
+            "en": "Then went Boaz up to the gate, and sat him down there: and, behold, the kinsman of whom Boaz spake came by; unto whom he said, Ho, such a one! turn aside, sit down here. And he turned aside, and sat down.",
+            "gez": "ወዐርገ ቦዖስ ኀበ አንቀጽ ወነበረ ህየ ወመጽአ ዝክቱ መስተሐምው ዘይቤ ቦዖስ የኀልፍ ወይቤሎ ቦዖስ ገሐሥ ወንበር ዝየ ንትናገር ወግሕሠ ወነበረ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ቦዔዝም ከከተማይቱ ሽማግሌዎች አሥር ሰዎች ጠርቶ። በዚህ ተቀመጡ አላቸው።",
+            "en": "And he took ten men of the elders of the city, and said, Sit ye down here. And they sat down.",
+            "gez": "ወነሥአ ቦዖስ ዐሠርተ ዕደወ እምነ ሊቃናተ ሀገር ወይቤሎሙ ንበሩ ዝየ ወነበሩ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "እነርሱም ተቀመጡ። ቦዔዝም የቅርብ ዘመዱን። ከሞዓብ ምድር የተመለሰችው ኑኃሚን የወንድማችንን የአቤሜሌክን ጢንጦ ትሸጣለች።",
+            "en": "And he said unto the kinsman, Naomi, that is come again out of the country of Moab, selleth a parcel of land, which was our brother Elimelech's:",
+            "gez": "ወይቤሎ ቦዖስ ለመስተሐምው መክፈልተ ገራህት ዘእኁነ አሊሜሌክ አገብእ ላቲ ለኖሔሚን እንተ አተወት እምነ ሐቅለ ሞአብ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "እኔም በዚህ በተቀመጡት በሕዝቤ ሽማግሌዎች ፊት እንድትገዛው አስታውቅህ ዘንድ አሰብሁ። መቤዠት ብትወድድ ተቤዠው፤ መቤዠት ባትወድድ ግን ከአንተ በቀር ሌላ ወራሽ የለምና፥ እኔም ከእአንተ በኋላ ነኝና እንዳውቀው ንገረኝ አለው። እርሱም። እቤዠዋለሁ አለው።",
+            "en": "And I thought to advertise thee, saying, Buy it before the inhabitants, and before the elders of my people. If thou wilt redeem it, redeem it: but if thou wilt not redeem it, then tell me, that I may know: for there is none to redeem it beside thee; and I am after thee. And he said, I will redeem it.",
+            "gez": "ወአንሰ ነገርኩከ ትስማዕ እንዘ እብል ኅረይ ለከ በቅድመ እለ ይነብሩ ወበቅድመ ሊቃናት ወበቅድመ ሕዝብየ እመ ትትሐሞ ተሐሞ ወእመሰ ኢትትሐሞ አይድዐኒ ወኣእምር እስመ ይቀድመከ ተሐምዎ አንተ ወአነ እምድኅሬከ ወይቤሎ አነኑ ውእቱ መስተሐምው ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ቦዔዝም። እርሻውን ከኑኃሚን እጅ በምትገዛበት ቀን፥ ለሞተው በርስቱ ስሙን እንድታስነሣለት ከምዋቹ ሚስት ከሞዓባዊቱ ከሩት ደግሞ ትገዛለህ አለ።",
+            "en": "Then said Boaz, What day thou buyest the field of the hand of Naomi, thou must buy it also of Ruth the Moabitess, the wife of the dead, to raise up the name of the dead upon his inheritance.",
+            "gez": "ወይቤሎ ቦዖስ ከመ ነሣእከ ገራህተ እምእደ ኖሔሚን ወእምኀበ ሩት ሞአባዊት ብእሲቱ ለዘ ሞተ ወኪያሃኒ ርቱዕ ትንሥኣ ከመ ታቅም ስሞ ለዘ ሞተ ላዕለ ርስቱ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "የቅርብ ዘመዱም። የራሴን ርስት እንዳላበላሽ መቤዠት አልችልም፤ እኔ መቤዠቱን አልችልምና አንተ ከእኔ መቤዠቱን ውሰደው አለ።",
+            "en": "And the kinsman said, I cannot redeem it for myself, lest I mar mine own inheritance: redeem thou my right to thyself; for I cannot redeem it.",
+            "gez": "ወይቤ መስተሐምው ኢይክል ተሐምዎ ከመ ኢይሕጐል ርስትየ ተሐሞ ለርእስከ ተሐምዎ ዘዚአየ እስመ ኢይክል ተሐምዎ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "በጥንት ጊዜም፥ ማንም ቢሸጥ ቢለውጥም፥ ነገሩን ለማጽናት ሰው ጫማውን እንዲያወልቅ ለባልንጀራውም እንዲሰጠው በእስራኤል ዘንድ ልማድ ነበረ። ይህም በእስራኤል ምስክር ነበረ።",
+            "en": "Now this was the manner in former time in Israel concerning redeeming and concerning changing, for to confirm all things; a man plucked off his shoe, and gave it to his neighbour: and this was a testimony in Israel.",
+            "gez": "ወከመዝ ውእቱ ለተሐምዎ ኵነኔሁ በቅድመ እስራኤል ወበእንተ ተዋልጦ ከመ ያቅም ቃሎ ወፈትሐ ውእቱ ብእሲ ሣእኖ ወወሀቦ ለካልኡ ዘይትሐሞ ተሐምዎ ዚአሁ ወከመዝ ውእቱ ስምዑ በውስተ እስራኤል ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "የቅርብ ዘመዱም ቦዔዝን። አንተ ግዛው አለው፤ ጫማውንም አወለቀ።",
+            "en": "Therefore the kinsman said unto Boaz, Buy it for thee. So he drew off his shoe.",
+            "gez": "ወይቤሎ መስተሐምው ለቦዖስ ንሣእ ለከ ተሐምዎ ዘዚአየ ወፈትሐ ሣእኖ ወወሀቦ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ቦዔዝም ሽማግሌዎችንና ሕዝቡን ሁሉ። ለአቤሜሌክና ለኬሌዎን ለመሐሎንም የነበረውን ሁሉ ከኑኃሚን እጅ እንደ ገዛሁ እናንተ ዛሬ ምስክሮች ናችሁ።",
+            "en": "And Boaz said unto the elders, and unto all the people, Ye are witnesses this day, that I have bought all that was Elimelech's, and all that was Chilion's and Mahlon's, of the hand of Naomi.",
+            "gez": "ወይቤሎሙ ቦዖስ ለሊቃናት ወለሕዝብ ኵሉ ስምዑ አንትሙ ዮም ከመ ነሣእኩ ኵሎ ዘአሊሜሌክ ወኵሎ ንዋዮ ለኬሌዎን *ወለመሐሎን* እምነ እዴሃ ለኖሔሚን ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ደግሞም የምዋቹ ስም ከወንድሞቹ መካከል ከአገሩም ደጅ እንዳይጠፋ፥ የምዋቹን ስም በርስቱ ላይ እንዳስነሣ የመሐሎንን ሚስት ሞዓባዊቱን ሩትን ሚስት ትሆነኝ ዘንድ ወሰድሁአት፤ እናንተም ዛሬ ምስክሮች ናችሁ አላቸው።",
+            "en": "Moreover Ruth the Moabitess, the wife of Mahlon, have I purchased to be my wife, to raise up the name of the dead upon his inheritance, that the name of the dead be not cut off from among his brethren, and from the gate of his place: ye are witnesses this day.",
+            "gez": "ወለሩት ሞአባዊት ብእሲተ መሐሎን ነሣእክዋ ሊተ ትኩነኒ ብእሲተ ወከመ ኣቅም ስሞ ለዘ ሞተ ላዕለ ርስቱ ወኢይጥፋእ ስሙ ለዘ ሞተ እምነ አኀዊሁ ወእምነ ነገደ ሕዝቡ ስምዕየ አንትሙ ዮም ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "በከተማይቱ በር አደባባይም የነበሩ ሕዝብ ሁሉ ሽማግሌዎቹም። እኛ ምስክሮች ነን፤ እግዚአብሔር ይህችን ወደ ቤትህ የምትገባውን ሴት የእስራኤልን ቤት እንደ ሠሩ እንደ ሁለቱ እንደ ራሔልና እንደ ልያ ያድርጋት፤ አንተም በኤፍራታ ባለ ጠጋ ሁን፥ ስምህም በቤተ ልሔም ይጠራ።",
+            "en": "And all the people that were in the gate, and the elders, said, We are witnesses. The LORD make the woman that is come into thine house like Rachel and like Leah, which two did build the house of Israel: and do thou worthily in Ephratah, and be famous in Bethlehem:",
+            "gez": "ወይቤሉ ኵሉ ሕዝብ በኀበ አንቀጽ ስምዕከ ንሕነ ወሊቃናትኒ ይቤልዎ ይረስያ ለከ እግዚአብሔር ለብእሲትከ እንተ ትበውእ ውስተ ቤትከ ከመ ራሔል ወከመ ልያ እለ ሐነጻሁ ለቤተ እስራኤል ክልኤሆን ወግበር ኀይለ ውስተ ኤፍራታ ወይኩንከ ስም ውስተ ቤተ ልሔም ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "ቤትህም እግዚአብሔር ከዚህች ቈንጆ ከሚሰጥህ ዘር ትዕማር ለይሁዳ እንደ ወለደችው እንደ ፋሬስ ቤት ይሁን አሉት።",
+            "en": "And let thy house be like the house of Pharez, whom Tamar bare unto Judah, of the seed which the LORD shall give thee of this young woman.",
+            "gez": "ወይኩን ቤትከ ከመ ቤተ ፋሬስ ዘወለደት ትዕማር ለይሁዳ ወእምነ ዘርእከ የሀብከ እግዚአብሔር በላዕለ ዛቲ ወለት ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ቦዔዝም ሩትን ወሰደ፥ ሚስትም ሆነችው፤ ደረሰባትም፥ እግዚአብሔርም ፅንስ ሰጣት፥ ወንድ ልጅም ወለደች።",
+            "en": "So Boaz took Ruth, and she was his wife: and when he went in unto her, the LORD gave her conception, and she bare a son.",
+            "gez": "ወነሥኣ ቦዖስ ለሩት ወኮነቶ ብእሲተ ወወሀባ እግዚአብሔር ወፀንሰት ወወለደት ወልደ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ሴቶችም ኑኃሚንን። ዛሬ ዋርሳ ያላሳጣሽ እግዚአብሔር ይባረክ፤ ስሙም በእስራኤል ይጠራ።",
+            "en": "And the women said unto Naomi, Blessed be the LORD , which hath not left thee this day without a kinsman, that his name may be famous in Israel.",
+            "gez": "ወይቤላሃ አንስት ለኖሔሚን ይትባረክ እግዚአብሔር ዘኢያኅጥአኪ ዮም መስተሐምወ በዘ ይሰመይ ስምኪ በውስተ እስራኤል ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ከሰባትም ወንዶች ልጆች ይልቅ ለአንቺ ከምትሻል ከምትወድድሽ ምራት ተወልዶአልና ሰውነትሽን ያሳድሰዋል፥ በእርጅናሽም ይመግብሻል አሉአት።",
+            "en": "And he shall be unto thee a restorer of thy life, and a nourisher of thine old age: for thy daughter in law, which loveth thee, which is better to thee than seven sons, hath born him.",
+            "gez": "ወይከውነኪ በዘ ታገብኢ ነፍሰኪ ወዘየሐፅኖ ለሢበትኪ እስመ አፍቀረተኪ መርዓትኪ እንተ ወለደቶ ለኪ እንተ ትኄይሰኪ እምነ ሰብዐቱ ደቂቅ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ኑኃሚንም ሕፃኑን ወሰደች አቀፈችውም፥ ሞግዚትም ሆነችው።",
+            "en": "And Naomi took the child, and laid it in her bosom, and became nurse unto it.",
+            "gez": "ወነሥአቶ ኖሔሚን ለውእቱ ሕፃን ወአንበረቶ ውስተ ሕፅና ወኮነቶ ሐፃኒቶ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "ሴቶችም ጎረቤቶችዋ፥ ለኑኃሚን ወንድ ልጅ ተወለደላት እያሉ ስም አወጡለት፤ ስሙንም ኢዮቤድ ብለው ጠሩት። እርሱም የዳዊት አባት የእሴይ አባት ነው።",
+            "en": "And the women her neighbours gave it a name, saying, There is a son born to Naomi; and they called his name Obed: he is the father of Jesse, the father of David.",
+            "gez": "ወሰመያሁ አግዋሪሃ ስሞ እንዘ ይብላ እስመ ተወልደ ወልድ ለኖሔሚን ወሰመዩ ስሞ ኢዮቤድ ውእቱ አቡሁ ለእሴይ አበ ዳዊት ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "የፋሬስም ትውልድ ይህ ነው፤ ፋሬስ ኤስሮምን ወለደ፥",
+            "en": "Now these are the generations of Pharez: Pharez begat Hezron,",
+            "gez": "ወከመዝ ትውልዱ ለፋሬስ ፋሬስ ወለዶ ለኤስሮም ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "ኤስሮምም አራምን ወለደ፥ አራምም አሚናዳብን ወለደ፥",
+            "en": "And Hezron begat Ram, and Ram begat Amminadab,",
+            "gez": "ኤስሮም ወለዶ ለአራም አራም ወለዶ ለአሚናዳብ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "አሚናዳብም ነአሶንን ወለደ፥ ነአሶንም ሰልሞንን ወለደ፥",
+            "en": "And Amminadab begat Nahshon, and Nahshon begat Salmon,",
+            "gez": "አሚናዳብ ወለዶ ለነአሶን ነአሶን ወለዶ ለሰልሞን ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "ሰልሞንም ቦዔዝን ወለደ፥",
+            "en": "And Salmon begat Boaz, and Boaz begat Obed,",
+            "gez": "ሰልሞን ወለዶ ለቦዖስ ቦዖስ ወለዶ ለኢዮቤድ ።"
+          },
+          "audio": {}
+        },
+        {
+          "verse": 22,
+          "text": {
+            "am": "ቦዔዝም ኢዮቤድን ወለደ፥ ኢዮቤድም እሴይን ወለደ፥ እሴይም ዳዊትን ወለደ።",
+            "en": "And Obed begat Jesse, and Jesse begat David.",
+            "gez": "ኢዮቤድ ወለዶ ለእሴይ እሴይ ወለዶ ለዳዊት ።"
+          },
+          "audio": {}
+        }
+      ]
+    }
+  ]
+}

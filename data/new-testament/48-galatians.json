@@ -1,0 +1,1427 @@
+{
+  "book_number": 48,
+  "book_name_am": "ወደ ገላትያ ሰዎች",
+  "book_short_name_am": "ገላ",
+  "book_name_en": "Galatians",
+  "book_short_name_en": "Gal",
+  "book_name_geez": null,
+  "testament": "new",
+  "sources": [
+    "ethiopicbible.com"
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "በኢየሱስ ክርስቶስ ከሙታንም ባነሣው በእግዚአብሔር አብ ሐዋርያ የሆነ እንጂ ከሰዎች ወይም በሰው ያልሆነ ጳውሎስ ከእኔም ጋር ያሉት ወንድሞች ሁሉ፥ ወደ ገላትያ አብያተ ክርስቲያናት፤",
+            "en": "Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "በኢየሱስ ክርስቶስ ከሙታንም ባነሣው በእግዚአብሔር አብ ሐዋርያ የሆነ እንጂ ከሰዎች ወይም በሰው ያልሆነ ጳውሎስ ከእኔም ጋር ያሉት ወንድሞች ሁሉ፥ ወደ ገላትያ አብያተ ክርስቲያናት፤",
+            "en": "And all the brethren which are with me, unto the churches of Galatia:",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ከእግዚአብሔር ከአባታችን ከጌታችንም ከኢየሱስ ክርስቶስ ጸጋና ሰላም ለእናንተ ይሁን።",
+            "en": "Grace be to you and peace from God the Father, and from our Lord Jesus Christ,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ክፉ ከሆነ ከአሁኑ ዓለም ያድነን ዘንድ እንደ አምላካችንና እንደ አባታችን ፈቃድ ስለ ኃጢአታችን ራሱን ሰጠ።",
+            "en": "Who gave himself for our sins, that he might deliver us from this present evil world, according to the will of God and our Father:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ለአብ ከዘላለም እስከ ዘላለም ክብር ይሁን፤ አሜን።",
+            "en": "To whom be glory for ever and ever. Amen.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "በክርስቶስ ጸጋ እናንተን ከጠራችሁ ከእርሱ ወደ ልዩ ወንጌል እንዲህ ፈጥናችሁ እንዴት እንዳለፋችሁ እደነቃለሁ፤",
+            "en": "I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "እርሱ ግን ሌላ ወንጌል አይደለም፤ የሚያናውጡአችሁ የክርስቶስንም ወንጌል ሊያጣምሙ የሚወዱ አንዳንዶች አሉ እንጂ።",
+            "en": "Which is not another; but there be some that trouble you, and would pervert the gospel of Christ.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ነገር ግን እኛ ብንሆን ወይም ከሰማይ መልአክ፥ ከሰበክንላችሁ ወንጌል የሚለይ ወንጌልን ቢሰብክላችሁ፥ የተረገመ ይሁን።",
+            "en": "But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "አስቀድመን እንዳልን እንዲሁ አሁን ሁለተኛ እላለሁ፥ ከተቀበላችሁት የተለየውን ማንም ቢሰብክላችሁ የተረገመ ይሁን።",
+            "en": "As we said before, so say I now again, If any man preach any other gospel unto you than that ye have received, let him be accursed.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ሰውን ወይስ እግዚአብሔርን አሁን እሺ አሰኛለሁን? ወይም ሰውን ደስ ላሰኝ እፈልጋለሁን? አሁን ሰውን ደስ ባሰኝ የክርስቶስ ባሪያ ባልሆንሁም።",
+            "en": "For do I now persuade men, or God? or do I seek to please men? for if I yet pleased men, I should not be the servant of Christ.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ወንድሞች ሆይ፥ በእኔ የተሰበከ ወንጌል እንደ ሰው እንዳይደለ አስታውቃችኋለሁ፤",
+            "en": "But I certify you, brethren, that the gospel which was preached of me is not after man.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "ኢየሱስ ክርስቶስ ገልጦልኛል እንጂ እኔ ከሰው አልተቀበልሁትም አልተማርሁትምም።",
+            "en": "For I neither received it of man, neither was I taught it, but by the revelation of Jesus Christ.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "በአይሁድ ሥርዓት በፊት እንዴት እንደ ኖርሁ ሰምታችኋልና፤ የእግዚአብሔርን ቤተ ክርስቲያን ያለ ልክ አሳድድና አጠፋ ነበር፥",
+            "en": "For ye have heard of my conversation in time past in the Jews' religion, how that beyond measure I persecuted the church of God, and wasted it:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ለአባቶችም ወግ ከመጠን ይልቅ እየቀናሁ በወገኔ ዘንድ በዘመኔ ካሉት ብዙዎችን በአይሁድ ሥርዓት እበልጥ ነበር።",
+            "en": "And profited in the Jews' religion above many my equals in mine own nation, being more exceedingly zealous of the traditions of my fathers.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ነገር ግን በእናቴ ማኅፀን ሳለሁ የለየኝ በጸጋውም የጠራኝ እግዚአብሔር በአሕዛብ መካከል ስለ እርሱ ወንጌልን እሰብክ ዘንድ ልጁን በእኔ ሁኔታ ሊገልጥ በወደደ ጊዜ፥ ወዲያው ከሥጋና ከደም ጋር አልተማከርሁም፥",
+            "en": "But when it pleased God, who separated me from my mother's womb, and called me by his grace,",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              15,
+              16
+            ]
+          }
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ነገር ግን በእናቴ ማኅፀን ሳለሁ የለየኝ በጸጋውም የጠራኝ እግዚአብሔር በአሕዛብ መካከል ስለ እርሱ ወንጌልን እሰብክ ዘንድ ልጁን በእኔ ሁኔታ ሊገልጥ በወደደ ጊዜ፥ ወዲያው ከሥጋና ከደም ጋር አልተማከርሁም፥",
+            "en": "To reveal his Son in me, that I might preach him among the heathen; immediately I conferred not with flesh and blood:",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              15,
+              16
+            ]
+          }
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "ከእኔም በፊት ሐዋርያት ወደ ነበሩት ወደ ኢየሩሳሌም አልወጣሁም፥ ነገር ግን ወደ ዓረብ አገር ሄድሁ እንደ ገናም ወደ ደማስቆ ተመለስሁ።",
+            "en": "Neither went I up to Jerusalem to them which were apostles before me; but I went into Arabia, and returned again unto Damascus.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "ከዚህ ወዲያ ከሦስት ዓመት በኋላ ኬፋን ልጠይቅ ወደ ኢየሩሳሌም ወጥቼ ከእርሱ ጋር አሥራ አምስት ቀን ሰነበትሁ፤",
+            "en": "Then after three years I went up to Jerusalem to see Peter, and abode with him fifteen days.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "ነገር ግን ከጌታ ወንድም ከያዕቆብ በቀር ከሐዋርያት ሌላ አላየሁም።",
+            "en": "But other of the apostles saw I none, save James the Lord's brother.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "ስለምፅፍላችሁም ነገር፥ እነሆ፥ በእግዚአብሔር ፊት ሐሰት አልናገርም።",
+            "en": "Now the things which I write unto you, behold, before God, I lie not.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "ከዚያ ወዲያ ወደ ሶርያና ወደ ኪልቅያ አገር መጣሁ።",
+            "en": "Afterwards I came into the regions of Syria and Cilicia;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 22,
+          "text": {
+            "am": "በክርስቶስም ያሉት የይሁዳ ማኅበሮች ፊቴን አያውቁም ነበር፤",
+            "en": "And was unknown by face unto the churches of Judaea which were in Christ:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 23,
+          "text": {
+            "am": "ነገር ግን። ቀድሞ እኛን ያሳድድ የነበረ፥ እርሱ በፊት ያጠፋው የነበረውን ሃይማኖት አሁን ይሰብካል ተብሎ ሲነገር ይሰሙ ነበር፤",
+            "en": "But they had heard only, That he which persecuted us in times past now preacheth the faith which once he destroyed.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 24,
+          "text": {
+            "am": "ስለ እኔም እግዚአብሔርን ያከብሩ ነበር።",
+            "en": "And they glorified God in me.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "ከዚያ ወዲያ ከአሥራ አራት ዓመት በኋላ ከበርናባስ ጋር ቲቶን ደግሞ ይዤ ወደ ኢየሩሳሌም ሁለተኛ ወጣሁ፤",
+            "en": "Then fourteen years after I went up again to Jerusalem with Barnabas, and took Titus with me also.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "እንደ ተገለጠልኝም ወጣሁ፤ ምናልባትም በከንቱ እንዳልሮጥ ወይም በከንቱ ሮጬ እንዳልሆን በአሕዛብ መካከል የምሰብከውን ወንጌል አስታወቅኋቸው፤ ዋኖች ግን መስለው ለሚታዩ ለብቻቸው አስታወቅኋቸው።",
+            "en": "And I went up by revelation, and communicated unto them that gospel which I preach among the Gentiles, but privately to them which were of reputation, lest by any means I should run, or had run, in vain.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ነገር ግን ከእኔ ጋር የነበረ ቲቶ እንኳ የግሪክ ሰው ሲሆን ይገረዝ ዘንድ ግድ አላሉትም፤",
+            "en": "But neither Titus, who was with me, being a Greek, was compelled to be circumcised:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ነገር ግን ባሪያዎች ሊያደርጉን በክርስቶስ ኢየሱስ ያለንን አርነታችንን ይሰልሉ ዘንድ ሾልከው በስውር ስለ ገቡ ስለ ሐሰተኞች ወንድሞች ነበረ።",
+            "en": "And that because of false brethren unawares brought in, who came in privily to spy out our liberty which we have in Christ Jesus, that they might bring us into bondage:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "የወንጌልም እውነት በእናንተ ዘንድ ጸንቶ እንዲኖር ለአንድ ሰዓት እንኳ ለቅቀን አልተገዛንላቸውም።",
+            "en": "To whom we gave place by subjection, no, not for an hour; that the truth of the gospel might continue with you.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "አለቆች የመሰሉት ግን፥ በፊት ማን እንደ ነበሩ አይገደኝም፤ እግዚአብሔር የሰውን ፊት አይቶ አያደላም፤ አለቆች የመሰሉት አንዳች እንኳ አልጨመሩልኝምና፥",
+            "en": "But of these who seemed to be somewhat, (whatsoever they were, it maketh no matter to me: God accepteth no man's person:) for they who seemed to be somewhat in conference added nothing to me:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ተመልሰው ግን ጴጥሮስ ለተገረዙት የሆነው ወንጌል አደራ እንደ ተሰጠው እንዲሁ ለእኔ ላልተገረዙት የሆነው ወንጌል አደራ እንደ ተሰጠኝ አዩ፤",
+            "en": "But contrariwise, when they saw that the gospel of the uncircumcision was committed unto me, as the gospel of the circumcision was unto Peter;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ለተገረዙት ሐዋርያ እንዲሆን ለጴጥሮስ የሠራለት፥ ለእኔ ደግሞ ለአሕዛብ ሐዋርያ እንድሆን ሠርቶአልና።",
+            "en": "For he that wrought effectually in Peter to the apostleship of the circumcision, the same was mighty in me toward the Gentiles:)",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ደግሞ የተሰጠኝን ጸጋ አውቀው፥ አዕማድ መስለው የሚታዩ ያዕቆብና ኬፋ ዮሐንስም እኛ ወደ አሕዛብ እነርሱም ወደ ተገረዙት ይሄዱ ዘንድ ለእኔና ለበርናባስ ቀኝ እጃቸውን ሰጡን፤",
+            "en": "And when James, Cephas, and John, who seemed to be pillars, perceived the grace that was given unto me, they gave to me and Barnabas the right hands of fellowship; that we should go unto the heathen, and they unto the circumcision.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ድሆችን እናስብ ዘንድ ብቻ ለመኑን፥ ይህንም ደግሞ ላደርግ ተጋሁ።",
+            "en": "Only they would that we should remember the poor; the same which I also was forward to do.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ነገር ግን ኬፋ ወደ አንጾኪያ በመጣ ጊዜ ፊት ለፊት ተቃወምሁት፥ ይፈረድበት ዘንድ ይገባ ነበርና።",
+            "en": "But when Peter was come to Antioch, I withstood him to the face, because he was to be blamed.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "አንዳንድ ከያዕቆብ ዘንድ ሳይመጡ ከአሕዛብ ጋር አብሮ ይበላ ነበርና፤ በመጡ ጊዜ ግን ከተገረዙት ወገን ያሉትን ፈርቶ ያፈገፍግ ነበርና ከእነርሱ ተለየ።",
+            "en": "For before that certain came from James, he did eat with the Gentiles: but when they were come, he withdrew and separated himself, fearing them which were of the circumcision.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "የቀሩትም አይሁድ ደግሞ፥ በርናባስ ስንኳ በግብዝነታቸው እስከ ተሳበ ድረስ፥ ከእርሱ ጋር አብረው ግብዞች ሆኑ።",
+            "en": "And the other Jews dissembled likewise with him; insomuch that Barnabas also was carried away with their dissimulation.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ነገር ግን እንደ ወንጌል እውነት በቅንነት እንዳልሄዱ ባየሁ ጊዜ በሁሉ ፊት ኬፋን። አንተ አይሁዳዊ ሳለህ በአይሁድ ኑሮ ያይደለ በአሕዛብ ኑሮ ብትኖር፥ አሕዛብ በአይሁድ ኑሮ ሊኖሩ እንዴት ግድ አልሃቸው? አልሁት።",
+            "en": "But when I saw that they walked not uprightly according to the truth of the gospel, I said unto Peter before them all, If thou, being a Jew, livest after the manner of Gentiles, and not as do the Jews, why compellest thou the Gentiles to live as do the Jews?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "እኛ በፍጥረት አይሁድ ነን ኃጢአተኞችም የሆኑ አሕዛብ አይደለንም፤",
+            "en": "We who are Jews by nature, and not sinners of the Gentiles,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ነገር ግን ሰው በኢየሱስ ክርስቶስ በማመን እንዲጸድቅ እንጂ በሕግ ሥራ እንዳይሆን አውቀን፥ ሥጋን የለበሰ ሁሉ በሕግ ሥራ ስለማይጸድቅ፥ እኛ ራሳችን በሕግ ሥራ ሳይሆን በክርስቶስ እምነት እንጸድቅ ዘንድ በክርስቶስ ኢየሱስ አምነናል።",
+            "en": "Knowing that a man is not justified by the works of the law, but by the faith of Jesus Christ, even we have believed in Jesus Christ, that we might be justified by the faith of Christ, and not by the works of the law: for by the works of the law shall no flesh be justified.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "ነገር ግን በክርስቶስ ልንጸድቅ የምንፈልግ ስንሆን ራሳችን ደግሞ ኃጢአተኞች ሆነን ከተገኘን፥ እንግዲያስ ክርስቶስ የኃጢአት አገልጋይ ነዋ? አይደለም።",
+            "en": "But if, while we seek to be justified by Christ, we ourselves also are found sinners, is therefore Christ the minister of sin? God forbid.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "ያፈረስሁትን ይህን እንደ ገና የማንጽ ከሆንሁ ራሴ ሕግ ተላላፊ እንድሆን አስረዳለሁና።",
+            "en": "For if I build again the things which I destroyed, I make myself a transgressor.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "እኔ ለእግዚአብሔር ሕያው ሆኜ እኖር ዘንድ በሕግ በኩል ለሕግ ሞቼ ነበርና።",
+            "en": "For I through the law am dead to the law, that I might live unto God.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "ከክርስቶስ ጋር ተሰቅዬአለሁ፤ እኔም አሁን ሕያው ሆኜ አልኖርም ክርስቶስ ግን በእኔ ይኖራል፤ አሁንም በሥጋ የምኖርበት ኑሮ በወደደኝና ስለ እኔ ራሱን በሰጠው በእግዚአብሔር ልጅ ላይ ባለ እምነት የምኖረው ነው።",
+            "en": "I am crucified with Christ: nevertheless I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "የእግዚአብሔርን ጸጋ አልጥልም፤ ጽድቅስ በሕግ በኩል ከሆነ እንኪያስ ክርስቶስ በከንቱ ሞተ።",
+            "en": "I do not frustrate the grace of God: for if righteousness come by the law, then Christ is dead in vain.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "የማታስተውሉ የገላትያ ሰዎች ሆይ፥ በዓይናችሁ ፊት ኢየሱስ ክርስቶስ እንደ ተሰቀለ ሆኖ ተሥሎ ነበር፤ ለእውነት እንዳትታዘዙ አዚም ያደረገባችሁ ማን ነው?",
+            "en": "O foolish Galatians, who hath bewitched you, that ye should not obey the truth, before whose eyes Jesus Christ hath been evidently set forth, crucified among you?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ይህን ብቻ ከእናንተ እንድማር እወዳለሁ፤ በሕግ ሥራ ወይም ከእምነት ጋር በሆነ መስማት መንፈስን ተቀበላችሁን?",
+            "en": "This only would I learn of you, Received ye the Spirit by the works of the law, or by the hearing of faith?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "እንዲህን የማታስተውሉ ናችሁ? በመንፈስ ጀምራችሁ አሁን በሥጋ ትፈጽማላችሁን?",
+            "en": "Are ye so foolish? having begun in the Spirit, are ye now made perfect by the flesh?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "በውኑ ከንቱ እንደ ሆነስ እንደዚህ ያለ መከራ በከንቱ ተቀበላችሁን?",
+            "en": "Have ye suffered so many things in vain? if it be yet in vain.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "እንግዲህ መንፈስን የሚሰጣችሁ በእናንተም ዘንድ ተአምራት የሚያደርግ፥ በሕግ ሥራ ነውን ወይስ ከእምነት ጋር በሆነ መስማት ነው?",
+            "en": "He therefore that ministereth to you the Spirit, and worketh miracles among you, doeth he it by the works of the law, or by the hearing of faith?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "እንዲሁ አብርሃም በእግዚአብሔር አመነና ጽድቅ ሆኖ ተቆጠረለት።",
+            "en": "Even as Abraham believed God, and it was accounted to him for righteousness.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "እንኪያስ ከእምነት የሆኑት እነዚህ የአብርሃም ልጆች እንደ ሆኑ እወቁ።",
+            "en": "Know ye therefore that they which are of faith, the same are the children of Abraham.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "መጽሐፍም እግዚአብሔር አሕዛብን በእምነት እንዲያጸድቅ አስቀድሞ አይቶ። በአንተ አሕዛብ ሁሉ ይባረካሉ ብሎ ወንጌልን ለአብርሃም አስቀድሞ ሰበከ።",
+            "en": "And the scripture, foreseeing that God would justify the heathen through faith, preached before the gospel unto Abraham, saying, In thee shall all nations be blessed.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "እንደዚህ ከእምነት የሆኑት ካመነው ከአብርሃም ጋር ይባረካሉ።",
+            "en": "So then they which be of faith are blessed with faithful Abraham.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ከሕግ ሥራ የሆኑት ሁሉ በእርግማን በታች ናቸውና፤ በሕግ መጽሐፍ በተጻፉት ሁሉ ጸንቶ የማይኖር የማያደርግም ሁሉ የተረገመ ነው ተብሎ ተጽፎአልና።",
+            "en": "For as many as are of the works of the law are under the curse: for it is written, Cursed is every one that continueth not in all things which are written in the book of the law to do them.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ጻድቅ በእምነት ይኖራል ተብሎአልና ማንም በእግዚአብሔር ፊት በሕግ እንዳይጸድቅ ግልጥ ነው።",
+            "en": "But that no man is justified by the law in the sight of God, it is evident: for, The just shall live by faith.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "ሕግም ከእምነት አይደለም ነገር ግን። የሚያደርገው ይኖርበታል ተብሎአል።",
+            "en": "And the law is not of faith: but, The man that doeth them shall live in them.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "በእንጨት የሚሰቀል ሁሉ የተረገመ ነው ተብሎ ተጽፎአልና ክርስቶስ ስለ እኛ እርግማን ሆኖ ከሕግ እርግማን ዋጀን፤",
+            "en": "Christ hath redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed is every one that hangeth on a tree:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "የመንፈስን ተስፋ በእምነት እንድንቀበል፥ የአብርሃም በረከት ወደ አሕዛብ በኢየሱስ ክርስቶስ ይደርስላቸው ዘንድ።",
+            "en": "That the blessing of Abraham might come on the Gentiles through Jesus Christ; that we might receive the promise of the Spirit through faith.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ወንድሞች ሆይ፥ እንደ ሰው ልማድ እላለሁ። የሰው ስንኳ ቢሆን እርግጠኛውን ኪዳን ማንም አይንቅም ወይም አይጨምርበትም።",
+            "en": "Brethren, I speak after the manner of men; Though it be but a man's covenant, yet if it be confirmed, no man disannulleth, or addeth thereto.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ለአብርሃምና ለዘሩም የተስፋው ቃል ተነገረ። ስለ ብዙዎች እንደሚነገር። ለዘሮቹም አይልም፤ ስለ አንድ እንደሚነገር ግን። ለዘርህም ይላል፥ እርሱም ክርስቶስ።",
+            "en": "Now to Abraham and his seed were the promises made. He saith not, And to seeds, as of many; but as of one, And to thy seed, which is Christ.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "ይህንም እላለሁ፤ ከአራት መቶ ሠላሳ ዓመት በኋላ የተሰጠው ሕግ አስቀድሞ በእግዚአብሔር የተረጋገጠውን ኪዳን የተስፋውን ቃል እስኪሽር ድረስ አያፈርስም።",
+            "en": "And this I say, that the covenant, that was confirmed before of God in Christ, the law, which was four hundred and thirty years after, cannot disannul, that it should make the promise of none effect.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "ርስቱ በሕግ ቢሆንስ እንግዲያስ በተስፋ ቃል አይሆንም፤ በተስፋ ቃል ግን እግዚአብሔር ለአብርሃም ሰጥቶአል።",
+            "en": "For if the inheritance be of the law, it is no more of promise: but God gave it to Abraham by promise.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "እንግዲህ ሕግ ምንድር ነው? ተስፋው የተሰጠው ዘር እስኪመጣ ድረስ በመካከለኛ እጅ በመላእክት በኩል ስለ ሕግ መተላለፍ ተጨመረ።",
+            "en": "Wherefore then serveth the law? It was added because of transgressions, till the seed should come to whom the promise was made; and it was ordained by angels in the hand of a mediator.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "መካከለኛውም ለአንድ ብቻ አይደለም እግዚአብሔር ግን አንድ ነው።",
+            "en": "Now a mediator is not a mediator of one, but God is one.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "እንግዲህ ሕግ የእግዚአብሔርን የተስፋ ቃል የሚቃወም ነውን? አይደለም። ሕያው ሊያደርግ የሚቻለው ሕግ ተሰጥቶ ቢሆንስ በእውነት ጽድቅ ከሕግ በሆነ ነበር፤",
+            "en": "Is the law then against the promises of God? God forbid: for if there had been a law given which could have given life, verily righteousness should have been by the law.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 22,
+          "text": {
+            "am": "ነገር ግን በኢየሱስ ክርስቶስ ከማመን የሆነው የተስፋ ቃል ለሚያምኑ ይሰጥ ዘንድ መጽሐፍ ከኃጢአት በታች ሁሉን ዘግቶታል።",
+            "en": "But the scripture hath concluded all under sin, that the promise by faith of Jesus Christ might be given to them that believe.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 23,
+          "text": {
+            "am": "እምነትም ሳይመጣ ሊገለጥ ላለው እምነት ተዘግተን ከሕግ በታች እንጠበቅ ነበር።",
+            "en": "But before faith came, we were kept under the law, shut up unto the faith which should afterwards be revealed.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 24,
+          "text": {
+            "am": "እንደዚህ በእምነት እንጸድቅ ዘንድ ሕግ ወደ ክርስቶስ የሚያመጣ ሞግዚታችን ሆኖአል፤",
+            "en": "Wherefore the law was our schoolmaster to bring us unto Christ, that we might be justified by faith.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 25,
+          "text": {
+            "am": "እምነት ግን መጥቶአልና ከእንግዲህ ወዲህ ከሞግዚት በታች አይደለንም።",
+            "en": "But after that faith is come, we are no longer under a schoolmaster.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 26,
+          "text": {
+            "am": "በእምነት በኩል ሁላችሁ በክርስቶስ ኢየሱስ የእግዚአብሔር ልጆች ናችሁና፤",
+            "en": "For ye are all the children of God by faith in Christ Jesus.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 27,
+          "text": {
+            "am": "ከክርስቶስ ጋር አንድ ትሆኑ ዘንድ የተጠመቃችሁ ሁሉ ክርስቶስን ለብሳችኋልና።",
+            "en": "For as many of you as have been baptized into Christ have put on Christ.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 28,
+          "text": {
+            "am": "አይሁዳዊ ወይም የግሪክ ሰው የለም፥ ባሪያ ወይም ጨዋ ሰው የለም፥ ወንድም ሴትም የለም፤ ሁላችሁ በክርስቶስ ኢየሱስ አንድ ሰው ናችሁና።",
+            "en": "There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in Christ Jesus.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 29,
+          "text": {
+            "am": "እናንተም የክርስቶስ ከሆናችሁ እንኪያስ የአብርሃም ዘር እንደ ተስፋውም ቃል ወራሾች ናችሁ።",
+            "en": "And if ye be Christ's, then are ye Abraham's seed, and heirs according to the promise.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "ነገር ግን እላለሁ፥ ወራሹ ሕፃን ሆኖ ባለበት ዘመን ሁሉ፥ ምንም የሁሉ ጌታ ቢሆን ከቶ ከባሪያ አይለይም፥",
+            "en": "Now I say, That the heir, as long as he is a child, differeth nothing from a servant, though he be lord of all;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ነገር ግን አባቱ እስከ ቀጠረለት ቀን ድረስ ከጠባቂዎችና ከመጋቢዎች በታች ነው።",
+            "en": "But is under tutors and governors until the time appointed of the father.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "እንዲሁ እኛ ደግሞ ሕፃናት ሆነን ሳለን ከዓለም መጀመሪያ ትምህርት በታች ተገዝተን ባሪያዎች ነበርን፤",
+            "en": "Even so we, when we were children, were in bondage under the elements of the world:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ነገር ግን የዘመኑ ፍጻሜ በደረሰ ጊዜ እግዚአብሔር ከሴት የተወለደውን ከሕግም በታች የተወለደውን ልጁን ላከ፤",
+            "en": "But when the fulness of the time was come, God sent forth his Son, made of a woman, made under the law,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "እንደ ልጆች እንሆን ዘንድ፥ ከሕግ በታች ያሉትን ይዋጅ ዘንድ።",
+            "en": "To redeem them that were under the law, that we might receive the adoption of sons.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ልጆችም ስለ ሆናችሁ እግዚአብሔር አባ አባት ብሎ የሚጮኽ የልጁን መንፈስ በልባችሁ ውስጥ ላከ።",
+            "en": "And because ye are sons, God hath sent forth the Spirit of his Son into your hearts, crying, Abba, Father.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ስለዚህ ከእንግዲህ ወዲህ ልጅ ነህ እንጂ ባሪያ አይደለህም፤ ልጅም ከሆንህ ደግሞ በክርስቶስ የእግዚአብሔር ወራሽ ነህ።",
+            "en": "Wherefore thou art no more a servant, but a son; and if a son, then an heir of God through Christ.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ነገር ግን በዚያን ጊዜ እግዚአብሔርን ሳታውቁ በባሕርያቸው አማልክት ለማይሆኑ ባሪያዎች ሆናችሁ ተገዛችሁ፤",
+            "en": "Howbeit then, when ye knew not God, ye did service unto them which by nature are no gods.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "አሁን ግን እግዚአብሔርን ስታውቁ ይልቅስ በእግዚአብሔር ስትታወቁ እንደ ገና ወደ ደካማ ወደሚናቅም ወደ መጀመሪያ ትምህርት እንዴት ትመለሳላችሁ? እንደ ገና ባሪያዎች ሆናችሁ ዳግመኛ ለዚያ ልትገዙ ትወዳላችሁን?",
+            "en": "But now, after that ye have known God, or rather are known of God, how turn ye again to the weak and beggarly elements, whereunto ye desire again to be in bondage?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ቀንንና ወርን ዘመንንም ዓመትንም በጥንቃቄ ትጠብቃላችሁ።",
+            "en": "Ye observe days, and months, and times, and years.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ምናልባት በከንቱ ለእናንተ ደክሜአለሁ ብዬ እፈራችኋለሁ።",
+            "en": "I am afraid of you, lest I have bestowed upon you labour in vain.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "ወንድሞች ሆይ፥ እኔ ደግሞ እንደ እናንተ ሆኜአለሁና። እንደ እኔ ሁኑ ብዬ እለምናችኋለሁ። አንዳችም አልበደላችሁኝም።",
+            "en": "Brethren, I beseech you, be as I am; for I am as ye are: ye have not injured me at all.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "በመጀመሪያ ወንጌልን በሰበክሁላችሁ ጊዜ ከሥጋ ድካም የተነሣ እንደ ነበረ ታውቃላችሁ፥",
+            "en": "Ye know how through infirmity of the flesh I preached the gospel unto you at the first.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "በሥጋዬም ፈተና የሆነባችሁን ነገር አልናቃችሁትምና አልተጸየፋችሁትም ነገር ግን እንደ እግዚአብሔር መልአክ አዎን እንደ ክርስቶስ ኢየሱስ ተቀበላችሁኝ።",
+            "en": "And my temptation which was in my flesh ye despised not, nor rejected; but received me as an angel of God, even as Christ Jesus.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "እንግዲህ ደስ ማሰኘታችሁ ወዴት አለ? ቢቻልስ ዓይኖቻችሁን አውጥታችሁ በሰጣችሁኝ ብዬ እመሰክርላችኋለሁ።",
+            "en": "Where is then the blessedness ye spake of? for I bear you record, that, if it had been possible, ye would have plucked out your own eyes, and have given them to me.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "እንኪያስ እውነቱን ስለ ነገርኋችሁ ጠላት ሆንሁባችሁን?",
+            "en": "Am I therefore become your enemy, because I tell you the truth?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "በብርቱ ይፈልጉአችኋል፥ ለመልካም አይደለም ነገር ግን በብርቱ ትፈልጉአቸው ዘንድ በውጭ ሊያስቀሩአችሁ ይወዳሉ።",
+            "en": "They zealously affect you, but not well; yea, they would exclude you, that ye might affect them.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "ነገር ግን ከእናንተ ዘንድ በምኖርበት ጊዜ ብቻ ሳይሆን ሁልጊዜ በመልካም ነገር ተፈላጊ ብትሆኑ መልካም ነው።",
+            "en": "But it is good to be zealously affected always in a good thing, and not only when I am present with you.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "ልጆቼ ሆይ፥ ክርስቶስ በእናንተ እስኪሣል ድረስ ዳግመኛ ስለ እናንተ ምጥ ይዞኛል።",
+            "en": "My little children, of whom I travail in birth again until Christ be formed in you,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "ስለ እናንተ አመነታለሁና አሁን በእናንተ ዘንድ ሆኜ ድምፄን ልለውጥ በወደድሁ።",
+            "en": "I desire to be present with you now, and to change my voice; for I stand in doubt of you.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "እናንተ ከሕግ በታች ልትኖሩ የምትወዱ፥ ሕጉን አትሰሙምን? እስኪ ንገሩኝ።",
+            "en": "Tell me, ye that desire to be under the law, do ye not hear the law?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 22,
+          "text": {
+            "am": "አንዱ ከባሪያይቱ አንዱም ከጨዋይቱ የሆኑ ሁለት ልጆች ለአብርሃም እንደ ነበሩት ተጽፎአልና።",
+            "en": "For it is written, that Abraham had two sons, the one by a bondmaid, the other by a freewoman.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 23,
+          "text": {
+            "am": "ነገር ግን የባሪያይቱ ልጅ እንደ ሥጋ ተወልዶአል፥ የጨዋይቱ ግን በተስፋው ቃል ተወልዶአል።",
+            "en": "But he who was of the bondwoman was born after the flesh; but he of the freewoman was by promise.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 24,
+          "text": {
+            "am": "ይህም ነገር ምሳሌ ነው፤ እነዚህ ሴቶች እንደ ሁለቱ ኪዳኖች ናቸውና። ከደብረ ሲና የሆነችው አንዲቱ ለባርነት ልጆችን ትወልዳለች፥ እርስዋም አጋር ናት።",
+            "en": "Which things are an allegory: for these are the two covenants; the one from the mount Sinai, which gendereth to bondage, which is Agar.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 25,
+          "text": {
+            "am": "ይህችም አጋር በዓረብ ምድር ያለችው ደብረ ሲና ናት፤ አሁንም ያለችውን ኢየሩሳሌምን ትመስላለች፥ ከልጆችዋ ጋር በባርነት ናትና።",
+            "en": "For this Agar is mount Sinai in Arabia, and answereth to Jerusalem which now is, and is in bondage with her children.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 26,
+          "text": {
+            "am": "ላይኛይቱ ኢየሩሳሌም ግን በነጻነት የምትኖር ናት እርስዋም እናታችን ናት።",
+            "en": "But Jerusalem which is above is free, which is the mother of us all.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 27,
+          "text": {
+            "am": "አንቺ የማትወልጅ መካን፥ ደስ ይበልሽ፤ አንቺ አምጠሽ የማታውቂ፥ እልል በዪና ጩኺ፤ ባል ካላቱ ይልቅ የብቸኛይቱ ልጆች በዝተዋልና ተብሎ ተጽፎአል።",
+            "en": "For it is written, Rejoice, thou barren that bearest not; break forth and cry, thou that travailest not: for the desolate hath many more children than she which hath an husband.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 28,
+          "text": {
+            "am": "እኛም፥ ወንድሞች ሆይ፥ እንደ ይስሐቅ የተስፋ ቃል ልጆች ነን።",
+            "en": "Now we, brethren, as Isaac was, are the children of promise.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 29,
+          "text": {
+            "am": "ነገር ግን እንደ ሥጋ የተወለደው እንደ መንፈስ የተወለደውን በዚያን ጊዜ እንዳሳደደው ዛሬም እንዲሁ ነው።",
+            "en": "But as then he that was born after the flesh persecuted him that was born after the Spirit, even so it is now.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 30,
+          "text": {
+            "am": "ነገር ግን መጽሐፍ ምን ይላል? የባሪያይቱ ልጅ ከጨዋይቱ ልጅ ጋር አይወርስምና ባሪያይቱን ከልጅዋ ጋር አውጣት።",
+            "en": "Nevertheless what saith the scripture? Cast out the bondwoman and her son: for the son of the bondwoman shall not be heir with the son of the freewoman.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 31,
+          "text": {
+            "am": "ስለዚህ፥ ወንድሞች ሆይ፥ የጨዋይቱ ልጆች ነን እንጂ የባሪያይቱ አይደለንም።",
+            "en": "So then, brethren, we are not children of the bondwoman, but of the free.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "በነጻነት ልንኖር ክርስቶስ ነጻነት አወጣን፤ እንግዲህ ጸንታችሁ ቁሙ እንደ ገናም በባርነት ቀንበር አትያዙ።",
+            "en": "Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "እነሆ፥ እኔ ጳውሎስ እላችኋለሁ። ብትገረዙ ክርስቶስ ምንም አይጠቅማችሁም።",
+            "en": "Behold, I Paul say unto you, that if ye be circumcised, Christ shall profit you nothing.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ሕግንም ሁሉ እንዲፈጽም ግድ አለበት ብዬ ለሚገረዙት ሁሉ ለእያንዳንዶች ደግሜ እመሰክራለሁ።",
+            "en": "For I testify again to every man that is circumcised, that he is a debtor to do the whole law.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "በሕግ ልትጸድቁ የምትፈልጉ ከክርስቶስ ተለይታችሁ ከጸጋው ወድቃችኋል።",
+            "en": "Christ is become of no effect unto you, whosoever of you are justified by the law; ye are fallen from grace.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "እኛ በመንፈስ ከእምነት የጽድቅን ተስፋ እንጠባበቃለንና።",
+            "en": "For we through the Spirit wait for the hope of righteousness by faith.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "በክርስቶስ ኢየሱስ ሆኖ፥ በፍቅር የሚሠራ እምነት እንጂ መገረዝ ቢሆን ወይም አለመገረዝ አይጠቅምምና።",
+            "en": "For in Jesus Christ neither circumcision availeth any thing, nor uncircumcision; but faith which worketh by love.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "በመልካም ትሮጡ ነበር፤ ለእውነት እንዳትታዘዙ ማን ከለከላችሁ?",
+            "en": "Ye did run well; who did hinder you that ye should not obey the truth?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ይህ ማባበል ከሚጠራችሁ አልወጣም። ጥቂት እርሾ ሊጡን ሁሉ ያቦካል።",
+            "en": "This persuasion cometh not of him that calleth you.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "የተለየ ነገር ከቶ እንዳታስቡ እኔ በጌታ ስለ እናንተ ታምኜአለሁ፤ የሚያናውጣችሁ ማንም ቢኖር ግን ፍርዱን ሊሸከም ነው።",
+            "en": "A little leaven leaveneth the whole lump.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              9,
+              10
+            ]
+          }
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "የተለየ ነገር ከቶ እንዳታስቡ እኔ በጌታ ስለ እናንተ ታምኜአለሁ፤ የሚያናውጣችሁ ማንም ቢኖር ግን ፍርዱን ሊሸከም ነው።",
+            "en": "I have confidence in you through the Lord, that ye will be none otherwise minded: but he that troubleth you shall bear his judgment, whosoever he be.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              9,
+              10
+            ]
+          }
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ነገር ግን፥ ወንድሞች ሆይ፥ እኔ ገና እስከ አሁን መገረዝን ብሰብክ እስከ አሁን ድረስ ለምን ያሳድዱኛል? እንኪያስ የመስቀል ዕንቅፋት ተወግዶአል።",
+            "en": "And I, brethren, if I yet preach circumcision, why do I yet suffer persecution? then is the offence of the cross ceased.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "የሚያውኩአችሁ ይቆረጡ።",
+            "en": "I would they were even cut off which trouble you.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ወንድሞች ሆይ፥ እናንተ ለአርነት ተጠርታችኋልና፤ ብቻ አርነታችሁ ለሥጋ ምክንያትን አይስጥ፥ ነገር ግን በፍቅር እርስ በርሳችሁ እንደ ባሪያዎች ሁኑ።",
+            "en": "For, brethren, ye have been called unto liberty; only use not liberty for an occasion to the flesh, but by love serve one another.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ሕግ ሁሉ በአንድ ቃል ይፈጸማልና፥ እርሱም። ባልንጀራህን እንደ ራስህ ውደድ የሚል ነው።",
+            "en": "For all the law is fulfilled in one word, even in this; Thou shalt love thy neighbour as thyself.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ነገር ግን እርስ በርሳችሁ ብትነካከሱ ብትበላሉ እርስ በርሳችሁ እንዳትጠፋፉ ተጠንቀቁ።",
+            "en": "But if ye bite and devour one another, take heed that ye be not consumed one of another.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ነገር ግን እላለሁ፥ በመንፈስ ተመላለሱ፥ የሥጋንም ምኞት ከቶ አትፈጽሙ።",
+            "en": "This I say then, Walk in the Spirit, and ye shall not fulfil the lust of the flesh.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "ሥጋ በመንፈስ ላይ መንፈስም በሥጋ ላይ ይመኛልና፥ እነዚህም እርስ በርሳቸው ይቀዋወማሉ፤ ስለዚህም የምትወዱትን ልታደርጉ አትችሉም።",
+            "en": "For the flesh lusteth against the Spirit, and the Spirit against the flesh: and these are contrary the one to the other: so that ye cannot do the things that ye would.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "በመንፈስ ብትመሩ ግን ከሕግ በታች አይደላችሁም።",
+            "en": "But if ye be led of the Spirit, ye are not under the law.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "የሥጋ ሥራም የተገለጠ ነው እርሱም ዝሙት፥ ርኵሰት፥",
+            "en": "Now the works of the flesh are manifest, which are these; Adultery, fornication, uncleanness, lasciviousness,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "መዳራት፥ ጣዖትን ማምለክ፥ ምዋርት፥ ጥል፥ ክርክር፥ ቅንዓት፥ ቁጣ፥ አድመኛነት፥",
+            "en": "Idolatry, witchcraft, hatred, variance, emulations, wrath, strife, seditions, heresies,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "መለያየት፥ መናፍቅነት፥ ምቀኝነት፥ መግደል፥ ስካር፥ ዘፋኝነት፥ ይህንም የሚመስል ነው። አስቀድሜም እንዳልሁ፥ እንደዚህ ያሉትን የሚያደርጉ የእግዚአብሔርን መንግሥት አይወርሱም።",
+            "en": "Envyings, murders, drunkenness, revellings, and such like: of the which I tell you before, as I have also told you in time past, that they which do such things shall not inherit the kingdom of God.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 22,
+          "text": {
+            "am": "የመንፈስ ፍሬ ግን ፍቅር፥ ደስታ፥ ሰላም፥ ትዕግሥት፥ ቸርነት፥ በጎነት፥ እምነት፥ የውሃት፥ ራስን መግዛት ነው።",
+            "en": "But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 23,
+          "text": {
+            "am": "እንደዚህ ያሉትን የሚከለክል ሕግ የለም።",
+            "en": "Meekness, temperance: against such there is no law.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 24,
+          "text": {
+            "am": "የክርስቶስ ኢየሱስም የሆኑቱ ሥጋን ከክፉ መሻቱና ከምኞቱ ጋር ሰቀሉ።",
+            "en": "And they that are Christ's have crucified the flesh with the affections and lusts.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 25,
+          "text": {
+            "am": "በመንፈስ ብንኖር በመንፈስ ደግሞ እንመላለስ።",
+            "en": "If we live in the Spirit, let us also walk in the Spirit.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 26,
+          "text": {
+            "am": "እርስ በርሳችን እየተነሣሣንና እየተቀናናን በከንቱ አንመካ።",
+            "en": "Let us not be desirous of vain glory, provoking one another, envying one another.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "ወንድሞች ሆይ፥ ሰው በማናቸውም በደል ስንኳ ቢገኝ፥ መንፈሳውያን የሆናችሁ እናንተ እንደዚህ ያለውን ሰው በየውሃት መንፈስ አቅኑት፤ አንተ ደግሞ እንዳትፈተን ራስህን ጠብቅ።",
+            "en": "Brethren, if a man be overtaken in a fault, ye which are spiritual, restore such an one in the spirit of meekness; considering thyself, lest thou also be tempted.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ከእናንተ እያንዳንዱ የአንዱን ሸክም ይሸከም እንዲሁም የክርስቶስን ሕግ ፈጽሙ።",
+            "en": "Bear ye one another's burdens, and so fulfil the law of Christ.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "አንዱ ምንም ሳይሆን ምንም የሆነ ቢመስለው ራሱን ያታልላልና።",
+            "en": "For if a man think himself to be something, when he is nothing, he deceiveth himself.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ነገር ግን እያንዳንዱ የገዛ ራሱን ሥራ ይፈትን፥ ከዚያም በኋላ ስለ ሌላው ሰው ያልሆነ ስለ ራሱ ብቻ የሚመካበትን ያገኛል፤",
+            "en": "But let every man prove his own work, and then shall he have rejoicing in himself alone, and not in another.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "እያንዳንዱ የገዛ ራሱን ሸክም ሊሸከም ነውና።",
+            "en": "For every man shall bear his own burden.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ነገር ግን ቃሉን የሚማር ከሚያስተምረው ጋር መልካምን ነገር ሁሉ ይከፋፈል።",
+            "en": "Let him that is taught in the word communicate unto him that teacheth in all good things.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "አትሳቱ፤ እግዚአብሔር አይዘበትበትም። ሰው የሚዘራውን ሁሉ ያንኑ ደግሞ ያጭዳልና፤",
+            "en": "Be not deceived; God is not mocked: for whatsoever a man soweth, that shall he also reap.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "በገዛ ሥጋው የሚዘራ ከሥጋ መበስበስን ያጭዳልና፥ በመንፈስ ግን የሚዘራው ከመንፈስ የዘላለምን ሕይወት ያጭዳል።",
+            "en": "For he that soweth to his flesh shall of the flesh reap corruption; but he that soweth to the Spirit shall of the Spirit reap life everlasting.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ባንዝልም በጊዜው እናጭዳለንና መልካም ሥራን ለመሥራት አንታክት።",
+            "en": "And let us not be weary in well doing: for in due season we shall reap, if we faint not.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "እንግዲያስ ጊዜ ካገኘን ዘንድ ለሰው ሁሉ ይልቁንም ለሃይማኖት ቤተ ሰዎች መልካም እናድርግ።",
+            "en": "As we have therefore opportunity, let us do good unto all men, especially unto them who are of the household of faith.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "እንዴት ባሉ ታላላቆች ፊደላት በእጄ እንደ ጻፍሁላችሁ እዩ።",
+            "en": "Ye see how large a letter I have written unto you with mine own hand.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "በሥጋ መልካም ሆነው ሊታዩ የሚወዱ ሁሉ እንድትገረዙ ግድ አሉአችሁ፥ ነገር ግን ስለ ክርስቶስ መስቀል እንዳይሰደዱ ብቻ ነው።",
+            "en": "As many as desire to make a fair shew in the flesh, they constrain you to be circumcised; only lest they should suffer persecution for the cross of Christ.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "በሥጋችሁ እንዲመኩ ልትገረዙ ይወዳሉ እንጂ የተገረዙቱ ራሳቸው እንኳ ሕግን አይጠብቁም።",
+            "en": "For neither they themselves who are circumcised keep the law; but desire to have you circumcised, that they may glory in your flesh.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ነገር ግን ዓለም ለእኔ የተሰቀለበት እኔም ለዓለም የተሰቀልሁበት ከጌታችን ከኢየሱስ ክርስቶስ መስቀል በቀር ሌላ ትምክህት ከእኔ ይራቅ።",
+            "en": "But God forbid that I should glory, save in the cross of our Lord Jesus Christ, by whom the world is crucified unto me, and I unto the world.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "በክርስቶስ ኢየሱስ አዲስ ፍጥረት መሆን ይጠቅማል እንጂ መገረዝ ቢሆን ወይም አለመገረዝ አይጠቅምምና።",
+            "en": "For in Christ Jesus neither circumcision availeth any thing, nor uncircumcision, but a new creature.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "በዚህም ሥርዓት በሚመላለሱ ሁሉ ላይ በእግዚአብሔር እስራኤልም ላይ ሰላምና ምሕረት ይሁን።",
+            "en": "And as many as walk according to this rule, peace be on them, and mercy, and upon the Israel of God.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "እኔ የኢየሱስን ማኅተም በሥጋዬ ተሸክሜአለሁና ከእንግዲህ ወዲህ አንድ ስንኳ አያድክመኝ።",
+            "en": "From henceforth let no man trouble me: for I bear in my body the marks of the Lord Jesus.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "ወንድሞች ሆይ፥ የጌታችን የኢየሱስ ክርስቶስ ጸጋ ከመንፈሳችሁ ጋር ይሁን። አሜን።",
+            "en": "Brethren, the grace of our Lord Jesus Christ be with your spirit. Amen.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    }
+  ]
+}

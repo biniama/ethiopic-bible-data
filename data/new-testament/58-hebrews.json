@@ -1,0 +1,3083 @@
+{
+  "book_number": 58,
+  "book_name_am": "ወደ ዕብራውያን",
+  "book_short_name_am": "ዕብ",
+  "book_name_en": "Hebrews",
+  "book_short_name_en": "Heb",
+  "book_name_geez": null,
+  "testament": "new",
+  "sources": [
+    "ethiopicbible.com"
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "ከጥንት ጀምሮ እግዚአብሔር በብዙ ዓይነትና በብዙ ጎዳና ለአባቶቻችን በነቢያት ተናግሮ፥",
+            "en": "God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ሁሉን ወራሽ ባደረገው ደግሞም ዓለማትን በፈጠረበት በልጁ በዚህ ዘመን መጨረሻ ለእኛ ተናገረን፤",
+            "en": "Hath in these last days spoken unto us by his Son, whom he hath appointed heir of all things, by whom also he made the worlds;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "እርሱም የክብሩ መንጸባረቅና የባሕርዩ ምሳሌ ሆኖ፥ ሁሉን በስልጣኑ ቃል እየደገፈ፥ ኃጢአታችንን በራሱ ካነጻ በኋላ በሰማያት በግርማው ቀኝ ተቀመጠ፤",
+            "en": "Who being the brightness of his glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ከመላእክት ይልቅ እጅግ የሚበልጥ ስምን በወረሰ መጠን እንዲሁ ከእነርሱ አብዝቶ ይበልጣል።",
+            "en": "Being made so much better than the angels, as he hath by inheritance obtained a more excellent name than they.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ከመላእክትስ። አንተ ልጄ ነህ፥ እኔ ዛሬ ወልጄሃለሁ፥ ደግሞም። እኔ አባት እሆነዋለሁ እርሱም ልጅ ይሆነኛል",
+            "en": "For unto which of the angels said he at any time, Thou art my Son, this day have I begotten thee? And again, I will be to him a Father, and he shall be to me a Son?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ያለው ከቶ ለማን ነው? ደግሞም በኵርን ወደ ዓለም ሲያገባ። የእግዚአብሔር መላእክት ሁሉም ለእርሱ ይስገዱ ይላል።",
+            "en": "And again, when he bringeth in the firstbegotten into the world, he saith, And let all the angels of God worship him.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ስለ መላእክትም። መላእክቱን መናፍስት አገልጋዮቹንም የእሳት ነበልባል የሚያደርግ",
+            "en": "And of the angels he saith, Who maketh his angels spirits, and his ministers a flame of fire.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ይላል፤ ስለ ልጁ ግን። አምላክ ሆይ፥ ዙፋንህ እስከ ዘላለም ድረስ ይኖራል፤ የመንግሥትህ በትር የቅንነት በትር ነው።",
+            "en": "But unto the Son he saith, Thy throne, O God, is for ever and ever: a sceptre of righteousness is the sceptre of thy kingdom.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ጽድቅን ወደድህ ዓመፅንም ጠላህ፤ ስለዚህ እግዚአብሔር አምላክህ ከጓደኞችህ ይልቅ በደስታ ዘይት ቀባህ",
+            "en": "Thou hast loved righteousness, and hated iniquity; therefore God, even thy God, hath anointed thee with the oil of gladness above thy fellows.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ይላል። ደግሞ። ጌታ ሆይ፥ አንተ ከጥንት ምድርን መሠረትህ፥ ሰማዮችም የእጆችህ ሥራ ናቸው፤",
+            "en": "And, Thou, Lord, in the beginning hast laid the foundation of the earth; and the heavens are the works of thine hands:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "እነርሱም ይጠፋሉ አንተ ግን ጸንተህ ትኖራለህ፤ ሁሉም እንደ ልብስ ያረጃሉ፥",
+            "en": "They shall perish; but thou remainest; and they all shall wax old as doth a garment;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "እንደ መጎናጸፊያም ትጠቀልላቸዋለህ ይለወጡማል፤ አንተ ግን አንተ ነህ፥ ዓመቶችህም ከቶ አያልቁም",
+            "en": "And as a vesture shalt thou fold them up, and they shall be changed: but thou art the same, and thy years shall not fail.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ይላል። ነገር ግን ከመላእክት። ጠላቶችህን የእግርህ መረገጫ እስካደርግልህ ድረስ በቀኜ ተቀመጥ",
+            "en": "But to which of the angels said he at any time, Sit on my right hand, until I make thine enemies thy footstool?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ከቶ ለማን ብሎአል? ሁሉ መዳንን ይወርሱ ዘንድ ስላላቸው ለማገዝ የሚላኩ የሚያገለግሉም መናፍስት አይደሉምን?",
+            "en": "Are they not all ministering spirits, sent forth to minister for them who shall be heirs of salvation?",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "ስለዚህ ከሰማነው ነገር ምናልባት እንዳንወሰድ፥ ለእርሱ አብልጠን ልንጠነቀቅ ያስፈልገናል።",
+            "en": "Therefore we ought to give the more earnest heed to the things which we have heard, lest at any time we should let them slip.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "በመላእክት የተነገረው ቃል ጽኑ ከሆነ፥ መተላለፍና አለመታዘዝም ሁሉ የጽድቅን ብድራት ከተቀበለ፥ እኛስ እንዲህ ያለውን ታላቅ መዳን ቸል ብንለው፥ እንዴት እናመልጣለን?",
+            "en": "For if the word spoken by angels was stedfast, and every transgression and disobedience received a just recompence of reward;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ይህ በጌታ በመጀመሪያ የተነገረ ነበርና፥ የሰሙትም ለእኛ አጸኑት፥",
+            "en": "How shall we escape, if we neglect so great salvation; which at the first began to be spoken by the Lord, and was confirmed unto us by them that heard him;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "እግዚአብሔርም እርሱ ራሱ እንደ ፈቀደ በምልክትና በድንቅ ነገር በልዩ ልዩ ተአምራትም፥ መንፈስ ቅዱስንም በማደል አብሮ መሰከረለት።",
+            "en": "God also bearing them witness, both with signs and wonders, and with divers miracles, and gifts of the Holy Ghost, according to his own will?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ስለ እርሱ የምንናገርበትን የሚመጣውን ዓለም ለመላእክት ያስገዛው አይደለምና።",
+            "en": "For unto the angels hath he not put in subjection the world to come, whereof we speak.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ነገር ግን አንዱ በአንድ ስፍራ። ታስበው ዘንድ ሰው ምንድር ነው? ወይስ ትጎበኘው ዘንድ የሰው ልጅ ምንድር ነው?",
+            "en": "But one in a certain place testified, saying, What is man, that thou art mindful of him? or the son of man, that thou visitest him?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ከመላእክት ይልቅ በጥቂት አሳነስኸው፤ የክብርና የምስጋና ዘውድ ጫንህለት፥ በእጆችህም ሥራ ላይ ሾምኸው፤",
+            "en": "Thou madest him a little lower than the angels; thou crownedst him with glory and honour, and didst set him over the works of thy hands:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ሁሉን ከእግሮቹ በታች አስገዛህለት ብሎ መሰከረ። ሁሉን ከእርሱ በታች ባስገዛ ጊዜ ያልተገዛለት ምንም አልተወምና። አሁን ግን ሁሉ እንደ ተገዛለት ገና አናይም፤",
+            "en": "Thou hast put all things in subjection under his feet. For in that he put all in subjection under him, he left nothing that is not put under him. But now we see not yet all things put under him.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ነገር ግን በእግዚአብሔር ጸጋ ስለ ሰው ሁሉ ሞትን ይቀምስ ዘንድ፥ ከመላእክት ይልቅ በጥቂት አንሶ የነበረውን ኢየሱስን ከሞት መከራ የተነሣ የክብርና የምስጋናን ዘውድ ተጭኖ እናየዋለን።",
+            "en": "But we see Jesus, who was made a little lower than the angels for the suffering of death, crowned with glory and honour; that he by the grace of God should taste death for every man.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ብዙ ልጆችን ወደ ክብር ሲያመጣ የመዳናቸውን ራስ በመከራ ይፈጽም ዘንድ፥ ከእርሱ የተነሣ ሁሉ በእርሱም ሁሉ ለሆነ፥ ለእርሱ ተገብቶታልና።",
+            "en": "For it became him, for whom are all things, and by whom are all things, in bringing many sons unto glory, to make the captain of their salvation perfect through sufferings.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "የሚቀድሰውና የሚቀደሱት ሁሉ ከአንድ ናቸውና፤",
+            "en": "For both he that sanctifieth and they who are sanctified are all of one: for which cause he is not ashamed to call them brethren,",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              11,
+              12
+            ]
+          }
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "የሚቀድሰውና የሚቀደሱት ሁሉ ከአንድ ናቸውና፤",
+            "en": "Saying, I will declare thy name unto my brethren, in the midst of the church will I sing praise unto thee.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              11,
+              12
+            ]
+          }
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ስለዚህም ምክንያት። ስምህን ለወንድሞቼ እነግራቸዋለሁ በማኅበርም መካከል በዜማ አመሰግንሃለሁ፤ ደግሞም። እኔ በእርሱ እታመናለሁ፤ ደግሞም። እነሆኝ እኔን እግዚአብሔር የሰጠኝንም ልጆች ሲል ወንድሞች ብሎ ሊጠራቸው አያፍርም።",
+            "en": "And again, I will put my trust in him. And again, Behold I and the children which God hath given me.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "እንግዲህ ልጆቹ በሥጋና በደም ስለሚካፈሉ፥ እርሱ ደግሞ በሞት ላይ ሥልጣን ያለውን በሞት እንዲሽር፥ ይኸውም ዲያብሎስ ነው፥ በሕይወታቸውም ሁሉ ስለ ሞት ፍርሃት በባርነት ይታሰሩ የነበሩትን ሁሉ ነጻ እንዲያወጣ፥ በሥጋና በደም እንዲሁ ተካፈለ።",
+            "en": "Forasmuch then as the children are partakers of flesh and blood, he also himself likewise took part of the same; that through death he might destroy him that had the power of death, that is, the devil;",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              14,
+              15
+            ]
+          }
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "እንግዲህ ልጆቹ በሥጋና በደም ስለሚካፈሉ፥ እርሱ ደግሞ በሞት ላይ ሥልጣን ያለውን በሞት እንዲሽር፥ ይኸውም ዲያብሎስ ነው፥ በሕይወታቸውም ሁሉ ስለ ሞት ፍርሃት በባርነት ይታሰሩ የነበሩትን ሁሉ ነጻ እንዲያወጣ፥ በሥጋና በደም እንዲሁ ተካፈለ።",
+            "en": "And deliver them who through fear of death were all their lifetime subject to bondage.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              14,
+              15
+            ]
+          }
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "የአብርሃምን ዘር ይዞአል እንጂ የያዘው የመላእክትን አይደለም።",
+            "en": "For verily he took not on him the nature of angels; but he took on him the seed of Abraham.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "ስለዚህ የሕዝብን ኃጢአት ለማስተስረይ፥ ለእግዚአብሔር በሆነው ነገር ሁሉ የሚምርና የታመነ ሊቀ ካህናት እንዲሆን፥ በነገር ሁሉ ወንድሞቹን ሊመስል ተገባው።",
+            "en": "Wherefore in all things it behoved him to be made like unto his brethren, that he might be a merciful and faithful high priest in things pertaining to God, to make reconciliation for the sins of the people.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "እርሱ ራሱ ተፈትኖ መከራን ስለ ተቀበለ የሚፈተኑትን ሊረዳቸው ይችላልና።",
+            "en": "For in that he himself hath suffered being tempted, he is able to succour them that are tempted.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "ስለዚህ፥ ከሰማያዊው ጥሪ ተካፋዮች የሆናችሁ ቅዱሳን ወንድሞች ሆይ፥ የሃይማኖታችንን ሐዋርያና ሊቀ ካህናት ኢየሱስ ክርስቶስን ተመልከቱ፤",
+            "en": "Wherefore, holy brethren, partakers of the heavenly calling, consider the Apostle and High Priest of our profession, Christ Jesus;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ሙሴ ደግሞ በቤቱ ሁሉ የታመነ እንደሆነ፥ እርሱ ለሾመው የታመነ ነበረ።",
+            "en": "Who was faithful to him that appointed him, as also Moses was faithful in all his house.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ቤትን የሚያዘጋጀው ከቤቱ ይልቅ የሚበልጥ ክብር እንዳለው መጠን፥ እንዲሁ እርሱ ከሙሴ ይልቅ የሚበልጥ ክብር የተገባው ሆኖ ተቆጥሮአልና።",
+            "en": "For this man was counted worthy of more glory than Moses, inasmuch as he who hath builded the house hath more honour than the house.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "እያንዳንዱ ቤት በአንድ ሰው ተዘጋጅቶአልና፥ ሁሉን ያዘጋጀ ግን እግዚአብሔር ነው።",
+            "en": "For every house is builded by some man; but he that built all things is God.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ሙሴስ በኋላ ስለሚነገረው ነገር ምስክር ሊሆን በቤቱ ሁሉ እንደ ሎሌ የታመነ ነበረ፥ ክርስቶስ ግን እንደ ልጅ በቤቱ ላይ የታመነ ነው፤",
+            "en": "And Moses verily was faithful in all his house, as a servant, for a testimony of those things which were to be spoken after;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "እኛም የምንደፍርበትን የምንመካበትንም ተስፋ እስከ መጨረሻው አጽንተን ብንጠብቅ ቤቱ ነን።",
+            "en": "But Christ as a son over his own house; whose house are we, if we hold fast the confidence and the rejoicing of the hope firm unto the end.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ስለዚህ መንፈስ ቅዱስ እንደሚል።",
+            "en": "Wherefore (as the Holy Ghost saith, To day if ye will hear his voice,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ዛሬ ድምፁን ብትሰሙት፥ አባቶቻችሁ እኔን የፈተኑበት የመረመሩበትም አርባ ዓመትም ሥራዬን ያዩበት በምድረ በዳ በፈተና ቀን በማስመረር እንደ ሆነ፥ ልባችሁን እልከኛ አታድርጉ።",
+            "en": "Harden not your hearts, as in the provocation, in the day of temptation in the wilderness:",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ዛሬ ድምፁን ብትሰሙት፥ አባቶቻችሁ እኔን የፈተኑበት የመረመሩበትም አርባ ዓመትም ሥራዬን ያዩበት በምድረ በዳ በፈተና ቀን በማስመረር እንደ ሆነ፥ ልባችሁን እልከኛ አታድርጉ።",
+            "en": "When your fathers tempted me, proved me, and saw my works forty years.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ስለዚህ ያን ትውልድ ተቆጥቼ። ዘወትር በልባቸው ይስታሉ መንገዴን ግን አላወቁም አልሁ፤",
+            "en": "Wherefore I was grieved with that generation, and said, They do alway err in their heart; and they have not known my ways.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "እንዲሁ። ወደ ዕረፍቴ አይገቡም ብዬ በቍጣዬ ማልሁ።",
+            "en": "So I sware in my wrath, They shall not enter into my rest.)",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "ወንድሞች ሆይ፥ ምናልባት ሕያው እግዚአብሔርን የሚያስክዳችሁ ክፉና የማያምን ልብ ከእናንተ በአንዳችሁ እንዳይኖር ተጠንቀቁ፤",
+            "en": "Take heed, brethren, lest there be in any of you an evil heart of unbelief, in departing from the living God.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ነገር ግን ከእናንተ ማንም በኃጢአት መታለል እልከኛ እንዳይሆን፥ ዛሬ ተብሎ ሲጠራ ሳለ፥ በእያንዳንዱ ቀን እርስ በርሳችሁ ተመካከሩ፤",
+            "en": "But exhort one another daily, while it is called To day; lest any of you be hardened through the deceitfulness of sin.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "የመጀመሪያ እምነታችንን እስከ መጨረሻው አጽንተን ብንጠብቅ፥ የክርስቶስ ተካፋዮች ሆነናልና፤",
+            "en": "For we are made partakers of Christ, if we hold the beginning of our confidence stedfast unto the end;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "እየተባለ። ዛሬ ድምጹን ብትሰሙት፥ በማስመረር እንደሆነ ልባችሁን እልከኛ አታድርጉ።",
+            "en": "While it is said, To day if ye will hear his voice, harden not your hearts, as in the provocation.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ሰምተው ያስመረሩት እነማን ነበሩ? በሙሴ ተመርተው ከግብጽ የወጡ ሁሉ አይደሉምን?",
+            "en": "For some, when they had heard, did provoke: howbeit not all that came out of Egypt by Moses.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "አርባ አመትም የተቆጣባቸው እነማን ነበሩ? ሬሳቸው በምድረ በዳ የወደቀ፥ ኃጢአትን ያደረጉት እነርሱ አይደሉምን?",
+            "en": "But with whom was he grieved forty years? was it not with them that had sinned, whose carcases fell in the wilderness?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "ካልታዘዙትም በቀር ወደ እረፍቱ እንዳይገቡ የማለባቸው እነማን ነበሩ?",
+            "en": "And to whom sware he that they should not enter into his rest, but to them that believed not?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "ባለማመናቸውም ጠንቅ ሊገቡ እንዳልተቻላቸው እናያለን።",
+            "en": "So we see that they could not enter in because of unbelief.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "እንግዲህ ወደ ዕረፍቱ ለመግባት ተስፋ ገና ቀርቶልን ከሆነ፥ ምናልባት ከእናንተ ማንም የማይበቃ መስሎ እንዳይታይ እንፍራ።",
+            "en": "Let us therefore fear, lest, a promise being left us of entering into his rest, any of you should seem to come short of it.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ለእነዚያ ደግሞ እንደ ተነገረ ለእኛ የምስራች ተሰብኮልናልና፤ ዳሩ ግን የሰሙት ቃል ከሰሚዎቹ ጋር በእምነት ስላልተዋሐደ አልጠቀማቸውም።",
+            "en": "For unto us was the gospel preached, as well as unto them: but the word preached did not profit them, not being mixed with faith in them that heard it.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ሥራው ዓለም ከተፈጠረ ጀምሮ ምንም እንኳ ቢፈጸም። እንዲህ። ወደ ዕረፍቴ አይገቡም ብዬ በቁጣዬ ማልሁ እንዳለ፥ እኛስ ያመንን ወደ ዕረፍቱ እንገባለን።",
+            "en": "For we which have believed do enter into rest, as he said, As I have sworn in my wrath, if they shall enter into my rest: although the works were finished from the foundation of the world.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ስለ ሰባተኛው ቀን በአንድ ስፍራ። እግዚአብሔርም በሰባተኛው ቀን ከሥራው ሁሉ ዐረፈ ብሎአልና፤",
+            "en": "For he spake in a certain place of the seventh day on this wise, And God did rest the seventh day from all his works.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "በዚህ ስፍራም ደግሞ። ወደ ዕረፍቴ አይገቡም።",
+            "en": "And in this place again, If they shall enter into my rest.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "እንግዲህ አንዳንዶች በዚያ እንዲገቡ ስለ ቀሩ፥ ቀድሞም የምስራች የተሰበከላቸው ባለመታዘዝ ጠንቅ ስላልገቡ።",
+            "en": "Seeing therefore it remaineth that some must enter therein, and they to whom it was first preached entered not in because of unbelief:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ዛሬ ድምፁን ብትሰሙት ልባችሁን እልከኛ አታድርጉ በፊት እንደ ተባለ፥ ይህን ከሚያህል ዘመን በኋላ በዳዊት ሲናገር። ዛሬ ብሎ አንድ ቀን እንደ ገና ይቀጥራል።",
+            "en": "Again, he limiteth a certain day, saying in David, To day, after so long a time; as it is said, To day if ye will hear his voice, harden not your hearts.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ኢያሱ አሳርፎአቸው ኖሮ ቢሆንስ፥ ከዚያ በኋላ ስለ ሌላ ቀን ባልተናገረ ነበር።",
+            "en": "For if Jesus had given them rest, then would he not afterward have spoken of another day.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "እንግዲያስ የሰንበት ዕረፍት ለእግዚአብሔር ሕዝብ ቀርቶላቸዋል።",
+            "en": "There remaineth therefore a rest to the people of God.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ወደ ዕረፍቱ የገባ፥ እግዚአብሔር ከሥራው እንዳረፈ፥ እርሱ ደግሞ ከሥራው አርፎአልና።",
+            "en": "For he that is entered into his rest, he also hath ceased from his own works, as God did from his.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "እንግዲህ እንደዚያ እንደ አለመታዘዝ ምሳሌ ማንም እንዳይወድቅ ወደዚያ ዕረፍት ለመግባት እንትጋ።",
+            "en": "Let us labour therefore to enter into that rest, lest any man fall after the same example of unbelief.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "የእግዚአብሔር ቃል ሕያው ነውና፥ የሚሠራም፥ ሁለትም አፍ ካለው ሰይፍ ሁሉ ይልቅ የተሳለ ነው፥ ነፍስንና መንፈስንም ጅማትንና ቅልጥምንም እስኪለይ ድረስ ይወጋል፥ የልብንም ስሜትና አሳብ ይመረምራል፤",
+            "en": "For the word of God is quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and is a discerner of the thoughts and intents of the heart.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "እኛን በሚቆጣጠር በእርሱ ዓይኖቹ ፊት ሁሉ ነገር የተራቆተና የተገለጠ ነው እንጂ፥ በእርሱ ፊት የተሰወረ ፍጥረት የለም።",
+            "en": "Neither is there any creature that is not manifest in his sight: but all things are naked and opened unto the eyes of him with whom we have to do.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "እንግዲህ በሰማያት ያለፈ ትልቅ ሊቀ ካህናት የእግዚአብሔር ልጅ ኢየሱስ ስላለን፥ ጸንተን ሃይማኖታችንን እንጠብቅ።",
+            "en": "Seeing then that we have a great high priest, that is passed into the heavens, Jesus the Son of God, let us hold fast our profession.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ከኃጢአት በቀር በነገር ሁሉ እንደ እኛ የተፈተነ ነው እንጂ፥ በድካማችን ሊራራልን የማይችል ሊቀ ካህናት የለንም።",
+            "en": "For we have not an high priest which cannot be touched with the feeling of our infirmities; but was in all points tempted like as we are, yet without sin.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "እንግዲህ ምሕረትን እንድንቀበል በሚያስፈልገንም ጊዜ የሚረዳንን ጸጋ እንድናገኝ ወደ ጸጋው ዙፋን በእምነት እንቅረብ።",
+            "en": "Let us therefore come boldly unto the throne of grace, that we may obtain mercy, and find grace to help in time of need.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "ሊቀ ካህናት ሁሉ ስለ ኃጢአት መባንና መስዋዕትን ሊያቀርብ ከሰው ተመርጦ ለ እግዚአብሔር በሆነው ነገር ሁሉ ስለ ሰው ይሾማልና፤",
+            "en": "For every high priest taken from among men is ordained for men in things pertaining to God, that he may offer both gifts and sacrifices for sins:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "እርሱ ራሱም ደግሞ ድካምን ስለሚለብስ፥ ላልተማሩትና ለሚስቱት ሊራራላቸው ይችላል፤",
+            "en": "Who can have compassion on the ignorant, and on them that are out of the way; for that he himself also is compassed with infirmity.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "በዚህም ምክንያት ስለ ሕዝብ እንደሚያቀርብ እንዲሁ ስለ ራሱ ደግሞ መስዋዕትን ስለ ኃጢአት ሊያቀርብ ይገባዋል።",
+            "en": "And by reason hereof he ought, as for the people, so also for himself, to offer for sins.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "እንደ አሮንም በ እግዚአብሔር ከተጠራ በቀር ማንም ክብሩን ለራሱ የሚወስድ የለም።",
+            "en": "And no man taketh this honour unto himself, but he that is called of God, as was Aaron.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "እንዲሁ ክርስቶስ ደግሞ ሊቀ ካህናት ሊሆን ራሱን አላከበረም ነገር ግን። አንተ ልጄ ነህ እኔ ዛሬ ወልጄሃለሁ ያለው እርሱ ነው፤",
+            "en": "So also Christ glorified not himself to be made an high priest; but he that said unto him, Thou art my Son, to day have I begotten thee.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "እንደዚህም በሌላ ስፍራ ደግሞ። አንተ እንደ መልከ ጼዴቅ ሹመት ለዘላለም ካህን ነህ ይላል።",
+            "en": "As he saith also in another place, Thou art a priest for ever after the order of Melchisedec.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "እርሱም በስጋው ወራት ከሞት ሊያድነው ወደሚችል ከብርቱ ጩኸትና ከእንባ ጋር ጸሎትንና ምልጃን አቀረበ፥ እግዚአብሔር ንም ስለ መፍራቱ ተሰማለት፤",
+            "en": "Who in the days of his flesh, when he had offered up prayers and supplications with strong crying and tears unto him that was able to save him from death, and was heard in that he feared;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ምንም ልጅ ቢሆን፥ ከተቀበለው መከራ መታዘዝን ተማረ፤",
+            "en": "Though he were a Son, yet learned he obedience by the things which he suffered;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ከተፈጸመም በኋላ በ እግዚአብሔር እንደ መልከ ጼዴቅ ሹመት ሊቀ ካህናት ተብሎ ስለ ተጠራ፥ ለሚታዘዙለት ሁሉ የዘላለም መዳን ምክንያት ሆነላቸው።",
+            "en": "And being made perfect, he became the author of eternal salvation unto all them that obey him;",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              9,
+              10
+            ]
+          }
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ከተፈጸመም በኋላ በ እግዚአብሔር እንደ መልከ ጼዴቅ ሹመት ሊቀ ካህናት ተብሎ ስለ ተጠራ፥ ለሚታዘዙለት ሁሉ የዘላለም መዳን ምክንያት ሆነላቸው።",
+            "en": "Called of God an high priest after the order of Melchisedec.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              9,
+              10
+            ]
+          }
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ስለ እርሱም የምንናገረው ብዙ ነገር አለን፥ ጆሮቻችሁም ስለ ፈዘዙ በቃል ልንተረጕመው ጭንቅ ነው።",
+            "en": "Of whom we have many things to say, and hard to be uttered, seeing ye are dull of hearing.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "ከጊዜው የተነሳ አስተማሪዎች ልትሆኑ ሲገባችሁ፥ አንድ ሰው ስለ እግዚአብሔር ቃላት መጀመሪያ ያለውን የሕፃንነትን ትምህርት እንዲያስተምራችሁ እንደ ገና ያስፈልጋችኋልና፤ የሚያስፈልጋችሁም ወተት ነው እንጂ ጠንካራ ምግብ አይደለም።",
+            "en": "For when for the time ye ought to be teachers, ye have need that one teach you again which be the first principles of the oracles of God; and are become such as have need of milk, and not of strong meat.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ወተት የሚጋት ሁሉ ሕፃን ስለ ሆነ የጽድቅን ቃል አያውቅምና፤",
+            "en": "For every one that useth milk is unskilful in the word of righteousness: for he is a babe.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ጠንካራ ምግብ ግን መልካሙንና ክፉውን ለመለየት በስራቸው የለመደ ልቡና ላላቸው ለፍጹማን ሰዎች ነው።",
+            "en": "But strong meat belongeth to them that are of full age, even those who by reason of use have their senses exercised to discern both good and evil.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "ስለዚህ የክርስቶስን ነገር መጀመሪያ የሚናገረውን ቃል ትተን ወደ ፍጻሜ እንሂድ፤ መሠረትን ደግመን አንመሥርት፥ እርሱም ከሞተ ሥራ ንስሐና በእግዚአብሔር እምነት፥ ስለ ጥምቀቶችና እጆችንም ስለ መጫን ስለ ሙታንም ትንሣኤ ስለ ዘላለም ፍርድም ትምህርት ነው።",
+            "en": "Therefore leaving the principles of the doctrine of Christ, let us go on unto perfection; not laying again the foundation of repentance from dead works, and of faith toward God,",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ስለዚህ የክርስቶስን ነገር መጀመሪያ የሚናገረውን ቃል ትተን ወደ ፍጻሜ እንሂድ፤ መሠረትን ደግመን አንመሥርት፥ እርሱም ከሞተ ሥራ ንስሐና በእግዚአብሔር እምነት፥ ስለ ጥምቀቶችና እጆችንም ስለ መጫን ስለ ሙታንም ትንሣኤ ስለ ዘላለም ፍርድም ትምህርት ነው።",
+            "en": "Of the doctrine of baptisms, and of laying on of hands, and of resurrection of the dead, and of eternal judgment.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "እግዚአብሔርም ቢፈቅድ ይህን እናደርጋለን።",
+            "en": "And this will we do, if God permit.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "አንድ ጊዜ ብርሃን የበራላቸውን ሰማያዊውንም ስጦታ የቀመሱትን ከመንፈስ ቅዱስም ተካፋዮች ሆነው የነበሩትን",
+            "en": "For it is impossible for those who were once enlightened, and have tasted of the heavenly gift, and were made partakers of the Holy Ghost,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "መልካሙንም የእግዚአብሔርን ቃልና ሊመጣ ያለውን የዓለም ኃይል የቀመሱትን",
+            "en": "And have tasted the good word of God, and the powers of the world to come,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "በኋላም የካዱትን እንደገና ለንስሐ እነርሱን ማደስ የማይቻል ነው፤ ለራሳቸው የእግዚአብሔርን ልጅ ይሰቅሉታልና ያዋርዱትማልና።",
+            "en": "If they shall fall away, to renew them again unto repentance; seeing they crucify to themselves the Son of God afresh, and put him to an open shame.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ብዙ ጊዜ በእርስዋ ላይ የሚወርደውን ዝናብ የምትጠጣ መሬት፥ ለሚያርሱአትም ደግሞ የምትጠቅምን አትክልት የምታበቅል፥ ከእግዚአብሔር በረከትን ታገኛለችና፤",
+            "en": "For the earth which drinketh in the rain that cometh oft upon it, and bringeth forth herbs meet for them by whom it is dressed, receiveth blessing from God:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "እሾህና ኵርንችትን ግን ብታወጣ፥ የተጣለች ናት ለመረገምም ትቀርባለች፥ መጨረሻዋም መቃጠል ነው።",
+            "en": "But that which beareth thorns and briers is rejected, and is nigh unto cursing; whose end is to be burned.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ስለ እናንተ ግን፥ ወዳጆች ሆይ፥ ምንም እንኳ እንዲሁ ብንናገር፥ አብልጦ የሚሻለውና ለመዳን የሚሆነው እንዲሆንላችሁ ተረድተናል።",
+            "en": "But, beloved, we are persuaded better things of you, and things that accompany salvation, though we thus speak.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "እግዚአብሔር፥ ቅዱሳንን ስላገለገላችሁ እስከ አሁንም ስለምታገለግሉአቸው፥ ያደረጋችሁትን ሥራ ለስሙም ያሳያችሁትን ፍቅር ይረሳ ዘንድ ዓመፀኛ አይደለምና።",
+            "en": "For God is not unrighteous to forget your work and labour of love, which ye have shewed toward his name, in that ye have ministered to the saints, and do minister.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "በእምነትና በትዕግሥትም የተስፋውን ቃል የሚወርሱትን እንድትመስሉ እንጂ ዳተኞች እንዳትሆኑ፥ ተስፋ እስኪሞላ ድረስ እያንዳንዳችሁ ያን ትጋት እስከ መጨረሻ እንድታሳዩ እንመኛለን።",
+            "en": "And we desire that every one of you do shew the same diligence to the full assurance of hope unto the end:",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              11,
+              12
+            ]
+          }
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "በእምነትና በትዕግሥትም የተስፋውን ቃል የሚወርሱትን እንድትመስሉ እንጂ ዳተኞች እንዳትሆኑ፥ ተስፋ እስኪሞላ ድረስ እያንዳንዳችሁ ያን ትጋት እስከ መጨረሻ እንድታሳዩ እንመኛለን።",
+            "en": "That ye be not slothful, but followers of them who through faith and patience inherit the promises.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              11,
+              12
+            ]
+          }
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "እግዚአብሔርም ለአብርሃም ተስፋ በሰጠው ጊዜ። በእውነት እየባረክሁ እባርክሃለሁ እያበዛሁም አበዛሃለሁ ብሎ፥ ከእርሱ በሚበልጥ በማንም ሊምል ስላልቻለ፥ በራሱ ማለ፤",
+            "en": "For when God made promise to Abraham, because he could swear by no greater, he sware by himself,",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              13,
+              14
+            ]
+          }
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "እግዚአብሔርም ለአብርሃም ተስፋ በሰጠው ጊዜ። በእውነት እየባረክሁ እባርክሃለሁ እያበዛሁም አበዛሃለሁ ብሎ፥ ከእርሱ በሚበልጥ በማንም ሊምል ስላልቻለ፥ በራሱ ማለ፤",
+            "en": "Saying, Surely blessing I will bless thee, and multiplying I will multiply thee.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              13,
+              14
+            ]
+          }
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "እንዲሁም እርሱ ከታገሰ በኋላ ተስፋውን አገኘ።",
+            "en": "And so, after he had patiently endured, he obtained the promise.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ሰዎች ከእነርሱ በሚበልጠው ይምላሉና፥ ለማስረዳትም የሆነው መሐላ የሙግት ሁሉ ፍጻሜ ይሆናል፤",
+            "en": "For men verily swear by the greater: and an oath for confirmation is to them an end of all strife.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "ስለዚህም እግዚአብሔር፥ የተስፋውን ቃል ለሚወርሱ ፈቃዱ እንደ ማይለወጥ አብልጦ ሊያሳያቸው ስለ ፈቀደ፥ እግዚአብሔር ሊዋሽ በማይቻል በሁለት በማይለወጥ ነገር፥ በፊታችን ያለውን ተስፋ ለመያዝ ለሸሸን ለእኛ ብርቱ መጽናናት ይሆንልን ዘንድ፥ በመሓላ በመካከል ገባ፤",
+            "en": "Wherein God, willing more abundantly to shew unto the heirs of promise the immutability of his counsel, confirmed it by an oath:",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              17,
+              18
+            ]
+          }
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "ስለዚህም እግዚአብሔር፥ የተስፋውን ቃል ለሚወርሱ ፈቃዱ እንደ ማይለወጥ አብልጦ ሊያሳያቸው ስለ ፈቀደ፥ እግዚአብሔር ሊዋሽ በማይቻል በሁለት በማይለወጥ ነገር፥ በፊታችን ያለውን ተስፋ ለመያዝ ለሸሸን ለእኛ ብርቱ መጽናናት ይሆንልን ዘንድ፥ በመሓላ በመካከል ገባ፤",
+            "en": "That by two immutable things, in which it was impossible for God to lie, we might have a strong consolation, who have fled for refuge to lay hold upon the hope set before us:",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              17,
+              18
+            ]
+          }
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "ይህም ተስፋ እንደ ነፍስ መልሕቅ አለን እርሱም እርግጥና ጽኑ የሆነ ወደ መጋረጃውም ውስጥ የገባ ነው፤",
+            "en": "Which hope we have as an anchor of the soul, both sure and stedfast, and which entereth into that within the veil;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "በዚያም ኢየሱስ እንደ መልከ ጼዴቅ ሹመት ለዘላለም ሊቀ ካህናት የሆነው፥ ስለ እኛ ቀዳሚ ሆኖ ገባ።",
+            "en": "Whither the forerunner is for us entered, even Jesus, made an high priest for ever after the order of Melchisedec.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "የሳሌም ንጉሥና የልዑል እግዚአብሔር ካህን የሆነ ይህ መልከ ጼዴቅ አብርሃም ነገሥታትን ገድሎ ሲመለስ ከእርሱ ጋር ተገናኝቶ ባረከው፤",
+            "en": "For this Melchisedec, king of Salem, priest of the most high God, who met Abraham returning from the slaughter of the kings, and blessed him;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ለእርሱም ደግሞ አብርሃም ከሁሉ አስራትን አካፈለው። የስሙም ትርጓሜ በመጀመሪያ የጽድቅ ንጉሥ ነው፥ ኋላም ደግሞ የሳሌም ንጉሥ ማለት የሰላም ንጉሥ ነው።",
+            "en": "To whom also Abraham gave a tenth part of all; first being by interpretation King of righteousness, and after that also King of Salem, which is, King of peace;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "አባትና እናት የትውልድም ቍጥር የሉትም፥ ለዘመኑም ጥንት ለህይወቱም ፍጻሜ የለውም፥ ዳሩ ግን በእግዚአብሔር ልጅ ተመስሎ ለዘላለም ካህን ሆኖ ይኖራል።",
+            "en": "Without father, without mother, without descent, having neither beginning of days, nor end of life; but made like unto the Son of God; abideth a priest continually.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "የአባቶች አለቃ አብርሃም ከዘረፋው የሚሻለውን አስራት የሰጠው ይህ ሰው እንዴት ትልቅ እንደ ነበረ እስኪ ተመልከቱ።",
+            "en": "Now consider how great this man was, unto whom even the patriarch Abraham gave the tenth of the spoils.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ከሌዊ ልጆችም ክህነትን የሚቀበሉት ከህዝቡ ማለት ከወንድሞቻቸው፥ እነርሱ ምንም ከአብርሃም ወገብ ቢወጡ፥ ከእነርሱ አሥራትን በሕግ እንዲያስወጡ ትእዛዝ አላቸው፤",
+            "en": "And verily they that are of the sons of Levi, who receive the office of the priesthood, have a commandment to take tithes of the people according to the law, that is, of their brethren, though they come out of the loins of Abraham:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ትውልዱ ከእነርሱ የማይቈጠረው ግን ከአብርሃም አሥራትን አውጥቶአል፥ የተስፋ ቃል የነበረውንም ባርኮአል።",
+            "en": "But he whose descent is not counted from them received tithes of Abraham, and blessed him that had the promises.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ትንሹም በታላቁ እንዲባረክ ክርክር የሌለበት ነገር ነው።",
+            "en": "And without all contradiction the less is blessed of the better.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "በዚህስ የሚሞቱ ሰዎች አሥራትን ያስወጣሉ፥ በዚያ ግን የሚያስወጣ በሕይወት እንዲኖር የተመሰከረለት እርሱ ነው።",
+            "en": "And here men that die receive tithes; but there he receiveth them, of whom it is witnessed that he liveth.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ይህንም ለማለት ሲፈቀድ፥ አሥራትን የሚያስወጣ ሌዊ እንኳ በአብርሃም እጅ አሥራትን ሰጥቶአል፤",
+            "en": "And as I may so say, Levi also, who receiveth tithes, payed tithes in Abraham.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "መልከ ጼዴቅ በተገናኘው ጊዜ ገና በአባቱ ወገብ ነበረና።",
+            "en": "For he was yet in the loins of his father, when Melchisedec met him.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "እንግዲህ ህዝቡ በሌዊ ክህነት የተመሠረተን ሕግ ተቀብለዋልና በዚያ ክህነት ፍጹምነት የተገኘ ቢሆን፥ እንደ አሮን ሹመት የማይቈጠር፥ እንደ መልከ ጼዴቅ ሹመት ግን የሆነ ሌላ ካህን ሊነሳ ወደፊት ስለ ምን ያስፈልጋል?",
+            "en": "If therefore perfection were by the Levitical priesthood, (for under it the people received the law,) what further need was there that another priest should rise after the order of Melchisedec, and not be called after the order of Aaron?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "ክህነቱ ሲለወጥ፥ ሕጉ ደግሞ ሊለወጥ የግድ ነውና።",
+            "en": "For the priesthood being changed, there is made of necessity a change also of the law.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ይህ ነገር የተነገረለት እርሱ በሌላ ወገን ተካፍሎአልና፥ ከዚያም መሠዊያውን ያገለገለ ማንም የለም፤",
+            "en": "For he of whom these things are spoken pertaineth to another tribe, of which no man gave attendance at the altar.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ጌታችን ከይሁዳ ነገድ እንደወጣ የተገለጠ ነውና፥ ስለዚህም ነገድ ሙሴ ምንም እንኳ ስለ ክህነት አልተናገረም።",
+            "en": "For it is evident that our Lord sprang out of Juda; of which tribe Moses spake nothing concerning priesthood.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "በማያልፍም ሕይወት ኃይል እንጂ በሥጋ ትእዛዝ ሕግ ሳይሆን ሌላ ካህን በመልከ ጼዴቅ ምሳሌ ቢነሳ፥ ይህ እጅግ አብልጦ የሚገለጥ ነው።",
+            "en": "And it is yet far more evident: for that after the similitude of Melchisedec there ariseth another priest,",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              15,
+              16
+            ]
+          }
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "በማያልፍም ሕይወት ኃይል እንጂ በሥጋ ትእዛዝ ሕግ ሳይሆን ሌላ ካህን በመልከ ጼዴቅ ምሳሌ ቢነሳ፥ ይህ እጅግ አብልጦ የሚገለጥ ነው።",
+            "en": "Who is made, not after the law of a carnal commandment, but after the power of an endless life.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              15,
+              16
+            ]
+          }
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "አንተ እንደ መልከ ጼዴቅ ሹመት ለዘላለም ካህን ነህ ብሎ ይመሰክራልና።",
+            "en": "For he testifieth, Thou art a priest for ever after the order of Melchisedec.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "ሕጉ ምንም ፍጹም አላደረገምና፥ ስለዚህም የምትደክም የማትጠቅምም ስለሆነች የቀደመች ትእዛዝ ተሽራለች፥ ወደ እግዚአብሔርም የምንቀርብበት የሚሻል ተስፋ ገብቶአል።",
+            "en": "For there is verily a disannulling of the commandment going before for the weakness and unprofitableness thereof.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              18,
+              19
+            ]
+          }
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "ሕጉ ምንም ፍጹም አላደረገምና፥ ስለዚህም የምትደክም የማትጠቅምም ስለሆነች የቀደመች ትእዛዝ ተሽራለች፥ ወደ እግዚአብሔርም የምንቀርብበት የሚሻል ተስፋ ገብቶአል።",
+            "en": "For the law made nothing perfect, but the bringing in of a better hope did; by the which we draw nigh unto God.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              18,
+              19
+            ]
+          }
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "እነርሱም ያለ መሐላ ካህናት ሆነዋልና፤ እርሱ ግን። ጌታ። አንተ እንደ መልከ ጼዴቅ ሹመት ለዘላለም ካህን ነህ ብሎ ማለ አይጸጸትም ብሎ በተናገረለት ከመሐላ ጋር ካህን ሆኖአልና ያለ መሐላ ካህን እንዳልሆነ መጠን፥",
+            "en": "And inasmuch as not without an oath he was made priest:",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              20,
+              21
+            ]
+          }
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "እነርሱም ያለ መሐላ ካህናት ሆነዋልና፤ እርሱ ግን። ጌታ። አንተ እንደ መልከ ጼዴቅ ሹመት ለዘላለም ካህን ነህ ብሎ ማለ አይጸጸትም ብሎ በተናገረለት ከመሐላ ጋር ካህን ሆኖአልና ያለ መሐላ ካህን እንዳልሆነ መጠን፥",
+            "en": "For those priests were made without an oath; but this with an oath by him that said unto him, The Lord sware and will not repent, Thou art a priest for ever after the order of Melchisedec:)",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              20,
+              21
+            ]
+          }
+        },
+        {
+          "verse": 22,
+          "text": {
+            "am": "እንዲሁ ኢየሱስ ለሚሻል ኪዳን ዋስ ሆኖአል።",
+            "en": "By so much was Jesus made a surety of a better testament.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 23,
+          "text": {
+            "am": "እነርሱም እንዳይኖሩ ሞት ስለ ከለከላቸው ካህናት የሆኑት ብዙ ናቸው፤",
+            "en": "And they truly were many priests, because they were not suffered to continue by reason of death:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 24,
+          "text": {
+            "am": "እርሱ ግን ለዘላለም የሚኖር ስለሆነ የማይለወጥ ክህነት አለው፤",
+            "en": "But this man, because he continueth ever, hath an unchangeable priesthood.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 25,
+          "text": {
+            "am": "ስለ እነርሱም ሊያማልድ ዘወትር በሕይወት ይኖራልና ስለዚህ ደግሞ በእርሱ ወደ እግዚአብሔር የሚመጡትን ፈጽሞ ሊያድናቸው ይችላል።",
+            "en": "Wherefore he is able also to save them to the uttermost that come unto God by him, seeing he ever liveth to make intercession for them.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 26,
+          "text": {
+            "am": "ቅዱስና ያለ ተንኮል ነውርም የሌለበት ከኃጢአተኞችም የተለየ ከሰማያትም ከፍ ከፍ ያለ፥ እንደዚህ ያለ ሊቀ ካህናት ይገባልና፤",
+            "en": "For such an high priest became us, who is holy, harmless, undefiled, separate from sinners, and made higher than the heavens;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 27,
+          "text": {
+            "am": "እርሱም እንደነዚያ ሊቃነ ካህናት አስቀድሞ ስለ ራሱ ኃጢአት በኋላም ስለ ሕዝቡ ኃጢአት ዕለት ዕለት መሥዋዕትን ሊያቀርብ አያስፈልገውም፤ ራሱን ባቀረበ ጊዜ ይህን አንድ ጊዜ ፈጽሞ አድርጎአልና።",
+            "en": "Who needeth not daily, as those high priests, to offer up sacrifice, first for his own sins, and then for the people's: for this he did once, when he offered up himself.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 28,
+          "text": {
+            "am": "ሕጉ ድካም ያላቸውን ሰዎች ሊቀ ካህናት አድርጎ ይሾማልና፤ ከሕግ በኋላ የመጣ የመሐላው ቃል ግን ለዘላለም ፍጹም የሆነውን ልጅ ይሾማል።",
+            "en": "For the law maketh men high priests which have infirmity; but the word of the oath, which was since the law, maketh the Son, who is consecrated for evermore.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "ከተናገርነውም ዋና ነገሩ ይህ ነው፤ በሰማያት በግርማው ዙፋን ቀኝ የተቀመጠ እንዲህ ያለ ሊቀ ካህናት አለን፤",
+            "en": "Now of the things which we have spoken this is the sum: We have such an high priest, who is set on the right hand of the throne of the Majesty in the heavens;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "እርሱም የመቅደስና የእውነተኛይቱ ድንኳን አገልጋይ ነው፥ እርስዋም በሰው ሳይሆን በጌታ የተተከለች ናት።",
+            "en": "A minister of the sanctuary, and of the true tabernacle, which the Lord pitched, and not man.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ሊቀ ካህናት ሁሉ መባንና መሥዋዕትን ሊያቀርብ ይሾማልና፤ ስለዚህም ለዚህ ደግሞ የሚያቀርበው አንዳች ሊኖረው የግድ ነው።",
+            "en": "For every high priest is ordained to offer gifts and sacrifices: wherefore it is of necessity that this man have somewhat also to offer.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "እንግዲህ በምድር ቢኖርስ፥ እንደ ሕግ መባን የሚያቀርቡት ስላሉ፥ ካህን እንኳ ባልሆነም፤",
+            "en": "For if he were on earth, he should not be a priest, seeing that there are priests that offer gifts according to the law:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "እነርሱም ሙሴ ድንኳኒቱን ሊሠራ ሳለ እንደ ተረዳ፥ ለሰማያዊ ነገር ምሳሌና ጥላ የሚሆነውን ያገለግላሉ። በተራራው እንደ ተገለጠልህ ምሳሌ ሁሉን ታደርግ ዘንድ ተጠንቀቅ ብሎት ነበርና።",
+            "en": "Who serve unto the example and shadow of heavenly things, as Moses was admonished of God when he was about to make the tabernacle: for, See, saith he, that thou make all things according to the pattern shewed to thee in the mount.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "አሁን ግን በሚሻል ተስፋ ቃል በተመሠረተ በሚሻል ኪዳን ደግሞ መካከለኛ እንደሚሆን በዚያ ልክ እጅግ የሚሻል አገልግሎት አግኝቶአል።",
+            "en": "But now hath he obtained a more excellent ministry, by how much also he is the mediator of a better covenant, which was established upon better promises.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ፊተኛው ኪዳን ነቀፋ ባይኖረው፥ ለሁለተኛው ስፍራ ባልተፈለገም ነበር።",
+            "en": "For if that first covenant had been faultless, then should no place have been sought for the second.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "እነርሱን እየነቀፈ ይላቸዋልና። እነሆ፥ ከእስራኤል ቤትና ከይሁዳ ቤት ጋር አዲስ ኪዳን የምገባበት ወራት ይመጣል ይላል ጌታ፤",
+            "en": "For finding fault with them, he saith, Behold, the days come, saith the Lord, when I will make a new covenant with the house of Israel and with the house of Judah:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ከግብፅ አገር አወጣቸው ዘንድ እጃቸውን በያዝሁበት ቀን ከአባቶቻቸው ጋር እንደገባሁት ኪዳን አይደለም፤ እነርሱ በኪዳኔ አልጸኑምና፥ እኔም ቸል አልኋቸው ይላል ጌታ።",
+            "en": "Not according to the covenant that I made with their fathers in the day when I took them by the hand to lead them out of the land of Egypt; because they continued not in my covenant, and I regarded them not, saith the Lord.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ከዚያ ወራት በኋላ ከእስራኤል ቤት ጋር የምገባው ቃል ኪዳን ይህ ነውና ይላል ጌታ፤ ሕጌን በልቡናቸው አኖራለሁ በልባቸውም እጽፈዋለሁ፥ እኔም አምላክ እሆንላቸዋለሁ እነርሱም ሕዝብ ይሆኑልኛል።",
+            "en": "For this is the covenant that I will make with the house of Israel after those days, saith the Lord; I will put my laws into their mind, and write them in their hearts: and I will be to them a God, and they shall be to me a people:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "እያንዳንዱም ጐረቤቱን እያንዳንዱም ወንድሙን። ጌታን እወቅ ብሎ አያስተምርም ከታናሹ ጀምሮ እስከ ታላቁ ድረስ ሁሉ ያውቁኛልና።",
+            "en": "And they shall not teach every man his neighbour, and every man his brother, saying, Know the Lord: for all shall know me, from the least to the greatest.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "ዓመፃቸውን እምራቸዋለሁና፥ ኃጢአታቸውንም ደግሜ አላስብም።",
+            "en": "For I will be merciful to their unrighteousness, and their sins and their iniquities will I remember no more.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "አዲስ በማለቱ ፊተኛውን አስረጅቶአል፤ አሮጌና ውራጅ የሆነውስ ሊጠፋ ቀርቦአል።",
+            "en": "In that he saith, A new covenant, he hath made the first old. Now that which decayeth and waxeth old is ready to vanish away.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "ፊተኛይቱም ደግሞ የአገልግሎት ስርዓትና የዚህ ዓለም የሆነው መቅደስ ነበራት።",
+            "en": "Then verily the first covenant had also ordinances of divine service, and a worldly sanctuary.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "የመጀመሪያይቱ ድንኳን ተዘጋጅታ ነበርና፥ በእርስዋም ቅድስት በምትባለው ውስጥ መቅረዙና ጠረጴዛው የመስዋዕቱም ኅብስት ነበረባት፤",
+            "en": "For there was a tabernacle made; the first, wherein was the candlestick, and the table, and the shewbread; which is called the sanctuary.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ከሁለተኛውም መጋረጃ ወዲያ ቅድስተ ቅዱሳን የምትባለው ድንኳን ነበረች፥",
+            "en": "And after the second veil, the tabernacle which is called the Holiest of all;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "በዚያም ውስጥ የወርቅ ማዕጠንት ነበረ ሁለንተናዋም በወርቅ የተለበጠች የኪዳን ታቦት፤ በእርስዋም ውስጥ መና ያለባት የወርቅ መሶብና የበቀለች የአሮን በትር የኪዳኑም ጽላት ነበሩ፥",
+            "en": "Which had the golden censer, and the ark of the covenant overlaid round about with gold, wherein was the golden pot that had manna, and Aaron's rod that budded, and the tables of the covenant;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "በላይዋም ማስተስሪያውን የሚጋርዱ የክብር ኪሩቤል ነበሩ፤ ስለ እነዚህም ስለ እያንዳንዳቸው ልንናገር አሁን አንችልም።",
+            "en": "And over it the cherubims of glory shadowing the mercyseat; of which we cannot now speak particularly.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ይህም እንደዚህ ተዘጋጅቶ ሳለ፥ ካህናት አገልግሎታቸውን እየፈጸሙ ዘወትር በፊተኛይቱ ድንኳን ይገቡባታል፤",
+            "en": "Now when these things were thus ordained, the priests went always into the first tabernacle, accomplishing the service of God.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "በሁለተኛይቱ ግን ሊቀ ካህናት ብቻውን በዓመት አንድ ጊዜ ይገባባታል፥ እርሱም ሰለ ራሱና ስለ ሕዝቡ ስሕተት የሚያቀርበውን ደም ሳይዝ አይገባም፤",
+            "en": "But into the second went the high priest alone once every year, not without blood, which he offered for himself, and for the errors of the people:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ፊተኛይቱም ድንኳን በዚህ ገና ቆማ ሳለች፥ ወደ ቅድስት የሚወስደው መንገድ ገና እንዳልተገለጠ መንፈስ ቅዱስ ያሳያል።",
+            "en": "The Holy Ghost this signifying, that the way into the holiest of all was not yet made manifest, while as the first tabernacle was yet standing:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ይህም ለአሁኑ ጊዜ ምሳሌ ነው፥ እንደዚህም መባና መስዋዕት ይቀርባሉ፤ እነዚህም እስከ መታደስ ዘመን ድረስ የተደረጉ፥ ስለ ምግብና ስለ መጠጥም ስለ ልዩ ልዩ መታጠብም የሚሆኑ የሥጋ ሥርዓቶች ብቻ ናቸውና የሚያመልከውን በህሊና ፍጹም ሊያደርጉት አይችሉም።",
+            "en": "Which was a figure for the time then present, in which were offered both gifts and sacrifices, that could not make him that did the service perfect, as pertaining to the conscience;",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              9,
+              10
+            ]
+          }
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ይህም ለአሁኑ ጊዜ ምሳሌ ነው፥ እንደዚህም መባና መስዋዕት ይቀርባሉ፤ እነዚህም እስከ መታደስ ዘመን ድረስ የተደረጉ፥ ስለ ምግብና ስለ መጠጥም ስለ ልዩ ልዩ መታጠብም የሚሆኑ የሥጋ ሥርዓቶች ብቻ ናቸውና የሚያመልከውን በህሊና ፍጹም ሊያደርጉት አይችሉም።",
+            "en": "Which stood only in meats and drinks, and divers washings, and carnal ordinances, imposed on them until the time of reformation.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              9,
+              10
+            ]
+          }
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ነገር ግን ክርስቶስ ይመጣ ዘንድ ላለው መልካም ነገር ሊቀ ካህናት ሆኖ፥ በምትበልጠውና በምትሻለው በእጆችም ባልተሠራች ማለት ለዚህ ፍጥረት ባልሆነች ድንኳን፥",
+            "en": "But Christ being come an high priest of good things to come, by a greater and more perfect tabernacle, not made with hands, that is to say, not of this building;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "የዘላለምን ቤዛነት አግኝቶ አንድ ጊዜ ፈጽሞ ወደ ቅድስት በገዛ ደሙ ገባ እንጂ በፍየሎችና በጥጆች ደም አይደለም።",
+            "en": "Neither by the blood of goats and calves, but by his own blood he entered in once into the holy place, having obtained eternal redemption for us.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "የኮርማዎችና የፍየሎች ደም በረከሱትም ላይ የተረጨ የጊደር አመድ ሥጋን ለማንጻት የሚቀድሱ ከሆኑ፥",
+            "en": "For if the blood of bulls and of goats, and the ashes of an heifer sprinkling the unclean, sanctifieth to the purifying of the flesh:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ነውር የሌለው ሆኖ በዘላለም መንፈስ ራሱን ለእግዚአብሔር ያቀረበ የክርስቶስ ደም እንዴት ይልቅ ሕያውን እግዚአብሔርን ልታመልኩ ከሞተ ሥራ ሕሊናችሁን ያነጻ ይሆን?",
+            "en": "How much more shall the blood of Christ, who through the eternal Spirit offered himself without spot to God, purge your conscience from dead works to serve the living God?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ስለዚህም የፊተኛው ኪዳን ሲጸና ሕግን የተላለፉትን የሚቤዥ ሞት ስለ ሆነ፥ የተጠሩት የዘላለምን ርስት የተስፋ ቃል እንዲቀበሉ እርሱ የአዲስ ኪዳን መካከለኛ ነው።",
+            "en": "And for this cause he is the mediator of the new testament, that by means of death, for the redemption of the transgressions that were under the first testament, they which are called might receive the promise of eternal inheritance.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ኑዛዜ ያለ እንደሆነ የተናዛዡን ሞት ማርዳት የግድ ነውና፤",
+            "en": "For where a testament is, there must also of necessity be the death of the testator.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "ሰው ሲሞት ኑዛዜው ይጸናልና፥ ተናዛዡ በሕይወት ሲኖር ግን ከቶ አይጠቅምም።",
+            "en": "For a testament is of force after men are dead: otherwise it is of no strength at all while the testator liveth.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "ስለዚህም ፊተኛው ኪዳን እንኳ ያለ ደም አልተመረቀም።",
+            "en": "Whereupon neither the first testament was dedicated without blood.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "ሙሴም ትእዛዛትን ሁሉ እንደ ሕጉ ለሕዝቡ ሁሉ ከተናገረ በኋላ፥ የጥጆችንና የፍየሎችን ደም ከውኃና ከቀይ የበግ ጠጕር ከሂሶጵም ጋር ይዞ። እግዚአብሔር ያዘዘላችሁ የኪዳን ደም ይህ ነው ብሎ በመጽሐፉና በሕዝቡ ሁሉ ላይ ረጨው።",
+            "en": "For when Moses had spoken every precept to all the people according to the law, he took the blood of calves and of goats, with water, and scarlet wool, and hyssop, and sprinkled both the book, and all the people,",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              19,
+              20
+            ]
+          }
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "ሙሴም ትእዛዛትን ሁሉ እንደ ሕጉ ለሕዝቡ ሁሉ ከተናገረ በኋላ፥ የጥጆችንና የፍየሎችን ደም ከውኃና ከቀይ የበግ ጠጕር ከሂሶጵም ጋር ይዞ። እግዚአብሔር ያዘዘላችሁ የኪዳን ደም ይህ ነው ብሎ በመጽሐፉና በሕዝቡ ሁሉ ላይ ረጨው።",
+            "en": "Saying, This is the blood of the testament which God hath enjoined unto you.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              19,
+              20
+            ]
+          }
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "እንዲሁም በድንኳኒቱና በማገልገያው ዕቃ ሁሉ ደምን ረጨ።",
+            "en": "Moreover he sprinkled with blood both the tabernacle, and all the vessels of the ministry.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 22,
+          "text": {
+            "am": "እንደ ሕጉም ከጥቂቶች በቀር ነገር ሁሉ በደም ይነጻል፥ ደምም ሳይፈስ ስርየት የለም።",
+            "en": "And almost all things are by the law purged with blood; and without shedding of blood is no remission.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 23,
+          "text": {
+            "am": "እንግዲህ በሰማያት ያሉትን የሚመስለው ነገር በዚህ ሊነጻ እንጂ በሰማያት ያሉቱ ራሳቸው ከእርሱ ይልቅ በሚበልጥ መስዋዕት ሊነጹ የግድ ነበረ።",
+            "en": "It was therefore necessary that the patterns of things in the heavens should be purified with these; but the heavenly things themselves with better sacrifices than these.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 24,
+          "text": {
+            "am": "ክርስቶስ በእጅ ወደ ተሰራች፥ የእውነተኛይቱ ምሳሌ ወደ ምትሆን ቅድስት አልገባምና፥ ነገር ግን በእግዚአብሔር ፊት ስለ እኛ አሁን ይታይ ዘንድ ወደ እርስዋ ወደ ሰማይ ገባ።",
+            "en": "For Christ is not entered into the holy places made with hands, which are the figures of the true; but into heaven itself, now to appear in the presence of God for us:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 25,
+          "text": {
+            "am": "ሊቀ ካህናትም በየዓመቱ የሌላውን ደም ይዞ ወደ ቅድስት እንደሚገባ፥ ራሱን ብዙ ጊዜ ሊያቀርብ አልገባም፤",
+            "en": "Nor yet that he should offer himself often, as the high priest entereth into the holy place every year with blood of others;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 26,
+          "text": {
+            "am": "እንዲህ ቢሆንስ፥ ዓለም ከተፈጠረ ጀምሮ ብዙ ጊዜ መከራ ሊቀበል ባስፈለገው ነበር፤ አሁን ግን በዓለም ፍጻሜ ራሱን በመሠዋት ኃጢአትን ሊሽር አንድ ጊዜ ተገልጦአል።",
+            "en": "For then must he often have suffered since the foundation of the world: but now once in the end of the world hath he appeared to put away sin by the sacrifice of himself.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 27,
+          "text": {
+            "am": "ለሰዎችም አንድ ጊዜ መሞት ከእርሱ በኋላም ፍርድ እንደ ተመደበባቸው፥",
+            "en": "And as it is appointed unto men once to die, but after this the judgment:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 28,
+          "text": {
+            "am": "እንዲሁ ክርስቶስ ደግሞ፥ የብዙዎችን ኃጢአት ሊሸከም አንድ ጊዜ ከተሰዋ በኋላ፥ ያድናቸው ዘንድ ለሚጠባበቁት ሁለተኛ ጊዜ ያለ ኃጢአት ይታይላቸዋል።",
+            "en": "So Christ was once offered to bear the sins of many; and unto them that look for him shall he appear the second time without sin unto salvation.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "ሕጉ ሊመጣ ያለው የበጎ ነገር እውነተኛ አምሳል ሳይሆን የነገር ጥላ አለውና፥ ስለዚህም በየዓመቱ ዘወትር በሚያቀርቡት በዚያ መሥዋዕት የሚቀርቡትን ሊፈጽም ከቶ አይችልም።",
+            "en": "For the law having a shadow of good things to come, and not the very image of the things, can never with those sacrifices which they offered year by year continually make the comers thereunto perfect.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "እንደዚህማ ባይሆን፥ የሚያመልኩት አንድ ጊዜ ነጽተው ከዚያ በኋላ በሕሊናቸው ኃጢአትን ስላላወቁ ማቅረብን በተዉ አልነበረምን?",
+            "en": "For then would they not have ceased to be offered? because that the worshippers once purged should have had no more conscience of sins.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ነገር ግን በዚያ መሥዋዕት በየዓመቱ የኃጢአት መታሰቢያ አለ፤",
+            "en": "But in those sacrifices there is a remembrance again made of sins every year.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "የኮርማዎችና የፍየሎች ደም ኃጢአትን እንዲያስወግድ የማይቻል ነውና።",
+            "en": "For it is not possible that the blood of bulls and of goats should take away sins.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ስለዚህ ወደ ዓለም ሲገባ። መሥዋዕትንና መባን አልወደድህም ሥጋን ግን አዘጋጀህልኝ፤",
+            "en": "Wherefore when he cometh into the world, he saith, Sacrifice and offering thou wouldest not, but a body hast thou prepared me:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "በሙሉ በሚቃጠል መሥዋዕትና ሰለ ኃጢአት በሚሰዋ መሥዋዕት ደስ አላለህም።",
+            "en": "In burnt offerings and sacrifices for sin thou hast had no pleasure.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "በዚያን ጊዜ። እነሆ፥ በመጽሐፍ ጥቅልል ስለ እኔ እንደ ተጻፈ፥ አምላኬ ሆይ፥ ፈቃድህን ላደርግ መጥቼአለሁ አልሁ",
+            "en": "Then said I, Lo, I come (in the volume of the book it is written of me,) to do thy will, O God.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ይላል። በዚህ ላይ። መሥዋዕትንና መባን በሙሉ የሚቃጠል መሥዋዕትንም ስለ ኃጢአትም የሚሰዋ መሥዋዕትን አልወደድህም በእርሱም ደስ አላለህም ብሎ፥ እነዚህም እንደ ሕግ የሚቀርቡት ናቸው፥",
+            "en": "Above when he said, Sacrifice and offering and burnt offerings and offering for sin thou wouldest not, neither hadst pleasure therein; which are offered by the law;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ቀጥሎ። እነሆ፥ አምላኬ ሆይ፥ ፈቃድህን ላደርግ መጥቼአለሁ ብሎአል። ሁለተኛውንም ሊያቆም የፊተኛውን ይሽራል።",
+            "en": "Then said he, Lo, I come to do thy will, O God. He taketh away the first, that he may establish the second.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "በዚህም ፈቃድ የኢየሱስ ክርስቶስን ሥጋ አንድ ጊዜ ፈጽሞ በማቅረብ ተቀድሰናል።",
+            "en": "By the which will we are sanctified through the offering of the body of Jesus Christ once for all.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ሊቀ ካህናትም ሁሉ ዕለት ዕለት እያገለገለ ኃጢአትን ሊያስወግዱ ከቶ የማይችሉትን እነዚያን መሥዋዕቶች ብዙ ጊዜ እያቀረበ ቆሞአል፤",
+            "en": "And every priest standeth daily ministering and offering oftentimes the same sacrifices, which can never take away sins:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "እርሱ ግን ስለ ኃጢአት አንድን መሥዋዕት ለዘላለም አቅርቦ በእግዚአብሔር ቀኝ ተቀመጠ፥",
+            "en": "But this man, after he had offered one sacrifice for sins for ever, sat down on the right hand of God;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ጠላቶቹም የእግሩ መረገጫ እስኪደረጉ ድረስ ወደ ፊት ይጠብቃል።",
+            "en": "From henceforth expecting till his enemies be made his footstool.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "አንድ ጊዜ በማቅረብ የሚቀደሱትን የዘላለም ፍጹማን አድርጎአቸዋልና።",
+            "en": "For by one offering he hath perfected for ever them that are sanctified.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "መንፈስ ቅዱስም ደግሞ ስለዚህ ይመሰክርልናል፤ ከዚያ ወራት በኋላ ከእነርሱ ጋር የምገባው ኪዳን ይህ ነው ይላል ጌታ፤ በልባቸው ሕጌን አኖራለሁ በልቡናቸውም እጽፈዋለሁ",
+            "en": "Whereof the Holy Ghost also is a witness to us: for after that he had said before,",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              15,
+              16
+            ]
+          }
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "መንፈስ ቅዱስም ደግሞ ስለዚህ ይመሰክርልናል፤ ከዚያ ወራት በኋላ ከእነርሱ ጋር የምገባው ኪዳን ይህ ነው ይላል ጌታ፤ በልባቸው ሕጌን አኖራለሁ በልቡናቸውም እጽፈዋለሁ",
+            "en": "This is the covenant that I will make with them after those days, saith the Lord, I will put my laws into their hearts, and in their minds will I write them;",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              15,
+              16
+            ]
+          }
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "ብሎ ከተናገረ በኋላ፥ ኃጢአታቸውንና ዓመጻቸውንም ደግሜ አላስብም ይላል።",
+            "en": "And their sins and iniquities will I remember no more.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "የእነዚህም ስርየት ባለበት ዘንድ፥ ከዚህ ወዲህ ስለ ኃጢአት ማቅረብ የለም።",
+            "en": "Now where remission of these is, there is no more offering for sin.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "እንግዲህ፥ ወንድሞች ሆይ፥ በመረቀልን በአዲስና በሕያው መንገድ ወደ ቅድስት በኢየሱስ ደም በመጋረጃው ማለት በሥጋው በኩል እንድንገባ ድፍረት ስላለን፥",
+            "en": "Having therefore, brethren, boldness to enter into the holiest by the blood of Jesus,",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              19,
+              20
+            ]
+          }
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "እንግዲህ፥ ወንድሞች ሆይ፥ በመረቀልን በአዲስና በሕያው መንገድ ወደ ቅድስት በኢየሱስ ደም በመጋረጃው ማለት በሥጋው በኩል እንድንገባ ድፍረት ስላለን፥",
+            "en": "By a new and living way, which he hath consecrated for us, through the veil, that is to say, his flesh;",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              19,
+              20
+            ]
+          }
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "በእግዚአብሔርም ቤት ላይ የሆነ ታላቅ ካህን ስላለን፥",
+            "en": "And having an high priest over the house of God;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 22,
+          "text": {
+            "am": "ከክፉ ሕሊና ለመንጻት ልባችንን ተረጭተን ሰውነታችንንም በጥሩ ውኃ ታጥበን በተረዳንበት እምነት በቅን ልብ እንቅረብ፤",
+            "en": "Let us draw near with a true heart in full assurance of faith, having our hearts sprinkled from an evil conscience, and our bodies washed with pure water.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 23,
+          "text": {
+            "am": "የተስፋን ቃል የሰጠው የታመነ ነውና እንዳይነቃነቅ የተስፋችንን ምስክርነት እንጠብቅ፤",
+            "en": "Let us hold fast the profession of our faith without wavering; (for he is faithful that promised;)",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 24,
+          "text": {
+            "am": "ለፍቅርና ለመልካምም ሥራ እንድንነቃቃ እርስ በርሳችን እንተያይ፤",
+            "en": "And let us consider one another to provoke unto love and to good works:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 25,
+          "text": {
+            "am": "በአንዳንዶችም ዘንድ ልማድ እንደ ሆነው፥ መሰብሰባችንን አንተው እርስ በርሳችን እንመካከር እንጂ፤ ይልቁንም ቀኑ ሲቀርብ እያያችሁ አብልጣችሁ ይህን አድርጉ።",
+            "en": "Not forsaking the assembling of ourselves together, as the manner of some is; but exhorting one another: and so much the more, as ye see the day approaching.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 26,
+          "text": {
+            "am": "የእውነትን እውቀት ከተቀበልን በኋላ ወደን ኃጢአት ብናደርግ ከእንግዲህ ወዲህ ስለ ኃጢአት መሥዋዕት አይቀርልንምና፥",
+            "en": "For if we sin wilfully after that we have received the knowledge of the truth, there remaineth no more sacrifice for sins,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 27,
+          "text": {
+            "am": "የሚያስፈራ ግን የፍርድ መጠበቅ ተቃዋሚዎችንም ሊበላ ያለው የእሳት ብርታት አለ።",
+            "en": "But a certain fearful looking for of judgment and fiery indignation, which shall devour the adversaries.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 28,
+          "text": {
+            "am": "የሙሴን ሕግ የናቀ ሰው ሁለት ወይም ሦስት ቢመሰክሩበት ያለ ርኅራኄ ይሞታል፤",
+            "en": "He that despised Moses' law died without mercy under two or three witnesses:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 29,
+          "text": {
+            "am": "የእግዚአብሔርን ልጅ የረገጠ ያንንም የተቀደሰበትን የኪዳኑን ደም እንደ ርኵስ ነገር የቆጠረ የጸጋውንም መንፈስ ያክፋፋ፥ እንዴት ይልቅ የሚብስ ቅጣት የሚገባው ይመስላችኋል?",
+            "en": "Of how much sorer punishment, suppose ye, shall he be thought worthy, who hath trodden under foot the Son of God, and hath counted the blood of the covenant, wherewith he was sanctified, an unholy thing, and hath done despite unto the Spirit of grace?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 30,
+          "text": {
+            "am": "በቀል የእኔ ነው፥ እኔ ብድራትን እመልሳለሁ ያለውን እናውቃለንና፤ ደግሞም። ጌታ በሕዝቡ ይፈርዳል።",
+            "en": "For we know him that hath said, Vengeance belongeth unto me, I will recompense, saith the Lord. And again, The Lord shall judge his people.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 31,
+          "text": {
+            "am": "በሕያው እግዚአብሔር እጅ መውደቅ የሚያስፈራ ነው።",
+            "en": "It is a fearful thing to fall into the hands of the living God.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 32,
+          "text": {
+            "am": "ነገር ግን ግማሽ በነቀፋና በጭንቅ እንደ መጫወቻ ስለ ሆናችሁ ግማሽም እንዲህ ካሉት ጋር ስለ ተካፈላችሁ፥ ብርሃን ከበራላችሁ በኋላ መከራ በሆነበት በትልቅ ተጋድሎ የጸናችሁበትን የቀደመውን ዘመን አስቡ።",
+            "en": "But call to remembrance the former days, in which, after ye were illuminated, ye endured a great fight of afflictions;",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              32,
+              33
+            ]
+          }
+        },
+        {
+          "verse": 33,
+          "text": {
+            "am": "ነገር ግን ግማሽ በነቀፋና በጭንቅ እንደ መጫወቻ ስለ ሆናችሁ ግማሽም እንዲህ ካሉት ጋር ስለ ተካፈላችሁ፥ ብርሃን ከበራላችሁ በኋላ መከራ በሆነበት በትልቅ ተጋድሎ የጸናችሁበትን የቀደመውን ዘመን አስቡ።",
+            "en": "Partly, whilst ye were made a gazingstock both by reproaches and afflictions; and partly, whilst ye became companions of them that were so used.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              32,
+              33
+            ]
+          }
+        },
+        {
+          "verse": 34,
+          "text": {
+            "am": "የሚበልጥና ለዘወትር የሚኖር ገንዘብ በሰማይ ራሳችሁ እንዳላችሁ አውቃችሁ፥ በእስራቴ ራራችሁልኝ የገንዘባችሁንም ንጥቂያ በደስታ ተቀበላችሁ።",
+            "en": "For ye had compassion of me in my bonds, and took joyfully the spoiling of your goods, knowing in yourselves that ye have in heaven a better and an enduring substance.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 35,
+          "text": {
+            "am": "እንግዲህ ታላቅ ብድራት ያለውን ድፍረታችሁን አትጣሉ።",
+            "en": "Cast not away therefore your confidence, which hath great recompence of reward.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 36,
+          "text": {
+            "am": "የእግዚአብሔርን ፈቃድ አድርጋችሁ የተሰጣችሁን የተስፋ ቃል እንድታገኙ መጽናት ያስፈልጋችኋልና።",
+            "en": "For ye have need of patience, that, after ye have done the will of God, ye might receive the promise.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 37,
+          "text": {
+            "am": "ገና በጣም ጥቂት ጊዜ ነው፥ ሊመጣ ያለውም ይመጣል አይዘገይምም፤",
+            "en": "For yet a little while, and he that shall come will come, and will not tarry.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 38,
+          "text": {
+            "am": "ጻድቅ ግን በእምነት ይኖራል ወደ ኋላም ቢያፈገፍግ፥ ነፍሴ በእርሱ ደስ አይላትም።",
+            "en": "Now the just shall live by faith: but if any man draw back, my soul shall have no pleasure in him.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 39,
+          "text": {
+            "am": "እኛ ግን ነፍሳቸውን ሊያድኑ ከሚያምኑቱ ነን እንጂ ወደ ጥፋት ከሚያፈገፍጉ አይደለንም።",
+            "en": "But we are not of them who draw back unto perdition; but of them that believe to the saving of the soul.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "እምነትም ተስፋ ስለምናደርገው ነገር የሚያስረግጥ፥ የማናየውንም ነገር የሚያስረዳ ነው።",
+            "en": "Now faith is the substance of things hoped for, the evidence of things not seen.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ለሽማግሌዎች የተመሰከረላቸው በዚህ ነውና።",
+            "en": "For by it the elders obtained a good report.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ዓለሞች በእግዚአብሔር ቃል እንደ ተዘጋጁ፥ ስለዚህም የሚታየው ነገር ከሚታዩት እንዳልሆነ በእምነት እናስተውላለን።",
+            "en": "Through faith we understand that the worlds were framed by the word of God, so that things which are seen were not made of things which do appear.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "አቤል ከቃየል ይልቅ የሚበልጥን መሥዋዕት ለእግዚአብሔር በእምነት አቀረበ፥ በዚህም፥ እግዚአብሔር ስለ ስጦታው ሲመሰክር፥ እርሱ ጻድቅ እንደ ሆነ ተመሰከረለት፤ ሞቶም ሳለ በመሥዋዕቱ እስከ አሁን ይናገራል።",
+            "en": "By faith Abel offered unto God a more excellent sacrifice than Cain, by which he obtained witness that he was righteous, God testifying of his gifts: and by it he being dead yet speaketh.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ሄኖክ ሞትን እንዳያይ በእምነት ተወሰደ፥ እግዚአብሔርም ስለ ወሰደው አልተገኘም። ሳይወሰድ እግዚአብሔርን ደስ እንዳሰኘ ተመስክሮለታልና፤",
+            "en": "By faith Enoch was translated that he should not see death; and was not found, because God had translated him: for before his translation he had this testimony, that he pleased God.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ያለ እምነትም ደስ ማሰኘት አይቻልም፤ ወደ እግዚአብሔር የሚደርስ እግዚአብሔር እንዳለ ለሚፈልጉትም ዋጋ እንዲሰጥ ያምን ዘንድ ያስፈልገዋልና።",
+            "en": "But without faith it is impossible to please him: for he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ኖኅ ገና ስለማይታየው ነገር ተረድቶ እግዚአብሔርን እየፈራ ቤተ ስዎቹን ለማዳን መርከብን በእምነት አዘጋጀ፥ በዚህም ዓለምን ኰነነ፥ በእምነትም የሚገኘውን ጽድቅ ወራሽ ሆነ።",
+            "en": "By faith Noah, being warned of God of things not seen as yet, moved with fear, prepared an ark to the saving of his house; by the which he condemned the world, and became heir of the righteousness which is by faith.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "አብርሃም የተባለው ርስት አድርጎ ሊቀበለው ወዳለው ስፍራ ለመውጣት በእምነት ታዘዘ፥ ወዴትም እንደሚሄድ ሳያውቅ ወጣ።",
+            "en": "By faith Abraham, when he was called to go out into a place which he should after receive for an inheritance, obeyed; and he went out, not knowing whither he went.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ለእንግዶች እንደሚሆን በተስፋ ቃል በተሰጠው አገር በድንኳን ኖሮ፥ ያን የተስፋ ቃል አብረውት ከሚወርሱ ከይስሐቅና ከያዕቆብ ጋር፥ እንደ መጻተኛ በእምነት ተቀመጠ፤",
+            "en": "By faith he sojourned in the land of promise, as in a strange country, dwelling in tabernacles with Isaac and Jacob, the heirs with him of the same promise:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "መሠረት ያላትን፥ እግዚአብሔር የሠራትንና የፈጠራትን ከተማ ይጠብቅ ነበርና።",
+            "en": "For he looked for a city which hath foundations, whose builder and maker is God.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ተስፋ የሰጠው የታመነ እንደ ሆነ ስለ ቈጠረች፥ ሣራ ራስዋ ደግሞ ዕድሜዋ እንኳ ካለፈ በኋላ ዘርን ለመፅነስ ኃይልን በእምነት አገኘች።",
+            "en": "Through faith also Sara herself received strength to conceive seed, and was delivered of a child when she was past age, because she judged him faithful who had promised.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "ስለዚህ ደግሞ በብዛታቸው እንደ ሰማይ ኮከብ እንደማይቈጠርም በባሕር ዳር እንዳለ አሸዋ የነበሩት የሞተን ሰው እንኳ ከመሰለው ከአንዱ ተወለዱ።",
+            "en": "Therefore sprang there even of one, and him as good as dead, so many as the stars of the sky in multitude, and as the sand which is by the sea shore innumerable.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "እነዚህ ሁሉ አምነው ሞቱ፥ የተሰጣቸውን የተስፋ ቃል አላገኙምና፤ ዳሩ ግን ከሩቅ ሆነው አዩትና ተሳለሙት፥ በምድሪቱም እንግዶችና መጻተኞች እንዲሆኑ ታመኑ።",
+            "en": "These all died in faith, not having received the promises, but having seen them afar off, and were persuaded of them, and embraced them, and confessed that they were strangers and pilgrims on the earth.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "እንዲህ የሚሉት ለእነርሱ የሚሆነውን አገር እንዲፈልጉ ያመለክታሉና።",
+            "en": "For they that say such things declare plainly that they seek a country.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ያን የወጡበትን አገር አስበው ቢሆኑ፥ ሊመለሱ ጊዜ በሆነላቸው ነበር፤",
+            "en": "And truly, if they had been mindful of that country from whence they came out, they might have had opportunity to have returned.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "አሁን ግን የሚበልጠውን እርሱም ሰማያዊ አገር ይናፍቃሉ። ስለዚህ እግዚአብሔር አምላካቸው ተብሎ ሊጠራ በእነርሱ አያፍርም፥ ከተማን አዘጋጅቶላቸዋልና።",
+            "en": "But now they desire a better country, that is, an heavenly: wherefore God is not ashamed to be called their God: for he hath prepared for them a city.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "አብርሃም በተፈተነበት ጊዜ ይስሐቅን በእምነት አቀረበ፥ የተስፋን ቃል የተቀበለው። በይስሐቅ ዘር ይጠራልሃል የተባለለት እርሱም አንድ ልጁን አቀረበ፤",
+            "en": "By faith Abraham, when he was tried, offered up Isaac: and he that had received the promises offered up his only begotten son,",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              17,
+              18
+            ]
+          }
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "አብርሃም በተፈተነበት ጊዜ ይስሐቅን በእምነት አቀረበ፥ የተስፋን ቃል የተቀበለው። በይስሐቅ ዘር ይጠራልሃል የተባለለት እርሱም አንድ ልጁን አቀረበ፤",
+            "en": "Of whom it was said, That in Isaac shall thy seed be called:",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              17,
+              18
+            ]
+          }
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "እግዚአብሔር ከሙታን እንኳ ሊያስነሣው እንዲቻለው አስቦአልና፥ ከዚያም ደግሞ በምሳሌ አገኘው።",
+            "en": "Accounting that God was able to raise him up, even from the dead; from whence also he received him in a figure.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "ይስሐቅ ሊመጣ ስላለው ነገር ያዕቆብንና ዔሳውን በእምነት ባረካቸው።",
+            "en": "By faith Isaac blessed Jacob and Esau concerning things to come.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "ያዕቆብ ሲሞት በእምነት የዮሴፍን ልጆች እያንዳንዳቸው ባረካቸው፥ በዘንጉም ጫፍ ተጠግቶ ሰገደ።",
+            "en": "By faith Jacob, when he was a dying, blessed both the sons of Joseph; and worshipped, leaning upon the top of his staff.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 22,
+          "text": {
+            "am": "ዮሴፍ ወደ ሞት ቀርቦ ሳለ በእምነት ስለ እስራኤል ልጆች መውጣት አስታወሰ፥ ስለ አጥንቱም አዘዛቸው።",
+            "en": "By faith Joseph, when he died, made mention of the departing of the children of Israel; and gave commandment concerning his bones.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 23,
+          "text": {
+            "am": "ሙሴ ከተወለደ በኋላ ወላጆቹ ያማረ ሕፃን መሆኑን አይተው በእምነት ሦስት ወር ሸሸጉት የንጉሥንም አዋጅ አልፈሩም።",
+            "en": "By faith Moses, when he was born, was hid three months of his parents, because they saw he was a proper child; and they were not afraid of the king's commandment.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 24,
+          "text": {
+            "am": "ሙሴ ካደገ በኋላ የፈርዖን የልጅ ልጅ እንዳይባል በእምነት እምቢ አለ፤",
+            "en": "By faith Moses, when he was come to years, refused to be called the son of Pharaoh's daughter;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 25,
+          "text": {
+            "am": "ከግብፅም ብዙ ገንዘብ ይልቅ ስለ ክርስቶስ መነቀፍ እጅግ የሚበልጥ ባለ ጠግነት እንዲሆን አስቦአልና ለጊዜው በኃጢአት ከሚገኝ ደስታ ይልቅ ከእግዚአብሔር ሕዝብ ጋር መከራ መቀበልን መረጠ፤ ብድራቱን ትኵር ብሎ ተመልክቶአልና።",
+            "en": "Choosing rather to suffer affliction with the people of God, than to enjoy the pleasures of sin for a season;",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              25,
+              26
+            ]
+          }
+        },
+        {
+          "verse": 26,
+          "text": {
+            "am": "ከግብፅም ብዙ ገንዘብ ይልቅ ስለ ክርስቶስ መነቀፍ እጅግ የሚበልጥ ባለ ጠግነት እንዲሆን አስቦአልና ለጊዜው በኃጢአት ከሚገኝ ደስታ ይልቅ ከእግዚአብሔር ሕዝብ ጋር መከራ መቀበልን መረጠ፤ ብድራቱን ትኵር ብሎ ተመልክቶአልና።",
+            "en": "Esteeming the reproach of Christ greater riches than the treasures in Egypt: for he had respect unto the recompence of the reward.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              25,
+              26
+            ]
+          }
+        },
+        {
+          "verse": 27,
+          "text": {
+            "am": "የንጉሡን ቍጣ ሳይፈራ የግብፅን አገር የተወ በእምነት ነበር፤ የማይታየውን እንደሚያየው አድርጎ ጸንቶአልና።",
+            "en": "By faith he forsook Egypt, not fearing the wrath of the king: for he endured, as seeing him who is invisible.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 28,
+          "text": {
+            "am": "አጥፊው የበኵሮችን ልጆች እንዳይነካ ፋሲካንና ደምን መርጨትን በእምነት አደረገ።",
+            "en": "Through faith he kept the passover, and the sprinkling of blood, lest he that destroyed the firstborn should touch them.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 29,
+          "text": {
+            "am": "በደረቅ ምድር እንደሚያልፉ በኤርትራ ባሕር በእምነት ተሻገሩ፥ የግብፅ ሰዎች ግን ሲሞክሩ ተዋጡ።",
+            "en": "By faith they passed through the Red sea as by dry land: which the Egyptians assaying to do were drowned.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 30,
+          "text": {
+            "am": "የኢያሪኮ ቅጥር ሰባት ቀን ከዞሩበት በኋላ በእምነት ወደቀ።",
+            "en": "By faith the walls of Jericho fell down, after they were compassed about seven days.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 31,
+          "text": {
+            "am": "ጋለሞታይቱ ረዓብ ሰላዮችን በሰላም ስለ ተቀበለቻቸው ከማይታዘዙ ጋር በእምነት አልጠፋችም።",
+            "en": "By faith the harlot Rahab perished not with them that believed not, when she had received the spies with peace.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 32,
+          "text": {
+            "am": "እንግዲህ ምን እላለሁ? ስለ ጌዴዎንና ስለ ባርቅ ስለ ሶምሶንም ስለ ዮፍታሔም ስለ ዳዊትና ስለ ሳሙኤልም ስለ ነቢያትም እንዳልተርክ ጊዜ ያጥርብኛልና።",
+            "en": "And what shall I more say? for the time would fail me to tell of Gedeon, and of Barak, and of Samson, and of Jephthae; of David also, and Samuel, and of the prophets:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 33,
+          "text": {
+            "am": "እነርሱ በእምነት መንግሥታትን ድል ነሡ፥ ጽድቅን አደረጉ፥ የተሰጠውን የተስፋ ቃል አገኙ፥",
+            "en": "Who through faith subdued kingdoms, wrought righteousness, obtained promises, stopped the mouths of lions,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 34,
+          "text": {
+            "am": "የአንበሶችን አፍ ዘጉ፥ የእሳትን ኃይል አጠፉ፥ ከሰይፍ ስለት አመለጡ፥ ከድካማቸው በረቱ፥ በጦርነት ኃይለኞች ሆኑ፥ የባዕድ ጭፍሮችን አባረሩ።",
+            "en": "Quenched the violence of fire, escaped the edge of the sword, out of weakness were made strong, waxed valiant in fight, turned to flight the armies of the aliens.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 35,
+          "text": {
+            "am": "ሴቶች ሙታናቸውን በትንሣኤ ተቀበሉ፤ ሌሎችም መዳንን ሳይቀበሉ የሚበልጠውን ትንሣኤ እንዲያገኙ እስከ ሞት ድረስ ተደበደቡ፤",
+            "en": "Women received their dead raised to life again: and others were tortured, not accepting deliverance; that they might obtain a better resurrection:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 36,
+          "text": {
+            "am": "ሌሎችም መዘበቻ በመሆንና በመገረፍ ከዚህም በላይ በእስራትና በወኅኒ ተፈተኑ፤",
+            "en": "And others had trial of cruel mockings and scourgings, yea, moreover of bonds and imprisonment:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 37,
+          "text": {
+            "am": "በድንጋይ ተወግረው ሞቱ፥ ተፈተኑ፥ በመጋዝ ተሰነጠቁ፥ በሰይፍ ተገድለው ሞቱ፥ ሁሉን እያጡ መከራን እየተቀበሉ እየተጨነቁ የበግና የፍየል ሌጦ ለብሰው ዞሩ፤",
+            "en": "They were stoned, they were sawn asunder, were tempted, were slain with the sword: they wandered about in sheepskins and goatskins; being destitute, afflicted, tormented;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 38,
+          "text": {
+            "am": "ዓለም አልተገባቸውምና በምድረ በዳና በተራራ፥ በዋሻና በምድር ጕድጓድ ተቅበዘበዙ።",
+            "en": "Of whom the world was not worthy:) they wandered in deserts, and in mountains, and in dens and caves of the earth.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 39,
+          "text": {
+            "am": "እነዚህም ሁሉ በእምነታቸው ተመስክሮላቸው ሳሉ የተሰጠውን የተስፋ ቃል አላገኙም፥ ያለ እኛ ፍጹማን እንዳይሆኑ እግዚአብሔር ስለ እኛ አንዳች የሚበልጥ ነገርን አስቀድሞ አይቶ ነበርና።",
+            "en": "And these all, having obtained a good report through faith, received not the promise:",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              39,
+              40
+            ]
+          }
+        },
+        {
+          "verse": 40,
+          "text": {
+            "am": "እነዚህም ሁሉ በእምነታቸው ተመስክሮላቸው ሳሉ የተሰጠውን የተስፋ ቃል አላገኙም፥ ያለ እኛ ፍጹማን እንዳይሆኑ እግዚአብሔር ስለ እኛ አንዳች የሚበልጥ ነገርን አስቀድሞ አይቶ ነበርና።",
+            "en": "God having provided some better thing for us, that they without us should not be made perfect.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              39,
+              40
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "እንግዲህ እነዚህን የሚያህሉ ምስክሮች እንደ ደመና በዙሪያችን ካሉልን፥ እኛ ደግሞ ሸክምን ሁሉ ቶሎም የሚከበንን ኃጢአት አስወግደን፥ የእምነታችንንም ራስና ፈጻሚውን ኢየሱስን ተመልክተን፥ በፊታችን ያለውን ሩጫ በትዕግሥት እንሩጥ፤ እርሱ ነውርን ንቆ በፊቱም ስላለው ደስታ በመስቀል ታግሦ በእግዚአብሔር ዙፋን ቀኝ ተቀምጦአልና።",
+            "en": "Wherefore seeing we also are compassed about with so great a cloud of witnesses, let us lay aside every weight, and the sin which doth so easily beset us, and let us run with patience the race that is set before us,",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "እንግዲህ እነዚህን የሚያህሉ ምስክሮች እንደ ደመና በዙሪያችን ካሉልን፥ እኛ ደግሞ ሸክምን ሁሉ ቶሎም የሚከበንን ኃጢአት አስወግደን፥ የእምነታችንንም ራስና ፈጻሚውን ኢየሱስን ተመልክተን፥ በፊታችን ያለውን ሩጫ በትዕግሥት እንሩጥ፤ እርሱ ነውርን ንቆ በፊቱም ስላለው ደስታ በመስቀል ታግሦ በእግዚአብሔር ዙፋን ቀኝ ተቀምጦአልና።",
+            "en": "Looking unto Jesus the author and finisher of our faith; who for the joy that was set before him endured the cross, despising the shame, and is set down at the right hand of the throne of God.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "በነፍሳችሁ ዝላችሁ እንዳትደክሙ፥ ከኃጢአተኞች በደረሰበት እንዲህ ባለ መቃወም የጸናውን አስቡ።",
+            "en": "For consider him that endured such contradiction of sinners against himself, lest ye be wearied and faint in your minds.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ከኃጢአት ጋር እየተጋደላችሁ ገና ደምን እስከ ማፍሰስ ድረስ አልተቃወማችሁም፤",
+            "en": "Ye have not yet resisted unto blood, striving against sin.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "እንደ ልጆችም ከእናንተ ጋር። ልጄ ሆይ፥ የጌታን ቅጣት አታቅልል፥ በሚገሥጽህም ጊዜ አትድከም፤ ጌታ የሚወደውን ይቀጣዋልና፥ የሚቀበለውንም ልጅ ሁሉ ይገርፈዋል ብሎ የሚነጋገረውን ምክር ረስታችኋል።",
+            "en": "And ye have forgotten the exhortation which speaketh unto you as unto children, My son, despise not thou the chastening of the Lord, nor faint when thou art rebuked of him:",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              5,
+              6
+            ]
+          }
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "እንደ ልጆችም ከእናንተ ጋር። ልጄ ሆይ፥ የጌታን ቅጣት አታቅልል፥ በሚገሥጽህም ጊዜ አትድከም፤ ጌታ የሚወደውን ይቀጣዋልና፥ የሚቀበለውንም ልጅ ሁሉ ይገርፈዋል ብሎ የሚነጋገረውን ምክር ረስታችኋል።",
+            "en": "For whom the Lord loveth he chasteneth, and scourgeth every son whom he receiveth.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              5,
+              6
+            ]
+          }
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ለመቀጣት ታገሡ፤ እግዚአብሔር እንደ ልጆች ያደርግላችኋልና፤ አባቱ የማይቀጣው ልጅ ማን ነው?",
+            "en": "If ye endure chastening, God dealeth with you as with sons; for what son is he whom the father chasteneth not?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ነገር ግን ሁሉ የቅጣት ተካፋይ ሆኖአልና ያለ ቅጣት ብትኖሩ ዲቃላዎች እንጂ ልጆች አይደላችሁም።",
+            "en": "But if ye be without chastisement, whereof all are partakers, then are ye bastards, and not sons.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ከዚህም በላይ የቀጡን የሥጋችን አባቶች ነበሩን እናፍራቸውም ነበር፤ እንዴትስ ይልቅ ለመናፍስት አባት አብልጠን ልንገዛና በሕይወት ልንኖር በተገባን?",
+            "en": "Furthermore we have had fathers of our flesh which corrected us, and we gave them reverence: shall we not much rather be in subjection unto the Father of spirits, and live?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "እነርሱ መልካም ሆኖ እንደ ታያቸው ለጥቂት ቀን ይቀጡን ነበርና፥ እርሱ ግን ከቅድስናው እንድንካፈል ለጥቅማችን ይቀጣናል።",
+            "en": "For they verily for a few days chastened us after their own pleasure; but he for our profit, that we might be partakers of his holiness.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ቅጣት ሁሉ ለጊዜው የሚያሳዝን እንጂ ደስ የሚያሰኝ አይመስልም፥ ዳሩ ግን በኋላ ለለመዱት የሰላምን ፍሬ እርሱም ጽድቅን ያፈራላቸዋል።",
+            "en": "Now no chastening for the present seemeth to be joyous, but grievous: nevertheless afterward it yieldeth the peaceable fruit of righteousness unto them which are exercised thereby.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "ስለዚህ የላሉትን እጆች የሰለሉትንም ጉልበቶች አቅኑ፤",
+            "en": "Wherefore lift up the hands which hang down, and the feeble knees;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ያነከሰውም እንዲፈወስ እንጂ እንዳይናጋ፥ ለእግራችሁ ቅን መንገድ አድርጉ።",
+            "en": "And make straight paths for your feet, lest that which is lame be turned out of the way; but let it rather be healed.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ከሰው ሁሉ ጋር ሰላምን ተከታተሉ ትቀደሱም ዘንድ ፈልጉ፥ ያለ እርሱ ጌታን ሊያይ የሚችል የለምና።",
+            "en": "Follow peace with all men, and holiness, without which no man shall see the Lord:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "የእግዚአብሔር ጸጋ ለማንም እንዳይጎድለው፥ ብዙዎቹም የሚረክሱበት አንድ መራራ ሥር ወደ ላይ በቅሎ እንዳያስጨንቅ፥ ሴሰኛም የሚሆን እንዳይገኝ፥",
+            "en": "Looking diligently lest any man fail of the grace of God; lest any root of bitterness springing up trouble you, and thereby many be defiled;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ወይም ስለ አንድ መብል በኵርነቱን እንደ ሸጠ እንደ ዔሳው ለዚህ ዓለም የሚመች ሰው እንዳይሆን ተጠንቀቁ።",
+            "en": "Lest there be any fornicator, or profane person, as Esau, who for one morsel of meat sold his birthright.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "ከዚያ በኋላ እንኳ በረከቱን ሊወርስ በወደደ ጊዜ እንደ ተጣለ ታውቃላችሁና፤ በእንባ ተግቶ ምንም ቢፈልገው ለንስሐ ስፍራ አላገኘምና።",
+            "en": "For ye know how that afterward, when he would have inherited the blessing, he was rejected: for he found no place of repentance, though he sought it carefully with tears.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "ሊዳሰስ ወደሚችል ወደሚቃጠልም እሳት ወደ ጭጋግም ወደ ጨለማም ወደ ዐውሎ ነፋስም ወደ መለከት ድምፅም ወደ ቃሎችም ነገር አልደረሳችሁምና፤",
+            "en": "For ye are not come unto the mount that might be touched, and that burned with fire, nor unto blackness, and darkness, and tempest,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "ያንም ነገር የሰሙት ሌላ ቃል እንዳይጨመርባቸው ለመኑ፤",
+            "en": "And the sound of a trumpet, and the voice of words; which voice they that heard intreated that the word should not be spoken to them any more:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "እንስሳ እንኳ ተራራውን ቢነካ ተወግሮ ይሙት የምትለውን ትእዛዝ ሊታገሡ አልቻሉምና፤",
+            "en": "For they could not endure that which was commanded, And if so much as a beast touch the mountain, it shall be stoned, or thrust through with a dart:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "ሙሴም። እጅግ እፈራለሁ እንቀጠቀጥማለሁ እስኪል ድረስ የሚታየው እጅግ የሚያስፈራ ነበር፤",
+            "en": "And so terrible was the sight, that Moses said, I exceedingly fear and quake:)",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 22,
+          "text": {
+            "am": "ነገር ግን ወደ ጽዮን ተራራና ወደ ሕያው እግዚአብሔር ከተማ ደርሳችኋል፥ ወደ ሰማያዊቱም ኢየሩሳሌም፥ በደስታም ወደ ተሰበሰቡት ወደ አእላፋት መላእክት፥",
+            "en": "But ye are come unto mount Sion, and unto the city of the living God, the heavenly Jerusalem, and to an innumerable company of angels,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 23,
+          "text": {
+            "am": "በሰማያትም ወደ ተጻፉ ወደ በኵራት ማኅበር፥ የሁሉም ዳኛ ወደሚሆን ወደ እግዚአብሔር፥ ፍጹማንም ወደ ሆኑት ወደ ጻድቃን መንፈሶች፥",
+            "en": "To the general assembly and church of the firstborn, which are written in heaven, and to God the Judge of all, and to the spirits of just men made perfect,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 24,
+          "text": {
+            "am": "የአዲስም ኪዳን መካከለኛ ወደሚሆን ወደ ኢየሱስ፥ ከአቤልም ደም ይልቅ የሚሻለውን ወደሚናገር ወደ መርጨት ደም ደርሳችኋል።",
+            "en": "And to Jesus the mediator of the new covenant, and to the blood of sprinkling, that speaketh better things than that of Abel.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 25,
+          "text": {
+            "am": "ለሚናገረው እምቢ እንዳትሉ ተጠንቀቁ፤ እነዚያ በምድር ላስረዳቸው እምቢ ባሉ ጊዜ ካላመለጡ፥ ከሰማይ ከመጣው ፈቀቅ የምንል እኛስ እንዴት እናመልጣለን?",
+            "en": "See that ye refuse not him that speaketh. For if they escaped not who refused him that spake on earth, much more shall not we escape, if we turn away from him that speaketh from heaven:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 26,
+          "text": {
+            "am": "በዚያም ጊዜ ድምፁ ምድርን አናወጠ፥ አሁን ግን። አንድ ጊዜ ደግሜ እኔ ሰማይን አናውጣለሁ እንጂ ምድርን ብቻ አይደለም ብሎ ተስፋ ሰጥቶአል።",
+            "en": "Whose voice then shook the earth: but now he hath promised, saying, Yet once more I shake not the earth only, but also heaven.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 27,
+          "text": {
+            "am": "ዳሩ ግን። አንድ ጊዜ ደግሜ የሚል ቃል፥ የማይናወጡት ጸንተው እንዲኖሩ፥ የሚናወጡት የተፈጠሩ እንደሚሆኑ ይለወጡ ዘንድ ያሳያል።",
+            "en": "And this word, Yet once more, signifieth the removing of those things that are shaken, as of things that are made, that those things which cannot be shaken may remain.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 28,
+          "text": {
+            "am": "ስለዚህ የማይናወጥን መንግሥት ስለምንቀበል በማክበርና በፍርሃት እግዚአብሔርን ደስ እያሰኘን የምናመልክበትን ጸጋ እንያዝ፤",
+            "en": "Wherefore we receiving a kingdom which cannot be moved, let us have grace, whereby we may serve God acceptably with reverence and godly fear:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 29,
+          "text": {
+            "am": "አምላካችን በእውነት የሚያጠፋ እሳት ነውና።",
+            "en": "For our God is a consuming fire.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "የወንድማማች መዋደድ ይኑር። እንግዶችን መቀበል አትርሱ፤ በዚህ አንዳንዶች ሳያውቁ መላእክትን እንግድነት ተቀብለዋልና።",
+            "en": "Let brotherly love continue.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "የወንድማማች መዋደድ ይኑር። እንግዶችን መቀበል አትርሱ፤ በዚህ አንዳንዶች ሳያውቁ መላእክትን እንግድነት ተቀብለዋልና።",
+            "en": "Be not forgetful to entertain strangers: for thereby some have entertained angels unawares.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ከእነርሱ ጋር እንደ ታሰረ ሆናችሁ እስሮችን አስቡ፥ የተጨነቁትንም ራሳችሁ ደግሞ በሥጋ እንዳለ ሆናችሁ አስቡ።",
+            "en": "Remember them that are in bonds, as bound with them; and them which suffer adversity, as being yourselves also in the body.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "መጋባት በሁሉ ዘንድ ክቡር መኝታውም ንጹሕ ይሁን፤ ሴሰኞችንና አመንዝሮችን ግን እግዚአብሔር ይፈርድባቸዋል።",
+            "en": "Marriage is honourable in all, and the bed undefiled: but whoremongers and adulterers God will judge.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "አካሄዳችሁ ገንዘብን ያለ መውደድ ይሁን፥ ያላችሁም ይብቃችሁ፤ እርሱ ራሱ። አልለቅህም ከቶም አልተውህም ብሎአልና፤",
+            "en": "Let your conversation be without covetousness; and be content with such things as ye have: for he hath said, I will never leave thee, nor forsake thee.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ስለዚህ በድፍረት። ጌታ ይረዳኛልና አልፈራም፤ ሰው ምን ያደርገኛል? እንላለን።",
+            "en": "So that we may boldly say, The Lord is my helper, and I will not fear what man shall do unto me.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "የእግዚአብሔርን ቃል የተናገሩአችሁን ዋኖቻችሁን አስቡ፥ የኑሮአቸውንም ፍሬ እየተመለከታችሁ በእምነታቸው ምሰሉአቸው።",
+            "en": "Remember them which have the rule over you, who have spoken unto you the word of God: whose faith follow, considering the end of their conversation.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ኢየሱስ ክርስቶስ ትናንትና ዛሬ እስከ ለዘላለምም ያው ነው።",
+            "en": "Jesus Christ the same yesterday, and to day, and for ever.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ልዩ ልዩ ዓይነት በሆነ በእንግዳ ትምህርት አትወሰዱ፤ ልባችሁ በጸጋ ቢጸና መልካም ነው እንጂ በመብል አይደለም፤ በዚህ የሚሠሩባት አልተጠቀሙምና።",
+            "en": "Be not carried about with divers and strange doctrines. For it is a good thing that the heart be established with grace; not with meats, which have not profited them that have been occupied therein.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "መሠዊያ አለን፥ ከእርሱም ሊበሉ ድንኳኒቱን የሚያገለግሉ መብት የላቸውም።",
+            "en": "We have an altar, whereof they have no right to eat which serve the tabernacle.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ሊቀ ካህናት ስለ ኃጢአት ወደ ቅድስት የእንስሶችን ደም ያቀርባልና፤ ሥጋቸው ግን ከሰፈሩ ውጭ ይቃጠላል።",
+            "en": "For the bodies of those beasts, whose blood is brought into the sanctuary by the high priest for sin, are burned without the camp.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "ስለዚህ ኢየሱስ ደግሞ በገዛ ደሙ ሕዝቡን እንዲቀድስ ከበር ውጭ መከራን ተቀበለ።",
+            "en": "Wherefore Jesus also, that he might sanctify the people with his own blood, suffered without the gate.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "እንግዲህ ነቀፌታውን እየተሸከምን ወደ እርሱ ወደ ሰፈሩ ውጭ እንውጣ፤",
+            "en": "Let us go forth therefore unto him without the camp, bearing his reproach.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "በዚህ የምትኖር ከተማ የለችንምና፥ ነገር ግን ትመጣ ዘንድ ያላትን እንፈልጋለን።",
+            "en": "For here have we no continuing city, but we seek one to come.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "እንግዲህ ዘወትር ለእግዚአብሔር የምስጋናን መሥዋዕት፥ ማለት ለስሙ የሚመሰክሩ የከንፈሮችን ፍሬ፥ በእርሱ እናቅርብለት።",
+            "en": "By him therefore let us offer the sacrifice of praise to God continually, that is, the fruit of our lips giving thanks to his name.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ነገር ግን መልካም ማድረግን ለሌሎችም ማካፈልን አትርሱ፤ እንዲህ ያለው መሥዋዕት እግዚአብሔርን ደስ ያሰኘዋልና።",
+            "en": "But to do good and to communicate forget not: for with such sacrifices God is well pleased.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "ለዋኖቻችሁ ታዘዙና ተገዙ፤ እነርሱ ስሌትን እንደሚሰጡ አድርገው፥ ይህንኑ በደስታ እንጂ በኃዘን እንዳያደርጉት፥ ይህ የማይጠቅማችሁ ነበርና፥ ስለ ነፍሳችሁ ይተጋሉ።",
+            "en": "Obey them that have the rule over you, and submit yourselves: for they watch for your souls, as they that must give account, that they may do it with joy, and not with grief: for that is unprofitable for you.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "ጸልዩልን፤ በነገር ሁሉ በመልካም እንድንኖር ወደን፥ መልካም ሕሊና እንዳለን ተረድተናልና።",
+            "en": "Pray for us: for we trust we have a good conscience, in all things willing to live honestly.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "ይልቁንም ፈጥኜ እንድመለስላችሁ ይህን ታደርጉ ዘንድ አጥብቄ እለምናችኋለሁ።",
+            "en": "But I beseech you the rather to do this, that I may be restored to you the sooner.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "በዘላለም ኪዳን ደም ለበጎች ትልቅ እረኛ የሆነውን ጌታችንን ኢየሱስን ከሙታን ያወጣው የሰላም አምላክ፥",
+            "en": "Now the God of peace, that brought again from the dead our Lord Jesus, that great shepherd of the sheep, through the blood of the everlasting covenant,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "በኢየሱስ ክርስቶስ በኩል በፊቱ ደስ የሚያሰኘውን በእናንተ እያደረገ፥ ፈቃዱን ታደርጉ ዘንድ በመልካም ሥራ ሁሉ ፍጹማን ያድርጋችሁ፤ ለእርሱ እስከ ዘላለም ድረስ ክብር ይሁን፤ አሜን።",
+            "en": "Make you perfect in every good work to do his will, working in you that which is wellpleasing in his sight, through Jesus Christ; to whom be glory for ever and ever. Amen.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 22,
+          "text": {
+            "am": "ወንድሞች ሆይ፥ የምክርን ቃል እንድትታገሡ እመክራችኋለሁ፥ በጥቂት ቃል ጽፌላችኋለሁና።",
+            "en": "And I beseech you, brethren, suffer the word of exhortation: for I have written a letter unto you in few words.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 23,
+          "text": {
+            "am": "ወንድማችን ጢሞቴዎስ እንደ ተፈታ እወቁ፥ ቶሎ ብሎም ቢመጣ ከእርሱ ጋር አያችኋለሁ።",
+            "en": "Know ye that our brother Timothy is set at liberty; with whom, if he come shortly, I will see you.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 24,
+          "text": {
+            "am": "ለዋኖቻችሁ ሁሉና ለቅዱሳን ሁሉ ሰላምታ አቅርቡልኝ። ከኢጣልያ የሆኑቱ ሰላምታ ያቀርቡላችኋል።",
+            "en": "Salute all them that have the rule over you, and all the saints. They of Italy salute you.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 25,
+          "text": {
+            "am": "ጸጋ ከሁላችሁ ጋር ይሁን፤ አሜን።",
+            "en": "Grace be with you all. Amen.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,536 @@
+{
+  "book_number": 35,
+  "book_name_am": "ትንቢተ ዕንባቆም",
+  "book_short_name_am": "ዕን",
+  "book_name_en": "Habakkuk",
+  "book_short_name_en": "Hab",
+  "book_name_geez": null,
+  "testament": "old",
+  "sources": [
+    "ethiopicbible.com"
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "ነቢዩ ዕንባቆም ያየው ሸክም ይህ ነው።",
+            "en": "The burden which Habakkuk the prophet did see.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "አቤቱ፥ እኔ ስጮኽ የማትሰማው እስከ መቼ ነው? ስለ ግፍ ወደ አንተ እጮኻለሁ፥ አንተም አታድንም።",
+            "en": "O LORD, how long shall I cry, and thou wilt not hear! even cry out unto thee of violence, and thou wilt not save!",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "በደልንስ ስለ ምን አሳየኸኝ? ጠማምነትንስ ስለ ምን ትመለከታለህ? ጥፋትና ግፍ በፊቴ ነው፤ ጠብና ክርክር ይነሣሉ።",
+            "en": "Why dost thou shew me iniquity, and cause me to behold grievance? for spoiling and violence are before me: and there are that raise up strife and contention.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ስለዚህ ሕግ ላልቶአል፥ ፍርድም ድል ነሥቶ አይወጣም፤ ኃጢአተኛ ጻድቅን ይከብባልና፤ ስለዚህ ፍርድ ጠማማ ሆኖ ይወጣል።",
+            "en": "Therefore the law is slacked, and judgment doth never go forth: for the wicked doth compass about the righteous; therefore wrong judgment proceedeth.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "እናንተ የምትንቁ ሆይ፥ አንድ ቢተርክላችሁ ስንኳ የማታምኑትን ሥራ በዘመናችሁ እሠራለሁና እዩ፥ ተመልከቱ፥ ተደነቁ።",
+            "en": "Behold ye among the heathen, and regard, and wonder marvellously: for I will work a work in your days, which ye will not believe, though it be told you.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "እነሆ፥ የእነርሱ ያልሆነውን መኖሪያ ይወርሱ ዘንድ በምድር ስፋት ላይ የሚሄዱትን መራሮችንና ፈጣኖችን ሕዝብ ከለዳውያንን አስነሣለሁ።",
+            "en": "For, lo, I raise up the Chaldeans, that bitter and hasty nation, which shall march through the breadth of the land, to possess the dwellingplaces that are not theirs.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "እነርሱ የሚያስፈሩና የሚያስደነግጡ ናቸው፤ ፍርዳቸውና ክብራቸው ከራሳቸው ይወጣል።",
+            "en": "They are terrible and dreadful: their judgment and their dignity shall proceed of themselves.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ፈረሶቻቸውም ከነብር ይልቅ ፈጣኖች ናቸው፥ ከማታም ተኵላ ይልቅ ጨካኞች ናቸው፤ ፈረሰኞቻቸውም ይንሳፈፋሉ፥ ከሩቅም ይመጣሉ፥ ለመብልም እንደሚቸኵል ንስር ይበርራሉ።",
+            "en": "Their horses also are swifter than the leopards, and are more fierce than the evening wolves: and their horsemen shall spread themselves, and their horsemen shall come from far; they shall fly as the eagle that hasteth to eat.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ሁሉም ለግፍ ሥራ ይመጣሉ፥ ፊታቸውንም እንደ ምሥራቅ ነፋስ ያቀናሉ፤ ምርኮኞችንም እንደ አሸዋ ይሰበስባሉ።",
+            "en": "They shall come all for violence: their faces shall sup up as the east wind, and they shall gather the captivity as the sand.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "በነገሥታት ላይ ያላግጣሉ፥ መሳፍንትም ዋዛ ሆነውላቸዋል፤ በምሽጉ ሁሉ ይስቃሉ፥ አፈሩንም ከምረው ይወስዱታል።",
+            "en": "And they shall scoff at the kings, and the princes shall be a scorn unto them: they shall deride every strong hold; for they shall heap dust, and take it.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "የዚያን ጊዜም እንደ ነፋስ አልፎ ይሄዳል፥ ይበድልማል፤ ኃይሉንም አምላክ ያደርገዋል።",
+            "en": "Then shall his mind change, and he shall pass over, and offend, imputing this his power unto his god.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "አቤቱ፥ የተቀደስህ አምላኬ ሆይ፥ አንተ ከዘላለም ጀምሮ አልነበርህምን? እኛ አንሞትም፤ አቤቱ፥ ለፍርድ ሠርተኸዋል፥ ለተግሣጽም አድርገኸዋል።",
+            "en": "Art thou not from everlasting, O LORD my God, mine Holy One? we shall not die. O LORD, thou hast ordained them for judgment; and, O mighty God, thou hast established them for correction.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ዓይኖችህ ክፉ እንዳያዩ ንጹሐን ናቸው፥ ጠማምነትንም ትመለከት ዘንድ አትችልም፤ አታላዮችንስ ለምን ትመለከታለህ? ኃጢአተኛውስ ከእርሱ ይልቅ ጻድቅ የሆነውን ሲውጠው ስለ ምን ዝም ትላለህ?",
+            "en": "Thou art of purer eyes than to behold evil, and canst not look on iniquity: wherefore lookest thou upon them that deal treacherously, and holdest thy tongue when the wicked devoureth the man that is more righteous than he?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ሰዎችንም እንደ ባሕር ዓሣዎች፥ አለቃም እንደሌላቸው ተንቀሳቃሾች ለምን ታደርጋቸዋለህ?",
+            "en": "And makest men as the fishes of the sea, as the creeping things, that have no ruler over them?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ሁሉን በመቃጥን ያወጣል፥ በመረቡም ይይዛቸዋል፥ በአሽክላውም ውስጥ ያከማቻቸዋል፤ ስለዚህ ደስ እያለው እልል ይላል።",
+            "en": "They take up all of them with the angle, they catch them in their net, and gather them in their drag: therefore they rejoice and are glad.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "እድል ፈንታው በእነርሱ ሰብታለችና፥ መብሉም በዝቶአልና ስለዚህ ለመረቡ ይሠዋል፥ ለአሽክላውም ያጥናል።",
+            "en": "Therefore they sacrifice unto their net, and burn incense unto their drag; because by them their portion is fat, and their meat plenteous.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "ስለዚህ መረቡን ይጥላልን? አሕዛብንም ዘወትር ይገድል ዘንድ አይራራምን?",
+            "en": "Shall they therefore empty their net, and not spare continually to slay the nations?",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "በመጠበቂያዬ ላይ እቆማለሁ፥ በአምባ ላይም እወጣለሁ፤ የሚናገረኝንም፥ ስለ ክርክሬም የምመልሰውን አውቅ ዘንድ እመለከታለሁ።",
+            "en": "I will stand upon my watch, and set me upon the tower, and will watch to see what he will say unto me, and what I shall answer when I am reproved.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "እግዚአብሔርም መለሰልኝ እንዲህም አለ። አንባቢው ይፈጥን ዘንድ ራእዩን ጻፍ፥ በጽላትም ላይ ግለጠው።",
+            "en": "And the LORD answered me, and said, Write the vision, and make it plain upon tables, that he may run that readeth it.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ራእዩ ገና እስከ ተወሰነው ጊዜ ነው፥ ወደ ፍጻሜውም ይቸኵላል፥ እርሱም አይዋሽም፤ ቢዘገይም በእርግጥ ይመጣልና ታገሠው፤ እርሱ አይዘገይም።",
+            "en": "For the vision is yet for an appointed time, but at the end it shall speak, and not lie: though it tarry, wait for it; because it will surely come, it will not tarry.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "እነሆ፥ ነፍሱ ኰርታለች፥ በውስጡም ቅን አይደለችም፤ ጻድቅ ግን በእምነቱ በሕይወት ይኖራል።",
+            "en": "Behold, his soul which is lifted up is not upright in him: but the just shall live by his faith.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "እርሱ አታላይና ኵሩ ሰው ነው፤ በስፍራው ዐርፎ አይቀመጥም፤ ስስቱን እንደ ሲኦል ያሰፋል፥ እርሱም እንደ ሞት አይጠግብም፤ አሕዛብንም ሁሉ ወደ እርሱ ይሰበስባል፥ ወገኖቹንም ሁሉ ወደ እርሱ ያከማቻል።",
+            "en": "Yea also, because he transgresseth by wine, he is a proud man, neither keepeth at home, who enlargeth his desire as hell, and is as death, and cannot be satisfied, but gathereth unto him all nations, and heapeth unto him all people:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "እነዚህ ሁሉ። ለእርሱ ያልሆነውን ወደ እርሱ ለሚሰበስብ መያዣውንም ለራሱ የሚያበዛ ወዮለት! እስከ መቼ ነው? እያሉ ምሳሌ አይመስሉበትምን?",
+            "en": "Shall not all these take up a parable against him, and a taunting proverb against him, and say, Woe to him that increaseth that which is not his! how long? and to him that ladeth himself with thick clay!",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ተረትም አይተርቱበትምን? የሚነክሱህ ድንገት አይነሡብህምን? የሚያስጨንቁህም ይነቃሉ፤ ለእነርሱም ብዝበዛ ትሆናለህ።",
+            "en": "Shall they not rise up suddenly that shall bite thee, and awake that shall vex thee, and thou shalt be for booties unto them?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "የሰውን ደም ስላፈሰስህ፥ በምድሪቱና በከተማይቱም በእርስዋም በሚኖሩ ሁሉ ላይ ስላደረግኸው ግፍ፥ አንተ ብዙዎችን አሕዛብን በዝብዘሃልና ከአሕዛብ የቀሩት ሁሉ ይበዘብዙሃል።",
+            "en": "Because thou hast spoiled many nations, all the remnant of the people shall spoil thee; because of men's blood, and for the violence of the land, of the city, and of all that dwell therein.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ከክፉ እንዲድን ጐጆውን በከፍታ ላይ ያደርግ ዘንድ ለቤቱ ክፉ ትርፍን ለሚሰበስብ ወዮለት!",
+            "en": "Woe to him that coveteth an evil covetousness to his house, that he may set his nest on high, that he may be delivered from the power of evil!",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ብዙ አሕዛብን አጥፍተሃልና ለቤትህ እፍረትን መክረሃል፥ በነፍስህም ላይ ኃጢአትን አድርገሃል።",
+            "en": "Thou hast consulted shame to thy house by cutting off many people, and hast sinned against thy soul.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ድንጋይም ከግንብ ውስጥ ይጮኻል፥ እንጨትም ከውቅር ውስጥ ይመልስለታል።",
+            "en": "For the stone shall cry out of the wall, and the beam out of the timber shall answer it.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "ከተማን በደም ለሚሠራ፥ ከተማንም በኃጢአት ለሚመሠርት ወዮለት!",
+            "en": "Woe to him that buildeth a town with blood, and stablisheth a city by iniquity!",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "እነሆ፥ አሕዛብ ስለ እሳት እንዲሠሩ፥ ወገኖችም ስለ ከንቱነት እንዲደክሙ ከሠራዊት ጌታ ከእግዚአብሔር ዘንድ የሆነ አይደለምን?",
+            "en": "Behold, is it not of the LORD of hosts that the people shall labour in the very fire, and the people shall weary themselves for very vanity?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ውኃ ባሕርን እንደሚከድን ምድር የእግዚአብሔርን ክብር በማወቅ ትሞላለችና።",
+            "en": "For the earth shall be filled with the knowledge of the glory of the LORD, as the waters cover the sea.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ኀፍረተ ሥጋውን ለማየት ባልንጀራውን ለሚያጠጣ፥ ክፉንም ለሚጨምርበት፥ ለሚያሰክረውም ወዮለት!",
+            "en": "Woe unto him that giveth his neighbour drink, that puttest thy bottle to him, and makest him drunken also, that thou mayest look on their nakedness!",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "በክብር ፋንታ እፍረት ሞልቶብሃል፤ አንተ ደግሞ ጠጥተህ ተንገድገድ፤ የእግዚአብሔር የቀኙ ጽዋ ይመለስብሃል፥ እፍረትም በክብርህ ላይ ይሆናል።",
+            "en": "Thou art filled with shame for glory: drink thou also, and let thy foreskin be uncovered: the cup of the LORD'S right hand shall be turned unto thee, and shameful spewing shall be on thy glory.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "የሰውንም ደም ስላፈሰስህ፥ በምድሪቱና በከተማይቱም በእርስዋም በሚኖሩ ሁሉ ላይ ስላደረግኸው ግፍ፥ በሊባኖስ ላይ የሠራኸው ግፍ ይከድንሃል፤ የአራዊትም አደጋ ያስፈራራሃል።",
+            "en": "For the violence of Lebanon shall cover thee, and the spoil of beasts, which made them afraid, because of men's blood, and for the violence of the land, of the city, and of all that dwell therein.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "የተቀረጸውን ምስል ሠሪው የቀረጸው ለምን ጥቅም ነው? ዲዳንም ጣዖት ይሠራ ዘንድ ሠሪው የታመነበቱ፥ ሐሰትን የሚያስተምር ቀልጦ የተሠራ ምን ይጠቅማል?",
+            "en": "What profiteth the graven image that the maker thereof hath graven it; the molten image, and a teacher of lies, that the maker of his work trusteth therein, to make dumb idols?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "እንጨቱን። ንቃ፥ ዲዳውንም ድንጋይ። ተነሣ ለሚለው ወዮለት! በውኑ ይህ ያስተምራልን? እነሆ፥ በወርቅና በብር ተለብጦአል፥ ምንም እስትንፋስ የለበትም።",
+            "en": "Woe unto him that saith to the wood, Awake; to the dumb stone, Arise, it shall teach! Behold, it is laid over with gold and silver, and there is no breath at all in the midst of it.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "እግዚአብሔር ግን በተቀደሰ መቅደሱ አለ፤ ምድርም ሁሉ በፊቱ ዝም ትበል።",
+            "en": "But the LORD is in his holy temple: let all the earth keep silence before him.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "የነቢዩ የዕንባቆም ጸሎት በመዝሙር።",
+            "en": "A prayer of Habakkuk the prophet upon Shigionoth.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "አቤቱ፥ ዝናህን ሰምቼ ፈራሁ፤ አቤቱ፥ በዓመታት መካከል ሥራህን ፈጽም፤ በዓመታት መካከል ትታወቅ፤ በመዓት ጊዜ ምሕረትን አስብ።",
+            "en": "O LORD, I have heard thy speech, and was afraid: O LORD, revive thy work in the midst of the years, in the midst of the years make known; in wrath remember mercy.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "እግዚአብሔር ከቴማን፥ ቅዱሱም ከፋራን ተራራ ይመጣል። ክብሩ ሰማያትን ከድኖአል፥ ምስጋናውም ምድርን ሞልቶአል።",
+            "en": "God came from Teman, and the Holy One from mount Paran. Selah. His glory covered the heavens, and the earth was full of his praise.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ፀዳሉም እንደ ብርሃን ነው፤ ጨረር ከእጁ ወጥቶአል፤ ኃይሉም በዚያ ተሰውሮአል።",
+            "en": "And his brightness was as the light; he had horns coming out of his hand: and there was the hiding of his power.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ቸነፈር በፊቱ ይሄዳል፥ የእሳትም ነበልባል ከእግሩ ይወጣል።",
+            "en": "Before him went the pestilence, and burning coals went forth at his feet.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ቆመ፥ ምድርንም አወካት፤ ተመለከተ፥ አሕዛብንም አናወጠ፤ የዘላለምም ተራሮች ተቀጠቀጡ፥ የዘላለምም ኮረብቶች ቀለጡ፤ መንገዱ ከዘላለም ነው።",
+            "en": "He stood, and measured the earth: he beheld, and drove asunder the nations; and the everlasting mountains were scattered, the perpetual hills did bow: his ways are everlasting.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "የኢትዮጵያ ድንኳኖች ሲጨነቁ አየሁ፤ የምድያም አገር መጋረጃዎች ተንቀጠቀጡ።",
+            "en": "I saw the tents of Cushan in affliction: and the curtains of the land of Midian did tremble.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "በውኑ እግዚአብሔር በወንዞች ላይ ተቈጥቶአልን? ቍጣህ በወንዞች ላይ፥ መዓትህም በባሕር ላይ ነውን? በፈረሶችህና በማዳንህ ሰረገሎች ላይ ተቀምጠሃልና።",
+            "en": "Was the LORD displeased against the rivers? was thine anger against the rivers? was thy wrath against the sea, that thou didst ride upon thine horses and thy chariots of salvation?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "በቃልህ እንደ ማልህ መቅሠፍትህን አወጣህ፤ ቀስትህንም ገተርህ፤ ምድርን ሰንጥቀህ ፈሳሾችን አወጣህ።",
+            "en": "Thy bow was made quite naked, according to the oaths of the tribes, even thy word. Selah. Thou didst cleave the earth with rivers.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ተራሮች አንተን አይተው ተጨነቁ፤ የውኃ ሞገድ አልፎአል፤ ቀላዩም ድምፁን ሰጥቶአል፥ እጁንም ወደ ላይ አንሥቶአል።",
+            "en": "The mountains saw thee, and they trembled: the overflowing of the water passed by: the deep uttered his voice, and lifted up his hands on high.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ፍላጾችህ ከወጡበት ብርሃን የተነሣ፥ ከሚንቦገቦገውም ከጦርህ ፀዳል የተነሣ፥ ፀሐይና ጨረቃ በመኖሪያቸው ቆሙ።",
+            "en": "The sun and moon stood still in their habitation: at the light of thine arrows they went, and at the shining of thy glittering spear.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "በምድር ላይ በመዓት ተራመድህ፤ አሕዛብን በቍጣ አሄድሃቸው።",
+            "en": "Thou didst march through the land in indignation, thou didst thresh the heathen in anger.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ሕዝብህን ለመታደግ፥ የቀባኸውንም ለማዳን ወጣህ፤ የኃጢአተኛውን ቤት ራስ ቀጠቀጥህ፤ መሠረቱን እስከ አንገቱ ድረስ ገለጥህ።",
+            "en": "Thou wentest forth for the salvation of thy people, even for salvation with thine anointed; thou woundedst the head out of the house of the wicked, by discovering the foundation unto the neck. Selah.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "የአለቆችን ራስ በገዛ በትራቸው ወጋህ፤ እኔን ይበትኑ ዘንድ እንደ ዐውሎ ነፋስ መጡ፤ ችግረኛውን በስውር ለመዋጥ ደስታቸው ነው።",
+            "en": "Thou didst strike through with his staves the head of his villages: they came out as a whirlwind to scatter me: their rejoicing was as to devour the poor secretly.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ፈረሶችህን በባሕር፥ በብዙ ውኆችም ላይ አስረገጥህ።",
+            "en": "Thou didst walk through the sea with thine horses, through the heap of great waters.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "እኔ ሰምቻለሁ፥ ልቤም ደነገጠብኝ፤ ከድምፁ የተነሣ ከንፈሮቼ ተንቀጠቀጡ፤ መንቀጥቀጥ ወደ አጥንቶቼ ውስጥ ገባ፤ በስፍራዬ ሆኜ ተናወጥሁ፤ በሚያስጨንቁን ሕዝብ ላይ እስኪመጣ ድረስ የመከራን ቀን ዝም ብዬ እጠብቃለሁ።",
+            "en": "When I heard, my belly trembled; my lips quivered at the voice: rottenness entered into my bones, and I trembled in myself, that I might rest in the day of trouble: when he cometh up unto the people, he will invade them with his troops.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "ምንም እንኳ በለስም ባታፈራ፥ በወይንም ሐረግ ፍሬ ባይገኝ፥ የወይራ ሥራ ቢጐድል፥ እርሾችም መብልን ባይሰጡ፥ በጎች ከበረቱ ቢጠፉ፥ ላሞችም በጋጡ ውስጥ ባይገኙ፥",
+            "en": "Although the fig tree shall not blossom, neither shall fruit be in the vines; the labour of the olive shall fail, and the fields shall yield no meat; the flock shall be cut off from the fold, and there shall be no herd in the stalls:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "እኔ ግን በእግዚአብሔር ደስ ይለኛል፤ በመድኃኒቴ አምላክ ሐሤት አደርጋለሁ።",
+            "en": "Yet I will rejoice in the LORD, I will joy in the God of my salvation.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "ጌታ እግዚአብሔር ኃይሌ ነው፤ እግሮቼን እንደ ዋላ እግሮች ያደርጋል፤ በከፍታዎችም ላይ ያስሄደኛል።",
+            "en": "The LORD God is my strength, and he will make my feet like hinds' feet, and he will make me to walk upon mine high places. To the chief singer on my stringed instruments.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    }
+  ]
+}

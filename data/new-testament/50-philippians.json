@@ -1,0 +1,1064 @@
+{
+  "book_number": 50,
+  "book_name_am": "ወደ ፊልጵስዩስ ሰዎች",
+  "book_short_name_am": "ፊል",
+  "book_name_en": "Philippians",
+  "book_short_name_en": "Phil",
+  "book_name_geez": null,
+  "testament": "new",
+  "sources": [
+    "ethiopicbible.com"
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "የኢየሱስ ክርስቶስ ባሪያዎች የሆኑ ጳውሎስና ጢሞቴዎስ በፊልጵስዩስ ለሚኖሩ ከኤጲስ ቆጶሳትና ከዲያቆናት ጋር በክርስቶስ ኢየሱስ ላሉት ቅዱሳን ሁሉ፤",
+            "en": "Paul and Timotheus, the servants of Jesus Christ, to all the saints in Christ Jesus which are at Philippi, with the bishops and deacons:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ከእግዚአብሔር ከአባታችን ከጌታም ከኢየሱስ ክርስቶስ ጸጋና ሰላም ለእናንተ ይሁን።",
+            "en": "Grace be unto you, and peace, from God our Father, and from the Lord Jesus Christ.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ሁልጊዜ በጸሎቴ ሁሉ ስለ እናንተ ሁሉ በደስታ እየጸለይሁ፥ ከፊተኛው ቀን እስከ ዛሬ ድረስ ወንጌልን በመስበክ አብራችሁ ስለ ሠራችሁ፥ ባሰብኋችሁ ጊዜ ሁሉ አምላኬን አመሰግናለሁ።",
+            "en": "I thank my God upon every remembrance of you,",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              3,
+              4,
+              5
+            ]
+          }
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ሁልጊዜ በጸሎቴ ሁሉ ስለ እናንተ ሁሉ በደስታ እየጸለይሁ፥ ከፊተኛው ቀን እስከ ዛሬ ድረስ ወንጌልን በመስበክ አብራችሁ ስለ ሠራችሁ፥ ባሰብኋችሁ ጊዜ ሁሉ አምላኬን አመሰግናለሁ።",
+            "en": "Always in every prayer of mine for you all making request with joy,",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              3,
+              4,
+              5
+            ]
+          }
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ሁልጊዜ በጸሎቴ ሁሉ ስለ እናንተ ሁሉ በደስታ እየጸለይሁ፥ ከፊተኛው ቀን እስከ ዛሬ ድረስ ወንጌልን በመስበክ አብራችሁ ስለ ሠራችሁ፥ ባሰብኋችሁ ጊዜ ሁሉ አምላኬን አመሰግናለሁ።",
+            "en": "For your fellowship in the gospel from the first day until now;",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              3,
+              4,
+              5
+            ]
+          }
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "በእናንተ መልካምን ሥራ የጀመረው እስከ ኢየሱስ ክርስቶስ ቀን ድረስ እንዲፈጽመው ይህን ተረድቼአለሁና፤",
+            "en": "Being confident of this very thing, that he which hath begun a good work in you will perform it until the day of Jesus Christ:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "በእስራቴም ወንጌልንም መመከቻና መጽኛ በማድረግ ሁላችሁ ከእኔ ጋር በጸጋ ተካፋዮች ስለ ሆናችሁ፥ በልቤ ትኖራላችሁና ስለ ሁላችሁ ይህን ላስብ ይገባኛል።",
+            "en": "Even as it is meet for me to think this of you all, because I have you in my heart; inasmuch as both in my bonds, and in the defence and confirmation of the gospel, ye all are partakers of my grace.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "በክርስቶስ ኢየሱስ ፍቅር ሁላችሁን እንዴት እንድናፍቃችሁ እግዚአብሔር ምስክሬ ነውና።",
+            "en": "For God is my record, how greatly I long after you all in the bowels of Jesus Christ.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ለእግዚአብሔርም ክብርና ምስጋና ከኢየሱስ ክርስቶስ የሚገኝ የጽድቅ ፍሬ ሞልቶባችሁ፥ ለክርስቶስ ቀን ተዘጋጅታችሁ ቅኖችና አለ ነውር እንድትሆኑ የሚሻለውን ነገር ፈትናችሁ ትወዱ ዘንድ፥ ፍቅራችሁ በእውቀትና በማስተዋል ሁሉ ከፊት ይልቅ እያደገ እንዲበዛ ይህን እጸልያለሁ።",
+            "en": "And this I pray, that your love may abound yet more and more in knowledge and in all judgment;",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              9,
+              10,
+              11
+            ]
+          }
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ለእግዚአብሔርም ክብርና ምስጋና ከኢየሱስ ክርስቶስ የሚገኝ የጽድቅ ፍሬ ሞልቶባችሁ፥ ለክርስቶስ ቀን ተዘጋጅታችሁ ቅኖችና አለ ነውር እንድትሆኑ የሚሻለውን ነገር ፈትናችሁ ትወዱ ዘንድ፥ ፍቅራችሁ በእውቀትና በማስተዋል ሁሉ ከፊት ይልቅ እያደገ እንዲበዛ ይህን እጸልያለሁ።",
+            "en": "That ye may approve things that are excellent; that ye may be sincere and without offence till the day of Christ;",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              9,
+              10,
+              11
+            ]
+          }
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ለእግዚአብሔርም ክብርና ምስጋና ከኢየሱስ ክርስቶስ የሚገኝ የጽድቅ ፍሬ ሞልቶባችሁ፥ ለክርስቶስ ቀን ተዘጋጅታችሁ ቅኖችና አለ ነውር እንድትሆኑ የሚሻለውን ነገር ፈትናችሁ ትወዱ ዘንድ፥ ፍቅራችሁ በእውቀትና በማስተዋል ሁሉ ከፊት ይልቅ እያደገ እንዲበዛ ይህን እጸልያለሁ።",
+            "en": "Being filled with the fruits of righteousness, which are by Jesus Christ, unto the glory and praise of God.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              9,
+              10,
+              11
+            ]
+          }
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "ነገር ግን፥ ወንድሞች ሆይ፥ ይህ የደረሰብኝ በእውነት ወንጌልን ለማስፋት እንደ ሆነ ታውቁ ዘንድ እወዳለሁ።",
+            "en": "But I would ye should understand, brethren, that the things which happened unto me have fallen out rather unto the furtherance of the gospel;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ስለዚህም እስራቴ ስለ ክርስቶስ እንዲሆን በንጉሥ ዘበኞች ሁሉና በሌሎች ሁሉ ዘንድ ተገልጦአል፥",
+            "en": "So that my bonds in Christ are manifest in all the palace, and in all other places;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "በጌታም ካሉት ወንድሞች የሚበዙት ስለ እስራቴ ታምነው የእግዚአብሔርን ቃል እንዲነግሩ ያለ ፍርሃት ከፊት ይልቅ ይደፍራሉ።",
+            "en": "And many of the brethren in the Lord, waxing confident by my bonds, are much more bold to speak the word without fear.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "አንዳንዶች ከቅንአትና ከክርክር እንኳ ሌሎች ግን ከበጎ ፈቃድ የተነሣ ክርስቶስን ይሰብኩታል፤",
+            "en": "Some indeed preach Christ even of envy and strife; and some also of good will:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "እነዚህ ወንጌልን መመከቻ ለማድረግ እንደ ተሾምሁ አውቀው በፍቅር ይሰብካሉ፥",
+            "en": "The one preach Christ of contention, not sincerely, supposing to add affliction to my bonds:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "እነዚያ ግን በእስራቴ ላይ መከራን ሊያመጡብኝ መስሎአቸው፥ ለወገናቸው የሚጠቅም ፈልገው በቅን አሳብ ሳይሆኑ ስለ ክርስቶስ ያወራሉ።",
+            "en": "But the other of love, knowing that I am set for the defence of the gospel.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "ምን አለ? ቢሆንም በሁሉ ጎዳና፥ በማመካኘት ቢሆን ወይም በቅንነት ቢሆን፥ ክርስቶስ ይሰበካል ስለዚህም ደስ ብሎኛል።",
+            "en": "What then? notwithstanding, every way, whether in pretence, or in truth, Christ is preached; and I therein do rejoice, yea, and will rejoice.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "ወደ ፊትም ደግሞ ደስ ይለኛል፤ ይህ በጸሎታችሁና በኢየሱስ ክርስቶስ መንፈስ መሰጠት ለመዳኔ እንዲሆንልኝ አውቃለሁና፥",
+            "en": "For I know that this shall turn to my salvation through your prayer, and the supply of the Spirit of Jesus Christ,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "ይህ ናፍቆቴ ተስፋዬም ነውና፤ በአንድ ነገር እንኳ አላፍርም ነገር ግን በህይወት ብኖር ወይም ብሞት፥ ክርስቶስ በግልጥነት ሁሉ እንደ ወትሮው አሁን ደግሞ በስጋዬ ይከብራል።",
+            "en": "According to my earnest expectation and my hope, that in nothing I shall be ashamed, but that with all boldness, as always, so now also Christ shall be magnified in my body, whether it be by life, or by death.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "ለእኔ ሕይወት ክርስቶስ፥ ሞትም ጥቅም ነውና።",
+            "en": "For to me to live is Christ, and to die is gain.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 22,
+          "text": {
+            "am": "ነገር ግን በስጋ መኖር ለእኔ የሥራ ፍሬ ቢሆን፥ ምን እንድመርጥ ኣላስታውቅም።",
+            "en": "But if I live in the flesh, this is the fruit of my labour: yet what I shall choose I wot not.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 23,
+          "text": {
+            "am": "በእነዚህም በሁለቱ እጨነቃለሁ፤ ልሄድ ከክርስቶስም ጋር ልኖር እናፍቃለሁ፥ ከሁሉ ይልቅ እጅግ የሚሻል ነውና፤",
+            "en": "For I am in a strait betwixt two, having a desire to depart, and to be with Christ; which is far better:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 24,
+          "text": {
+            "am": "ነገር ግን በሥጋ መኖሬ ስለ እናንተ እጅግ የሚያስፈልግ ነው።",
+            "en": "Nevertheless to abide in the flesh is more needful for you.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 25,
+          "text": {
+            "am": "ይህንንም ተረድቼ፥ በእናንተ ዘንድ እንደ ገና ስለ መሆኔ፥ በእኔ መመካታችሁ በክርስቶስ ኢየሱስ ይበዛ ዘንድ፥ በእምነት ታድጉና ደስ ይላችሁ ዘንድ እንድኖር ከሁላችሁም ጋር እንድቈይ አውቃለሁ።",
+            "en": "And having this confidence, I know that I shall abide and continue with you all for your furtherance and joy of faith;",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              25,
+              26
+            ]
+          }
+        },
+        {
+          "verse": 26,
+          "text": {
+            "am": "ይህንንም ተረድቼ፥ በእናንተ ዘንድ እንደ ገና ስለ መሆኔ፥ በእኔ መመካታችሁ በክርስቶስ ኢየሱስ ይበዛ ዘንድ፥ በእምነት ታድጉና ደስ ይላችሁ ዘንድ እንድኖር ከሁላችሁም ጋር እንድቈይ አውቃለሁ።",
+            "en": "That your rejoicing may be more abundant in Jesus Christ for me by my coming to you again.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              25,
+              26
+            ]
+          }
+        },
+        {
+          "verse": 27,
+          "text": {
+            "am": "ይሁን እንጂ፥ መጥቼ ባያችሁ ወይም ብርቅ፥ በአንድ ልብ ስለ ወንጌል ሃይማኖት አብራችሁ እየተጋደላችሁ፥ በአንድ መንፈስ እንድትቆሙ ስለ ኑሮአችሁ እሰማ ዘንድ፥ ለክርስቶስ ወንጌል እንደሚገባ ኑሩ።",
+            "en": "Only let your conversation be as it becometh the gospel of Christ: that whether I come and see you, or else be absent, I may hear of your affairs, that ye stand fast in one spirit, with one mind striving together for the faith of the gospel;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 28,
+          "text": {
+            "am": "በአንድም ነገር እንኳ በተቃዋሚዎች አትደንግጡ፤ ይህም ለእነርሱ የጥፋት፥ ለእናንተ ግን የመዳን ምልክት ነው፥ ይህም ከእግዚአብሔር ነው፤",
+            "en": "And in nothing terrified by your adversaries: which is to them an evident token of perdition, but to you of salvation, and that of God.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 29,
+          "text": {
+            "am": "ይህ ስለ ክርስቶስ ተሰጥቶአችኋልና፤ ስለ እርሱ መከራ ደግሞ ልትቀበሉ እንጂ በእርሱ ልታምኑ ብቻ አይደለም፤",
+            "en": "For unto you it is given in the behalf of Christ, not only to believe on him, but also to suffer for his sake;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 30,
+          "text": {
+            "am": "በእኔ ያያችሁት አሁንም በእኔ እንዳለ የምትሰሙት፥ ያው መጋደል ደርሶባችኋልና።",
+            "en": "Having the same conflict which ye saw in me, and now hear to be in me.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "በክርስቶስም አንዳች ምክር ቢሆን፥ የፍቅር መጽናናት ቢሆን፥ የመንፈስ ኅብረት ቢሆን፥ ምሕረትና ርኅራኄ ቢሆኑ፥ ደስታዬን ፈጽሙልኝ፤",
+            "en": "If there be therefore any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any bowels and mercies,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "በአንድ አሳብ ተስማሙ፥ አንድ ፍቅር አንድም ልብ አንድም አሳብ ይሁንላችሁ፤",
+            "en": "Fulfil ye my joy, that ye be likeminded, having the same love, being of one accord, of one mind.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ለወገኔ ይጠቅማል በማለት ወይም በከንቱ ውዳሴ ምክንያት አንድ እንኳ አታድርጉ፥ ነገር ግን እያንዳንዱ ባልንጀራው ከራሱ ይልቅ እንዲሻል በትሕትና ይቍጠር፤",
+            "en": "Let nothing be done through strife or vainglory; but in lowliness of mind let each esteem other better than themselves.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "እያንዳንዱ ለራሱ የሚጠቅመውን አይመልከት፥ ለባልንጀራው ደግሞ እንጂ።",
+            "en": "Look not every man on his own things, but every man also on the things of others.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "በክርስቶስ ኢየሱስ የነበረ ይህ አሳብ በእናንተ ዘንድ ደግሞ ይሁን።",
+            "en": "Let this mind be in you, which was also in Christ Jesus:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "እርሱ በእግዚአብሔር መልክ ሲኖር ሳለ ከእግዚአብሔር ጋር መተካከልን መቀማት እንደሚገባ ነገር አልቈጠረውም፥",
+            "en": "Who, being in the form of God, thought it not robbery to be equal with God:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ነገር ግን የባሪያን መልክ ይዞ በሰውም ምሳሌ ሆኖ ራሱን ባዶ አደረገ፥",
+            "en": "But made himself of no reputation, and took upon him the form of a servant, and was made in the likeness of men:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "በምስሉም እንደ ሰው ተገኝቶ ራሱን አዋረደ፥ ለሞትም ይኸውም የመስቀል ሞት እንኳ የታዘዘ ሆነ።",
+            "en": "And being found in fashion as a man, he humbled himself, and became obedient unto death, even the death of the cross.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "በዚህ ምክንያት ደግሞ እግዚአብሔር ያለ ልክ ከፍ ከፍ አደረገው፥ ከስምም ሁሉ በላይ ያለውን ስም ሰጠው፤",
+            "en": "Wherefore God also hath highly exalted him, and given him a name which is above every name:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ይህም በሰማይና በምድር ከምድርም በታች ያሉት ሁሉ በኢየሱስ ስም ይንበረከኩ ዘንድ፥",
+            "en": "That at the name of Jesus every knee should bow, of things in heaven, and things in earth, and things under the earth;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "መላስም ሁሉ ለእግዚአብሔር አብ ክብር ኢየሱስ ክርስቶስ ጌታ እንደ ሆነ ይመሰክር ዘንድ ነው።",
+            "en": "And that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "ስለዚህ፥ ወዳጆቼ ሆይ፥ ሁልጊዜ እንደ ታዘዛችሁ፥ በእናንተ ዘንድ በመኖሬ ብቻ ሳይሆን ይልቁን አሁን ስርቅ፥ በፍርሃትና በመንቀጥቀጥ የራሳችሁን መዳን ፈጽሙ፤",
+            "en": "Wherefore, my beloved, as ye have always obeyed, not as in my presence only, but now much more in my absence, work out your own salvation with fear and trembling.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ስለ በጎ ፈቃዱ መፈለግንም ማድረግንም በእናንተ የሚሠራ እግዚአብሔር ነውና።",
+            "en": "For it is God which worketh in you both to will and to do of his good pleasure.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "በመጥፎና በጠማማ ትውልድ መካከል ያለ ነቀፋ የዋሆችም ነውርም የሌለባቸው የእግዚአብሔር ልጆች እንድትሆኑ ሳታንጐራጉሩ ክፉም ሳታስቡ ሁሉን አድርጉ፤",
+            "en": "Do all things without murmurings and disputings:",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              14,
+              15
+            ]
+          }
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "በመጥፎና በጠማማ ትውልድ መካከል ያለ ነቀፋ የዋሆችም ነውርም የሌለባቸው የእግዚአብሔር ልጆች እንድትሆኑ ሳታንጐራጉሩ ክፉም ሳታስቡ ሁሉን አድርጉ፤",
+            "en": "That ye may be blameless and harmless, the sons of God, without rebuke, in the midst of a crooked and perverse nation, among whom ye shine as lights in the world;",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              14,
+              15
+            ]
+          }
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "በእነርሱም መካከል የሕይወትን ቃል እያቀረባችሁ በዓለም እንደ ብርሃን ትታያላችሁ፥ ስለዚህም በከንቱ እንዳልሮጥሁ በከንቱም እንዳልደከምሁ በክርስቶስ ቀን የምመካበት ይሆንልኛል።",
+            "en": "Holding forth the word of life; that I may rejoice in the day of Christ, that I have not run in vain, neither laboured in vain.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "ነገር ግን በእምነታችሁ መሥዋዕትና አገልግሎት ተጨምሬ ሕይወቴ እንኳ ቢፈስ፥ ደስ ብሎኛል፤ ከሁላችሁም ጋር አብሬ ደስ ብሎኛል፤",
+            "en": "Yea, and if I be offered upon the sacrifice and service of your faith, I joy, and rejoice with you all.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "እናንተም ደግሞ እንዲሁ ደስ ይበላችሁ ከእኔም ጋር አብራችሁ ደስ ይበላችሁ።",
+            "en": "For the same cause also do ye joy, and rejoice with me.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "ነገር ግን ኑሮአችሁን ሳውቅ እኔ ደግሞ ደስ እንዲለኝ ፈጥኜ ጢሞቴዎስን ልልክላችሁ በጌታ በኢየሱስ ተስፋ አደርጋለሁ።",
+            "en": "But I trust in the Lord Jesus to send Timotheus shortly unto you, that I also may be of good comfort, when I know your state.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "እንደ እርሱ ያለ፥ ስለ ኑሮአችሁ በቅንነት የሚጨነቅ፥ ማንም የለኝምና፤",
+            "en": "For I have no man likeminded, who will naturally care for your state.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "ሁሉ የራሳቸውን ይፈልጋሉና፥ የክርስቶስ ኢየሱስን አይደለም።",
+            "en": "For all seek their own, not the things which are Jesus Christ's.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 22,
+          "text": {
+            "am": "ነገር ግን ልጅ ለአባቱ እንደ ሚያገለግል ከእኔ ጋር ሆኖ ለወንጌል እንደ አገለገለ መፈተኑን ታውቃላችሁ።",
+            "en": "But ye know the proof of him, that, as a son with the father, he hath served with me in the gospel.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 23,
+          "text": {
+            "am": "እንግዲህ እንዴት እንደምሆን ባየሁ ጊዜ፥ እርሱን ቶሎ እንድልክ ተስፋ አደርጋለሁ፤",
+            "en": "Him therefore I hope to send presently, so soon as I shall see how it will go with me.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 24,
+          "text": {
+            "am": "ራሴ ደግሞ ግን ፈጥኜ እንድመጣ በጌታ ታምኜአለሁ።",
+            "en": "But I trust in the Lord that I also myself shall come shortly.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 25,
+          "text": {
+            "am": "ነገር ግን ወንድሜንና ከእኔ ጋር አብሮ ሠራተኛ ወታደርም የሚሆነውን፥ የእናንተ ግን መልእክተኛ የሆነውና የሚያስፈልገኝን የሚያገለግለውን አፍሮዲጡን እንድልክላችሁ በግድ አስባለሁ፤",
+            "en": "Yet I supposed it necessary to send to you Epaphroditus, my brother, and companion in labour, and fellowsoldier, but your messenger, and he that ministered to my wants.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 26,
+          "text": {
+            "am": "ሁላችሁን ይናፍቃልና፥ እንደ ታመመም ስለ ሰማችሁ ይተክዛል።",
+            "en": "For he longed after you all, and was full of heaviness, because that ye had heard that he had been sick.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 27,
+          "text": {
+            "am": "በእውነት ታሞ ለሞት እንኳ ቀርቦ ነበርና፤ ነገር ግን እግዚአብሔር ማረው፥ ኀዘን በኀዘን ላይ እንዳይጨመርብኝ ለእኔ ደግሞ እንጂ ለእርሱ ብቻ አይደለም።",
+            "en": "For indeed he was sick nigh unto death: but God had mercy on him; and not on him only, but on me also, lest I should have sorrow upon sorrow.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 28,
+          "text": {
+            "am": "እንግዲህ እንደ ገና ስታዩት ደስ እንዲላችሁ ለእኔም ኀዘኔ እንዲቃለል በብዙ ፍጥነት እልከዋለሁ።",
+            "en": "I sent him therefore the more carefully, that, when ye see him again, ye may rejoice, and that I may be the less sorrowful.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 29,
+          "text": {
+            "am": "እንግዲህ በሙሉ ደስታ በጌታ ተቀበሉት፥ እርሱን የሚመስሉትንም አክብሩአቸው፤",
+            "en": "Receive him therefore in the Lord with all gladness; and hold such in reputation:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 30,
+          "text": {
+            "am": "በእኔ ዘንድ ካላችሁ አገልግሎት እናንተ ስለሌላችሁ የጎደለኝን እንዲፈጽም፥ በነፍሱ ተወራርዶ ከጌታ ሥራ የተነሣ እስከ ሞት ቀርቦአልና።",
+            "en": "Because for the work of Christ he was nigh unto death, not regarding his life, to supply your lack of service toward me.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "በቀረውስ፥ ወንድሞቼ ሆይ፥ በጌታ ደስ ይበላችሁ። ስለ አንድ ነገር መልሼ ልጽፍላችሁ እኔን አይታክተኝም ለእናንተ ግን ደኅና ነው።",
+            "en": "Finally, my brethren, rejoice in the Lord. To write the same things to you, to me indeed is not grievous, but for you it is safe.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ከውሾች ተጠበቁ፥ ከክፉዎችም ሠራተኞች ተጠበቁ፥ ከሐሰተኛም መገረዝ ተጠበቁ።",
+            "en": "Beware of dogs, beware of evil workers, beware of the concision.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "እኛ በመንፈስ እግዚአብሔርን የምናመልክ በክርስቶስ ኢየሱስም የምንመካ በሥጋም የማንታመን እኛ የተገረዝን ነንና።",
+            "en": "For we are the circumcision, which worship God in the spirit, and rejoice in Christ Jesus, and have no confidence in the flesh.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "እኔ ግን በሥጋ ደግሞ የምታመንበት አለኝ። ሌላ ሰው ማንም ቢሆን በሥጋ የሚታመንበት እንዳለው ቢመስለው፥ እኔ እበልጠዋለሁ።",
+            "en": "Though I might also have confidence in the flesh. If any other man thinketh that he hath whereof he might trust in the flesh, I more:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "በስምንተኛው ቀን የተገረዝሁ፥ ከእስራኤል ትውልድ፥ ከብንያም ወገን፥ ከዕብራውያን ዕብራዊ ነኝ፤ ስለ ሕግ ብትጠይቁ፥ ፈሪሳዊ ነበርሁ፤",
+            "en": "Circumcised the eighth day, of the stock of Israel, of the tribe of Benjamin, an Hebrew of the Hebrews; as touching the law, a Pharisee;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ስለ ቅንዓት ብትጠይቁ፥ ቤተ ክርስቲያንን አሳዳጅ ነበርሁ፤ በሕግ ስለሚገኝ ጽድቅ ብትጠይቁ፥ ያለ ነቀፋ ነበርሁ።",
+            "en": "Concerning zeal, persecuting the church; touching the righteousness which is in the law, blameless.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ነገር ግን ለእኔ ረብ የነበረውን ሁሉ ስለ ክርስቶስ እንደ ጉዳት ቈጥሬዋለሁ።",
+            "en": "But what things were gain to me, those I counted loss for Christ.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "አዎን፥ በእውነት ከሁሉ ይልቅ ስለሚበልጥ ስለ ክርስቶስ ኢየሱስ ስለ ጌታዬ እውቀት ነገር ሁሉ ጉዳት እንዲሆን እቈጥራለሁ፤ ስለ እርሱ ሁሉን ተጐዳሁ፥ ክርስቶስንም አገኝ ዘንድ፥ በክርስቶስም በማመን ያለው ጽድቅ ማለት በእምነት ከእግዚአብሔር ዘንድ ያለው ጽድቅ እንጂ ከሕግ ለእኔ ያለው ጽድቅ ሳይሆንልኝ፥ በእርሱ እገኝ ዘንድ ሁሉን እንደ ጕድፍ እቈጥራለሁ፤",
+            "en": "Yea doubtless, and I count all things but loss for the excellency of the knowledge of Christ Jesus my Lord: for whom I have suffered the loss of all things, and do count them but dung, that I may win Christ,",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "አዎን፥ በእውነት ከሁሉ ይልቅ ስለሚበልጥ ስለ ክርስቶስ ኢየሱስ ስለ ጌታዬ እውቀት ነገር ሁሉ ጉዳት እንዲሆን እቈጥራለሁ፤ ስለ እርሱ ሁሉን ተጐዳሁ፥ ክርስቶስንም አገኝ ዘንድ፥ በክርስቶስም በማመን ያለው ጽድቅ ማለት በእምነት ከእግዚአብሔር ዘንድ ያለው ጽድቅ እንጂ ከሕግ ለእኔ ያለው ጽድቅ ሳይሆንልኝ፥ በእርሱ እገኝ ዘንድ ሁሉን እንደ ጕድፍ እቈጥራለሁ፤",
+            "en": "And be found in him, not having mine own righteousness, which is of the law, but that which is through the faith of Christ, the righteousness which is of God by faith:",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "እርሱንና የትንሣኤውን ኃይል እንዳውቅ፥ በመከራውም እንድካፈል፥ ወደ ሙታንም ትንሣኤ ልደርስ ቢሆንልኝ፥ በሞቱ እንድመስለው እመኛለሁ።",
+            "en": "That I may know him, and the power of his resurrection, and the fellowship of his sufferings, being made conformable unto his death;",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              10,
+              11
+            ]
+          }
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "እርሱንና የትንሣኤውን ኃይል እንዳውቅ፥ በመከራውም እንድካፈል፥ ወደ ሙታንም ትንሣኤ ልደርስ ቢሆንልኝ፥ በሞቱ እንድመስለው እመኛለሁ።",
+            "en": "If by any means I might attain unto the resurrection of the dead.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              10,
+              11
+            ]
+          }
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "አሁን እንዳገኘሁ ወይም አሁን ፍጹም እንደ ሆንሁ አይደለም፥ ነገር ግን ስለ እርሱ በክርስቶስ ኢየሱስ የተያዝሁበትን ያን ደግሞ እይዛለሁ ብዬ እፈጥናለሁ።",
+            "en": "Not as though I had already attained, either were already perfect: but I follow after, if that I may apprehend that for which also I am apprehended of Christ Jesus.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ወንድሞች ሆይ፥ እኔ ገና እንዳልያዝሁት እቈጥራለሁ፤ ነገር ግን አንድ ነገር አደርጋለሁ፤ በኋላዬ ያለውን እየረሳሁ በፊቴ ያለውን ለመያዝ እዘረጋለሁ፥",
+            "en": "Brethren, I count not myself to have apprehended: but this one thing I do, forgetting those things which are behind, and reaching forth unto those things which are before,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "በክርስቶስ ኢየሱስ ከፍ ከፍ ያለውን የእግዚአብሔርን መጥራት ዋጋ እንዳገኝ ምልክትን እፈጥናለሁ።",
+            "en": "I press toward the mark for the prize of the high calling of God in Christ Jesus.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "እንግዲህ ፍጹማን የሆንን ሁላችን ይህን እናስብ፤ በአንዳች ነገርም ልዩ አሳብ ቢኖራችሁ፥ እግዚአብሔር ይህን ደግሞ ይገልጥላችኋል፤",
+            "en": "Let us therefore, as many as be perfect, be thus minded: and if in any thing ye be otherwise minded, God shall reveal even this unto you.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ሆኖም በደረስንበት በዚያ እንመላለስ።",
+            "en": "Nevertheless, whereto we have already attained, let us walk by the same rule, let us mind the same thing.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "ወንድሞች ሆይ፥ እኔን የምትመስሉ ሁኑ፥ እኛም እንደ ምሳሌ እንደምንሆንላችሁ፥ እንዲሁ የሚመላለሱትን ተመልከቱ።",
+            "en": "Brethren, be followers together of me, and mark them which walk so as ye have us for an ensample.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "ብዙዎች ለክርስቶስ መስቀል ጠላቶቹ ሆነው ይመላለሳሉና፤ ብዙ ጊዜ ስለ እነርሱ አልኋችሁ፥ አሁንም እንኳ እያለቀስሁ እላለሁ።",
+            "en": "For many walk, of whom I have told you often, and now tell you even weeping, that they are the enemies of the cross of Christ:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "መጨረሻቸው ጥፋት ነው፥ ሆዳቸው አምላካቸው ነው፥ ክብራቸው በነውራቸው ነው፥ አሳባቸው ምድራዊ ነው።",
+            "en": "Whose end is destruction, whose God is their belly, and whose glory is in their shame, who mind earthly things.)",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "እኛ አገራችን በሰማይ ነውና፥ ከዚያም ደግሞ የሚመጣ መድኃኒትን እርሱንም ጌታን ኢየሱስ ክርስቶስን እንጠባበቃለን፤",
+            "en": "For our conversation is in heaven; from whence also we look for the Saviour, the Lord Jesus Christ:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "እርሱም ሁሉን እንኳ ለራሱ ሊያስገዛ እንደሚችልበት አሠራር፥ ክቡር ሥጋውን እንዲመስል የተዋረደውን ሥጋችንን ይለውጣል።",
+            "en": "Who shall change our vile body, that it may be fashioned like unto his glorious body, according to the working whereby he is able even to subdue all things unto himself.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "ስለዚህ፥ የምወዳችሁና የምናፍቃችሁ፥ ደስታዬና አክሊሌ የምትሆኑ ወንድሞቼ ሆይ፥ እንዲሁ በጌታ ቁሙ፥ ወዳጆች ሆይ።",
+            "en": "Therefore, my brethren dearly beloved and longed for, my joy and crown, so stand fast in the Lord, my dearly beloved.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "በአንድ አሳብ በጌታ እንዲስማሙ ኤዎድያንን እመክራለሁ ሲንጤኪንንም እመክራለሁ።",
+            "en": "I beseech Euodias, and beseech Syntyche, that they be of the same mind in the Lord.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "አንተም ደግሞ በሥራዬ አብረህ የተጠመድህ እውነተኛ ሆይ፥ እንድታግዛቸው እለምንሃለሁ፤ ስሞቻቸው በሕይወት መጽሐፍ ከተጻፉት ከቀሌምንጦስና ደግሞ ከእኔ ጋር አብረው ከሠሩት ከሌሎቹ ጋር በወንጌል ከእኔ ጋር አብረው ተጋድለዋልና።",
+            "en": "And I intreat thee also, true yokefellow, help those women which laboured with me in the gospel, with Clement also, and with other my fellowlabourers, whose names are in the book of life.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ሁልጊዜ በጌታ ደስ ይበላችሁ፤ ደግሜ እላለሁ፥ ደስ ይበላችሁ።",
+            "en": "Rejoice in the Lord alway: and again I say, Rejoice.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ገርነታችሁ ለሰው ሁሉ ይታወቅ።",
+            "en": "Let your moderation be known unto all men. The Lord is at hand.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ጌታ ቅርብ ነው። በነገር ሁሉ በጸሎትና በምልጃ ከምስጋና ጋር በእግዚአብሔር ዘንድ ልመናችሁን አስታውቁ እንጂ በአንዳች አትጨነቁ።",
+            "en": "Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "አእምሮንም ሁሉ የሚያልፍ የእግዚአብሔር ሰላም ልባችሁንና አሳባችሁን በክርስቶስ ኢየሱስ ይጠብቃል።",
+            "en": "And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "በቀረውስ፥ ወንድሞች ሆይ፥ እውነተኛ የሆነውን ነገር ሁሉ፥ ጭምትነት ያለበትን ነገር ሁሉ፥ ጽድቅ የሆነውን ነገር ሁሉ፥ ንጹሕ የሆነውን ነገር ሁሉ፥ ፍቅር ያለበትን ነገር ሁሉ፥ መልካም ወሬ ያለበትን ነገር ሁሉ፥ በጎነት ቢሆን ምስጋናም ቢሆን፥ እነዚህን አስቡ፤",
+            "en": "Finally, brethren, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, think on these things.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ከእኔ የተማራችሁትንና የተቀበላችሁትን የሰማችሁትንም ያያችሁትንም እነዚህን አድርጉ፤ የሰላምም አምላክ ከእናንተ ጋር ይሆናል።",
+            "en": "Those things, which ye have both learned, and received, and heard, and seen in me, do: and the God of peace shall be with you.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ነገር ግን አሁን ከጊዜ በኋላ ስለ እኔ እንደ ገና ልታስቡ ስለ ጀመራችሁ፥ በጌታ እጅግ ደስ ይለኛል፤ ጊዜ አጣችሁ እንጂ፥ ማሰብስ ታስቡ ነበር።",
+            "en": "But I rejoiced in the Lord greatly, that now at the last your care of me hath flourished again; wherein ye were also careful, but ye lacked opportunity.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ይህን ስል ስለ ጉድለት አልልም፤ የምኖርበት ኑሮ ይበቃኛል ማለትን ተምሬአለሁና።",
+            "en": "Not that I speak in respect of want: for I have learned, in whatsoever state I am, therewith to be content.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "መዋረድንም አውቃለሁ መብዛትንም አውቃለሁ፤ በእያንዳንዱ ነገር በነገርም ሁሉ መጥገብንና መራብንም መብዛትንና መጉደልን ተምሬአለሁ።",
+            "en": "I know both how to be abased, and I know how to abound: every where and in all things I am instructed both to be full and to be hungry, both to abound and to suffer need.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ኃይልን በሚሰጠኝ በክርስቶስ ሁሉን እችላለሁ።",
+            "en": "I can do all things through Christ which strengtheneth me.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ሆኖም በመከራዬ ከእኔ ጋር ስለ ተካፈላችሁ መልካም አደረጋችሁ።",
+            "en": "Notwithstanding ye have well done, that ye did communicate with my affliction.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "የፊልጵስዩስ ሰዎች ሆይ፥ ወንጌል በመጀመሪያ ሲሰበክ፥ ከመቄዶንያ በወጣሁ ጊዜ፥ ከእናንተ ብቻ በቀር ሌላ ቤተ ክርስቲያን በመስጠትና በመቀበል ስሌት ከእኔ ጋር እንዳልተካፈለች እናንተ ደግሞ ታውቃላችሁ፤",
+            "en": "Now ye Philippians know also, that in the beginning of the gospel, when I departed from Macedonia, no church communicated with me as concerning giving and receiving, but ye only.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "በተሰሎንቄ እንኳ ሳለሁ፥ አንድ ጊዜና ሁለት ጊዜ ያስፈለገኝን ሰዳችሁልኝ ነበርና።",
+            "en": "For even in Thessalonica ye sent once and again unto my necessity.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "በስሌታችሁ የሚበዛውን ፍሬ እንጂ ስጦታውን ፈላጊ አይደለሁም።",
+            "en": "Not because I desire a gift: but I desire fruit that may abound to your account.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "ነገር ግን ሁሉ አለኝ ይበዛልኝማል፤ የመዓዛ ሽታና የተወደደ መሥዋዕት የሚሆነውን ለእግዚአብሔርም ደስ የሚያሰኘውን ስጦታችሁን ከአፍሮዲጡ ተቀብዬ ተሞልቼአለሁ።",
+            "en": "But I have all, and abound: I am full, having received of Epaphroditus the things which were sent from you, an odour of a sweet smell, a sacrifice acceptable, wellpleasing to God.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "አምላኬም እንደ ባለ ጠግነቱ መጠን በክብር በክርስቶስ ኢየሱስ የሚያስፈልጋችሁን ሁሉ ይሞላባችኋል።",
+            "en": "But my God shall supply all your need according to his riches in glory by Christ Jesus.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "ለአምላካችንና ለአባታችንም እስከ ዘላለም ድረስ ክብር ይሁን፤ አሜን።",
+            "en": "Now unto God and our Father be glory for ever and ever. Amen.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "ለቅዱሳን ሁሉ በክርስቶስ ኢየሱስ ሰላምታ አቅርቡ። ከእኔ ጋር ያሉቱ ወንድሞች ሰላምታ ያቀርቡላችኋል።",
+            "en": "Salute every saint in Christ Jesus. The brethren which are with me greet you.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 22,
+          "text": {
+            "am": "ቅዱሳን ሁሉ ይልቁንም ከቄሣር ቤት የሆኑቱ ሰላምታ ያቀርቡላችኋል።",
+            "en": "All the saints salute you, chiefly they that are of Caesar's household.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 23,
+          "text": {
+            "am": "የጌታችን የኢየሱስ ክርስቶስ ጸጋ ከመንፈሳችሁ ጋር ይሁን፤ አሜን።",
+            "en": "The grace of our Lord Jesus Christ be with you all. Amen.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3335 @@
+{
+  "book_number": 27,
+  "book_name_am": "ትንቢተ ዳንኤል",
+  "book_short_name_am": "ዳን",
+  "book_name_en": "Daniel",
+  "book_short_name_en": "Dan",
+  "book_name_geez": null,
+  "testament": "old",
+  "sources": [
+    "ethiopicbible.com"
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "የይሁዳ ንጉሥ ኢዮአቄም በነገሠ በሦስተኛው ዓመት የባቢሎን ንጉሥ ናቡከደነፆር ወደ ኢየሩሳሌም መጥቶ ከበባት።",
+            "en": "In the third year of the reign of Jehoiakim king of Judah came Nebuchadnezzar king of Babylon unto Jerusalem, and besieged it.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ጌታም የይሁዳን ንጉሥ ኢዮአቄምን ከእግዚአብሔርም ቤት ዕቃ ከፍሎ በእጁ አሳልፎ ሰጠው፤ እርሱም ወደ ሰናዖር ምድር ወደ አምላኩ ቤት ወሰደው፥ ዕቃውንም ወደ አምላኩ ግምጃ ቤት አገባው።",
+            "en": "And the Lord gave Jehoiakim king of Judah into his hand, with part of the vessels of the house of God: which he carried into the land of Shinar to the house of his god; and he brought the vessels into the treasure house of his god.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ንጉሡም ነውር የሌለባቸውንና መልከ መልካሞቹን፥ በጥበብ ሁሉ የሚያስተውሉትን እውቀትም የሞላባቸውን ብልሃተኞችና አስተዋዮች የሆኑትን፥ በንጉሡም ቤት መቆም የሚችሉትን ብላቴኖች ከእስራኤል ልጆች ከነገሥታቱና ከመሳፍንቱ ዘር ያመጣ ዘንድ የከለዳውያንንም ትምህርትና ቋንቋ ያስተምሩአቸው ዘንድ ለጃንደረቦች አለቃ ለአስፋኔዝ ነገረ።",
+            "en": "And the king spake unto Ashpenaz the master of his eunuchs, that he should bring certain of the children of Israel, and of the king's seed, and of the princes;",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              3,
+              4
+            ]
+          }
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ንጉሡም ነውር የሌለባቸውንና መልከ መልካሞቹን፥ በጥበብ ሁሉ የሚያስተውሉትን እውቀትም የሞላባቸውን ብልሃተኞችና አስተዋዮች የሆኑትን፥ በንጉሡም ቤት መቆም የሚችሉትን ብላቴኖች ከእስራኤል ልጆች ከነገሥታቱና ከመሳፍንቱ ዘር ያመጣ ዘንድ የከለዳውያንንም ትምህርትና ቋንቋ ያስተምሩአቸው ዘንድ ለጃንደረቦች አለቃ ለአስፋኔዝ ነገረ።",
+            "en": "Children in whom was no blemish, but well favoured, and skilful in all wisdom, and cunning in knowledge, and understanding science, and such as had ability in them to stand in the king's palace, and whom they might teach the learning and the tongue of the Chaldeans.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              3,
+              4
+            ]
+          }
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ንጉሡም ሦስት ዓመት ያሳድጉአቸው ዘንድ፥ ከዚያም በኋላ በንጉሡ ፊት ይቆሙ ዘንድ ከንጉሡ መብል ከሚጠጣውም ጠጅ በየዕለቱ ድርጎአቸውን አዘዘላቸው።",
+            "en": "And the king appointed them a daily provision of the king's meat, and of the wine which he drank: so nourishing them three years, that at the end thereof they might stand before the king.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "በእነዚህም መካከል ከይሁዳ ልጆች ዳንኤልና አናንያ ሚሳኤልና አዛርያ ነበሩ።",
+            "en": "Now among these were of the children of Judah, Daniel, Hananiah, Mishael, and Azariah:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "የጃንደረቦቹም አለቃ ስም አወጣላቸው፤ ዳንኤልን ብልጣሶር፥ አናንያንም ሲድራቅ፥ ሚሳኤልንም ሚሳቅ፥ አዛርያንም አብደናጎ ብሎ ጠራቸው።",
+            "en": "Unto whom the prince of the eunuchs gave names: for he gave unto Daniel the name of Belteshazzar; and to Hananiah, of Shadrach; and to Mishael, of Meshach; and to Azariah, of Abednego.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ዳንኤልም በንጉሡ መብልና በሚጠጣው ጠጅ እንዳይረክስ በልቡ አሰበ፤ እንዳይረክስም የጃንደረቦቹን አለቃ ለመነ።",
+            "en": "But Daniel purposed in his heart that he would not defile himself with the portion of the king's meat, nor with the wine which he drank: therefore he requested of the prince of the eunuchs that he might not defile himself.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "እግዚአብሔርም በጃንደረቦቹ አለቃ ፊት ለዳንኤል ሞገስንና ምሕረትን ሰጠው።",
+            "en": "Now God had brought Daniel into favour and tender love with the prince of the eunuchs.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "የጃንደረቦቹም አለቃ ዳንኤልን። መብሉንና መጠጡን ያዘዘላችሁን ጌታዬን ንጉሡን እፈራለሁ፤ በዕድሜ እንደ እናንተ ካሉ ብላቴኖች ይልቅ ፊታችሁ ከስቶ ያየ እንደ ሆነ፥ ከንጉሡ ዘንድ በራሴ ታስፈርዱብኛላችሁ አለው።",
+            "en": "And the prince of the eunuchs said unto Daniel, I fear my lord the king, who hath appointed your meat and your drink: for why should he see your faces worse liking than the children which are of your sort? then shall ye make me endanger my head to the king.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ዳንኤልም የጃንደርቦቹ አለቃ በዳንኤልና በአናንያ በሚሳኤልና በአዛርያ ላይ የሾመውን ሜልዳርን።",
+            "en": "Then said Daniel to Melzar, whom the prince of the eunuchs had set over Daniel, Hananiah, Mishael, and Azariah,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "እኛን ባሪያዎችህን አሥር ቀን ያህል ትፈትነን ዘንድ እለምንሃለሁ፤ የምንበላውንም ጥራጥሬ የምንጠጣውንም ውኃ ይስጡን፤",
+            "en": "Prove thy servants, I beseech thee, ten days; and let them give us pulse to eat, and water to drink.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ከዚያም በኋላ የእኛን ፊትና ከንጉሡ መብል የሚበሉትን የብላቴኖችን ፊት ተመልከት፤ እንዳየኸውም ሁሉ ከባሪያዎችህ ጋር የወደድኸውን አድርግ አለው።",
+            "en": "Then let our countenances be looked upon before thee, and the countenance of the children that eat of the portion of the king's meat: and as thou seest, deal with thy servants.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ይህንም ነገራቸውን ሰምቶ አሥር ቀን ፈተናቸው።",
+            "en": "So he consented to them in this matter, and proved them ten days.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ከአሥር ቀንም በኋላ ከንጉሡ መብል ከበሉ ብላቴኖች ሁሉ ይልቅ ፊታቸው አምሮ ሥጋቸውም ወፍሮ ታየ።",
+            "en": "And at the end of ten days their countenances appeared fairer and fatter in flesh than all the children which did eat the portion of the king's meat.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ሜልዳርም መብላቸውንና የሚጠጡትን ጠጅ አስቀርቶ ጥራጥሬውን ሰጣቸው።",
+            "en": "Thus Melzar took away the portion of their meat, and the wine that they should drink; and gave them pulse.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "ለእነዚህም ለአራቱ ብላቴኖች እግዚአብሔር በትምህርትና በጥበብ ሁሉ እውቀትንና ማስተዋልን ሰጣቸው፤ ዳንኤልም በራእይና በሕልም ሁሉ አስተዋይ ነበረ።",
+            "en": "As for these four children, God gave them knowledge and skill in all learning and wisdom: and Daniel had understanding in all visions and dreams.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "እነርሱም ይገቡ ዘንድ ንጉሡ ያዘዘው ቀን በተፈጸመ ጊዜ፥ የጃንደረቦቹ አለቃ ወደ ናቡከደነፆር ዘንድ አገባቸው።",
+            "en": "Now at the end of the days that the king had said he should bring them in, then the prince of the eunuchs brought them in before Nebuchadnezzar.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "ንጉሡም በተነጋገራቸው ጊዜ ከብላቴኖቹ ሁሉ እንደ ዳንኤልና እንደ አናንያ እንደ ሚሳኤልና እንደ አዛርያ ያለ አልተገኘም፤ በንጉሡም ፊት ቆሙ።",
+            "en": "And the king communed with them; and among them all was found none like Daniel, Hananiah, Mishael, and Azariah: therefore stood they before the king.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "ንጉሡም በጠየቃቸው በጥበብና በማስተዋል ነገር ሁሉ በግዛቱ ሁሉ ከሚኖሩ የሕልም ተርጓሚዎችና አስማተኞች ሁሉ እነርሱ አሥር እጅ የበለጡ ሆነው አገኘባቸው።",
+            "en": "And in all matters of wisdom and understanding, that the king enquired of them, he found them ten times better than all the magicians and astrologers that were in all his realm.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "ዳንኤልም እስከ ንጉሡ እስከ ቂሮስ መጀመሪያ ዓመት ተቀመጠ።",
+            "en": "And Daniel continued even unto the first year of king Cyrus.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "ናቡከደነፆርም በነገሠ በሁለተኛው ዓመት ናቡከደነፆር ሕልም አለመ፤ መንፈሱም ታወከ፥ እንቅልፉም ከእርሱ ራቀ።",
+            "en": "And in the second year of the reign of Nebuchadnezzar Nebuchadnezzar dreamed dreams, wherewith his spirit was troubled, and his sleep brake from him.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ለንጉሡም ሕልሙን እንዲነግሩት ንጉሡ የሕልም ተርጓሚዎቹንና አስማተኞቹን መተተኞቹንና ከለዳውያኑንም ይጠሩ ዘንድ አዘዘ፤ እነርሱም ገብተው በንጉሡ ፊት ቆሙ።",
+            "en": "Then the king commanded to call the magicians, and the astrologers, and the sorcerers, and the Chaldeans, for to shew the king his dreams. So they came and stood before the king.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ንጉሡም። ሕልም አልሜአለሁ፥ ሕልሙንም ለማወቅ መንፈሴ ታውኮአል አላቸው።",
+            "en": "And the king said unto them, I have dreamed a dream, and my spirit was troubled to know the dream.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ከለዳውያኑም ንጉሡን በሶርያ ቋንቋ። ንጉሥ ሆይ፥ ሺህ ዓመት ንገሥ፤ ለባሪያዎችህ ሕልምህን ንገር፥ እኛም ፍቺውን እናሳይሃለን ብለው ተናገሩት።",
+            "en": "Then spake the Chaldeans to the king in Syriack, O king, live for ever: tell thy servants the dream, and we will shew the interpretation.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ንጉሡም መለሰ ከለዳውያኑንም። ነገሩ ከእኔ ዘንድ ርቆአል፤ ሕልሙንና ፍቺውን ባታስታውቁኝ፥ ትቈረጣላችሁ ቤቶቻችሁም የጕድፍ መጣያ ይደረጋሉ።",
+            "en": "The king answered and said to the Chaldeans, The thing is gone from me: if ye will not make known unto me the dream, with the interpretation thereof, ye shall be cut in pieces, and your houses shall be made a dunghill.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ሕልሙንና ፍቺውን ግን ብታሳዩ፥ ከእኔ ዘንድ ስጦታና ዋጋ ብዙ ክብርም ትቀበላላችሁ፤ ስለዚህም ሕልሙንና ፍቺውን አሳዩኝ አላቸው።",
+            "en": "But if ye shew the dream, and the interpretation thereof, ye shall receive of me gifts and rewards and great honour: therefore shew me the dream, and the interpretation thereof.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ሁለተኛም ጊዜ መልሰው። ንጉሡ ለባሪያዎቹ ሕልሙን ይንገር፥ እኛም ፍቺውን እናሳያለን አሉት።",
+            "en": "They answered again and said, Let the king tell his servants the dream, and we will shew the interpretation of it.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ንጉሡ መልሶ። ነገሩ ከእኔ ዘንድ እንደ ራቀ ታውቃላችሁና ጊዜውን እንድታስረዝሙ እኔ አውቃለሁ።",
+            "en": "The king answered and said, I know of certainty that ye would gain the time, because ye see the thing is gone from me.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ሕልሙንም ባታስታውቁኝ አንድ ፍርድ አለባችሁ፤ ጊዜውን ለማሳለፍ የሐሰትንና የተንኰልን ቃል ልትነግሩኝ አዘጋጅታችኋል፤ ስለዚህ ሕልሙን ንገሩኝ፥ ፍቺውንም ማሳየት እንድትችሉ አውቃለሁ አለ።",
+            "en": "But if ye will not make known unto me the dream, there is but one decree for you: for ye have prepared lying and corrupt words to speak before me, till the time be changed: therefore tell me the dream, and I shall know that ye can shew me the interpretation thereof.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ከለዳውያኑም በንጉሡ ፊት መልሰው። የንጉሡን ነገር ያሳይ ዘንድ የሚችል ሰው በምድር ላይ የለም፤ ከነገሥታትም ታላቅና ኃይለኛ የሆነ እንደዚህ ያለ ነገር የሕልም ተርጓሚንና አስማተኛን ከለዳዊንም አልጠየቀም።",
+            "en": "The Chaldeans answered before the king, and said, There is not a man upon the earth that can shew the king's matter: therefore there is no king, lord, nor ruler, that asked such things at any magician, or astrologer, or Chaldean.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ንጉሡም የሚጠይቀው ነገር የቸገረ ነው፤ መኖሪያቸው ከሰው ጋር ካልሆነ ከአማልክት በቀር በንጉሡ ፊት የሚያሳየው ማንም የለም አሉ።",
+            "en": "And it is a rare thing that the king requireth, and there is none other that can shew it before the king, except the gods, whose dwelling is not with flesh.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "ስለዚህም ንጉሡ ተበሳጨ እጅግም ተቈጣ፥ የባቢሎንንም ጠቢባን ሁሉ ያጠፉ ዘንድ አዘዘ።",
+            "en": "For this cause the king was angry and very furious, and commanded to destroy all the wise men of Babylon.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ትእዛዝም ወጣ፥ ጠቢባንንም ይገድሉ ዘንድ ጀመሩ፤ ዳንኤልንና ባልንጀሮቹንም ይገድሉ ዘንድ ፈለጉአቸው።",
+            "en": "And the decree went forth that the wise men should be slain; and they sought Daniel and his fellows to be slain.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "የዚያን ጊዜም ዳንኤል የባቢሎንን ጠቢባን ይገድል ዘንድ የወጣውን የንጉሡን የዘበኞቹ አለቃ አርዮክን በፈሊጥና በማስተዋል ተናገረው፤",
+            "en": "Then Daniel answered with counsel and wisdom to Arioch the captain of the king's guard, which was gone forth to slay the wise men of Babylon:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ለንጉሡም አለቃ ለአርዮክ መልሶ። የንጉሡ ትእዛዝ ስለ ምን ቸኰለ? አለው። አርዮክም ነገሩን ለዳንኤል አስታወቀው።",
+            "en": "He answered and said to Arioch the king's captain, Why is the decree so hasty from the king? Then Arioch made the thing known to Daniel.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ዳንኤልም ገብቶ ፍቺውን ለንጉሡ የሚያስታውቅበት ጊዜ ይሰጠው ዘንድ ንጉሡን ለመነ።",
+            "en": "Then Daniel went in, and desired of the king that he would give him time, and that he would shew the king the interpretation.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "የዚያን ጊዜም ዳንኤል ወደ ቤቱ ሄደ። ዳንኤልም ባልንጀሮቹም ከቀሩት ከባቢሎን ጠቢባን ጋር እንዳይሞቱ ስለዚህ ምሥጢር ምሕረትን ከሰማይ አምላክ ይለምኑ ዘንድ ነገሩን ለባልንጀሮቹ ለአናንያና ለሚሳኤል ለአዛርያ አስታወቃቸው።",
+            "en": "Then Daniel went to his house, and made the thing known to Hananiah, Mishael, and Azariah, his companions:",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              17,
+              18
+            ]
+          }
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "የዚያን ጊዜም ዳንኤል ወደ ቤቱ ሄደ። ዳንኤልም ባልንጀሮቹም ከቀሩት ከባቢሎን ጠቢባን ጋር እንዳይሞቱ ስለዚህ ምሥጢር ምሕረትን ከሰማይ አምላክ ይለምኑ ዘንድ ነገሩን ለባልንጀሮቹ ለአናንያና ለሚሳኤል ለአዛርያ አስታወቃቸው።",
+            "en": "That they would desire mercies of the God of heaven concerning this secret; that Daniel and his fellows should not perish with the rest of the wise men of Babylon.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              17,
+              18
+            ]
+          }
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "የዚያን ጊዜም ምሥጢሩ በሌሊት ራእይ ለዳንኤል ተገለጠለት፤ ዳንኤልም የሰማይን አምላክ አመሰገነ።",
+            "en": "Then was the secret revealed unto Daniel in a night vision. Then Daniel blessed the God of heaven.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "ዳንኤልም ተናገረ እንዲህም አለ። ጥበብና ኃይል ለእርሱ ነውና የእግዚአብሔር ስም ከዘላለም እስከ ዘላለም ይባረክ፤",
+            "en": "Daniel answered and said, Blessed be the name of God for ever and ever: for wisdom and might are his:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "ጊዜያትንና ዘመናትን ይለውጣል፤ ነገሥታትን ያፈልሳል፥ ነገሥታትንም ያስነሣል፤ ጥበብን ለጠቢባን እውቀትንም ለአስተዋዮች ይሰጣል።",
+            "en": "And he changeth the times and the seasons: he removeth kings, and setteth up kings: he giveth wisdom unto the wise, and knowledge to them that know understanding:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 22,
+          "text": {
+            "am": "የጠለቀውንና የተሠወረውን ይገልጣል፤ በጨለማ ያለውን ያውቃል፥ ብርሃንም ከእርሱ ጋር ነው።",
+            "en": "He revealeth the deep and secret things: he knoweth what is in the darkness, and the light dwelleth with him.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 23,
+          "text": {
+            "am": "ጥበብንና ኃይልን የሰጠኸኝ፥ እኛም የለመንንህን ነገር አሁን ያስታወቅኸኝ፥ አንተ የአባቶቼ አምላክ ሆይ፥ የንጉሡን ነገር አስታውቀኸኛልና እገዛልሃለሁ አመሰግንህማለሁ።",
+            "en": "I thank thee, and praise thee, O thou God of my fathers, who hast given me wisdom and might, and hast made known unto me now what we desired of thee: for thou hast now made known unto us the king's matter.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 24,
+          "text": {
+            "am": "ከዚህም በኋላ ዳንኤል ንጉሡ የባቢሎንን ጠቢባን ያጠፋ ዘንድ ወዳዘዘው ወደ አርዮክ ገባ፤ በገባም ጊዜ። የባቢሎንን ጠቢባን አታጥፋ፤ ወደ ንጉሡ አስገባኝ፥ እኔም ፍቺውን ለንጉሡ አሳያለሁ አለው።",
+            "en": "Therefore Daniel went in unto Arioch, whom the king had ordained to destroy the wise men of Babylon: he went and said thus unto him; Destroy not the wise men of Babylon: bring me in before the king, and I will shew unto the king the interpretation.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 25,
+          "text": {
+            "am": "የዚያን ጊዜም አርዮክ ዳንኤልን ፈጥኖ ወደ ንጉሡ አስገባውና። ከይሁዳ ምርኮኞች ያለውን ለንጉሡ ፍቺውን የሚያስታውቀውን ሰው አግኝቼአለሁ አለው።",
+            "en": "Then Arioch brought in Daniel before the king in haste, and said thus unto him, I have found a man of the captives of Judah, that will make known unto the king the interpretation.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 26,
+          "text": {
+            "am": "ንጉሡም መለሰ ብልጣሶርም የሚባለውን ዳንኤልን። ያየሁትን ሕልምና ፍቺውን ታስታውቀኝ ዘንድ ትችላለህን? አለው።",
+            "en": "The king answered and said to Daniel, whose name was Belteshazzar, Art thou able to make known unto me the dream which I have seen, and the interpretation thereof?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 27,
+          "text": {
+            "am": "ዳንኤልም በንጉሡ ፊት መልሶ እንዲህ አለ። ንጉሡ የጠየቀውን ምሥጢር ጠቢባንና አስማተኞች የሕልም ተርጓሚዎችና ቃላተኞች ለንጉሡ ያሳዩ ዘንድ አይችሉም፤",
+            "en": "Daniel answered in the presence of the king, and said, The secret which the king hath demanded cannot the wise men, the astrologers, the magicians, the soothsayers, shew unto the king;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 28,
+          "text": {
+            "am": "ነገር ግን ምሥጢር የሚገልጥ አምላክ በሰማይ ውስጥ አለ፥ እርሱም በኋለኛው ዘመን የሚሆነውን ለንጉሡ ለናቡከደነፆር አስታውቆታል። በአልጋህ ላይ የሆነው ሕልምና የራስህ ራእይ ይህ ነው።",
+            "en": "But there is a God in heaven that revealeth secrets, and maketh known to the king Nebuchadnezzar what shall be in the latter days. Thy dream, and the visions of thy head upon thy bed, are these;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 29,
+          "text": {
+            "am": "አንተ፥ ንጉሥ ሆይ፥ ከአንተ በኋላ የሚሆነው ምን እንደ ሆነ በአልጋህ ላይ ታስብ ነበር፤ ምሥጢርንም የሚገልጠው የሚሆነውን ነገር አስታውቆሃል።",
+            "en": "As for thee, O king, thy thoughts came into thy mind upon thy bed, what should come to pass hereafter: and he that revealeth secrets maketh known to thee what shall come to pass.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 30,
+          "text": {
+            "am": "ነገር ግን ይህ ምሥጢር ለእኔ መገለጡ ፍቺው ለንጉሡ ይታወቅ ዘንድ፥ አንተም የልብህን አሳብ ታውቅ ዘንድ ነው እንጂ በዚህ ዓለም ካሉ ሰዎች ይልቅ በጥበብ ስለ በለጥሁ አይደለም።",
+            "en": "But as for me, this secret is not revealed to me for any wisdom that I have more than any living, but for their sakes that shall make known the interpretation to the king, and that thou mightest know the thoughts of thy heart.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 31,
+          "text": {
+            "am": "አንተ፥ ንጉሥ ሆይ፥ ታላቅ ምስል አየህ፤ ይህም ምስል ታላቅና ብልጭልጭታው የበዛ ነበረ፥ በፊትህም ቆሞ ነበር፤ መልኩም ግሩም ነበረ።",
+            "en": "Thou, O king, sawest, and behold a great image. This great image, whose brightness was excellent, stood before thee; and the form thereof was terrible.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 32,
+          "text": {
+            "am": "የዚህም ምስል ራስ ጥሩ ወርቅ፥ ደረቱና ክንዶቹም ብር፥ ሆዱና ወገቡም ናስ፥",
+            "en": "This image's head was of fine gold, his breast and his arms of silver, his belly and his thighs of brass,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 33,
+          "text": {
+            "am": "ጭኖቹም ብረት፥ እግሮቹም እኩሉ ብረት እኩሉም ሸክላ ነበረ።",
+            "en": "His legs of iron, his feet part of iron and part of clay.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 34,
+          "text": {
+            "am": "እጅም ሳይነካው ድንጋይ ከተራራው ተፈንቅሎ ከብረትና ከሸክላ የሆነውን የምስሉን እግሮች ሲመታና ሲፈጭ አየህ።",
+            "en": "Thou sawest till that a stone was cut out without hands, which smote the image upon his feet that were of iron and clay, and brake them to pieces.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 35,
+          "text": {
+            "am": "የዚያን ጊዜም ብረቱና ሸክላው፥ ናሱና ብሩ ወርቁም በአንድነት ተፈጨ፥ በመከርም ጊዜ በአውድማ ላይ እንዳለ እብቅ ሆነ፤ ነፋስም ወሰደው፥ ቦታውም አልታወቀም፤ ምስሉንም የመታ ድንጋይ ታላቅ ተራራ ሆነ ምድርንም ፈጽሞ ሞላ",
+            "en": "Then was the iron, the clay, the brass, the silver, and the gold, broken to pieces together, and became like the chaff of the summer threshingfloors; and the wind carried them away, that no place was found for them: and the stone that smote the image became a great mountain, and filled the whole earth.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 36,
+          "text": {
+            "am": "ሕልሙ ይህ ነው፤ አሁንም ፍቺውን በንጉሡ ፊት እንናገራለን።",
+            "en": "This is the dream; and we will tell the interpretation thereof before the king.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 37,
+          "text": {
+            "am": "አንተ፥ ንጉሥ ሆይ፥ የሰማይ አምላክ መንግሥትንና ኃይልን፥ ብርታትንና ክብርን የሰጠህ የነገሥታት ንጉሥ አንተ ነህ።",
+            "en": "Thou, O king, art a king of kings: for the God of heaven hath given thee a kingdom, power, and strength, and glory.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 38,
+          "text": {
+            "am": "በሚቀመጡበትም ስፍራ ሁሉ የሰው ልጆችንና የምድር አራዊትን የሰማይ ወፎችንም በእጅህ አሳልፎ ሰጥቶሃል፥ ለሁሉም ገዥ አድርጎሃል፤ አንተ የወርቁ ራስ ነህ።",
+            "en": "And wheresoever the children of men dwell, the beasts of the field and the fowls of the heaven hath he given into thine hand, and hath made thee ruler over them all. Thou art this head of gold.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 39,
+          "text": {
+            "am": "ከአንተም በኋላ ከአንተ የሚያንስ ሌላ መንግሥት ይነሣል፤ ከዚያም በኋላ በምድር ሁሉ ላይ የሚገዛ ሌላ ሦስተኛ የናስ መንግሥት ይነሣል።",
+            "en": "And after thee shall arise another kingdom inferior to thee, and another third kingdom of brass, which shall bear rule over all the earth.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 40,
+          "text": {
+            "am": "አራተኛውም መንግሥት ሁሉን እንደሚቀጠቅጥና እንደሚያደቅቅ ብረት ይበረታል፤ እነዚህንም ሁሉ እንደሚፈጭ ብረት ይቀጠቅጣል ይፈጭማል።",
+            "en": "And the fourth kingdom shall be strong as iron: forasmuch as iron breaketh in pieces and subdueth all things: and as iron that breaketh all these, shall it break in pieces and bruise.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 41,
+          "text": {
+            "am": "እግሮቹና ጣቶቹም እኩሉ ሸክላ እኩሉም ብረት ሆኖ እንዳየህ፥ እንዲሁ የተከፋፈለ መንግሥት ይሆናል፤ ብረቱም ከሸክላው ጋር ተደባልቆ እንዳየሁ፥ የብረት ብርታት ለእርሱ ይሆናል።",
+            "en": "And whereas thou sawest the feet and toes, part of potters' clay, and part of iron, the kingdom shall be divided; but there shall be in it of the strength of the iron, forasmuch as thou sawest the iron mixed with miry clay.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 42,
+          "text": {
+            "am": "የእግሮቹም ጣቶች እኩሉ ብረት እኩሉም ሸክላ እንደ ነበሩ፥ እንዲሁ መንግሥቱ እኩሉ ብርቱ እኩሉ ደካማ ይሆናል።",
+            "en": "And as the toes of the feet were part of iron, and part of clay, so the kingdom shall be partly strong, and partly broken.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 43,
+          "text": {
+            "am": "ብረቱም ከሸክላው ጋር ተደባልቆ እንዳየህ፥ እንዲሁ ከሰው ዘር ጋር ይደባለቃሉ፤ ነገር ግን ብረት ከሸክላ ጋር እንደማይጣበቅ፥ እንዲሁ እርስ በርሳቸው አይጣበቁም።",
+            "en": "And whereas thou sawest iron mixed with miry clay, they shall mingle themselves with the seed of men: but they shall not cleave one to another, even as iron is not mixed with clay.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 44,
+          "text": {
+            "am": "በእነዚያም ነገሥታት ዘመን የሰማይ አምላክ ለዘላለም የማይፈርስ መንግሥት ያስነሣል፤ ለሌላ ሕዝብም የማይሰጥ መንግሥት ይሆናል፤ እነዚያንም መንግሥታት ሁሉ ትፈጫቸዋለች ታጠፋቸውማለች፥ ለዘላለምም ትቆማለች።",
+            "en": "And in the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed: and the kingdom shall not be left to other people, but it shall break in pieces and consume all these kingdoms, and it shall stand for ever.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 45,
+          "text": {
+            "am": "ድንጋዩም እጅ ሳይነካው ከተራራ ተፈንቅሎ ብረቱንና ናሱን ሸክላውንና ብሩን ወርቁንም ሲፈጨው እንዳየህ፥ እንዲሁ ከዚህ በኋላ የሚሆነውን ታላቁ አምላክ ለንጉሡ አስታውቆታል፤ ሕልሙም እውነተኛ ፍቺውም የታመነ ነው።",
+            "en": "Forasmuch as thou sawest that the stone was cut out of the mountain without hands, and that it brake in pieces the iron, the brass, the clay, the silver, and the gold; the great God hath made known to the king what shall come to pass hereafter: and the dream is certain, and the interpretation thereof sure.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 46,
+          "text": {
+            "am": "የዚያን ጊዜም ንጉሡ ናቡከደነፆር በግምባሩ ተደፍቶ ለዳንኤል ሰገደለት፥ የእህሉንም ቍርባን ዕጣኑንም ያቀርቡለት ዘንድ አዘዘ።",
+            "en": "Then the king Nebuchadnezzar fell upon his face, and worshipped Daniel, and commanded that they should offer an oblation and sweet odours unto him.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 47,
+          "text": {
+            "am": "ንጉሡም ዳንኤልን። ይህን ምሥጢር ትገልጥ ዘንድ ተችሎሃልና በእውነት አምላካችሁ የአማልክት አምላክ፥ የነገሥታትም ጌታ፥ ምሥጢርም ገላጭ ነው ብሎ ተናገረው።",
+            "en": "The king answered unto Daniel, and said, Of a truth it is, that your God is a God of gods, and a Lord of kings, and a revealer of secrets, seeing thou couldest reveal this secret.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 48,
+          "text": {
+            "am": "ንጉሡም ዳንኤልን ከፍ ከፍ አደርገው፥ ብዙም ታላቅ ስጦታ ሰጠው፥ በባቢሎንም አውራጃ ሁሉ ላይ ሾመው፥ በባቢሎንም ጠቢባን ሁሉ ላይ ዋነኛ አለቃ አደረገው።",
+            "en": "Then the king made Daniel a great man, and gave him many great gifts, and made him ruler over the whole province of Babylon, and chief of the governors over all the wise men of Babylon.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 49,
+          "text": {
+            "am": "ዳንኤልም ንጉሡን ለመነ፥ እርሱም ሲድራቅንና ሚሳቅን አብደናጎንም በባቢሎን አውራጃ ሥራ ላይ ሾማቸው፤ ዳንኤል ግን በንጉሡ በር ነበረ።",
+            "en": "Then Daniel requested of the king, and he set Shadrach, Meshach, and Abednego, over the affairs of the province of Babylon: but Daniel sat in the gate of the king.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "ንጉሡ ናቡከደነፆር ቁመቱ ስድሳ ክንድ ወርዱም ስድስት ክንድ የሆነውን የወርቁን ምስል አሠራ፤ በባቢሎንም አውራጃ በዱራ ሜዳ አቆመው።",
+            "en": "Nebuchadnezzar the king made an image of gold, whose height was threescore cubits, and the breadth thereof six cubits: he set it up in the plain of Dura, in the province of Babylon.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ንጉሡም ናቡከደነፆር መኳንንትንና ሹማምቶችን፥ አዛዦችንና አዛውንቶችን፥ በጅሮንዶችንና አማካሪዎችን፥ መጋቢዎችንም፥ አውራጃ ገዦችንም ሁሉ ይሰበስቡ ዘንድ፥ ንጉሡም ናቡከደነፆር ላቆመው ምስል ምረቃ ይመጡ ዘንድ ላከ።",
+            "en": "Then Nebuchadnezzar the king sent to gather together the princes, the governors, and the captains, the judges, the treasurers, the counsellors, the sheriffs, and all the rulers of the provinces, to come to the dedication of the image which Nebuchadnezzar the king had set up.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "በዚያን ጊዜም መኳንንቱና ሹማምቶቹ፥ አዛዦቹና አዛውንቶቹ፥ በጅሮንዶቹና አማካሪዎቹ፥ መጋቢዎቹና አውራጃ ገዦቹ ሁሉ ንጉሡ ናቡከደነፆር ላቆመው ምስል ምረቃ ተሰበሰቡ፤ ናቡከደነፆርም ባቆመው ምስል ፊት ቆሙ።",
+            "en": "Then the princes, the governors, and captains, the judges, the treasurers, the counsellors, the sheriffs, and all the rulers of the provinces, were gathered together unto the dedication of the image that Nebuchadnezzar the king had set up; and they stood before the image that Nebuchadnezzar had set up.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "አዋጅ ነጋሪውም እየጮኸ እንዲህ አለ። ወገኖችና አሕዛብ በልዩ ልዩ ቋንቋም የምትናገሩ ሆይ፥",
+            "en": "Then an herald cried aloud, To you it is commanded, O people, nations, and languages,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "የመለከትንና የእንቢልታን፥ የመሰንቆንና የክራርን፥ የበገናንና የዋሽንትን፥ የዘፈንንም ሁሉ ድምፅ በሰማችሁ ጊዜ፥ ተደፍታችሁ ንጉሡ ናቡከደነፆር ላቆመው ለወርቁ ምስል እንድትሰግዱ ታዝዛችኋል።",
+            "en": "That at what time ye hear the sound of the cornet, flute, harp, sackbut, psaltery, dulcimer, and all kinds of musick, ye fall down and worship the golden image that Nebuchadnezzar the king hath set up:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ተደፍቶም የማይሰግድ በዚያን ጊዜ በሚነድድ እሳት እቶን ውስጥ ይጣላል።",
+            "en": "And whoso falleth not down and worshippeth shall the same hour be cast into the midst of a burning fiery furnace.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ስለዚህ በዚያን ጊዜ አሕዛብ ሁሉ የመለከቱንና የእንቢልታውን፥ የመሰንቆውንና የክራሩን፥ የበገናውንና የዘፈኑንም ሁሉ ድምፅ በሰሙ ጊዜ፥ ወገኖችና አሕዛብ በልዩ ልዩ ቋንቋም የተናገሩ ሁሉ ተደፉ፥ ንጉሡም ናቡከደነፆር ላቆመው ለወርቅ ምስል ሰገዱ።",
+            "en": "Therefore at that time, when all the people heard the sound of the cornet, flute, harp, sackbut, psaltery, and all kinds of musick, all the people, the nations, and the languages, fell down and worshipped the golden image that Nebuchadnezzar the king had set up.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "በዚያን ጊዜም ከለዳውያን ቀርበው አይሁድን ከሰሱ።",
+            "en": "Wherefore at that time certain Chaldeans came near, and accused the Jews.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ለንጉሡም ለናቡከደነፆር ተናገሩ እንዲህም አሉ። ንጉሥ ሆይ፥ ሺህ ዓመት ንገሥ።",
+            "en": "They spake and said to the king Nebuchadnezzar, O king, live for ever.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "አንተ፥ ንጉሥ ሆይ። የመለከትንና የእንቢልታን፥ የመሰንቆንና የክራርን፥ የበገናንና የዋሽንትን፥ የዘፈንንም ሁሉ ድምፅ የሚሰማ ሰው ሁሉ ተደፍቶ ለወርቁ ምስል ይስገድ፤",
+            "en": "Thou, O king, hast made a decree, that every man that shall hear the sound of the cornet, flute, harp, sackbut, psaltery, and dulcimer, and all kinds of musick, shall fall down and worship the golden image:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ተደፍቶም የማይሰግድ በሚነድድ እሳት እቶን ውስጥ ይጣላል ብለህ አዘዝህ።",
+            "en": "And whoso falleth not down and worshippeth, that he should be cast into the midst of a burning fiery furnace.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "በባቢሎን አውራጃ ሥራ ላይ የሾምሃቸው ሲድራቅና ሚሳቅ አብደናጎም የሚባሉ አይሁድ አሉ፤ ንጉሥ ሆይ፥ እነዚህ ሰዎች ትእዛዝህን እንቢ ብለዋል፤ አማልክትህን አያመልኩም፥ ላቆምኸውም ለወርቁ ምስል አይሰግዱም።",
+            "en": "There are certain Jews whom thou hast set over the affairs of the province of Babylon, Shadrach, Meshach, and Abednego; these men, O king, have not regarded thee: they serve not thy gods, nor worship the golden image which thou hast set up.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ናቡከደነፆርም በብስጭትና በቍጣ ሲድራቅንና ሚሳቅን አብደናጎንም ያመጡ ዘንድ አዘዘ፤ እነዚህንም ሰዎች ወደ ንጉሡ ፊት አመጡአቸው።",
+            "en": "Then Nebuchadnezzar in his rage and fury commanded to bring Shadrach, Meshach, and Abednego. Then they brought these men before the king.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ናቡከደነፆርም። ሲድራቅና ሚሳቅ አብደናጎም ሆይ፥ አምላኬን አለማምለካችሁ፥ ላቆምሁትም ለወርቁ ምስል አለመስገዳችሁ እውነት ነውን?",
+            "en": "Nebuchadnezzar spake and said unto them, Is it true, O Shadrach, Meshach, and Abednego, do not ye serve my gods, nor worship the golden image which I have set up?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "አሁንም የመለከቱንና የእንቢልታውን የመሰንቆውንና የክራሩን የበገናውንና የዋሽንቱን የዘፈኑንም ሁሉ ድምፅ በሰማችሁ ጊዜ ተደፍታችሁ ላሠራሁት ምስል ብትሰግዱ መልካም ነው፤ ባትሰግዱ ግን በዚያ ጊዜ በሚነድድ እሳት እቶን ውስጥ ትጣላላችሁ፤ ከእጄስ የሚያድናችሁ አምላክ ማን ነው? ብሎ ተናገራቸው።",
+            "en": "Now if ye be ready that at what time ye hear the sound of the cornet, flute, harp, sackbut, psaltery, and dulcimer, and all kinds of musick, ye fall down and worship the image which I have made; well: but if ye worship not, ye shall be cast the same hour into the midst of a burning fiery furnace; and who is that God that shall deliver you out of my hands?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ሲድራቅና ሚሳቅ አብደናጎም መለሱ ንጉሡንም። ናቡከደነፆር ሆይ፥ በዚህ ነገር እንመልስልህ ዘንድ አስፈላጊያችን አይደለም።",
+            "en": "Shadrach, Meshach, and Abednego, answered and said to the king, O Nebuchadnezzar, we are not careful to answer thee in this matter.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "የምናመልከው አምላካችን ከሚነድደው ከእሳቱ እቶን ያድነን ዘንድ ይችላል፤ ከእጅህም ያድነናል፥ ንጉሥ ሆይ!",
+            "en": "If it be so, our God whom we serve is able to deliver us from the burning fiery furnace, and he will deliver us out of thine hand, O king.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "ነገር ግን፥ ንጉሥ ሆይ፥ እርሱ ባያድነን፥ አማልክትህን እንዳናመልክ ላቆምኸውም ለወርቁ ምስል እንዳንሰግድለት እወቅ አሉት።",
+            "en": "But if not, be it known unto thee, O king, that we will not serve thy gods, nor worship the golden image which thou hast set up.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "የዚያን ጊዜም ናቡከደነፆር በሲድራቅና በሚሳቅ በአብደናጎም ላይ ቍጣ ሞላበት፥ የፊቱም መልክ ተለወጠባቸው፤ እርሱም ተናገረ፥ የእቶንም እሳት ይነድድ ከነበረው ይልቅ ሰባት እጥፍ አድርገው እንዲያነድዱት አዘዘ።",
+            "en": "Then was Nebuchadnezzar full of fury, and the form of his visage was changed against Shadrach, Meshach, and Abednego: therefore he spake, and commanded that they should heat the furnace one seven times more than it was wont to be heated.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "ሲድራቅንና ሚሳቅንም አብደናጎንም ያስሩ ዘንድ፥ ወደሚነድድም ወደ እቶን እሳት ይጥሉአቸው ዘንድ በሠራዊቱ ውስጥ ከነበሩት ኃያላን አዘዘ።",
+            "en": "And he commanded the most mighty men that were in his army to bind Shadrach, Meshach, and Abednego, and to cast them into the burning fiery furnace.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "የዚያን ጊዜም እነዚህ ሰዎች ከሰናፊላቸውና ከቀሚሳቸው ከመጐናጸፊያቸውም ከቀረውም ልብሳቸው ጋር ታስረው በሚነድድ በእቶን እሳት ውስጥ ተጣሉ።",
+            "en": "Then these men were bound in their coats, their hosen, and their hats, and their other garments, and were cast into the midst of the burning fiery furnace.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 22,
+          "text": {
+            "am": "የንጉሡም ትእዛዝ አስቸኳይ ስለሆነ የእቶኑም እሳት እጅግ ስለሚነድድ፥ ሲድራቅንና ሚሳቅን አብደናጎንም የጣሉአቸውን ሰዎች የእሳቱ ወላፈን ገደላቸው።",
+            "en": "Therefore because the king's commandment was urgent, and the furnace exceeding hot, the flame of the fire slew those men that took up Shadrach, Meshach, and Abednego.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 23,
+          "text": {
+            "am": "እነዚህም ሦስቱ ሰዎች ሲድራቅና ሚሳቅ አብደናጎም ታስረው በሚነድደው በእቶኑ እሳት ውስጥ ወደቁ።",
+            "en": "And these three men, Shadrach, Meshach, and Abednego, fell down bound into the midst of the burning fiery furnace.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 24,
+          "text": {
+            "am": "የዚያን ጊዜም ንጉሡ ናቡከደነፆር ተደነቀ ፈጥኖም ተነሣ፤ አማካሪዎቹንም። ሦስት ሰዎች አስረን በእሳት ውስጥ ጥለን አልነበረምን? ብሎ ተናገራቸው። እነርሱም። ንጉሥ ሆይ፥ እውነት ነው ብለው ለንጉሡ መለሱለት።",
+            "en": "Then Nebuchadnezzar the king was astonied, and rose up in haste, and spake, and said unto his counsellors, Did not we cast three men bound into the midst of the fire? They answered and said unto the king, True, O king.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 25,
+          "text": {
+            "am": "እርሱም። እነሆ፥ እኔ የተፈቱ በእሳቱም መካከል የሚመላለሱ አራት ሰዎች አያለሁ፤ ምንም አላቈሰላቸውም፤ የአራተኛውም መልክ የአማልክትን ልጅ ይመስላል ብሎ መለሰ።",
+            "en": "He answered and said, Lo, I see four men loose, walking in the midst of the fire, and they have no hurt; and the form of the fourth is like the Son of God.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 26,
+          "text": {
+            "am": "የዚያን ጊዜም ናቡከደነፆር ወደሚነድደው ወደ እሳቱ እቶን በር ቀርቦ። እናንተ የልዑል አምላክ ባሪያዎች፥ ሲድራቅና ሚሳቅ አብደናጎም፥ ኑ ውጡ ብሎ ተናገራቸው። ሲድራቅና ሚሳቅም አብደናጎም ከእሳቱ መካከል ወጡ።",
+            "en": "Then Nebuchadnezzar came near to the mouth of the burning fiery furnace, and spake, and said, Shadrach, Meshach, and Abednego, ye servants of the most high God, come forth, and come hither. Then Shadrach, Meshach, and Abednego, came forth of the midst of the fire.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 27,
+          "text": {
+            "am": "መሳፍንቱና ሹማምቶቹም አዛዦቹና የንጉሡ አማካሪዎች ተሰብስበው እሳቱ በእነዚያ ሰዎች አካል ላይ ኃይል እንዳልነበረው፥ የራሳቸውም ጠጕር እንዳልተቃጠለች፥ ሰናፊላቸውም እንዳልተለወጠ፥ የእሳቱም ሽታ እንዳልደረሰባቸው አዩ።",
+            "en": "And the princes, governors, and captains, and the king's counsellors, being gathered together, saw these men, upon whose bodies the fire had no power, nor was an hair of their head singed, neither were their coats changed, nor the smell of fire had passed on them.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 28,
+          "text": {
+            "am": "ናቡከደነፆርም መልሶ። መልአኩን የላከ፥ ከአምላካቸውም በቀር ማንም አምላክ እንዳያመልኩ ለእርሱም እንዳይሰግዱ ሰውነታቸውን አሳልፈው የሰጡትን የንጉሡንም ቃል የተላለፉትን በእርሱ የታመኑትን ባሪያዎቹን ያዳነ፥ የሲድራቅና የሚሳቅ የአብደናጎም አምላክ ይባረክ።",
+            "en": "Then Nebuchadnezzar spake, and said, Blessed be the God of Shadrach, Meshach, and Abednego, who hath sent his angel, and delivered his servants that trusted in him, and have changed the king's word, and yielded their bodies, that they might not serve nor worship any god, except their own God.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 29,
+          "text": {
+            "am": "እኔም እንደዚህ የሚያድን ሌላ አምላክ የለምና በሲድራቅና በሚሳቅ በአብደናጎም አምላክ ላይ የስድብን ነገር የሚናገር ወገንና ሕዝብ በልዩ ልዩም ቋንቋ የሚናገሩ ይቈረጣሉ፥ ቤቶቻቸውም የጕድፍ መጣያ ይደረጋሉ ብዬ አዝዣለሁ አለ።",
+            "en": "Therefore I make a decree, That every people, nation, and language, which speak any thing amiss against the God of Shadrach, Meshach, and Abednego, shall be cut in pieces, and their houses shall be made a dunghill: because there is no other God that can deliver after this sort.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 30,
+          "text": {
+            "am": "የዚያን ጊዜም ንጉሡ ሲድራቅንና ሚሳቅን አብደናጎንም በባቢሎን አውራጃ ውስጥ ከፍ ከፍ አደረጋቸው።",
+            "en": "Then the king promoted Shadrach, Meshach, and Abednego, in the province of Babylon.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "ከንጉሡ ከናቡከደነፆር በምድር ሁሉ ወደሚቀመጡ ወገኖችና አሕዛብ በልዩ ልዩ ቋንቋም ወደሚናገሩ ሁሉ፥ ሰላም ይብዛላችሁ።",
+            "en": "Nebuchadnezzar the king, unto all people, nations, and languages, that dwell in all the earth; Peace be multiplied unto you.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ልዑል አምላክ በፊቴ ያደረገውን ተአምራቱንና ድንቁን አሳያችሁ ዘንድ ወድጃለሁ።",
+            "en": "I thought it good to shew the signs and wonders that the high God hath wrought toward me.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ተአምራቱ እንዴት ታላቅ ነው! ድንቁም እንዴት ጽኑ ነው! መንግሥቱም የዘላለም መንግሥት ነው፥ ግዛቱም ለልጅ ልጅ ነው።",
+            "en": "How great are his signs! and how mighty are his wonders! his kingdom is an everlasting kingdom, and his dominion is from generation to generation.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "እኔ ናቡከደነፆር በቤቴ ደስ ብሎኝ በአዳራሼም ተመችቶኝ ነበር።",
+            "en": "I Nebuchadnezzar was at rest in mine house, and flourishing in my palace:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ሕልም አለምሁ፤ እርስዋም አስፈራችኝ፤ በአልጋዬም ላይ የነበረው አሳቤና የራሴ ራእይ አስጨነቁኝ።",
+            "en": "I saw a dream which made me afraid, and the thoughts upon my bed and the visions of my head troubled me.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ስለዚህ የሕልሙን ፍቺ እንዲያስታውቁኝ የባቢሎን ጠቢባን ሁሉ ወደ እኔ ይገቡ ዘንድ አዘዝሁ።",
+            "en": "Therefore made I a decree to bring in all the wise men of Babylon before me, that they might make known unto me the interpretation of the dream.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "የዚያን ጊዜም የሕልም ተርጓሚዎቹና አስማተኞቹ ከለዳውያኑና ቃላተኞቹ ገቡ፤ ሕልሙንም በፊታቸው ተናገርሁ፥ ፍቺውን ግን አላስታወቁኝም።",
+            "en": "Then came in the magicians, the astrologers, the Chaldeans, and the soothsayers: and I told the dream before them; but they did not make known unto me the interpretation thereof.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "በመጨረሻም የቅዱሳን አማልክት መንፈስ ያለበት እንደ አምላኬ ስም ብልጣሶር የሚባለው ዳንኤል በፊቴ ገባ፤ እኔም ሕልሙን ነገርሁት እንዲህም አልሁት።",
+            "en": "But at the last Daniel came in before me, whose name was Belteshazzar, according to the name of my god, and in whom is the spirit of the holy gods: and before him I told the dream, saying,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "የሕልም ተርጓሚዎች አለቃ ብልጣሶር ሆይ፥ የቅዱሳን አማልክት መንፈስ በአንተ ውስጥ እንዳለ፥ ከምሥጢርም ሁሉ የሚያስቸግርህ እንደሌለ አውቄአለሁና ያለምሁትን የሕልሜን ራእይ ፍቺውንም ንገረኝ።",
+            "en": "O Belteshazzar, master of the magicians, because I know that the spirit of the holy gods is in thee, and no secret troubleth thee, tell me the visions of my dream that I have seen, and the interpretation thereof.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "የራሴ ራእይ በአልጋዬ ላይ ይህ ነበረ፤ እነሆ፥ በምድር መካከል ዛፍ አየሁ፥ ቁመቱም እጅግ ረጅም ነበረ።",
+            "en": "Thus were the visions of mine head in my bed; I saw, and behold a tree in the midst of the earth, and the height thereof was great.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ዛፉም ትልቅ ሆነ፥ በረታም፥ ቁመቱም እስከ ሰማይ ደረሰ፥ መልኩም እስከ ምድር ሁሉ ዳርቻ ድረስ ታየ።",
+            "en": "The tree grew, and was strong, and the height thereof reached unto heaven, and the sight thereof to the end of all the earth:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "ቅጠሉም። የተዋበ ነበረ ፍሬውም ብዙ ነበረ፥ ለሁሉም መብል ነበረበት፤ ከጥላውም በታች የምድር አራዊት ያርፉበት ነበር፥ በቅርንጫፎቹም ውስጥ የሰማይ ወፎች ይቀመጡ ነበር፥ ሥጋ ለባሹም ሁሉ ከእርሱ ይበላ ነበር።",
+            "en": "The leaves thereof were fair, and the fruit thereof much, and in it was meat for all: the beasts of the field had shadow under it, and the fowls of the heaven dwelt in the boughs thereof, and all flesh was fed of it.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "በአልጋዬም ላይ በራሴ ራእይ አየሁ፤ እነሆም፥ አንድ ቅዱስ ጠባቂ ከሰማይ ወረደ።",
+            "en": "I saw in the visions of my head upon my bed, and, behold, a watcher and an holy one came down from heaven;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "በታላቅ ድምፅም እየጮኸ እንዲህ አለ። ዛፉን ቍረጡ፥ ቅርንጫፎቹንም ጨፍጭፉ፥ ቅጠሎቹንም አራግፉ፥ ፍሬውንም በትኑ፤ አራዊትም ከበታቹ ወፎቹም ከቅርንጫፉ ይሽሹ።",
+            "en": "He cried aloud, and said thus, Hew down the tree, and cut off his branches, shake off his leaves, and scatter his fruit: let the beasts get away from under it, and the fowls from his branches:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ነገር ግን ጉቶውን በምድር ውስጥ ተዉት፥ በመስክም ውስጥ በብረትና በናስ ማሰሪያ ታስሮ ይቈይ፤ በሰማይም ጠል ይረስርስ እድል ፈንታውም በምድር ሣር ውስጥ ከአራዊት ጋር ይሁን።",
+            "en": "Nevertheless leave the stump of his roots in the earth, even with a band of iron and brass, in the tender grass of the field; and let it be wet with the dew of heaven, and let his portion be with the beasts in the grass of the earth:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": null,
+            "en": "Let his heart be changed from man's, and let a beast's heart be given unto him; and let seven times pass over him.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": null,
+            "en": "This matter is by the decree of the watchers, and the demand by the word of the holy ones: to the intent that the living may know that the most High ruleth in the kingdom of men, and giveth it to whomsoever he will, and setteth up over it the basest of men.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "እኔ ንጉሡ ናቡከደነፆር ይህን ሕልም አልሜአለሁ፤ አንተም፥ ብልጣሶር፥ ፍቺውን አስታውቀኝ፥ የመንግሥቴ ጠቢባን ሁሉ ፍቺውን ያስታውቁኝ ዘንድ አይችሉምና፤ ነገር ግን የቅዱሳን አማልክት መንፈስ በአንተ ውስጥ አለና አንተ ትችላለህ።",
+            "en": "This dream I king Nebuchadnezzar have seen. Now thou, O Belteshazzar, declare the interpretation thereof, forasmuch as all the wise men of my kingdom are not able to make known unto me the interpretation: but thou art able; for the spirit of the holy gods is in thee.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "የዚያን ጊዜ ብልጣሶር የተባለው ዳንኤል አንድ ሰዓት ያህል አሰበ፥ ልቡም ታወከ። ንጉሡም መልሶ። ብልጣሶር ሆይ፥ ሕልሙና ፍቺው አያስቸግርህ አለው። ብልጣሶርም መልሶ አለ። ጌታዬ ሆይ፥ ሕልሙ ለሚጠሉህ፥ ፍቺውም ለጠላቶችህ ይሁን።",
+            "en": "Then Daniel, whose name was Belteshazzar, was astonied for one hour, and his thoughts troubled him. The king spake, and said, Belteshazzar, let not the dream, or the interpretation thereof, trouble thee. Belteshazzar answered and said, My lord, the dream be to them that hate thee, and the interpretation thereof to thine enemies.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "ትልቅ የነበረው የበረታውም፥ ቁመቱም እስከ ሰማይ የደረሰው፥ መልኩም እስከ ምድር ሁሉ ድረስ የታየው፥",
+            "en": "The tree that thou sawest, which grew, and was strong, whose height reached unto the heaven, and the sight thereof to all the earth;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "ቅጠሉም አምሮ የነበረው፥ ፍሬውም የበዛው፥ ለሁሉም መብል የነበረበት፤ በበታቹም የምድር አራዊት የተቀመጡ፥ በቅርንጫፎቹም የሰማይ ወፎች ያደሩበት ያየኸው ዛፍ፤",
+            "en": "Whose leaves were fair, and the fruit thereof much, and in it was meat for all; under which the beasts of the field dwelt, and upon whose branches the fowls of the heaven had their habitation:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 22,
+          "text": {
+            "am": "ንጉሥ ሆይ፥ እርሱ ታላቅና ብርቱ የሆንህ አንተ ነህ፤ ታላቅነትህ በዝቶአል፥ እስከ ሰማይም ደርሶአል፥ ግዛትህም እስከ ምድር ዳርቻ ድረስ ነው።",
+            "en": "It is thou, O king, that art grown and become strong: for thy greatness is grown, and reacheth unto heaven, and thy dominion to the end of the earth.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 23,
+          "text": {
+            "am": "ንጉሡም ከሰማይ የወረደውንና። ዛፉን ቍረጡ፥ አጥፉትም፤ ነገር ግን ጉቶውን በምድር ውስጥ ተዉት፤ በብረትና በናስ ማሰሪያ ታስሮ በመስክ ውስጥ ይቈይ፤ በሰማይም ጠል ይረስርስ፥ ሰባት ዘመናትም እስኪያልፉበት ድረስ እድል ፈንታው ከምድር አራዊት ጋር ይሁን ያለውን ቅዱስ ጠባቂ ማየቱ፤ ንጉሥ ሆይ፥ ፍቺው ይህ ነው፤",
+            "en": "And whereas the king saw a watcher and an holy one coming down from heaven, and saying, Hew the tree down, and destroy it; yet leave the stump of the roots thereof in the earth, even with a band of iron and brass, in the tender grass of the field; and let it be wet with the dew of heaven, and let his portion be with the beasts of the field, till seven times pass over him;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 24,
+          "text": {
+            "am": "በጌታዬ በንጉሥ ላይ የወረደው የልዑሉ ትእዛዝ ነው፤",
+            "en": "This is the interpretation, O king, and this is the decree of the most High, which is come upon my lord the king:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 25,
+          "text": {
+            "am": "ልዑሉም በሰዎች መንግሥት ላይ እንዲሠለጥን፥ ለሚወድደውም እንዲሰጠው እስክታውቅ ድረስ ከሰዎች ተለይተህ ትሰደዳለህ፥ መኖሪያህም ከምድር አራዊት ጋር ይሆናል፥ እንደ በሬም ሣር ትበላ ዘንድ ትገደዳለህ፥ በሰማይም ጠል ትረሰርሳለህ፥ ሰባት ዘመናትም ያልፉብሃል።",
+            "en": "That they shall drive thee from men, and thy dwelling shall be with the beasts of the field, and they shall make thee to eat grass as oxen, and they shall wet thee with the dew of heaven, and seven times shall pass over thee, till thou know that the most High ruleth in the kingdom of men, and giveth it to whomsoever he will.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 26,
+          "text": {
+            "am": "የዛፉንም ጉቶ ይተዉት ዘንድ ማዘዙ፥ ሥልጣን ከሰማያት እንደ ሆነ ካወቅህ በኋላ መንግሥትህ ይቆይልሃል።",
+            "en": "And whereas they commanded to leave the stump of the tree roots; thy kingdom shall be sure unto thee, after that thou shalt have known that the heavens do rule.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 27,
+          "text": {
+            "am": "ንጉሥ ሆይ፥ ስለዚህ ምናልባት የደኅንነትህ ዘመን ይረዝም እንደ ሆነ ምክሬ ደስ ያሰኝህ፤ ኃጢአትህንም በጽድቅ፥ በደልህንም ለድሆች በመመጽወት አስቀር።",
+            "en": "Wherefore, O king, let my counsel be acceptable unto thee, and break off thy sins by righteousness, and thine iniquities by shewing mercy to the poor; if it may be a lengthening of thy tranquillity.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 28,
+          "text": {
+            "am": "ይህ ሁሉ በንጉሡ በናቡከደነፆር ላይ ደረሰ።",
+            "en": "All this came upon the king Nebuchadnezzar.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 29,
+          "text": {
+            "am": "ከአሥራ ሁለት ወር በኋላ በባቢሎን ቤተ መንግሥት ሰገነት ላይ ይመላለስ ነበር።",
+            "en": "At the end of twelve months he walked in the palace of the kingdom of Babylon.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 30,
+          "text": {
+            "am": "ንጉሡም። ይህች እኔ በጕልበቴ ብርታት ለግርማዬ ክብር የመንግሥት መኖሪያ እንድትሆን ያሠራኋት ታላቂቱ ባቢሎን አይደለችምን? ብሎ ተናገረ።",
+            "en": "The king spake, and said, Is not this great Babylon, that I have built for the house of the kingdom by the might of my power, and for the honour of my majesty?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 31,
+          "text": {
+            "am": "ቃሉም ገና በንጉሡ አፍ ሳለ ድምፅ ከሰማይ ወደቀና። ንጉሥ ናቡከደነፆር ሆይ። መንግሥት ከአንተ ዘንድ አለፈች ተብሎ ለአንተ ተነግሮአል፤",
+            "en": "While the word was in the king's mouth, there fell a voice from heaven, saying, O king Nebuchadnezzar, to thee it is spoken; The kingdom is departed from thee.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 32,
+          "text": {
+            "am": "ልዑሉም በሰዎች መንግሥት ላይ እንዲሠለጥን፥ ለሚወድደውም እንዲሰጠው እስክታውቅ ድረስ ከሰዎች ተለይተህ ትሰደዳለህ፥ መኖሪያህም ከምድር አራዊት ጋር ይሆናል፤ እንደ በሬም ሣር ትበላ ዘንድ ትገደዳለህ፥ ሰባት ዘመናትም ያልፉብሃል አለው።",
+            "en": "And they shall drive thee from men, and thy dwelling shall be with the beasts of the field: they shall make thee to eat grass as oxen, and seven times shall pass over thee, until thou know that the most High ruleth in the kingdom of men, and giveth it to whomsoever he will.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 33,
+          "text": {
+            "am": "በዚያም ሰዓት ነገሩ በናቡከደነፆር ላይ ደረሰ፤ ጠጕሩም እንደ ንስር፥ ጥፍሩም እንደ ወፎች እስኪረዝም ድረስ ከሰዎች ተለይቶ ተሰደደ፥ እንደ በሬም ሣር በላ፥ አካሉም በሰማይ ጠል ረሰረሰ።",
+            "en": "The same hour was the thing fulfilled upon Nebuchadnezzar: and he was driven from men, and did eat grass as oxen, and his body was wet with the dew of heaven, till his hairs were grown like eagles' feathers, and his nails like birds' claws.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 34,
+          "text": {
+            "am": "ዘመኑም ከተፈጸመ በኋላ እኔ ናቡከደነፆር ዓይኔን ወደ ሰማይ አነሣሁ፥ አእምሮዬም ተመለሰልኝ፤ ልዑሉንም ባረክሁ፥ ለዘላለምም የሚኖረውን አመሰገንሁ አከበርሁትም፤ ግዛቱ የዘላለም ግዛት ነውና፥ መንግሥቱም ለልጅ ልጅ ነውና።",
+            "en": "And at the end of the days I Nebuchadnezzar lifted up mine eyes unto heaven, and mine understanding returned unto me, and I blessed the most High, and I praised and honoured him that liveth for ever, whose dominion is an everlasting dominion, and his kingdom is from generation to generation:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 35,
+          "text": {
+            "am": "በምድርም የሚኖሩ ሁሉ እንደ ምናምን ይቈጠራሉ፤ በሰማይም ሠራዊት በምድርም ላይ በሚኖሩ መካከል እንደ ፈቃዱ ያደርጋል፤ እጁንም የሚከለክላት ወይም። ምን ታደርጋለህ? የሚለው የለም።",
+            "en": "And all the inhabitants of the earth are reputed as nothing: and he doeth according to his will in the army of heaven, and among the inhabitants of the earth: and none can stay his hand, or say unto him, What doest thou?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 36,
+          "text": {
+            "am": "በዚያን ጊዜም አእምሮዬ ተመለሰልኝ፥ ለመንግሥቴም ክብር ግርማዬና ውበቴ ወደ እኔ ተመለሰ፤ አማካሪዎቼና መኳንንቶቼም ፈለጉኝ፥ በመንግሥቴም ውስጥ ጸናሁ፥ ብዙም ክብር ተጨመረልኝ።",
+            "en": "At the same time my reason returned unto me; and for the glory of my kingdom, mine honour and brightness returned unto me; and my counsellors and my lords sought unto me; and I was established in my kingdom, and excellent majesty was added unto me.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 37,
+          "text": {
+            "am": "አሁንም እኔ ናቡከደነፆር የሰማይን ንጉሥ አመሰግናለሁ፥ ታላቅም አደርገዋለሁ፥ አከብረውማለሁ። ሥራው ሁሉ እውነት፥ መንገዱም ፍርድ ነውና፥ በትዕቢትም የሚሄዱትን ያዋርድ ዘንድ ይችላልና።",
+            "en": "Now I Nebuchadnezzar praise and extol and honour the King of heaven, all whose works are truth, and his ways judgment: and those that walk in pride he is able to abase.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "ንጉሡ ብልጣሶር ለሺህ መኳንንቶቹ ትልቅ ግብዣ አደረገ፥ በሺሁም ፊት የወይን ጠጅ ይጠጣ ነበር።",
+            "en": "Belshazzar the king made a great feast to a thousand of his lords, and drank wine before the thousand.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ብልጣሶርም የወይን ጠጅ በቀመሰ ጊዜ ንጉሡና መኳንንቶቹ ሚስቶቹና ቁባቶቹ ይጠጡባቸው ዘንድ። አባቴ ናቡከደነፆር በኢየሩሳሌም ከነበረው መቅደስ ያመጣቸውን የወርቁንና የብሩን ዕቃዎች አምጡ ብሎ አዘዘ።",
+            "en": "Belshazzar, whiles he tasted the wine, commanded to bring the golden and silver vessels which his father Nebuchadnezzar had taken out of the temple which was in Jerusalem; that the king, and his princes, his wives, and his concubines, might drink therein.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "የዚያን ጊዜም በኢየሩሳሌም ከነበረው ከእግዚአብሔር ቤተ መቅደስ የመጡትን የወርቁን ዕቃዎች አመጡ፤ ንጉሡና መኳንንቶቹም ሚስቶቹና ቁባቶቹም ጠጡባቸው።",
+            "en": "Then they brought the golden vessels that were taken out of the temple of the house of God which was at Jerusalem; and the king, and his princes, his wives, and his concubines, drank in them.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "የወይን ጠጅም እየጠጡ ከወርቅና ከብር ከናስና ከብረት ከእንጨትና ከድንጋይ የተሠሩትን አማልክት አመሰገኑ።",
+            "en": "They drank wine, and praised the gods of gold, and of silver, of brass, of iron, of wood, and of stone.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "በዚያም ሰዓት የሰው እጅ ጣቶች ወጥተው በንጉሡ ቤት በተለሰነው ግንብ ላይ በመቅረዙ አንጻር ጻፉ፤ ንጉሡም የሚጽፉትን ጣቶች አየ።",
+            "en": "In the same hour came forth fingers of a man's hand, and wrote over against the candlestick upon the plaister of the wall of the king's palace: and the king saw the part of the hand that wrote.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "የዚያን ጊዜም የንጉሡ ፊት ተለወጠበት፥ አሳቡም አስቸገረው፥ የወገቡም ጅማቶች ተፈቱ፥ ጕልበቶቹም ተብረከረኩ።",
+            "en": "Then the king's countenance was changed, and his thoughts troubled him, so that the joints of his loins were loosed, and his knees smote one against another.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ንጉሡም አስማተኞቹንና ከለዳውያኑን ቃላተኞቹንም ያገቡ ዘንድ በታላቅ ድምፅ ጮኸ፤ ንጉሡም የባቢሎንን ጠቢባን። ይህን ጽሕፈት ያነበበ ፍቺውንም ያሳየኝ ሐምራዊ ግምጃ ይለብሳል፥ የወርቅም ማርዳ በአንገቱ ዙርያ ይሆንለታል፥ በመንግሥትም ላይ ሦስተኛ ገዥ ይሆናል ብሎ ተናገረ።",
+            "en": "The king cried aloud to bring in the astrologers, the Chaldeans, and the soothsayers. And the king spake, and said to the wise men of Babylon, Whosoever shall read this writing, and shew me the interpretation thereof, shall be clothed with scarlet, and have a chain of gold about his neck, and shall be the third ruler in the kingdom.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "የዚያን ጊዜም የንጉሡ ጠቢባን ሁሉ ገቡ፤ ነገር ግን ጽሕፈቱን ያነብቡ፥ ፍቺውንም ለንጉሡ ያስታውቁ ዘንድ አልቻሉም።",
+            "en": "Then came in all the king's wise men: but they could not read the writing, nor make known to the king the interpretation thereof.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ንጉሡም ብልጣሶር እጅግ ደነገጠ፥ ፊቱም ተለወጠበት፥ መኳንንቶቹም ተደናገጡ።",
+            "en": "Then was king Belshazzar greatly troubled, and his countenance was changed in him, and his lords were astonied.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ንግሥቲቱም ስለ ንጉሡና ስለ መኳንንቱ ቃል ወደ ግብዣ ቤት ገባች፤ ንግሥቲቱም ተናገረች እንዲህም አለች። ንጉሥ ሆይ፥ ሺህ ዓመት ንገሥ፤ አሳብህ አያስቸግርህ፥ ፊትህም አይለወጥ።",
+            "en": "Now the queen, by reason of the words of the king and his lords, came into the banquet house: and the queen spake and said, O king, live for ever: let not thy thoughts trouble thee, nor let thy countenance be changed:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "የቅዱሳን አማልክት መንፈስ ያለበት ሰው በመንግሥትህ ውስጥ አለ፤ በአባትህም ዘመን እንደ አማልክት ጥበብ ያለ ጥበብና ማስተዋል እውቀትም ተገኘበት፤ አባትህ ንጉሡ ናቡከደነፆር የሕልም ተርጓሚዎችና የአስማተኞች የከለዳውያንና የቃላተኞች አለቃ አደረገው።",
+            "en": "There is a man in thy kingdom, in whom is the spirit of the holy gods; and in the days of thy father light and understanding and wisdom, like the wisdom of the gods, was found in him; whom the king Nebuchadnezzar thy father, the king, I say, thy father, made master of the magicians, astrologers, Chaldeans, and soothsayers;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "መልካም መንፈስ፥ እውቀትም፥ ማስተዋልም፥ ሕልምንም መተርጐም፥ እንቈቅልሽንም መግለጥ፥ የተቋጠረውንም መፍታት ንጉሡ ስሙን ብልጣሶር ብሎ በሰየመው በዳንኤል ዘንድ ተገኝቶአልና። አሁንም ዳንኤል ይጠራ፥ እርሱም ፍቺውን ያሳያል።",
+            "en": "Forasmuch as an excellent spirit, and knowledge, and understanding, interpreting of dreams, and shewing of hard sentences, and dissolving of doubts, were found in the same Daniel, whom the king named Belteshazzar: now let Daniel be called, and he will shew the interpretation.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "የዚያን ጊዜም ዳንኤል ወደ ንጉሡ ፊት ገባ፤ ንጉሡም ተናገረው ዳንኤልም እንዲህ አለው። ንጉሡ አባቴ ከይሁዳ ከማረካቸው ከይሁዳ ምርኮኞች የሆንህ ዳንኤል አንተ ነህን?",
+            "en": "Then was Daniel brought in before the king. And the king spake and said unto Daniel, Art thou that Daniel, which art of the children of the captivity of Judah, whom the king my father brought out of Jewry?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "የአማልክት መንፈስ እንዳለብህ፥ እውቀትና ማስተዋልም መልካምም ጥበብ እንደ ተገኘብህ ስለ አንተ ሰምቻለሁ።",
+            "en": "I have even heard of thee, that the spirit of the gods is in thee, and that light and understanding and excellent wisdom is found in thee.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "አሁንም ይህን ጽሕፈት ያነብቡ ዘንድ፥ ፍቺውንም ያስታውቁኝ ዘንድ ጠቢባንና አስማተኞች ወደ እኔ ገብተው ነበር፤ ነገር ግን የነገሩን ፍቺ ያሳዩ ዘንድ አልቻሉም።",
+            "en": "And now the wise men, the astrologers, have been brought in before me, that they should read this writing, and make known unto me the interpretation thereof: but they could not shew the interpretation of the thing:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "አንተ ግን ፍቺን ትሰጥ ዘንድ፥ የተቋጠረንም ትፈታ ዘንድ እንድትችል ሰምቻለሁ፤ አሁንም ጽሕፈቱን ታነብብ ዘንድ፥ ፍቺውንም ታስታውቀኝ ዘንድ ብትችል፥ ሐምራዊ ግምጃ ትለብሳለህ፥ የወርቅም ማርዳ በአንገትህ ዙሪያ ይሆንልሃል፥ አንተም በመንግሥት ላይ ሦስተኛ ገዥ ትሆናለህ።",
+            "en": "And I have heard of thee, that thou canst make interpretations, and dissolve doubts: now if thou canst read the writing, and make known to me the interpretation thereof, thou shalt be clothed with scarlet, and have a chain of gold about thy neck, and shalt be the third ruler in the kingdom.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "የዚያን ጊዜም ዳንኤል መለሰ በንጉሡም ፊት እንዲህ አለ። ስጦታህ ለአንተ ይሁን፥ በረከትህንም ለሌላ ስጥ፤ ነገር ግን ጽሕፈቱን ለንጉሡ አነብባለሁ ፍቺውንም አስታውቃለሁ።",
+            "en": "Then Daniel answered and said before the king, Let thy gifts be to thyself, and give thy rewards to another; yet I will read the writing unto the king, and make known to him the interpretation.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "ንጉሥ ሆይ፥ ልዑል አምላክ ለአባትህ ለናቡከደነፆር መንግሥትንና ታላቅነትን ክብርንና ግርማን ሰጠው።",
+            "en": "O thou king, the most high God gave Nebuchadnezzar thy father a kingdom, and majesty, and glory, and honour:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "ስለ ሰጠው ታላቅነት ወገኖችና አሕዛብ በልዩ ልዩም ቋንቋ የሚናገሩ ሁሉ በፊቱ ይንቀጠቀጡና ይፈሩ ነበር፤ የፈቀደውን ይገድል፥ የፈቀደውንም በሕይወት ያኖር ነበር፤ የፈቀደውንም ያነሣ፥ የፈቀደውንም ያዋርድ ነበር።",
+            "en": "And for the majesty that he gave him, all people, nations, and languages, trembled and feared before him: whom he would he slew; and whom he would he kept alive; and whom he would he set up; and whom he would he put down.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "ልቡ ግን በታበየ በኵራትም ያደርግ ዘንድ መንፈሱ በጠነከረ ጊዜ፥ ከመንግሥቱ ዙፋን ተዋረደ፥ ክብሩም ተለየው።",
+            "en": "But when his heart was lifted up, and his mind hardened in pride, he was deposed from his kingly throne, and they took his glory from him:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "ልዑል አምላክም በሰዎች መንግሥት ላይ እንዲሠለጥን፥ የሚወድደውንም እንዲሾምበት እስኪያውቅ ድረስ ከሰው ልጆች ተይለቶ ተሰደደ፥ ልቡም እንደ አውሬ ልብ ሆነ፥ መኖሪያውም ከምድረ በዳ አህዮች ጋር ነበረ፤ እንደ በሬ ሣር በላ፥ አካሉም በሰማይ ጠል ረሰረሰ።",
+            "en": "And he was driven from the sons of men; and his heart was made like the beasts, and his dwelling was with the wild asses: they fed him with grass like oxen, and his body was wet with the dew of heaven; till he knew that the most high God ruled in the kingdom of men, and that he appointeth over it whomsoever he will.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 22,
+          "text": {
+            "am": "ብልጣሶር ሆይ፥ አንተ ልጁ ስትሆን ይህን ሁሉ እያወቅህ በሰማይ ጌታ ላይ ኰራህ እንጂ ልብህን አላዋረድህም።",
+            "en": "And thou his son, O Belshazzar, hast not humbled thine heart, though thou knewest all this;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 23,
+          "text": {
+            "am": "የመቅደሱንም ዕቃዎች በፊትህ አመጡ፥ አንተም መኳንንትህም ሚስቶችህም ቁባቶችህም የወይን ጠጅ ጠጣችሁባቸው፤ ከብርና ከወርቅም ከናስና ከብረትም ከእንጨትና ከድንጋይም የተሠሩትን የማያዩትንም የማይሰሙትንም የማያውቁትንም አማልክት አመሰገንህ፤ ትንፋሽህንና መንገድህን ሁሉ በእጁ የያዘውን አምላክ አላከበርኸውም።",
+            "en": "But hast lifted up thyself against the Lord of heaven; and they have brought the vessels of his house before thee, and thou, and thy lords, thy wives, and thy concubines, have drunk wine in them; and thou hast praised the gods of silver, and gold, of brass, iron, wood, and stone, which see not, nor hear, nor know: and the God in whose hand thy breath is, and whose are all thy ways, hast thou not glorified:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 24,
+          "text": {
+            "am": "ስለዚህም እነዚህ የእጅ ጣቶች ከእርሱ ዘንድ ተልከዋል፤ ይህም ጽሕፈት ተጽፎአል።",
+            "en": "Then was the part of the hand sent from him; and this writing was written.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 25,
+          "text": {
+            "am": "የተጻፈውም ጽሕፈት። ማኔ ቴቄል ፋሬስ ይላል።",
+            "en": "And this is the writing that was written, MENE, MENE, TEKEL, UPHARSIN.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 26,
+          "text": {
+            "am": "የነገሩም ፍቺ ይህ ነው፤ ማኔ ማለት፥ እግዚአብሔር መንግሥትህን ቈጠረው ፈጸመውም ማለት ነው።",
+            "en": "This is the interpretation of the thing: MENE; God hath numbered thy kingdom, and finished it.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 27,
+          "text": {
+            "am": "ቴቄል ማለት፥ በሚዛን ተመዘንህ፥ ቀልለህም ተገኘህ ማለት ነው።",
+            "en": "TEKEL; Thou art weighed in the balances, and art found wanting.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 28,
+          "text": {
+            "am": "ፋሬስ ማለት፥ መንግሥትህ ተከፈለ፥ ለሜዶንና ለፋርስ ሰዎችም ተሰጠ ማለት ነው።",
+            "en": "PERES; Thy kingdom is divided, and given to the Medes and Persians.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 29,
+          "text": {
+            "am": "የዚያን ጊዜም ብልጣሶር ለዳንኤል ሐምራዊ ግምጃ እንዲያለብሱት፥ የወርቅ ማርዳም በአንገቱ ዙሪያ እንዲያደርጉለት አዘዘ፤ በመንግሥትም ላይ ሦስተኛ ገዥ እንዲሆን አዋጅ አስነገረ።",
+            "en": "Then commanded Belshazzar, and they clothed Daniel with scarlet, and put a chain of gold about his neck, and made a proclamation concerning him, that he should be the third ruler in the kingdom.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 30,
+          "text": {
+            "am": "በዚያ ሌሊት የከለዳውያን ንጉሥ ብልጣሶር ተገደለ።",
+            "en": "In that night was Belshazzar the king of the Chaldeans slain.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 31,
+          "text": {
+            "am": "ሜዶናዊውም ዳርዮስ መንግሥቱን ወሰደ፤ ዕድሜውም ስድሳ ሁለት ዓመት ነበረ።",
+            "en": "And Darius the Median took the kingdom, being about threescore and two years old.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "ዳርዮስም በመንግሥቱ ሁሉ ዘንድ እንዲሆኑ መቶ ሀያ መሳፍንት በመንግሥቱ ላይ ይሾም ዘንድ ወደደ።",
+            "en": "It pleased Darius to set over the kingdom an hundred and twenty princes, which should be over the whole kingdom;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "መሳፍንቱም ሒሳቡን ያመጡላቸው ዘንድ፥ ንጉሡም እንዳይጐዳ ሦስት አለቆች በላያቸው አደረገ፤ ከእነርሱም አንደኛው ዳንኤል ነበረ።",
+            "en": "And over these three presidents; of whom Daniel was first: that the princes might give accounts unto them, and the king should have no damage.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ዳንኤልም መልካም መንፈስ ስላለው ከአለቆችና ከመሳፍንት በለጠ፤ ንጉሡም በመንግሥቱ ሁሉ ላይ ይሾመው ዘንድ አሰበ።",
+            "en": "Then this Daniel was preferred above the presidents and princes, because an excellent spirit was in him; and the king thought to set him over the whole realm.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "የዚያን ጊዜም አለቆችና መሳፍንቱ ስለ መንግሥቱ በዳንኤል ላይ ሰበብ ይፈልጉ ነበር፤ ነገር ግን የታመነ ነበረና፥ ስሕተትና በደልም አልተገኘበትምና በእርሱ ላይ ሰበብና በደል ያገኙበት ዘንድ አልቻሉም።",
+            "en": "Then the presidents and princes sought to find occasion against Daniel concerning the kingdom; but they could find none occasion nor fault; forasmuch as he was faithful, neither was there any error or fault found in him.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "እነዚያም ሰዎች። ከአምላኩ ሕግ በቀር በዚህ በዳንኤል ላይ ሌላ ሰበብ አናገኝበትም አሉ።",
+            "en": "Then said these men, We shall not find any occasion against this Daniel, except we find it against him concerning the law of his God.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "የዚያን ጊዜም አለቆቹና መሳፍንቱ ወደ ንጉሡ ተሰብስበው እንዲህ አሉት። ንጉሥ ዳርዮስ ሆይ፥ ሺህ ዓመት ንገሥ።",
+            "en": "Then these presidents and princes assembled together to the king, and said thus unto him, King Darius, live for ever.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "የመንግሥቱ አለቆች ሁሉ ሹማምቶችና መሳፍንት አማካሪዎችና አዛዦች። ንጉሥ ሆይ፥ ከአንተ በቀር ማንም እስከ ሠላሳ ቀን ድረስ ልመና ከአምላክ ወይም ከሰው ቢለምን፥ በአንበሶች ጕድጓድ ውስጥ ይጣል የሚል የንጉሥ ሕግና ብርቱ ትእዛዝ ይወጣ ዘንድ ተማከሩ።",
+            "en": "All the presidents of the kingdom, the governors, and the princes, the counsellors, and the captains, have consulted together to establish a royal statute, and to make a firm decree, that whosoever shall ask a petition of any God or man for thirty days, save of thee, O king, he shall be cast into the den of lions.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "አሁንም፥ ንጉሥ ሆይ፥ እንደማይለወጠው እንደ ሜዶንና እንደ ፋርስ ሕግ፥ እንዳይለወጥ ትእዛዙን አጽና፥ ጽሕፈቱንም ጻፍ።",
+            "en": "Now, O king, establish the decree, and sign the writing, that it be not changed, according to the law of the Medes and Persians, which altereth not.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ንጉሡም ዳርዮስ ጽሕፈቱንና ትእዛዙን ጻፈ።",
+            "en": "Wherefore king Darius signed the writing and the decree.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ዳንኤልም ጽሕፈቱ እንደ ተጻፈ ባወቀ ጊዜ ወደ ቤቱ ገባ፤ የእልፍኙም መስኮቶች ወደ ኢየሩሳሌም አንጻር ተከፍተው ነበር፤ ቀድሞም ያደርግ እንደ ነበረ በየዕለቱ ሦስት ጊዜ በጕልበቱ ተንበርክኮ በአምላኩ ፊት ጸለየ አመሰገነም።",
+            "en": "Now when Daniel knew that the writing was signed, he went into his house; and his windows being open in his chamber toward Jerusalem, he kneeled upon his knees three times a day, and prayed, and gave thanks before his God, as he did aforetime.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "እነዚያም ሰዎች ተሰብስበው ዳንኤል በአምላኩ ፊት ሲጸልይና ሲለምን አገኙት።",
+            "en": "Then these men assembled, and found Daniel praying and making supplication before his God.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "ወደ ንጉሡም ቀርበው ስለ ንጉሡ ትእዛዝ። ንጉሥ ሆይ፥ ከአንተ በቀር እስከ ሠላሳ ቀን ድረስ ከአምላክ ወይም ከሰው የሚለምን ሰው ሁሉ በአንበሶች ጕድጓድ ውስጥ እንዲጣል ትእዛዝ አልጻፍህምን? አሉት። ንጉሡም መልሶ። ነገሩ እንደማይለወጠው እንደ ሜዶንና እንደ ፋርስ ሕግ እውነት ነው አላቸው።",
+            "en": "Then they came near, and spake before the king concerning the king's decree; Hast thou not signed a decree, that every man that shall ask a petition of any God or man within thirty days, save of thee, O king, shall be cast into the den of lions? The king answered and said, The thing is true, according to the law of the Medes and Persians, which altereth not.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "የዚያን ጊዜም በንጉሡ ፊት መልሰው። ንጉሥ ሆይ፥ ከይሁዳ ምርኮኞች የሆነው ዳንኤል በየዕለቱ ሦስት ጊዜ ልመናውን ይለምናል እንጂ አንተንና የጻፍኸውን ትእዛዝ አይቀበልም አሉት።",
+            "en": "Then answered they and said before the king, That Daniel, which is of the children of the captivity of Judah, regardeth not thee, O king, nor the decree that thou hast signed, but maketh his petition three times a day.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ንጉሡም ይህን ቃል በሰማ ጊዜ በጣም አዘነ፥ ያድነውም ዘንድ ልቡን ወደ ዳንኤል አደረገ፤ ሊያድነውም ፀሐይ እስኪገባ ድረስ ደከመ።",
+            "en": "Then the king, when he heard these words, was sore displeased with himself, and set his heart on Daniel to deliver him: and he laboured till the going down of the sun to deliver him.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "የዚያን ጊዜም እነዚያ ሰዎች ወደ ንጉሡ ተሰብስበው ንጉሡን። ንጉሥ ሆይ፥ ንጉሡ ያጸናው ትእዛዝ ወይም ሥርዓት ይለወጥ ዘንድ እንዳይገባ የሜዶንና የፋርስ ሕግ እንደ ሆነ እወቅ አሉት።",
+            "en": "Then these men assembled unto the king, and said unto the king, Know, O king, that the law of the Medes and Persians is, That no decree nor statute which the king establisheth may be changed.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "የዚያን ጊዜም ንጉሡ አዘዘ፥ ዳንኤልንም አምጥተው በአንበሶች ጕድጓድ ጣሉት፤ ንጉሡም ተናገረ ዳንኤልንም። ሁልጊዜ የምታመልከው አምላክህ እርሱ ያድንህ አለው።",
+            "en": "Then the king commanded, and they brought Daniel, and cast him into the den of lions. Now the king spake and said unto Daniel, Thy God whom thou servest continually, he will deliver thee.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "ድንጋይም አምጥተው በጕድጓዱ አፍ ላይ ገጠሙበት፤ ንጉሡም በዳንኤል ላይ የተደረገው እንዳይለወጥ በቀለበቱና በመኳንንቱ ቀለበት አተመው።",
+            "en": "And a stone was brought, and laid upon the mouth of the den; and the king sealed it with his own signet, and with the signet of his lords; that the purpose might not be changed concerning Daniel.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "ንጉሡም ወደ ቤቱ ሄደ ሳይበላም አደረ፤ መብልም አላመጡለትም፥ እንቅልፉም ከእርሱ ራቀ።",
+            "en": "Then the king went to his palace, and passed the night fasting: neither were instruments of musick brought before him: and his sleep went from him.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "በነጋውም ንጉሡ ማልዶ ተነሣ፥ ፈጥኖም ወደ አንበሶች ጕድጓድ ሄደ።",
+            "en": "Then the king arose very early in the morning, and went in haste unto the den of lions.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "ወደ ጕድጓዱም ወደ ዳንኤል በቀረበ ጊዜ በኀዘን ቃል ጠራው፤ ንጉሡም ተናገረ ዳንኤልንም። የሕያው አምላክ ባሪያ ዳንኤል ሆይ፥ ሁልጊዜ የምታመልከው አምላክህ ከአንበሶች ያድንህ ዘንድ ችሎአልን? አለው።",
+            "en": "And when he came to the den, he cried with a lamentable voice unto Daniel: and the king spake and said to Daniel, O Daniel, servant of the living God, is thy God, whom thou servest continually, able to deliver thee from the lions?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "ዳንኤልም ንጉሡን። ንጉሥ ሆይ፥ ሺህ ዓመት ንገሥ።",
+            "en": "Then said Daniel unto the king, O king, live for ever.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 22,
+          "text": {
+            "am": "በፊቱ ቅንነት ተገኝቶብኛልና፥ በአንተም ፊት ደግሞ፥ ንጉሥ ሆይ፥ አልበደልሁምና አምላኬ መልአኩን ልኮ የአንበሶችን አፍ ዘጋ፥ እነርሱም አልጐዱኝም አለው።",
+            "en": "My God hath sent his angel, and hath shut the lions' mouths, that they have not hurt me: forasmuch as before him innocency was found in me; and also before thee, O king, have I done no hurt.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 23,
+          "text": {
+            "am": "የዚያን ጊዜም ንጉሡ እጅግ ደስ አለው፥ ዳንኤልንም ከጕድጓዱ ያወጡት ዘንድ አዘዘ፤ ዳንኤልም ከጕድጓድ ወጣ፥ በአምላኩም ታምኖ ነበርና አንዳች ጉዳት አልተገኘበትም።",
+            "en": "Then was the king exceeding glad for him, and commanded that they should take Daniel up out of the den. So Daniel was taken up out of the den, and no manner of hurt was found upon him, because he believed in his God.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 24,
+          "text": {
+            "am": "ንጉሡም አዘዘ፥ ዳንኤልንም የከሰሱ እነዚያን ሰዎች አመጡአቸው፥ እነርሱንና ልጆቻቸውንም ሚስቶቻቸውንም በአንበሶች ጕድጓድ ጣሉአቸው፤ ወደ ጕድጓዱም መጨረሻ ሳይደርሱ አንበሶች ያዙአቸው አጥንታቸውንም ሁሉ ሰባበሩ።",
+            "en": "And the king commanded, and they brought those men which had accused Daniel, and they cast them into the den of lions, them, their children, and their wives; and the lions had the mastery of them, and brake all their bones in pieces or ever they came at the bottom of the den.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 25,
+          "text": {
+            "am": "የዚያን ጊዜም ንጉሥ ዳርዮስ በምድር ሁሉ ላይ ወደሚኖሩ ወገኖችና አሕዛብ በልዩ ልዩም ቋንቋ ወደሚናገሩ ሁሉ ጻፈ፥ እንዲህም አለ። ሰላም ይብዛላችሁ።",
+            "en": "Then king Darius wrote unto all people, nations, and languages, that dwell in all the earth; Peace be multiplied unto you.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 26,
+          "text": {
+            "am": "በመንግሥቴ ግዛት ሁሉ ያሉ ሰዎች በዳንኤል አምላክ ፊት እንዲፈሩና እንዲንቀጠቀጡ አዝዣለሁ፤ እርሱ ሕያው አምላክ ለዘላለም የሚኖር ነውና፤ መንግሥቱም የማይጠፋ ነው፥ ግዛቱም እስከ መጨረሻ ድረስ ይኖራል።",
+            "en": "I make a decree, That in every dominion of my kingdom men tremble and fear before the God of Daniel: for he is the living God, and stedfast for ever, and his kingdom that which shall not be destroyed, and his dominion shall be even unto the end.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 27,
+          "text": {
+            "am": "ያድናል ይታደግማል፥ በሰማይና በምድርም ተአምራትንና ድንቅን ይሠራል፥ ዳንኤልንም ከአንበሶች አፍ አድኖታል።",
+            "en": "He delivereth and rescueth, and he worketh signs and wonders in heaven and in earth, who hath delivered Daniel from the power of the lions.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 28,
+          "text": {
+            "am": "ይህም ዳንኤል በዳርዮስ መንግሥትና በፋርሳዊው በቂሮስ መንግሥት ኑሮው ተቃናለት።",
+            "en": "So this Daniel prospered in the reign of Darius, and in the reign of Cyrus the Persian.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "በባቢሎን ንጉሥ በብልጣሶር በመጀመሪያው ዓመት ዳንኤል በአልጋው ላይ ሕልምንና የራሱን ራእይ አየ፤ ከዚያም በኋላ ሕልሙን ጻፈ፥ ዋነኛውንም ነገር ተናገረ።",
+            "en": "In the first year of Belshazzar king of Babylon Daniel had a dream and visions of his head upon his bed: then he wrote the dream, and told the sum of the matters.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ዳንኤልም ተናገረ እንዲህም አለ። በሌሊት በራእይ አየሁ፤ እነሆም፥ አራቱ የሰማይ ነፋሳት በታላቁ ባሕር ላይ ይጋጩ ነበር።",
+            "en": "Daniel spake and said, I saw in my vision by night, and, behold, the four winds of the heaven strove upon the great sea.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "አራትም ታላላቅ አራዊት ከባሕር ወጡ፥ እያንዳንዲቱም ልዩ ልዩ ነበረች።",
+            "en": "And four great beasts came up from the sea, diverse one from another.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "መጀመሪያይቱ አንበሳ ትመስል ነበር፥ የንስርም ክንፍ ነበራት፤ ክንፎችዋም ከእርስዋ እስኪነቀሉ ድረስ አይ ነበር፥ ከምድርም ከፍ ከፍ ተደረገች፥ እንደ ሰውም በሁለት እግር እንድትቆም ተደረገች፥ የሰውም ልብ ተሰጣት።",
+            "en": "The first was like a lion, and had eagle's wings: I beheld till the wings thereof were plucked, and it was lifted up from the earth, and made stand upon the feet as a man, and a man's heart was given to it.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "እነሆም፥ ሁለተኛይቱ ድብ የምትመስል ሌላ አውሬ ነበረች፥ በአንድ ወገንም ቆመች፥ ሦስትም የጐድን አጥንቶች በአፍዋ ውስጥ በጥርስዋ መካከል ነበሩ፤ እንደዚህም። ተነሥተሽ እጅግ ሥጋ ብዪ ተባለላት።",
+            "en": "And behold another beast, a second, like to a bear, and it raised up itself on one side, and it had three ribs in the mouth of it between the teeth of it: and they said thus unto it, Arise, devour much flesh.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ከዚህም በኋላ፥ እነሆ፥ ነብር የምትመስል በጀርባዋም ላይ አራት የወፍ ክንፎች የነበሩአት ሌላ አውሬ አየሁ፤ ለአውሬይቱም አራት ራሶች ነበሩአት፥ ግዛትም ተሰጣት።",
+            "en": "After this I beheld, and lo another, like a leopard, which had upon the back of it four wings of a fowl; the beast had also four heads; and dominion was given to it.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ከዚህም በኋላ በሌሊት ራእይ አየሁ፤ እነሆም፥ የምታስፈራና የምታስደነግጥ እጅግም የበረታች፥ ታላላቅም የብረት ጥርሶች የነበሩአት አራተኛ አውሬ ነበረች፤ ትበላና ታደቅቅ ነበር፥ የቀረውንም በእግርዋ ትረግጥ ነበር፤ ከእርስዋም በፊት ከነበሩት አራዊት ሁሉ የተለየች ነበረች፤ አሥር ቀንዶችም ነበሩአት።",
+            "en": "After this I saw in the night visions, and behold a fourth beast, dreadful and terrible, and strong exceedingly; and it had great iron teeth: it devoured and brake in pieces, and stamped the residue with the feet of it: and it was diverse from all the beasts that were before it; and it had ten horns.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ቀንዶችንም ተመለከትሁ፤ እነሆም፥ በመካከላቸው ሌላ ትንሽ ቀንድ ወጣ፥ በፊቱም ከቀደሙት ቀንዶች ሦስት ተነቃቀሉ፤ እነሆም፥ በዚያ ቀንድ እንደ ሰው ዓይኖች የነበሩ ዓይኖች በትዕቢትም የሚናገር አፍ ነበሩበት።",
+            "en": "I considered the horns, and, behold, there came up among them another little horn, before whom there were three of the first horns plucked up by the roots: and, behold, in this horn were eyes like the eyes of man, and a mouth speaking great things.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ዙፋኖችም እስኪዘረጉ ድረስ አየሁ፥ በዘመናት የሸመገለውም ተቀመጠ፤ ልብሱም እንደ በረዶ ነጭ፥ የራሱም ጠጕር እንደ ጥሩ ጥጥ ነበረ፤ ዙፋኑም የእሳት ነበልባል ነበረ፥ መንኰራኵሮቹም የሚነድድ እሳት ነበሩ።",
+            "en": "I beheld till the thrones were cast down, and the Ancient of days did sit, whose garment was white as snow, and the hair of his head like the pure wool: his throne was like the fiery flame, and his wheels as burning fire.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "የእሳትም ፈሳሽ ከፊቱ ይፈልቅና ይወጣ ነበር፤ ሺህ ጊዜ ሺህ ያገለግሉት ነበር፥ እልፍ አእላፋትም በፊቱ ቆመው ነበር፤ ፍርድም ሆነ፥ መጻሕፍትም ተገለጡ።",
+            "en": "A fiery stream issued and came forth from before him: thousand thousands ministered unto him, and ten thousand times ten thousand stood before him: the judgment was set, and the books were opened.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "የዚያን ጊዜም ቀንዱ ይናገረው ከነበረው ከታላቁ ቃል ድምፅ የተነሣ አየሁ፤ አውሬይቱም እስክትገደል፥ አካልዋም እስኪጠፋ ድረስ፥ በእሳትም ለመቃጠል እስክትሰጥ ድረስ አየሁ።",
+            "en": "I beheld then because of the voice of the great words which the horn spake: I beheld even till the beast was slain, and his body destroyed, and given to the burning flame.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "ከቀሩትም አራዊት ግዛታቸው ተወሰደ፤ የሕይወታቸው ዕድሜ ግን እስከ ዘመንና እስከ ጊዜ ድረስ ረዘመ።",
+            "en": "As concerning the rest of the beasts, they had their dominion taken away: yet their lives were prolonged for a season and time.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "በሌሊት ራእይ አየሁ፤ እነሆም፥ የሰው ልጅ የሚመስል ከሰማይ ደመናት ጋር መጣ በዘመናት ወደ ሸመገለውም ደረሰ፤ ወደ ፊቱም አቀረቡት።",
+            "en": "I saw in the night visions, and, behold, one like the Son of man came with the clouds of heaven, and came to the Ancient of days, and they brought him near before him.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ወገኖችና አሕዛብ በልዩ ልዩ ቋንቋም የሚናገሩ ሁሉ ይገዙለት ዘንድ ግዛትና ክብር መንግሥትም ተሰጠው፤ ግዛቱም የማያልፍ የዘላለም ግዛት ነው፥ መንግሥቱም የማይጠፋ ነው።",
+            "en": "And there was given him dominion, and glory, and a kingdom, that all people, nations, and languages, should serve him: his dominion is an everlasting dominion, which shall not pass away, and his kingdom that which shall not be destroyed.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "በእኔም በዳንኤል በሥጋዬ ውስጥ መንፈሴ ደነገጠች፥ የራሴም ራእይ አስቸገረኝ።",
+            "en": "I Daniel was grieved in my spirit in the midst of my body, and the visions of my head troubled me.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "በዚያም ከቆሙት ወደ አንዱ ቀርቤ ስለዚህ ሁሉ እውነቱን ጠየቅሁት፤ እርሱም ነገረኝ፥ የነገሩንም ፍቺ አስታወቀኝ።",
+            "en": "I came near unto one of them that stood by, and asked him the truth of all this. So he told me, and made me know the interpretation of the things.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "እነዚህ አራቱ ታላላቅ አራዊት ከምድር የሚነሡ አራት ነገሥታት ናቸው።",
+            "en": "These great beasts, which are four, are four kings, which shall arise out of the earth.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "ነገር ግን የልዑሉ ቅዱሳን መንግሥቱን ይወስዳሉ፥ እስከ ዘላለም ዓለምም መንግሥቱን ይወርሳሉ።",
+            "en": "But the saints of the most High shall take the kingdom, and possess the kingdom for ever, even for ever and ever.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "ከዚህም በኋላ ከቀሩት ሁሉ ተለይታ እጅግ ስለምታስፈራው፥ ጥርሶችዋም የብረት ጥፍሮችዋም የናስ ስለሆኑት፥ ስለምትበላውና ስለምታደቅቀው የቀረውንም በእግርዋ ስለምትረግጠው ስለ አራተኛይቱ አውሬ፥",
+            "en": "Then I would know the truth of the fourth beast, which was diverse from all the others, exceeding dreadful, whose teeth were of iron, and his nails of brass; which devoured, brake in pieces, and stamped the residue with his feet;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "በራስዋም ላይ ስለ ነበሩ ስለ አሥር ቀንዶች፥ በኋላም ስለ ወጣው፥ በፊቱም ሦስቱ ስለ ወደቁ፥ ዓይኖችና ትዕቢት የተናገረ አፍ ስለ ነበሩት፥ መልኩም ከሌሎች ስለ በለጠ ስለ ሌላው ቀንድ እውነቱን ለማወቅ ፈቀድሁ።",
+            "en": "And of the ten horns that were in his head, and of the other which came up, and before whom three fell; even of that horn that had eyes, and a mouth that spake very great things, whose look was more stout than his fellows.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "እነሆም፥ ያ ቀንድ ከቅዱሳን ጋር ሲዋጋ አየሁ፥",
+            "en": "I beheld, and the same horn made war with the saints, and prevailed against them;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 22,
+          "text": {
+            "am": "በዘመናት የሸመገለው እስኪመጣ ድረስ፥ ፍርድም ለልዑሉ ቅዱሳን እስኪሰጥ ድረስ፥ ቅዱሳኑም መንግሥቱን የሚወስዱበት ዘመን እስኪመጣ ድረስ አሸነፋቸውም።",
+            "en": "Until the Ancient of days came, and judgment was given to the saints of the most High; and the time came that the saints possessed the kingdom.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 23,
+          "text": {
+            "am": "እንዲህም አለ። አራተኛይቱ አውሬ በምድር ላይ አራተኛ መንግሥት ትሆናለች፤ እርሱም ከመንግሥታት ሁሉ የተለየ ይሆናል፥ ምድሪቱንም ሁሉ ይበላል፥ ይረግጣታል ያደቅቃትማል።",
+            "en": "Thus he said, The fourth beast shall be the fourth kingdom upon earth, which shall be diverse from all kingdoms, and shall devour the whole earth, and shall tread it down, and break it in pieces.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 24,
+          "text": {
+            "am": "አሥሩም ቀንዶች ከዚያ መንግሥት የሚነሡ አሥር ነገሥታት ናቸው፤ ከእነርሱም በኋላ ሌላ ይነሣል፥ እርሱም ከፊተኞች የተለየ ይሆናል፥ ሦስቱንም ነገሥታት ያዋርዳል።",
+            "en": "And the ten horns out of this kingdom are ten kings that shall arise: and another shall rise after them; and he shall be diverse from the first, and he shall subdue three kings.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 25,
+          "text": {
+            "am": "በልዑሉም ላይ ቃልን ይናገራል፥ የልዑልንም ቅዱሳን ይሰባብራል፥ ዘመናትንና ሕግን ይለውጥ ዘንድ ያስባል፤ እስከ ዘመንና እስከ ዘመናት እስከ እኵሌታ ዘመንም በእጁ ይሰጣሉ።",
+            "en": "And he shall speak great words against the most High, and shall wear out the saints of the most High, and think to change times and laws: and they shall be given into his hand until a time and times and the dividing of time.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 26,
+          "text": {
+            "am": "ነገር ግን ፍርድ ይሆናል፥ እስከ ፍጻሜም ድረስ ያፈርሱትና ያጠፉት ዘንድ ግዛቱን ያስወግዱታል።",
+            "en": "But the judgment shall sit, and they shall take away his dominion, to consume and to destroy it unto the end.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 27,
+          "text": {
+            "am": "መንግሥትም ግዛትም ከሰማይም ሁሉ በታች ያሉ የመንግሥታት ታላቅነት ለልዑሉ ቅዱሳን ሕዝብ ይሰጣል፤ መንግሥቱ የዘላለም መንግሥት ነው፥ ግዛቶችም ሁሉ ይገዙለታል ይታዘዙለትማል።",
+            "en": "And the kingdom and dominion, and the greatness of the kingdom under the whole heaven, shall be given to the people of the saints of the most High, whose kingdom is an everlasting kingdom, and all dominions shall serve and obey him.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 28,
+          "text": {
+            "am": "የነገሩም ፍጻሜ እስከዚህ ድረስ ነው። እኔም ዳንኤል በአሳቤ እጅግ ተቸገርሁ፥ ፊቴም ተለወጠብኝ፤ ዳሩ ግን ነገሩን በልቤ ጠብቄአለሁ።",
+            "en": "Hitherto is the end of the matter. As for me Daniel, my cogitations much troubled me, and my countenance changed in me: but I kept the matter in my heart.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "በመጀመሪያ ከተገለጠልኝ ራእይ በኋላ፥ ንጉሡ ብልጣሶር በነገሠ በሦስተኛው ዓመት፥ ለእኔ ለዳንኤል ራእይ ተገለጠልኝ።",
+            "en": "In the third year of the reign of king Belshazzar a vision appeared unto me, even unto me Daniel, after that which appeared unto me at the first.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "በራእዩም አየሁ፤ ባየሁም ጊዜ በኤላም አውራጃ ባለው በሱሳ ግንብ ነበርሁ፤ በራእዩም አየሁ በኡባል ወንዝም አጠገብ ነበርሁ።",
+            "en": "And I saw in a vision; and it came to pass, when I saw, that I was at Shushan in the palace, which is in the province of Elam; and I saw in a vision, and I was by the river of Ulai.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ዓይኔን አንሥቼ አየሁ፤ እነሆም፥ ሁለት ቀንዶች የነበሩት አንድ አውራ በግ በወንዙ ፊት ቆሞ ነበር፥ ሁለቱም ቀንዶቹ ከፍ ከፍ ይሉ ነበር፤ አንዱ ግን ከሁለተኛው ከፍ ያለ ነበረ፥ ታላቁም ወደ ኋላው ወጥቶ ነበር።",
+            "en": "Then I lifted up mine eyes, and saw, and, behold, there stood before the river a ram which had two horns: and the two horns were high; but one was higher than the other, and the higher came up last.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "አውራውም በግ ወደ ምዕራብ ወደ ሰሜንም ወደ ደቡብም በቀንዱ ሲጐሽም አየሁ፤ አራዊትም ሁሉ ይቋቋሙት ዘንድ አልቻሉም፥ ከእጁም የሚያድን አልነበረም፤ እንደ ፈቃዱም አደረገ፥ ራሱንም ታላቅ አደረገ።",
+            "en": "I saw the ram pushing westward, and northward, and southward; so that no beasts might stand before him, neither was there any that could deliver out of his hand; but he did according to his will, and became great.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "እኔም ስመለከት፥ እነሆ፥ ከምዕራብ ወገን አንድ አውራ ፍየል በምድር ሁሉ ፊት ላይ ወጣ፥ ምድርንም አልነካም፤ ለፍየሉም በዓይኖቹ መካከል አንድ ታላቅ ቀንድ ነበረው።",
+            "en": "And as I was considering, behold, an he goat came from the west on the face of the whole earth, and touched not the ground: and the goat had a notable horn between his eyes.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ሁለትም ቀንድ ወዳለው በወንዝም ፊት ቆሞ ወዳየሁት አውራ በግ መጣ፥ በኃይሉም ቍጣ ፈጥኖ ወደ እርሱ ሮጠ።",
+            "en": "And he came to the ram that had two horns, which I had seen standing before the river, and ran unto him in the fury of his power.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ወደ አውራውም በግ ሲቀርብ አየሁት፤ እርሱም ተመረረበት፥ አውራውንም በግ መታ፥ ሁለቱንም ቀንዶች ሰበረ፤ አውራውም በግ ሊቋቋመው ኃይል አልነበረውም፥ እርሱም በምድር ላይ ጥሎ ረገጠው፤ አውራውንም በግ ከእጁ ያድነው ዘንድ የሚችል አልነበረም።",
+            "en": "And I saw him come close unto the ram, and he was moved with choler against him, and smote the ram, and brake his two horns: and there was no power in the ram to stand before him, but he cast him down to the ground, and stamped upon him: and there was none that could deliver the ram out of his hand.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "አውራውም ፍየል ራሱን እጅግ ታላቅ አደረገ፤ በበረታም ጊዜ ታላቁ ቀንዱ ተሰበረ፥ ወደ አራቱም የሰማይ ነፋሳት የሚመለከቱ አራት ቀንዶች ከበታቹ ወጡ።",
+            "en": "Therefore the he goat waxed very great: and when he was strong, the great horn was broken; and for it came up four notable ones toward the four winds of heaven.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ከእነርሱም ከአንደኛው አንድ ታናሽ ቀንድ ወጣ፥ ወደ ደቡብም ወደ ምሥራቅም ወደ መልካሚቱም ምድር እጅግ ከፍ አለ።",
+            "en": "And out of one of them came forth a little horn, which waxed exceeding great, toward the south, and toward the east, and toward the pleasant land.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "እስከ ሰማይም ሠራዊት ድረስ ከፍ አለ፤ ከሠራዊትና ከከዋክብትም አያሌዎችን ወደ ምድር ጣለ፥ ረገጣቸውም።",
+            "en": "And it waxed great, even to the host of heaven; and it cast down some of the host and of the stars to the ground, and stamped upon them.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "እስከ ሠራዊትም አለቃ ድረስ ራሱን ታላቅ አደረገ፤ ከእርሱም የተነሣ የዘወትሩ መሥዋዕት ተሻረ፥ የመቅደሱም ስፍራ ፈረሰ።",
+            "en": "Yea, he magnified himself even to the prince of the host, and by him the daily sacrifice was taken away, and the place of his sanctuary was cast down.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "ሠራዊቱም ከኃጢአት የተነሣ ከዘወትሩ መሥዋዕት ጋር ተሰጠው፤ እርሱም እውነትን ወደ ምድሩ ጣለ፥ አደረገም ተከናወነም።",
+            "en": "And an host was given him against the daily sacrifice by reason of transgression, and it cast down the truth to the ground; and it practised, and prospered.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ከቅዱሳኑም አንዱ ሲናገር ሰማሁ፤ ለተናገረው ለቅዱሱም ሁለተኛው ቅዱስ ። ስለ ዘወትሩ መሥዋዕት፥ መቅደሱና ሠራዊቱም ይረገጡ ዘንድ ስለሚሰጥና ስለሚያጠፋ ኃጢአት የሆነው ራእይ እስከ መቼ ይሆናል? አለው።",
+            "en": "Then I heard one saint speaking, and another saint said unto that certain saint which spake, How long shall be the vision concerning the daily sacrifice, and the transgression of desolation, to give both the sanctuary and the host to be trodden under foot?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "እርሱም። እስከ ሁለት ሺህ ሦስት መቶ ማታና ጥዋት ድረስ ነው፤ ከዚያም በኋላ መቅደሱ ይነጻል አለኝ።",
+            "en": "And he said unto me, Unto two thousand and three hundred days; then shall the sanctuary be cleansed.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "እኔም ዳንኤል ራእዩን ባየሁ ጊዜ ማስተዋሉን ፈለግሁ፤ እነሆም፥ የሰው ምስያ በፊቴ ቆሞ ነበር።",
+            "en": "And it came to pass, when I, even I Daniel, had seen the vision, and sought for the meaning, then, behold, there stood before me as the appearance of a man.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "በኡባልም ወንዝ መካከል። ገብርኤል ሆይ፥ ራእዩን ለዚህ ሰው አስታውቀው ብሎ የሚጮኸውን የሰውን ድምፅ ሰማሁ።",
+            "en": "And I heard a man's voice between the banks of Ulai, which called, and said, Gabriel, make this man to understand the vision.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "እኔም ወደ ቆምሁበት ቀረበ፤ በመጣም ጊዜ ፈርቼ በግምባሬ ተደፋሁ፤ እርሱም። የሰው ልጅ ሆይ፥ ራእዩ ለፍጻሜ ዘመን እንደ ሆነ አስተውል አለኝ።",
+            "en": "So he came near where I stood: and when he came, I was afraid, and fell upon my face: but he said unto me, Understand, O son of man: for at the time of the end shall be the vision.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "ሲናገረኝም ደንግጬ በምድር ላይ በግምባሬ ተደፋሁ፤ እርሱም ዳሰሰኝ ቀጥ አድርጎም አቆመኝ።",
+            "en": "Now as he was speaking with me, I was in a deep sleep on my face toward the ground: but he touched me, and set me upright.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "እንዲህም አለኝ። እነሆ፥ በመቅሠፍቱ በመጨረሻ ዘመን የሚሆነውን አስታውቅሃለሁ፤ ይህ ለተወሰነው ለፍጻሜ ዘመን ነውና።",
+            "en": "And he said, Behold, I will make thee know what shall be in the last end of the indignation: for at the time appointed the end shall be.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "ባየኸው በአውራው በግ ላይ የነበሩ ሁለቱ ቀንዶች እነርሱ የሜዶንና የፋርስ ነገሥታት ናቸው።",
+            "en": "The ram which thou sawest having two horns are the kings of Media and Persia.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "አውራውም ፍየል የግሪክ ንጉሥ ነው፤ በዓይኖቹም መካከል ያለው ታላቁ ቀንድ መጀመሪያው ንጉሥ ነው።",
+            "en": "And the rough goat is the king of Grecia: and the great horn that is between his eyes is the first king.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 22,
+          "text": {
+            "am": "እርሱም በተሰበረ ጊዜ በእርሱ ፋንታ አራቱ እንደ ተነሡ፥ እንዲሁ ከወገኑ አራት መንግሥታት ይነሣሉ፥ ነገር ግን በኃይል አይተካከሉትም።",
+            "en": "Now that being broken, whereas four stood up for it, four kingdoms shall stand up out of the nation, but not in his power.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 23,
+          "text": {
+            "am": "በመንግሥታቸውም መጨረሻ፥ ኃጢአታቸው በተሞላች ጊዜ፥ እንቈቅልሽን የሚያስተውል ፊተ ጨካኝ ንጉሥ ይነሣል።",
+            "en": "And in the latter time of their kingdom, when the transgressors are come to the full, a king of fierce countenance, and understanding dark sentences, shall stand up.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 24,
+          "text": {
+            "am": "ኃይሉም ይበረታል፥ ነገር ግን በራሱ ኃይል አይደለም፤ በድንቅም ያጠፋል፥ ያደርግማል፥ ይከናወንማል፤ ኃያላንንና የቅዱሳንን ሕዝብ ያጠፋል።",
+            "en": "And his power shall be mighty, but not by his own power: and he shall destroy wonderfully, and shall prosper, and practise, and shall destroy the mighty and the holy people.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 25,
+          "text": {
+            "am": "በመታለሉ ተንኰልን በእጁ ያከናውናል፤ በልቡም ይታበያል፥ ታምነውም የሚኖሩትን ብዙዎችን ያጠፋል፤ በአለቆቹም አለቃ ላይ ይቋቋማል፤ ያለ እጅም ይሰበራል።",
+            "en": "And through his policy also he shall cause craft to prosper in his hand; and he shall magnify himself in his heart, and by peace shall destroy many: he shall also stand up against the Prince of princes; but he shall be broken without hand.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 26,
+          "text": {
+            "am": "የተነገረውም የማታውና የጥዋቱ ራእይ እውነተኛ ነው፤ ነገር ግን ከብዙ ዘመን በኋላ ስለሚሆን ራእዩን ዝጋ።",
+            "en": "And the vision of the evening and the morning which was told is true: wherefore shut thou up the vision; for it shall be for many days.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 27,
+          "text": {
+            "am": "እኔም ዳንኤል ተኛሁ፥ አያሌም ቀን ታመምሁ፤ ከዚያም በኋላ ተነሥቼ የንጉሡን ሥራ እሠራ ነበር፤ ስለ ራእዩም አደንቅ ነበር፥ የሚያስተውለው ግን አልነበረም።",
+            "en": "And I Daniel fainted, and was sick certain days; afterward I rose up, and did the king's business; and I was astonished at the vision, but none understood it.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "በከለዳውያን መንግሥት ላይ በነገሠ፥ ከሜዶን ዘር በነበረ በአሕሻዊሮስ ልጅ በዳርዮስ በመጀመሪያ ዓመት፥",
+            "en": "In the first year of Darius the son of Ahasuerus, of the seed of the Medes, which was made king over the realm of the Chaldeans;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "በነገሠ በመጀመሪያው ዓመት እኔ ዳንኤል የኢየሩሳሌም መፍረስ የሚፈጸምበትን ሰባውን ዓመት፥ እግዚአብሔር በቃሉ ለነቢዩ ለኤርምያስ የተናገረውን የዓመቱን ቍጥር በመጽሐፍ አስተዋልሁ።",
+            "en": "In the first year of his reign I Daniel understood by books the number of the years, whereof the word of the LORD came to Jeremiah the prophet, that he would accomplish seventy years in the desolations of Jerusalem.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ማቅ ለብሼ በአመድም ላይ ሆኜ ስጾም እጸልይና እለምን ዘንድ ፊቴን ወደ ጌታ ወደ አምላክ አቀናሁ።",
+            "en": "And I set my face unto the Lord God, to seek by prayer and supplications, with fasting, and sackcloth, and ashes:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ወደ አምላኬም ወደ እግዚአብሔር ጸለይሁ፥ ተናዝዤም እንዲህ አልሁ። ጌታ ሆይ፥ ከሚወድዱህና ትእዛዝህን ከሚፈጽሙ ጋር ቃል ኪዳንንና ምሕረትን የምትጠብቅ ታላቅና የምታስፈራ አምላክ ሆይ፥",
+            "en": "And I prayed unto the LORD my God, and made my confession, and said, O Lord, the great and dreadful God, keeping the covenant and mercy to them that love him, and to them that keep his commandments;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ኃጢአትን ሠርተናል፥ በድለንማል፥ ክፋትንም አድርገናል፥ ዐምፀንማል፥ ከትእዛዝህና ከፍርድህም ፈቀቅ ብለናል፤",
+            "en": "We have sinned, and have committed iniquity, and have done wickedly, and have rebelled, even by departing from thy precepts and from thy judgments:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "በስምህም ለነገሥታቶቻችንና ለአለቆቻችን ለአባቶቻችንም ለአገሩም ሕዝብ ሁሉ የተናገሩትን ባሪያዎችህን ነቢያትን አልሰማንም።",
+            "en": "Neither have we hearkened unto thy servants the prophets, which spake in thy name to our kings, our princes, and our fathers, and to all the people of the land.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ጌታ ሆይ፥ ጽድቅ ለአንተ ነው፤ እንደ ዛሬም ለእኛ ለይሁዳ ሰዎችና በኢየሩሳሌም ለሚቀመጡ ለእስራኤልም ሁሉ በቅርብና በሩቅም ላሉት አንተን በበደሉበት በበደላቸው ምክንያት በበተንህበት አገር ሁሉ የፊት እፍረት ነው።",
+            "en": "O Lord, righteousness belongeth unto thee, but unto us confusion of faces, as at this day; to the men of Judah, and to the inhabitants of Jerusalem, and unto all Israel, that are near, and that are far off, through all the countries whither thou hast driven them, because of their trespass that they have trespassed against thee.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ጌታ ሆይ፥ በአንተ ላይ ኃጢአት ስለ ሠራን ለእኛና ለነገሥታቶቻችን ለአለቆቻችንና ለአባቶቻችንም የፊት እፍረት ነው።",
+            "en": "O Lord, to us belongeth confusion of face, to our kings, to our princes, and to our fathers, because we have sinned against thee.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "በእርሱ ላይ ምንም እንኳ ያመፅን ብንሆን፥ በባሪያዎቹም በነቢያት እጅ በፊታችን ባኖረው በሕጉ እንሄድ ዘንድ የአምላካችንን የእግዚአብሔርን ቃል ምንም እንኳ ባንሰማ፥ ለጌታ ለአምላካችን ምሕረትና ይቅርታ ነው።",
+            "en": "To the Lord our God belong mercies and forgivenesses, though we have rebelled against him;",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              9,
+              10
+            ]
+          }
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "በእርሱ ላይ ምንም እንኳ ያመፅን ብንሆን፥ በባሪያዎቹም በነቢያት እጅ በፊታችን ባኖረው በሕጉ እንሄድ ዘንድ የአምላካችንን የእግዚአብሔርን ቃል ምንም እንኳ ባንሰማ፥ ለጌታ ለአምላካችን ምሕረትና ይቅርታ ነው።",
+            "en": "Neither have we obeyed the voice of the LORD our God, to walk in his laws, which he set before us by his servants the prophets.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              9,
+              10
+            ]
+          }
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "እስራኤልም ሁሉ ሕግህን ተላልፈዋል፥ ቃልህንም እንዳይሰሙ ፈቀቅ ብለዋል፤ በእርሱ ላይ ኃጢአት ሠርተናልና በእግዚአብሔር ባሪያ በሙሴ ሕግ የተጻፈው መሐላና እርግማን ፈሰሰብን።",
+            "en": "Yea, all Israel have transgressed thy law, even by departing, that they might not obey thy voice; therefore the curse is poured upon us, and the oath that is written in the law of Moses the servant of God, because we have sinned against him.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "እጅግ ክፉ ነገርንም በእኛ ላይ በማምጣቱ በላያችንና በእኛ ዘንድ በተሾሙት ፈራጆቻችን ላይ የተናገረውን ቃል አጸና፤ በኢየሩሳሌምም ላይ እንደ ተደረገው ያለ ነገር ከቶ ከሰማይ ሁሉ በታች አልተደረገም።",
+            "en": "And he hath confirmed his words, which he spake against us, and against our judges that judged us, by bringing upon us a great evil: for under the whole heaven hath not been done as hath been done upon Jerusalem.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "በሙሴም ሕግ እንደ ተጻፈ ይህ ክፉ ነገር ሁሉ መጣብን፤ ከኃጢአታችንም እንመለስ እውነትህንም እናስብ ዘንድ ወደ አምላካችን ወደ እግዚአብሔር ፊት አልለመንንም።",
+            "en": "As it is written in the law of Moses, all this evil is come upon us: yet made we not our prayer before the LORD our God, that we might turn from our iniquities, and understand thy truth.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ስለዚህም እግዚአብሔር ክፉ ነገሩን ጠብቆ በእኛ ላይ አመጣ፤ አምላካችን እግዚአብሔር በሚሠራው ሥራ ሁሉ ጻድቅ ነውና፥ እኛም ቃሉን አልሰማንምና።",
+            "en": "Therefore hath the LORD watched upon the evil, and brought it upon us: for the LORD our God is righteous in all his works which he doeth: for we obeyed not his voice.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "አሁንም ሕዝብህን ከግብጽ ምድር በበረታች እጅ ያወጣህ፥ እንደ ዛሬም ቀን ዝና ለአንተ ያገኘህ ጌታ አምላካችን ሆይ፥ ኃጢአትን ሠርተናል፥ ክፋትንም አድርገናል።",
+            "en": "And now, O Lord our God, that hast brought thy people forth out of the land of Egypt with a mighty hand, and hast gotten thee renown, as at this day; we have sinned, we have done wickedly.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ጌታ ሆይ፥ ስለ ኃጢአታችንና ስለ አባቶቻችን በደል ኢየሩሳሌምና ሕዝብህ በዙሪያችን ላሉት ሁሉ መሰደቢያ ሆነዋልና እንደ ጽድቅህ ሁሉ ቍጣህና መዓትህ ከከተማህ ከኢየሩሳሌም ከቅዱስ ተራራህ እንዲመለስ እለምንሃለሁ።",
+            "en": "O Lord, according to all thy righteousness, I beseech thee, let thine anger and thy fury be turned away from thy city Jerusalem, thy holy mountain: because for our sins, and for the iniquities of our fathers, Jerusalem and thy people are become a reproach to all that are about us.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "አሁንም፥ አምላካችን ሆይ፥ የባሪያህን ጸሎትና ልመናውን ስማ፤ ጌታ ሆይ፥ በፈረሰው በመቅደስህ ላይ ስለ አንተ ስትል ፊትህን አብራ።",
+            "en": "Now therefore, O our God, hear the prayer of thy servant, and his supplications, and cause thy face to shine upon thy sanctuary that is desolate, for the Lord's sake.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "አምላኬ ሆይ፥ በፊትህ የምንለምን ስለ ብዙ ምሕረትህ ነው እንጂ ስለ ጽድቃችን አይደለምና ጆሮህን አዘንብለህ ስማ፤ ዓይንህን ገልጠህ ጥፋታችንና ስምህ የተጠራባትን ከተማ ተመልከት።",
+            "en": "O my God, incline thine ear, and hear; open thine eyes, and behold our desolations, and the city which is called by thy name: for we do not present our supplications before thee for our righteousnesses, but for thy great mercies.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "አቤቱ፥ ስማ፤ አቤቱ፥ ይቅር በል፤ አቤቱ፥ አድምጥና አድርግ፤ አምላኬ ሆይ፥ ስምህ በከተማህና በሕዝብህ ላይ ተጠርቶአልና ስለ ራስህ አትዘግይ።",
+            "en": "O Lord, hear; O Lord, forgive; O Lord, hearken and do; defer not, for thine own sake, O my God: for thy city and thy people are called by thy name.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "እኔም ገና ስናገር ስጸልይ፥ በኃጢአቴና በሕዝቤም በእስራኤል ኃጢአት ስናዘዝ፥ በአምላኬም በእግዚአብሔር ፊት ስለ ተቀደሰው ስለ አምላኬ ተራራ ስለምን፥",
+            "en": "And whiles I was speaking, and praying, and confessing my sin and the sin of my people Israel, and presenting my supplication before the LORD my God for the holy mountain of my God;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "ገናም በጸሎት ስናገር አስቀድሜ በራእይ አይቼው የነበረው ሰው ገብርኤል እነሆ እየበረረ መጣ፤ በማታም መሥዋዕት ጊዜ ዳሰሰኝ።",
+            "en": "Yea, whiles I was speaking in prayer, even the man Gabriel, whom I had seen in the vision at the beginning, being caused to fly swiftly, touched me about the time of the evening oblation.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 22,
+          "text": {
+            "am": "አስተማረኝም፥ ተናገረኝም እንዲህም አለ። ዳንኤል ሆይ፥ ጥበብንና ማስተዋልን እሰጥህ ዘንድ አሁን መጥቻለሁ።",
+            "en": "And he informed me, and talked with me, and said, O Daniel, I am now come forth to give thee skill and understanding.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 23,
+          "text": {
+            "am": "አንተ እጅግ የተወደድህ ነህና በልመናህ መጀመሪያ ላይ ትእዛዝ ወጥቶአል፥ እኔም እነግርህ ዘንድ መጥቻለሁ፤ አሁንም ነገሩን መርምር፥ ራእዩንም አስተውል።",
+            "en": "At the beginning of thy supplications the commandment came forth, and I am come to shew thee; for thou art greatly beloved: therefore understand the matter, and consider the vision.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 24,
+          "text": {
+            "am": "ዓመፃን ይጨርስ፥ ኃጢአትንም ይፈጽም፥ በደልንም ያስተሰርይ፥ የዘላለምን ጽድቅ ያገባ፥ ራእይንና ትንቢትን ያትም፥ ቅዱሰ ቅዱሳኑንም ይቀባ ዘንድ በሕዝብህና በቅድስት ከተማህ ላይ ሰባ ሱባዔ ተቀጥሮአል።",
+            "en": "Seventy weeks are determined upon thy people and upon thy holy city, to finish the transgression, and to make an end of sins, and to make reconciliation for iniquity, and to bring in everlasting righteousness, and to seal up the vision and prophecy, and to anoint the most Holy.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 25,
+          "text": {
+            "am": "ስለዚህ እወቅ አስተውልም፤ ኢየሩሳሌምን መጠገንና መሥራት ትእዛዙ ከሚወጣበት ጀምሮ እስከ አለቃው እስከ መሢሕ ድረስ ሰባት ሱባዔና ስድሳ ሁለት ሱባዔ ይሆናል፤ እርስዋም በጭንቀት ዘመን ከጎዳናና ከቅጥር ጋር ትሠራለች።",
+            "en": "Know therefore and understand, that from the going forth of the commandment to restore and to build Jerusalem unto the Messiah the Prince shall be seven weeks, and threescore and two weeks: the street shall be built again, and the wall, even in troublous times.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 26,
+          "text": {
+            "am": "ከስድሳ ሁለት ጊዜ ሰባትም በኋላ መሢሕ ይገደላል፥ በእርሱም ዘንድ ምንም የለም፤ የሚመጣውም አለቃ ሕዝብ ከተማይቱንና መቅደሱን ያጠፋሉ፤ ፍጻሜውም በጐርፍ ይሆናል፥ እስከ መጨረሻም ድረስ ጦርነት ይሆናል፤ ጥፋትም ተቀጥሮአል።",
+            "en": "And after threescore and two weeks shall Messiah be cut off, but not for himself: and the people of the prince that shall come shall destroy the city and the sanctuary; and the end thereof shall be with a flood, and unto the end of the war desolations are determined.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 27,
+          "text": {
+            "am": "እርሱም ከብዙ ሰዎች ጋር ጽኑ ቃል ኪዳን ለአንድ ሱባዔ ያደርጋል፤ በሱባዔውም እኵሌታ መሥዋዕቱንና ቍርባኑን ያስቀራል፤ በርኵሰትም ጫፍ ላይ አጥፊው ይመጣል፤ እስከ ተቈረጠውም ፍጻሜ ድረስ መቅሠፍት በአጥፊው ላይ ይፈስሳል።",
+            "en": "And he shall confirm the covenant with many for one week: and in the midst of the week he shall cause the sacrifice and the oblation to cease, and for the overspreading of abominations he shall make it desolate, even until the consummation, and that determined shall be poured upon the desolate.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "በፋርስ ንጉሥ በቂሮስ በሦስተኛው ዓመት ብልጣሶር ለተባለው ለዳንኤል ነገር ተገለጠለት፤ ነገሩም እውነት ነበረ፥ እርሱም ታላቅ ጦርነት ነው፤ ነገሩንም አስተዋለ፥ በራእዩም ውስጥ ማስተዋል ተሰጠው።",
+            "en": "In the third year of Cyrus king of Persia a thing was revealed unto Daniel, whose name was called Belteshazzar; and the thing was true, but the time appointed was long: and he understood the thing, and had understanding of the vision.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "በዚያም ወራት እኔ ዳንኤል ሦስት ሳምንት ሙሉ ሳዝን ነበርሁ።",
+            "en": "In those days I Daniel was mourning three full weeks.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ማለፊያ እንጀራም አልበላሁም፥ ሥጋና ጠጅም በአፌ አልገባም፥ ሦስቱም ሳምንት እስኪፈጸም ድረስ ዘይት አልተቀባሁም።",
+            "en": "I ate no pleasant bread, neither came flesh nor wine in my mouth, neither did I anoint myself at all, till three whole weeks were fulfilled.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ከመጀመሪያውም ወር በሀያ አራተኛው ቀን ጤግሮስ በተባለው በታላቁ ወንዝ አጠገብ ሳለሁ፥ ዓይኔን አነሣሁ፥",
+            "en": "And in the four and twentieth day of the first month, as I was by the side of the great river, which is Hiddekel;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "እነሆም፥ በፍታ የለበሰውን ጥሩም የአፌዝን ወርቅ በወገቡ ላይ የታጠቀውን ሰው አየሁ።",
+            "en": "Then I lifted up mine eyes, and looked, and behold a certain man clothed in linen, whose loins were girded with fine gold of Uphaz:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "አካሉም እንደ ቢረሌ ይመስል ነበር፥ ፊቱም እንደ መብረቅ ምስያ ነበረ፥ ዓይኖቹም እንደሚንበለበል ፋና፥ ክንዶቹና እግሮቹም እንደ ጋለ ናስ፥ የቃሉም ድምፅ እንደ ብዙ ሕዝብ ድምፅ ነበረ።",
+            "en": "His body also was like the beryl, and his face as the appearance of lightning, and his eyes as lamps of fire, and his arms and his feet like in colour to polished brass, and the voice of his words like the voice of a multitude.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "እኔም ዳንኤል ብቻዬን ራእዩን አየሁ፥ ከእኔ ጋር የነበሩ ሰዎች ግን ራእዩን አላዩም፤ ነገር ግን ጽኑ መንቀጥቀጥ ወደቀባቸው፥ ሊሸሸጉም ሸሹ።",
+            "en": "And I Daniel alone saw the vision: for the men that were with me saw not the vision; but a great quaking fell upon them, so that they fled to hide themselves.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "እኔም ብቻዬን ቀረሁ ይህንም ታላቅ ራእይ አየሁ፤ ኃይልም አልቀረልኝም፥ ደም ግባቴም ወደ ማሸብሸብ ተለወጠብኝ፥ ኃይልም አጣሁ።",
+            "en": "Therefore I was left alone, and saw this great vision, and there remained no strength in me: for my comeliness was turned in me into corruption, and I retained no strength.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "የቃሉንም ድምፅ ሰማሁ፤ የቃሉንም ድምፅ በሰማሁ ጊዜ ደንግጬ በምድር ላይ በግምባሬ ተደፋሁ።",
+            "en": "Yet heard I the voice of his words: and when I heard the voice of his words, then was I in a deep sleep on my face, and my face toward the ground.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "እነሆም፥ አንዲት እጅ ዳሰሰችኝ፥ በጕልበቴና በእጄም አቆመችኝ።",
+            "en": "And, behold, an hand touched me, which set me upon my knees and upon the palms of my hands.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "እርሱም። እጅግ የተወደድህ ሰው ዳንኤል ሆይ፥ እኔ ዛሬ ወደ አንተ ተልኬአለሁና የምነግርህን ቃል አስተውል፥ ቀጥ ብለህም ቁም አለኝ። ይህንም ቃል ባለኝ ጊዜ እየተንቀጠቀጥሁ ቆምሁ።",
+            "en": "And he said unto me, O Daniel, a man greatly beloved, understand the words that I speak unto thee, and stand upright: for unto thee am I now sent. And when he had spoken this word unto me, I stood trembling.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "እርሱም እንዲህ አለኝ። ዳንኤል ሆይ፥ አትፍራ፤ ልብህ ያስተውል ዘንድ፥ ሰውነትህም በአምላክህ ፊት ይዋረድ ዘንድ ካደረግህበት ከመጀመሪያው ቀን ጀምሮ ቃልህ ተሰምቶአል፤ እኔም ስለ ቃልህ መጥቻለሁ።",
+            "en": "Then said he unto me, Fear not, Daniel: for from the first day that thou didst set thine heart to understand, and to chasten thyself before thy God, thy words were heard, and I am come for thy words.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "የፋርስ መንግሥት አለቃ ግን ሀያ አንድ ቀን ተቋቋመኝ፤ እነሆም፥ ከዋነኞቹ አለቆች አንዱ ሚካኤል ሊረዳኝ መጣ፤ እኔም ከፋርስ ነገሥታት ጋር በዚያ ተውሁት።",
+            "en": "But the prince of the kingdom of Persia withstood me one and twenty days: but, lo, Michael, one of the chief princes, came to help me; and I remained there with the kings of Persia.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ራእዩም ገና ለብዙ ዘመን ነውና በኋለኛው ዘመን ለሕዝብህ የሚሆነውን አስታውቅህ ዘንድ አሁን መጥቻለሁ።",
+            "en": "Now I am come to make thee understand what shall befall thy people in the latter days: for yet the vision is for many days.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ይህንም ቃል በተናገረኝ ጊዜ ፊቴን ወደ ምድር አቀረቀርሁ፥ ዲዳም ሆንሁ።",
+            "en": "And when he had spoken such words unto me, I set my face toward the ground, and I became dumb.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "እነሆም፥ የሰው ልጅ የሚመስል ከንፈሬን ዳሰሰኝ፤ የዚያን ጊዜም አፌን ከፍቼ ተናገርሁ በፊቴም ቆሞ የነበረውን። ጌታዬ ሆይ፥ ከራእዩ የተነሣ ሕመሜ መጣብኝ፥ ኃይልም አጣሁ።",
+            "en": "And, behold, one like the similitude of the sons of men touched my lips: then I opened my mouth, and spake, and said unto him that stood before me, O my lord, by the vision my sorrows are turned upon me, and I have retained no strength.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "ይህ የጌታዬ ባሪያ ከዚህ ከጌታዬ ጋር ይናገር ዘንድ እንዴት ይችላል? አሁንም ኃይል አጣሁ፥ እስትንፋስም አልቀረልኝም አልሁት።",
+            "en": "For how can the servant of this my lord talk with this my lord? for as for me, straightway there remained no strength in me, neither is there breath left in me.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "ደግሞ ሰው የሚመስል ዳሰሰኝ፥ አበረታኝም።",
+            "en": "Then there came again and touched me one like the appearance of a man, and he strengthened me,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "እርሱም። እጅግ የተወደድህ ሰው ሆይ፥ አትፍራ፤ ሰላም ለአንተ ይሁን፤ በርታ፥ ጽና አለኝ። በተናገረኝም ጊዜ በረታሁና። አበርትተኸኛልና ጌታዬ ይናገር አልሁ።",
+            "en": "And said, O man greatly beloved, fear not: peace be unto thee, be strong, yea, be strong. And when he had spoken unto me, I was strengthened, and said, Let my lord speak; for thou hast strengthened me.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "እርሱም እንዲህ አለኝ። ወደ አንተ የመጣሁት ስለ ምን እንደ ሆነ፥ ታውቃለህን? አሁንም ከፋርስ አለቃ ጋር እዋጋ ዘንድ እመለሳለሁ፤ እኔም ስወጣ፥ እነሆ፤ የግሪክ አለቃ ይመጣል።",
+            "en": "Then said he, Knowest thou wherefore I come unto thee? and now will I return to fight with the prince of Persia: and when I am gone forth, lo, the prince of Grecia shall come.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "ነገር ግን በእውነት ጽሑፍ የተጻፈውን እነግርሃለሁ፤ በዚህም ነገር ከአለቃችሁ ከሚካኤል በቀር ማንም የሚያጸናኝ የለም።",
+            "en": "But I will shew thee that which is noted in the scripture of truth: and there is none that holdeth with me in these things, but Michael your prince.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "እኔም በሜዶናዊ በዳርዮስ መጀመሪያ ዓመት አጸናውና አበረታው ዘንድ ቆሜ ነበር።",
+            "en": "Also I in the first year of Darius the Mede, even I, stood to confirm and to strengthen him.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "አሁንም እውነትን አሳይሃለሁ። እነሆ፥ ሦስት ነገሥታት ደግሞ በፋርስ ይነሣሉ፤ አራተኛውም ከሁሉ ይልቅ እጅግ ባለጠጋ ይሆናል፤ በባለጠግነቱም በበረታ ጊዜ በግሪክ መንግሥት ላይ ሁሉን ያስነሣል።",
+            "en": "And now will I shew thee the truth. Behold, there shall stand up yet three kings in Persia; and the fourth shall be far richer than they all: and by his strength through his riches he shall stir up all against the realm of Grecia.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ኃያልም ንጉሥ ይነሣል፥ በትልቅ አገዛዝም ይገዛል፥ እንደ ፈቃዱም ያደርጋል።",
+            "en": "And a mighty king shall stand up, that shall rule with great dominion, and do according to his will.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "እርሱም በተነሣ ጊዜ መንግሥቱ ይሰበራል፤ እስከ አራቱ የሰማይ ነፋሳት ይከፋፈላል። ለዘሩ ግን አይከፋፈልም፥ እንደ ገዛበትም አገዛዝ አይሆንም፤ መንግሥቱ ይነቀላልና፤ ከእነዚህም ለሌሎች ይሆናልና።",
+            "en": "And when he shall stand up, his kingdom shall be broken, and shall be divided toward the four winds of heaven; and not to his posterity, nor according to his dominion which he ruled: for his kingdom shall be plucked up, even for others beside those.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "የደቡብም ንጉሥ ከአለቆቹም አንዱ ይበረታሉ፤ እርሱም ይበረታበታል ይሠለጥንማል፤ ግዛቱም ታላቅ ግዛት ይሆናል።",
+            "en": "And the king of the south shall be strong, and one of his princes; and he shall be strong above him, and have dominion; his dominion shall be a great dominion.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ከዘመናትም በኋላ ይጋጠማሉ፤ የደቡብም ንጉሥ ሴት ልጅ ቃል ኪዳን ለማድረግ ወደ ሰሜን ንጉሥ ትመጣለች፤ የክንድዋ ኃይል ግን አይጸናም፥ እርሱና ክንዱም አይጸናም፤ እርስዋና እርስዋን ያመጡ የወለዳትም በዚያም ዘመን ያጸናት አልፈው ይሰጣሉ።",
+            "en": "And in the end of years they shall join themselves together; for the king's daughter of the south shall come to the king of the north to make an agreement: but she shall not retain the power of the arm; neither shall he stand, nor his arm: but she shall be given up, and they that brought her, and he that begat her, and he that strengthened her in these times.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ነገር ግን ከሥርዋ ቍጥቋጥ አንዱ በስፍራው ይነሣል፤ ወደ ሠራዊቱም ይመጣል፥ ወደ ሰሜንም ንጉሥ አምባ ይገባል፥ በላያቸውም ያደርጋል፥ ያሸንፍማል።",
+            "en": "But out of a branch of her roots shall one stand up in his estate, which shall come with an army, and shall enter into the fortress of the king of the north, and shall deal against them, and shall prevail:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "አማልክቶቻቸውንና ቀልጠው የተሠሩትን ምስሎቻቸውን ከብርና ከወርቅም የተሠሩትን የከበሩትን ዕቃዎች ወደ ግብጽ ይማርካል፤ እስከ ጥቂትም ዓመት ድረስ ከሰሜን ንጉሥ ጋር ሳይዋጋ ይቀመጣል።",
+            "en": "And shall also carry captives into Egypt their gods, with their princes, and with their precious vessels of silver and of gold; and he shall continue more years than the king of the north.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ይህም ወደ ደቡብ ንጉሥ መንግሥት ይገባል፥ ነገር ግን ወደ ገዛ ምድሩ ይመለሳል።",
+            "en": "So the king of the south shall come into his kingdom, and shall return into his own land.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ልጆቹም ይዋጋሉ፤ ብዙ ሠራዊትንና ሕዝብን ይሰበስባል፤ እርሱም ይመጣል፥ ይጐርፍማል፥ ያልፍማል፤ ተመልሶም እስከ አምባው ድረስ ይዋጋል።",
+            "en": "But his sons shall be stirred up, and shall assemble a multitude of great forces: and one shall certainly come, and overflow, and pass through: then shall he return, and be stirred up, even to his fortress.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "የደቡብም ንጉሥ ይቈጣል ወጥቶም ከሰሜን ንጉሥ ጋር ይዋጋል፤ ብዙ ሕዝብንም ለሰልፍ ያቆማል፥ ሕዝቡም አልፎ በእጁ ይሰጣል።",
+            "en": "And the king of the south shall be moved with choler, and shall come forth and fight with him, even with the king of the north: and he shall set forth a great multitude; but the multitude shall be given into his hand.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "ሕዝቡም በተወሰደ ጊዜ ልቡ ይታበያል፤ አእላፋትንም ይጥላል፥ ነገር ግን አያሸንፍም።",
+            "en": "And when he hath taken away the multitude, his heart shall be lifted up; and he shall cast down many ten thousands: but he shall not be strengthened by it.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "የሰሜንም ንጉሥ ይመለሳል፥ ከቀደመውም የበለጠ ብዙ ሕዝብ ለሰልፍ ያቆማል፤ በዘመናትና በዓመታትም ፍጻሜ ከታላቅ ሠራዊትና ከብዙ ሀብት ጋር ይመጣል።",
+            "en": "For the king of the north shall return, and shall set forth a multitude greater than the former, and shall certainly come after certain years with a great army and with much riches.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "በዚያም ዘመን ብዙ ሰዎች በደቡብ ንጉሥ ላይ ይነሣሉ፤ ከሕዝብህም መካከል የዓመፅ ልጆች ራእዩን ያጸኑ ዘንድ ይነሣሉ፤ ነገር ግን ይወድቃሉ።",
+            "en": "And in those times there shall many stand up against the king of the south: also the robbers of thy people shall exalt themselves to establish the vision; but they shall fall.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "የሰሜንም ንጉሥ ይመጣል፥ አፈርንም ይደለድላል፥ የተመሸገችንም ከተማ ይወስዳል፤ የደቡብም ሠራዊት የተመረጡትም ሕዝቡ አይቆሙም፤ ለመቋቋምም ኃይል የላቸውም።",
+            "en": "So the king of the north shall come, and cast up a mount, and take the most fenced cities: and the arms of the south shall not withstand, neither his chosen people, neither shall there be any strength to withstand.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "በእርሱም ላይ የሚመጣው ግን እንደ ፈቃዱ ያደርጋል፥ በፊቱም የሚቆም የለም፤ በመልካሚቱም ምድር ይቆማል፥ በእጁም ውስጥ ጥፋት ይሆናል።",
+            "en": "But he that cometh against him shall do according to his own will, and none shall stand before him: and he shall stand in the glorious land, which by his hand shall be consumed.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "ከመንግሥቱም ሁሉ ኃይል ጋር ይመጣ ዘንድ ፊቱን ያቀናል፥ ከእርሱም ጋር አንድነትን ያደርጋል፤ ያረክሳትም ዘንድ ሴትን ልጅ ይሰጠዋል፤ እርስዋም አትጸናም ለእርሱም አትሆንም።",
+            "en": "He shall also set his face to enter with the strength of his whole kingdom, and upright ones with him; thus shall he do: and he shall give him the daughter of women, corrupting her: but she shall not stand on his side, neither be for him.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "ከዚህም በኋላ ፊቱን ወደ ደሴቶች ይመልሳል፥ ብዙዎችንም ይወስዳል፤ አንድ አለቃ ግን ስድቡን ይሽራል፥ ስድቡንም በራሱ ላይ ይመልሳል።",
+            "en": "After this shall he turn his face unto the isles, and shall take many: but a prince for his own behalf shall cause the reproach offered by him to cease; without his own reproach he shall cause it to turn upon him.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "ፊቱንም ወደ ገዛ ምድሩ አምባዎች ይመልሳል፤ ተሰናክሎም ይወድቃል፥ አይገኝምም።",
+            "en": "Then he shall turn his face toward the fort of his own land: but he shall stumble and fall, and not be found.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "የዚያን ጊዜም በመንግሥቱ ክብር መካከል አስገባሪውን የሚያሳልፍ በስፍራው ይነሣል፤ ነገር ግን በቍጣው ሳይሆን በሰልፍም ሳይሆን በጥቂት ቀን ይሰበራል።",
+            "en": "Then shall stand up in his estate a raiser of taxes in the glory of the kingdom: but within few days he shall be destroyed, neither in anger, nor in battle.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "በእርሱም ስፍራ የተጠቃ ሰው ይነሣል የመንግሥቱንም ክብር አይሰጡትም፤ በቀስታ መጥቶ መንግሥቱን በማታለል ይገዛል።",
+            "en": "And in his estate shall stand up a vile person, to whom they shall not give the honour of the kingdom: but he shall come in peaceably, and obtain the kingdom by flatteries.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 22,
+          "text": {
+            "am": "የሚጐርፍም ሠራዊት ከፊቱ ይወሰዳል፥ እርሱና የቃል ኪዳኑ አለቃ ይሰበራሉ።",
+            "en": "And with the arms of a flood shall they be overflown from before him, and shall be broken; yea, also the prince of the covenant.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 23,
+          "text": {
+            "am": "ከእርሱም ጋር ከተወዳጀ በኋላ በተንኰል ያደርጋል፤ ከጥቂትም ሕዝብ ጋር ወጥቶ ይበረታል።",
+            "en": "And after the league made with him he shall work deceitfully: for he shall come up, and shall become strong with a small people.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 24,
+          "text": {
+            "am": "በቀስታ ከአገር ሁሉ ወደ ለመለመችው ክፍል ይገባል፤ አባቶቹና የአባቶቹ አባቶች ያላደረጉትንም ያደርጋል፤ ብዝበዛውንና ምርኮውንም ሀብቱንም በመካከላቸው ይበትናል፤ በምሽጎችም ላይ እስከ ጊዜው ድረስ አሳቡን ይፈጥራል።",
+            "en": "He shall enter peaceably even upon the fattest places of the province; and he shall do that which his fathers have not done, nor his fathers' fathers; he shall scatter among them the prey, and spoil, and riches: yea, and he shall forecast his devices against the strong holds, even for a time.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 25,
+          "text": {
+            "am": "በታላቅም ሠራዊት ሆኖ ኃይሉንና ልቡን በደቡብ ንጉሥ ላይ ያስነሣል፤ የደቡብም ንጉሥ በታላቅና በብዙ ሠራዊት ሆኖ በሰልፍ ይዋጋል፤ ነገር ግን አሳብ በእርሱ ላይ ይፈጥራሉና አይጸናም።",
+            "en": "And he shall stir up his power and his courage against the king of the south with a great army; and the king of the south shall be stirred up to battle with a very great and mighty army; but he shall not stand: for they shall forecast devices against him.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 26,
+          "text": {
+            "am": "መብሉንም የሚበሉ ሰዎች ይሰብሩታል፤ ሠራዊቱም ይጐርፋል፤ ብዙዎችም ተገድለው ይወድቃሉ።",
+            "en": "Yea, they that feed of the portion of his meat shall destroy him, and his army shall overflow: and many shall fall down slain.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 27,
+          "text": {
+            "am": "እነዚህም ሁለት ነገሥታት ክፋትን ያደርጉ ዘንድ በልባቸው ያስባሉ፥ በአንድ ገበታም ተቀምጠው ሐሰት ይናገራሉ፤ ነገር ግን ፍጻሜው እስከ ተወሰነው ጊዜ ነውና አይከናወንላቸውም።",
+            "en": "And both these kings' hearts shall be to do mischief, and they shall speak lies at one table; but it shall not prosper: for yet the end shall be at the time appointed.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 28,
+          "text": {
+            "am": "ከብዙም ሀብት ጋር ወደ ምድሩ ይመለሳል፥ ልቡም በተቀደሰ ቃል ኪዳን ላይ ይሆናል፤ ፈቃዱንም ያደርጋል፥ ወደ ገዛ ምድሩም ይመለሳል።",
+            "en": "Then shall he return into his land with great riches; and his heart shall be against the holy covenant; and he shall do exploits, and return to his own land.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 29,
+          "text": {
+            "am": "በተወሰነውም ጊዜ ይመለሳል ወደ ደቡብም ይመጣል፤ ነገር ግን ኋለኛው እንደ ፊተኛው አይሆንም።",
+            "en": "At the time appointed he shall return, and come toward the south; but it shall not be as the former, or as the latter.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 30,
+          "text": {
+            "am": "የኪቲም መርከቦች ይመጡበታልና ስለዚህ አዝኖ ይመለሳል፥ በቅዱሱም ቃል ኪዳን ላይ ይቈጣል፥ ፈቃዱንም ያደርጋል፤ ተመልሶም ቅዱሱን ቃል ኪዳን የተዉትን ሰዎች ይመለከታል።",
+            "en": "For the ships of Chittim shall come against him: therefore he shall be grieved, and return, and have indignation against the holy covenant: so shall he do; he shall even return, and have intelligence with them that forsake the holy covenant.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 31,
+          "text": {
+            "am": "ከእርሱም ጋር ሠራዊቶች ይቆማሉ፥ መቅደሱንም ግንቡንም ያረክሳሉ፥ የዘወትሩንም መሥዋዕት ያስቀራሉ፥ የጥፋትንም ርኵሰት ያቆማሉ።",
+            "en": "And arms shall stand on his part, and they shall pollute the sanctuary of strength, and shall take away the daily sacrifice, and they shall place the abomination that maketh desolate.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 32,
+          "text": {
+            "am": "ቃል ኪዳኑን የሚበድሉትንም በማታለል ያስታል፤ ነገር ግን አምላካቸውን የሚያውቁ ሕዝብ ይበረታሉ፥ ያደርጋሉም።",
+            "en": "And such as do wickedly against the covenant shall he corrupt by flatteries: but the people that do know their God shall be strong, and do exploits.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 33,
+          "text": {
+            "am": "በሕዝቡም መካከል ያሉ ጥበበኞች ብዙ ሰዎችን ያስተምራሉ፤ ነገር ግን በሰይፍና በእሳት ነበልባል በምርኮና በመበዝበዝ ብዙ ዘመን ይወድቃሉ።",
+            "en": "And they that understand among the people shall instruct many: yet they shall fall by the sword, and by flame, by captivity, and by spoil, many days.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 34,
+          "text": {
+            "am": "በወደቁም ጊዜ በጥቂት እርዳታ ይረዳሉ፤ ብዙ ሰዎችም በግብዝነት ወደ እነርሱ ተባብረው ይሰበሰባሉ።",
+            "en": "Now when they shall fall, they shall be holpen with a little help: but many shall cleave to them with flatteries.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 35,
+          "text": {
+            "am": "እስከ ተወሰነውም ዘመን ይሆናልና ከጥበበኞቹ አያሌዎቹ እስከ ፍጻሜ ዘመን ይነጥሩና ይጠሩ ይነጡም ዘንድ ይወድቃሉ።",
+            "en": "And some of them of understanding shall fall, to try them, and to purge, and to make them white, even to the time of the end: because it is yet for a time appointed.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 36,
+          "text": {
+            "am": "ንጉሡም እንደ ፈቃዱ ያደርጋል፤ ራሱንም ከፍ ከፍ ያደርጋል፥ በአማልክት ሁሉ ላይ ራሱን ታላቅ ያደርጋል፥ በአማልክትም አምላክ ላይ በትዕቢት ይናገራል፤ ቍጣም እስኪፈጸም ድረስ ይከናወንለታል፥ የተወሰነው ይደረጋልና።",
+            "en": "And the king shall do according to his will; and he shall exalt himself, and magnify himself above every god, and shall speak marvellous things against the God of gods, and shall prosper till the indignation be accomplished: for that that is determined shall be done.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 37,
+          "text": {
+            "am": "የአባቶቹንም አማልክት የሴቶችንም ምኞት አይመለከትም፤ ራሱንም በሁሉ ላይ ታላቅ ያደርጋልና አማልክትን ሁሉ አይመለከትም።",
+            "en": "Neither shall he regard the God of his fathers, nor the desire of women, nor regard any god: for he shall magnify himself above all.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 38,
+          "text": {
+            "am": "በእነዚህ ፋንታ ግን የአምባዎቹን አምላክ ያከብራል፤ አባቶቹም ያላወቁትን አምላክ በወርቅና በብር በዕንቍና በከበረ ነገር ያከብረዋል።",
+            "en": "But in his estate shall he honour the God of forces: and a god whom his fathers knew not shall he honour with gold, and silver, and with precious stones, and pleasant things.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 39,
+          "text": {
+            "am": "በእንግዳም አምላክ እርዳታ በጽኑ አምባ ላይ ያደርጋል፤ ለሚያውቁት ክብር ያበዛላቸዋል፥ በብዙም ላይ ያስገዛቸዋል፥ ምድርንም በዋጋ ይከፍላል።",
+            "en": "Thus shall he do in the most strong holds with a strange god, whom he shall acknowledge and increase with glory: and he shall cause them to rule over many, and shall divide the land for gain.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 40,
+          "text": {
+            "am": "በፍጻሜ ዘመንም የደቡብ ንጉሥ ከእርሱ ጋር ይዋጋል፤ የሰሜንም ንጉሥ ከሰረገሎችና ከፈረሰኞች ከብዙም መርከቦች ጋር እንደ ዐውሎ ነፋስ ይመጣበታል፤ ወደ አገሮችም ይገባል፥ ይጐርፍማል፥ ያልፍማል።",
+            "en": "And at the time of the end shall the king of the south push at him: and the king of the north shall come against him like a whirlwind, with chariots, and with horsemen, and with many ships; and he shall enter into the countries, and shall overflow and pass over.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 41,
+          "text": {
+            "am": "ወደ መልካሚቱም ምድር ይገባል፥ ብዙ አገሮችም ይወድቃሉ፤ ነገር ግን ኤዶምያስና ሞዓብ ከአሞንም ልጆች የበለጡት ከእጁ ይድናሉ።",
+            "en": "He shall enter also into the glorious land, and many countries shall be overthrown: but these shall escape out of his hand, even Edom, and Moab, and the chief of the children of Ammon.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 42,
+          "text": {
+            "am": "እጁን በአገሮች ላይ ይዘረጋል፥ የግብጽም ምድር አታመልጥም።",
+            "en": "He shall stretch forth his hand also upon the countries: and the land of Egypt shall not escape.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 43,
+          "text": {
+            "am": "በወርቅና በብርም መዝገብ ላይ፥ በከበረችም በግብጽ ዕቃ ሁሉ ላይ ይሠለጥናል፤ የልብያና የኢትዮጵያ ሰዎችም ይከተሉታል።",
+            "en": "But he shall have power over the treasures of gold and of silver, and over all the precious things of Egypt: and the Libyans and the Ethiopians shall be at his steps.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 44,
+          "text": {
+            "am": "ከምሥራቅና ከሰሜን ግን ወሬ ያውከዋል፤ ብዙ ሰዎችንም ይገድል ዘንድና ፈጽሞ ያጠፋ ዘንድ በታላቅ ቍጣ ይወጣል።",
+            "en": "But tidings out of the east and out of the north shall trouble him: therefore he shall go forth with great fury to destroy, and utterly to make away many.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 45,
+          "text": {
+            "am": "ንጉሣዊ ድንኳኑንም በባሕርና በከበረው በቅዱስ ተራራ መካከል ይተክላል፤ ወደ ፍጻሜው ግን ይመጣል፥ ማንም አይረዳውም።",
+            "en": "And he shall plant the tabernacles of his palace between the seas in the glorious holy mountain; yet he shall come to his end, and none shall help him.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "በዚያም ዘመን ስለ ሕዝብህ ልጆች የሚቆመው ታላቁ አለቃ ሚካኤል ይነሣል፤ ሕዝብም ከሆነ ጀምሮ እስከዚያ ዘመን ድረስ እንደ እርሱ ያለ ያልሆነ የመከራ ዘመን ይሆናል፤ በዚያም ዘመን በመጽሐፉ ተጽፎ የተገኘው ሕዝብህ ሁሉ እያንዳንዱ ይድናል።",
+            "en": "And at that time shall Michael stand up, the great prince which standeth for the children of thy people: and there shall be a time of trouble, such as never was since there was a nation even to that same time: and at that time thy people shall be delivered, every one that shall be found written in the book.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "በምድርም ትቢያ ውስጥ ካንቀላፉቱ ብዙዎች ይነቃሉ፤ እኵሌቶቹ ወደ ዘላለም ሕይወት፥ እኵሌቶቹም ወደ እፍረትና ወደ ዘላለም ጕስቍልና።",
+            "en": "And many of them that sleep in the dust of the earth shall awake, some to everlasting life, and some to shame and everlasting contempt.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ጥበበኞቹም እንደ ሰማይ ፀዳል፥ ብዙ ሰዎችንም ወደ ጽድቅ የሚመልሱ እንደ ከዋክብት ለዘላለም ይደምቃሉ።",
+            "en": "And they that be wise shall shine as the brightness of the firmament; and they that turn many to righteousness as the stars for ever and ever.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ዳንኤል ሆይ፥ አንተ ግን እስከ ፍጻሜ ዘመን ድረስ ቃሉን ዝጋ፥ መጽሐፉንም አትም፤ ብዙ ሰዎች ይመረምራሉ፥ እውቀትም ይበዛል።",
+            "en": "But thou, O Daniel, shut up the words, and seal the book, even to the time of the end: many shall run to and fro, and knowledge shall be increased.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "እኔም ዳንኤል አየሁ፤ እነሆም፥ ሁለት ሌሎች ቆመው ነበር፥ አንዱ በዚህ በወንዙ ዳር፥ ሌላውም በዚያ በወንዙ ዳር።",
+            "en": "Then I Daniel looked, and, behold, there stood other two, the one on this side of the bank of the river, and the other on that side of the bank of the river.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "አንዱም ከወንዙ ውኃ በላይ የነበረውን በፍታም የለበሰውን። የዚህ ድንቅ ፍጻሜ እስከ መቼ ነው? አለው።",
+            "en": "And one said to the man clothed in linen, which was upon the waters of the river, How long shall it be to the end of these wonders?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ከወንዙም ውኃ በላይ የነበረው በፍታም የለበሰው ሰው ቀኝና ግራ እጁን ወደ ሰማይ አንሥቶ። ለዘመንና ለዘመናት ለዘመንም እኵሌታ ነው፤ የተቀደሰውም ሕዝብ ኃይል መበተን በተጨረሰ ጊዜ ይህ ሁሉ ይፈጸማል ብሎ ለዘላለም ሕያው ሆኖ በሚኖረው ሲምል ሰማሁ።",
+            "en": "And I heard the man clothed in linen, which was upon the waters of the river, when he held up his right hand and his left hand unto heaven, and sware by him that liveth for ever that it shall be for a time, times, and an half; and when he shall have accomplished to scatter the power of the holy people, all these things shall be finished.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ሰማሁም ነገር ግን አላስተዋልሁም፤ የዚያን ጊዜም። ጌታዬ ሆይ፥ የዚህ ሁሉ ፍጻሜ ምንድር ነው? አልሁ።",
+            "en": "And I heard, but I understood not: then said I, O my Lord, what shall be the end of these things?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "እርሱም እንዲህ አለኝ። ዳንኤል ሆይ፥ ቃሉ እስከ ፍጻሜ ዘመን ድረስ የተዘጋና የታተመ ነውና ሂድ፤",
+            "en": "And he said, Go thy way, Daniel: for the words are closed up and sealed till the time of the end.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ብዙ ሰዎች ሰውነታቸውን ያጠራሉ ያነጡማል ይነጥሩማል፤ ክፉዎች ግን ክፋትን ያደርጋሉ፤ ክፉዎችም ሁሉ አያስተውሉም፥ ጥበበኞች ግን ያስተውላሉ።",
+            "en": "Many shall be purified, and made white, and tried; but the wicked shall do wickedly: and none of the wicked shall understand; but the wise shall understand.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "የዘወትሩም መሥዋዕት ከቀረ ጀምሮ፥ የጥፋትም ርኵሰት ከቆመ ጀምሮ ሺህ ሁለት መቶ ዘጠና ቀን ይሆናል።",
+            "en": "And from the time that the daily sacrifice shall be taken away, and the abomination that maketh desolate set up, there shall be a thousand two hundred and ninety days.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "የሚታገሥ፥ እስከ ሺህ ሦስት መቶ ሠላሳ አምስት ቀንም የሚደርስ ምስጉን ነው።",
+            "en": "Blessed is he that waiteth, and cometh to the thousand three hundred and five and thirty days.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "አንተ ግን እስከ ፍጻሜው ድረስ ሂድ፤ አንተም ታርፋለህ፥ በቀኑም መጨረሻ በዕጣ ክፍልህ ትቆማለህ።",
+            "en": "But go thou thy way till the end be: for thou shalt rest, and stand in thy lot at the end of the days.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    }
+  ]
+}

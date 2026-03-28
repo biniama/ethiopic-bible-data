@@ -1,0 +1,269 @@
+{
+  "book_number": 57,
+  "book_name_am": "ወደ ፊልሞና",
+  "book_short_name_am": "ፊልሞ",
+  "book_name_en": "Philemon",
+  "book_short_name_en": "Phlm",
+  "book_name_geez": null,
+  "testament": "new",
+  "sources": [
+    "ethiopicbible.com"
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "የክርስቶስ ኢየሱስ እስር ጳውሎስ ወንድሙም ጢሞቴዎስ፥ ለተወደደውና አብሮን ለሚሠራ ለፊልሞና፥",
+            "en": "Paul, a prisoner of Jesus Christ, and Timothy our brother, unto Philemon our dearly beloved, and fellowlabourer,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ለእኅታችንም ለአፍብያ፥ ከእኛም ጋር አብሮ ወታደር ለሆነ ለአርክጳ፥ በቤትህም ላለች ቤተ ክርስቲያን፤",
+            "en": "And to our beloved Apphia, and Archippus our fellowsoldier, and to the church in thy house:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ከእግዚአብሔር ከአባታችን ከጌታም ከኢየሱስ ክርስቶስ ጸጋና ሰላም ለእናንተ ይሁን።",
+            "en": "Grace to you, and peace, from God our Father and the Lord Jesus Christ.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "በጌታ በኢየሱስ ዘንድ በቅዱሳንም ሁሉ ዘንድ ስላለህ ስለ ፍቅርህና ስለ እምነትህ ሰምቼ፥ በጸሎቴ እያሳሰብሁ ሁልጊዜ አምላኬን አመሰግናለሁ፤",
+            "en": "I thank my God, making mention of thee always in my prayers,",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              4,
+              5
+            ]
+          }
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "በጌታ በኢየሱስ ዘንድ በቅዱሳንም ሁሉ ዘንድ ስላለህ ስለ ፍቅርህና ስለ እምነትህ ሰምቼ፥ በጸሎቴ እያሳሰብሁ ሁልጊዜ አምላኬን አመሰግናለሁ፤",
+            "en": "Hearing of thy love and faith, which thou hast toward the Lord Jesus, and toward all saints;",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              4,
+              5
+            ]
+          }
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "የእምነትህም ኅብረት፥ በእኛ ዘንድ ያለውን በጎ ነገር ሁሉ በማወቅ፥ ለክርስቶስ ኢየሱስ ፍሬ እንዲያፈራ እለምናለሁ፤",
+            "en": "That the communication of thy faith may become effectual by the acknowledging of every good thing which is in you in Christ Jesus.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "የቅዱሳን ልብ በአንተ ስራ ስለ ዐረፈ፥ ወንድሜ ሆይ፥ በፍቅርህ ብዙ ደስታንና መጽናናትን አግኝቼአለሁና።",
+            "en": "For we have great joy and consolation in thy love, because the bowels of the saints are refreshed by thee, brother.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ስለዚህ የሚገባውን አዝህ ዘንድ በክርስቶስ ምንም እንኳ ብዙ ድፍረት ቢኖረኝ፥",
+            "en": "Wherefore, though I might be much bold in Christ to enjoin thee that which is convenient,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ይልቁንም እንደዚህ የሆንሁ እኔ ጳውሎስ ሽማግሌው፥ አሁንም ደግሞ የኢየሱስ ክርስቶስ እስር የሆንሁ፥ ስለ ፍቅር እለምናለሁ።",
+            "en": "Yet for love's sake I rather beseech thee, being such an one as Paul the aged, and now also a prisoner of Jesus Christ.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "አስቀድሞ ስላልጠቀመህ፥ አሁን ግን ለእኔም ለአንተም ስለሚጠቅም በእስራቴ ስለ ወለድሁት ስለ ልጄ ስለ አናሲሞስ እለምንሃለሁ።",
+            "en": "I beseech thee for my son Onesimus, whom I have begotten in my bonds:",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              10,
+              11
+            ]
+          }
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "አስቀድሞ ስላልጠቀመህ፥ አሁን ግን ለእኔም ለአንተም ስለሚጠቅም በእስራቴ ስለ ወለድሁት ስለ ልጄ ስለ አናሲሞስ እለምንሃለሁ።",
+            "en": "Which in time past was to thee unprofitable, but now profitable to thee and to me:",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              10,
+              11
+            ]
+          }
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "እርሱን እልከዋለሁ፤",
+            "en": "Whom I have sent again: thou therefore receive him, that is, mine own bowels:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "አንተም ልቤ እንደሚሆን ተቀበለው። እኔስ በወንጌል እስራት ስለ አንተ እንዲያገለግለኝ ለራሴ ላስቀረው እፈቅድ ነበር፥",
+            "en": "Whom I would have retained with me, that in thy stead he might have ministered unto me in the bonds of the gospel:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ነገር ግን በጎነትህ በፈቃድህ እንጂ በግድ እንዳይሆን፥ ሳልማከርህ ምንም እንኳ ላደርግ አልወደድሁም።",
+            "en": "But without thy mind would I do nothing; that thy benefit should not be as it were of necessity, but willingly.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ተቀብለህ ለዘላለም እንድትይዘው ስለዚህ ምናልባት ለጊዜው ተለይቶሃልና፤",
+            "en": "For perhaps he therefore departed for a season, that thou shouldest receive him for ever;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ከእንግዲህ ወዲህ እንደ ባሪያ አይሆንም፥ ነገር ግን ለእኔ በተለየ የተወደደ ወንድም ከሆነ፥ ለአንተማ ይልቅ በስጋውም በጌታም ዘንድ ከባሪያ የሚሻል የተወደደ ወንድም እንዴት አይሆንም።",
+            "en": "Not now as a servant, but above a servant, a brother beloved, specially to me, but how much more unto thee, both in the flesh, and in the Lord?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "እንግዲህ እንደ ባልንጀራ ብትቈጥረኝ፥ እንደ እኔ አድርገህ ተቀበለው።",
+            "en": "If thou count me therefore a partner, receive him as myself.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "በአንዳች ነገር የበደለህ ቢኖር ግን ወይም ብድር ያለበት እንደሆነ፥ ይህን በእኔ ላይ ቍጠር፤",
+            "en": "If he hath wronged thee, or oweth thee ought, put that on mine account;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "እኔ ጳውሎስ። እኔ እመልሰዋለሁ ብዬ በእጄ እጽፋለሁ፤ ከዚህም በላይ ለእኔ የራስህ ደግሞ ብድር እንዳለብህ አልልህም።",
+            "en": "I Paul have written it with mine own hand, I will repay it: albeit I do not say to thee how thou owest unto me even thine own self besides.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "አዎን፥ ወንድሜ ሆይ፥ በጌታ እኔ እንድጠቀምብህ ይሁን፤ በክርስቶስ ልቤን አሳርፍልኝ።",
+            "en": "Yea, brother, let me have joy of thee in the Lord: refresh my bowels in the Lord.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "ከምልህ ይልቅ አብልጠህ እንድታደርግ አውቄ እንድትታዘዝም ታምኜ እጽፍልሃለሁ።",
+            "en": "Having confidence in thy obedience I wrote unto thee, knowing that thou wilt also do more than I say.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 22,
+          "text": {
+            "am": "ደግሞ ከዚህም ጋር የማስተናገጃ ቤት አዘጋጅልኝ፤ በጸሎታችሁ ለእናንተ እንድሰጥ ተስፋ አደርጋለሁና።",
+            "en": "But withal prepare me also a lodging: for I trust that through your prayers I shall be given unto you.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 23,
+          "text": {
+            "am": "በክርስቶስ ኢየሱስ ከእኔ ጋር የታሰረ ኤጳፍራ",
+            "en": "There salute thee Epaphras, my fellowprisoner in Christ Jesus;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 24,
+          "text": {
+            "am": "አብረውኝም የሚሰሩ ማርቆስና አርስጥሮኮስ ዴማስም ሉቃስም ሰላምታ ያቀርቡልሃል።",
+            "en": "Marcus, Aristarchus, Demas, Lucas, my fellowlabourers.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 25,
+          "text": {
+            "am": "የጌታችን የኢሱስ ክርስቶስ ጸጋ ከመንፈሳችሁ ጋር ይሁን፤ አሜን።",
+            "en": "The grace of our Lord Jesus Christ be with your spirit. Amen.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    }
+  ]
+}

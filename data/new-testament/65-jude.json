@@ -1,0 +1,257 @@
+{
+  "book_number": 65,
+  "book_name_am": "የይሁዳ መልእክት",
+  "book_short_name_am": "ይሁ",
+  "book_name_en": "Jude",
+  "book_short_name_en": "Jude",
+  "book_name_geez": null,
+  "testament": "new",
+  "sources": [
+    "ethiopicbible.com"
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "የኢየሱስ ክርስቶስ ባሪያ የያዕቆብም ወንድም የሆነ ይሁዳ፥ በእግዚአብሔር አብ ተወደው ለኢየሱስ ክርስቶስም ተጠብቀው ለተጠሩ፤",
+            "en": "Jude, the servant of Jesus Christ, and brother of James, to them that are sanctified by God the Father, and preserved in Jesus Christ, and called:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ምሕረትና ሰላም ፍቅርም ይብዛላችሁ።",
+            "en": "Mercy unto you, and peace, and love, be multiplied.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ወዳጆች ሆይ፥ ስለምንካፈለው ስለ መዳናችን ልጽፍላችሁ እጅግ ተግቼ ሳለሁ፥ ለቅዱሳን አንድ ጊዜ ፈጽሞ ስለ ተሰጠ ሃይማኖት እንድትጋደሉ እየመከርኋችሁ እጽፍላችሁ ዘንድ ግድ ሆነብኝ።",
+            "en": "Beloved, when I gave all diligence to write unto you of the common salvation, it was needful for me to write unto you, and exhort you that ye should earnestly contend for the faith which was once delivered unto the saints.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ከብዙ ጊዜ በፊት ለዚህ ፍርድ የተጻፉ አንዳንዶች ሰዎች ሾልከው ገብተዋልና፤ ኃጢአተኞች ሆነው የአምላካችንን ጸጋ በሴሰኝነት ይለውጣሉ ንጉሣችንንና ጌታችንንም ብቻውን ያለውን ኢየሱስ ክርስቶስን ይክዳሉ።",
+            "en": "For there are certain men crept in unawares, who were before of old ordained to this condemnation, ungodly men, turning the grace of our God into lasciviousness, and denying the only Lord God, and our Lord Jesus Christ.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ዳሩ ግን ሁሉን አንድ ጊዜ ፈጽሞ ምንም የተማራችሁ ብትሆኑ ጌታ ከግብፅ አገር ሕዝቡን አድኖ የማያምኑትን በኋላ እንዳጠፋቸው ላሳስባችሁ እወዳለሁ።",
+            "en": "I will therefore put you in remembrance, though ye once knew this, how that the Lord, having saved the people out of the land of Egypt, afterward destroyed them that believed not.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "መኖሪያቸውንም የተዉትን እንጂ የራሳቸውን አለቅነት ያልጠበቁትን መላእክት በዘላለም እስራት ከጨለማ በታች እስከ ታላቁ ቀን ፍርድ ድረስ ጠብቆአቸዋል።",
+            "en": "And the angels which kept not their first estate, but left their own habitation, he hath reserved in everlasting chains under darkness unto the judgment of the great day.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "እንዲሁም እንደ እነርሱ ዝሙትን ያደረጉና ሌላን ሥጋ የተከተሉ ሰዶምና ገሞራ በዙሪያቸውም የነበሩ ከተማዎች በዘላለም እሳት እየተቀጡ ምሳሌ ሆነዋል።",
+            "en": "Even as Sodom and Gomorrha, and the cities about them in like manner, giving themselves over to fornication, and going after strange flesh, are set forth for an example, suffering the vengeance of eternal fire.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "እንዲሁም እነዚህ ሰዎች ደግሞ እያለሙ ሥጋቸውን ያረክሳሉ ጌትነትንም ይጥላሉ ሥልጣን ያላቸውንም ይሳደባሉ።",
+            "en": "Likewise also these filthy dreamers defile the flesh, despise dominion, and speak evil of dignities.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "የመላእክት አለቃ ሚካኤል ግን ከዲያብሎስ ጋር በተከራከረ ጊዜ ስለ ሙሴ ሥጋ ሲነጋገር። ጌታ ይገሥጽህ አለው እንጂ የስድብን ፍርድ ሊናገረው አልደፈረም።",
+            "en": "Yet Michael the archangel, when contending with the devil he disputed about the body of Moses, durst not bring against him a railing accusation, but said, The Lord rebuke thee.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "እነዚህ ግን የማያውቁትን ሁሉ ይሳደባሉ፥ አእምሮም እንደሌላቸው እንስሶች በፍጥረታቸው በሚያውቁት ሁሉ በእርሱ ይጠፋሉ።",
+            "en": "But these speak evil of those things which they know not: but what they know naturally, as brute beasts, in those things they corrupt themselves.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ወዮላቸው፥ በቃየል መንገድ ሄደዋልና ስለ ደመወዝም ለበለዓም ስሕተት ራሳቸውን አሳልፈው ሰጥተዋል በቆሬም መቃወም ጠፍተዋል።",
+            "en": "Woe unto them! for they have gone in the way of Cain, and ran greedily after the error of Balaam for reward, and perished in the gainsaying of Core.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "እነዚህ ከእናንተ ጋር ሲጋበዙ በፍቅር ግብዣችሁ እንደ እድፍ ናቸው፤ እንደ እረኞች ያለ ፍርሃት ራሳቸውን ይጠብቃሉ፤ በነፋስ የተወሰዱ ውኃ የሌለባቸው ደመናዎች፥ ፍሬ የማያፈሩ ሁለት ጊዜ የሞቱ ከነሥራቸው የተነቀሉ በበጋ የደረቁ ዛፎች፥",
+            "en": "These are spots in your feasts of charity, when they feast with you, feeding themselves without fear: clouds they are without water, carried about of winds; trees whose fruit withereth, without fruit, twice dead, plucked up by the roots;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "የገዛ ነውራቸውን አረፋ እየደፈቁ ጨካኝ የባሕር ማዕበል፥ ድቅድቅ ጨለማ ለዘላለም የተጠበቀላቸው የሚንከራተቱ ከዋክብት ናቸው።",
+            "en": "Raging waves of the sea, foaming out their own shame; wandering stars, to whom is reserved the blackness of darkness for ever.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ከአዳም ጀምሮ ሰባተኛ የሆነ ሄኖክ። እነሆ፥ ጌታ በሁሉ ላይ እንዲፈርድ፥ በኃጢአተኝነትም ስላደረጉት ስለ ኃጢአተኛ ሥራቸው ሁሉ ዓመፀኞችም ኃጢአተኞች በእርሱ ላይ ስለ ተናገሩ ስለ ጭከና ነገር ሁሉ ኃጢአተኞችን ሁሉ እንዲወቅስ ከአእላፋት ቅዱሳኑ ጋር መጥቶአል ብሎ ለእነዚህ ደግሞ ትንቢት ተናገረ።",
+            "en": "And Enoch also, the seventh from Adam, prophesied of these, saying, Behold, the Lord cometh with ten thousands of his saints,",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              14,
+              15
+            ]
+          }
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ከአዳም ጀምሮ ሰባተኛ የሆነ ሄኖክ። እነሆ፥ ጌታ በሁሉ ላይ እንዲፈርድ፥ በኃጢአተኝነትም ስላደረጉት ስለ ኃጢአተኛ ሥራቸው ሁሉ ዓመፀኞችም ኃጢአተኞች በእርሱ ላይ ስለ ተናገሩ ስለ ጭከና ነገር ሁሉ ኃጢአተኞችን ሁሉ እንዲወቅስ ከአእላፋት ቅዱሳኑ ጋር መጥቶአል ብሎ ለእነዚህ ደግሞ ትንቢት ተናገረ።",
+            "en": "To execute judgment upon all, and to convince all that are ungodly among them of all their ungodly deeds which they have ungodly committed, and of all their hard speeches which ungodly sinners have spoken against him.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              14,
+              15
+            ]
+          }
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "እነዚህ እንደ ምኞታቸው እየሄዱ የሚያንጎራጉሩና ስለ ዕድላቸው የሚያጕረመርሙ ናቸው፥ እንዲረባቸውም ለሰው ፊት እያደሉ አፋቸው ከመጠን ይልቅ ታላቅ ቃል ይናገራል።",
+            "en": "These are murmurers, complainers, walking after their own lusts; and their mouth speaketh great swelling words, having men's persons in admiration because of advantage.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "እናንተ ግን፥ ወዳጆች ሆይ፥ በጌታችን በኢየሱስ ክርስቶስ ሐዋርያት ቀድሞ የተነገረውን ቃል አስቡ፤",
+            "en": "But, beloved, remember ye the words which were spoken before of the apostles of our Lord Jesus Christ;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "እነርሱ። በመጨረሻው ዘመን በኃጢአተኝነት እንደ ገዛ ምኞታቸው እየሄዱ ዘባቾች ይሆናሉ ብለዋችኋልና።",
+            "en": "How that they told you there should be mockers in the last time, who should walk after their own ungodly lusts.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "እነዚህ የሚያለያዩ ሥጋውያንም የሆኑ መንፈስም የሌላቸው ሰዎች ናቸው።",
+            "en": "These be they who separate themselves, sensual, having not the Spirit.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "እናንተ ግን፥ ወዳጆች ሆይ፥ ከሁሉ ይልቅ በተቀደሰ ሃይማኖታችሁ ራሳችሁን ለማነጽ እየተጋችሁ በመንፈስ ቅዱስም እየጸለያችሁ፥",
+            "en": "But ye, beloved, building up yourselves on your most holy faith, praying in the Holy Ghost,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "ወደ ዘላለም ሕይወት የሚወስደውን የጌታችንን የኢየሱስ ክርስቶስን ምሕረት ስትጠባበቁ በእግዚአብሔር ፍቅር ራሳችሁን ጠብቁ።",
+            "en": "Keep yourselves in the love of God, looking for the mercy of our Lord Jesus Christ unto eternal life.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 22,
+          "text": {
+            "am": "አንዳንዶች ተከራካሪዎችንም ውቀሱ፥ አንዳንዶችንም ከእሳት ነጥቃችሁ አድኑ፥",
+            "en": "And of some have compassion, making a difference:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 23,
+          "text": {
+            "am": "አንዳንዶችንም በሥጋ የረከሰውን ልብስ እንኳ እየጠላችሁ በፍርሃት ማሩ።",
+            "en": "And others save with fear, pulling them out of the fire; hating even the garment spotted by the flesh.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 24,
+          "text": {
+            "am": "ሳትሰናከሉም እንዲጠብቃችሁ፥ በክብሩም ፊት በደስታ ነውር የሌላችሁ አድርጎ እንዲያቆማችሁ ለሚችለው",
+            "en": "Now unto him that is able to keep you from falling, and to present you faultless before the presence of his glory with exceeding joy,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 25,
+          "text": {
+            "am": "ብቻውን ለሆነ አምላክና መድኃኒታችን ከዘመን ሁሉ በፊት አሁንም እስከ ዘላለምም ድረስ በጌታችን በኢየሱስ ክርስቶስ ክብርና ግርማ ኃይልም ሥልጣንም ይሁን፤ አሜን።",
+            "en": "To the only wise God our Saviour, be glory and majesty, dominion and power, both now and ever. Amen.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    }
+  ]
+}

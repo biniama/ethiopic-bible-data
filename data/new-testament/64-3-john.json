@@ -1,0 +1,167 @@
+{
+  "book_number": 64,
+  "book_name_am": "፫ኛ የዮሐንስ መልእክት",
+  "book_short_name_am": "፫ዮሐ",
+  "book_name_en": "3 John",
+  "book_short_name_en": "3John",
+  "book_name_geez": null,
+  "testament": "new",
+  "sources": [
+    "ethiopicbible.com"
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "ሽማግሌው በእውነት እኔ ለምወደው ለተወደደው ለጋይዮስ።",
+            "en": "The elder unto the wellbeloved Gaius, whom I love in the truth.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ወዳጅ ሆይ፥ ነፍስህ እንደሚከናወን፥ በነገር ሁሉ እንዲከናወንልህና ጤና እንዲኖርህ እጸልያለሁ።",
+            "en": "Beloved, I wish above all things that thou mayest prosper and be in health, even as thy soul prospereth.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ወንድሞች መጥተው አንተ በእውነት እንደምትሄድ ስለ እውነትህ ሲመሰክሩ እጅግ ደስ ብሎኛልና።",
+            "en": "For I rejoiced greatly, when the brethren came and testified of the truth that is in thee, even as thou walkest in the truth.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ልጆቼ በእውነት እንዲሄዱ ከመስማት ይልቅ የሚበልጥ ደስታ የለኝም።",
+            "en": "I have no greater joy than to hear that my children walk in truth.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ወዳጅ ሆይ፥ ምንም እንግዶች ቢሆኑ፥ ለወንድሞች በምታደርገው ሁሉ የታመነ ሥራ ትሠራለህ፥ እነርሱም በማኅበር ፊት ስለ ፍቅርህ መስክረዋል፤",
+            "en": "Beloved, thou doest faithfully whatsoever thou doest to the brethren, and to strangers;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ለእግዚአብሔር እንደሚገባ አድርገህ በጉዞአቸው ብትረዳ መልካም ታደርጋለህ፤",
+            "en": "Which have borne witness of thy charity before the church: whom if thou bring forward on their journey after a godly sort, thou shalt do well:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ከአሕዛብ አንዳች ሳይቀበሉ ስለ ስሙ ወጥተዋልና።",
+            "en": "Because that for his name's sake they went forth, taking nothing of the Gentiles.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "እንግዲህ ከእውነት ጋር አብረን እንድንሠራ እኛ እንዲህ ያሉትን በእንግድነት ልንቀበል ይገባናል።",
+            "en": "We therefore ought to receive such, that we might be fellowhelpers to the truth.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ወደ ቤተ ክርስቲያን ጻፍሁ፤ ዳሩ ግን ዋናቸው ሊሆን የሚወድ ዲዮጥራጢስ አይቀበለንም።",
+            "en": "I wrote unto the church: but Diotrephes, who loveth to have the preeminence among them, receiveth us not.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ስለዚህ፥ እኔ ብመጣ፥ በእኛ ላይ በክፉ ቃል እየለፈለፈ የሚያደርገውን ሥራውን አሳስባለሁ፤ ይህም ሳይበቃው እርሱ ራሱ ወንድሞችን አይቀበልም፥ ሊቀበሉአቸውም የሚወዱትን ከልክሎ ከቤተ ክርስቲያን ያወጣቸዋል።",
+            "en": "Wherefore, if I come, I will remember his deeds which he doeth, prating against us with malicious words: and not content therewith, neither doth he himself receive the brethren, and forbiddeth them that would, and casteth them out of the church.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ወዳጅ ሆይ፥ በጎ የሆነውን እንጂ ክፉን አትምሰል። በጎ የሚያደርግ ከእግዚአብሔር ነው፤ ክፉን የሚያደርግ ግን እግዚአብሔርን አላየውም።",
+            "en": "Beloved, follow not that which is evil, but that which is good. He that doeth good is of God: but he that doeth evil hath not seen God.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "ለድሜጥሮስ ሁሉ ይመሰክሩለታል፥ እውነት ራስዋም ትመሰክርለታለች፤ እኛም ደግሞ እንመሰክርለታለን፥ ምስክርነታችንም እውነት እንደ ሆነ ታውቃላችሁ።",
+            "en": "Demetrius hath good report of all men, and of the truth itself: yea, and we also bear record; and ye know that our record is true.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ልጽፍልህ የምፈልገው ብዙ ነገር ነበረኝ፥ ዳሩ ግን በቀለምና በብርዕ ልጽፍልህ አልወድም፤",
+            "en": "I had many things to write, but I will not with ink and pen write unto thee:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ነገር ግን ወዲያው ላይህ ተስፋ አደርጋለሁ፥ አፍ ለአፍም እንነጋገራለን። ሰላም ለአንተ ይሁን። ወዳጆች ሰላምታ ያቀርቡልሃል። ወዳጆችን በየስማቸው እየጠራህ ሰላምታ አቅርብልኝ።",
+            "en": "But I trust I shall shortly see thee, and we shall speak face to face. Peace be to thee. Our friends salute thee. Greet the friends by name.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              14,
+              15
+            ]
+          }
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ነገር ግን ወዲያው ላይህ ተስፋ አደርጋለሁ፥ አፍ ለአፍም እንነጋገራለን። ሰላም ለአንተ ይሁን። ወዳጆች ሰላምታ ያቀርቡልሃል። ወዳጆችን በየስማቸው እየጠራህ ሰላምታ አቅርብልኝ።",
+            "en": null,
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              14,
+              15
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

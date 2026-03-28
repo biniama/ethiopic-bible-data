@@ -1,0 +1,3950 @@
+{
+  "book_number": 16,
+  "book_name_am": "መጽሐፈ ነህምያ",
+  "book_short_name_am": "ነህ",
+  "book_name_en": "Nehemiah",
+  "book_short_name_en": "Neh",
+  "book_name_geez": null,
+  "testament": "old",
+  "sources": [
+    "ethiopicbible.com"
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "የሐካልያ ልጅ የነህምያ ቃል። በሀያኛው ዓመት በካሴሉ ወር እንዲህ ሆነ፤",
+            "en": "The words of Nehemiah the son of Hachaliah. And it came to pass in the month Chisleu, in the twentieth year, as I was in Shushan the palace,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "እኔ በሱሳ ግንብ ሳለሁ፥ ከወንድሞቼ አንዱ አናኒ ከእርሱም ጋር ሌሎች ሰዎች ከይሁዳ መጡ፤ እኔም የዳኑትን ከምርኮ የተረፉትን የአይሁድን ነገር የኢየሩሳሌምንም ነገር ጠየቅኋቸው።",
+            "en": "That Hanani, one of my brethren, came, he and certain men of Judah; and I asked them concerning the Jews that had escaped, which were left of the captivity, and concerning Jerusalem.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "እነርሱም። በዚያ ስፍራ ያሉት ከምርኮ የተረፉት ቅሬታዎች በታላቅ መከራና ስድብ አሉ፤ የኢየሩሳሌምም ቅጥር ፈርሶአል፥ በሮችዋም በእሳት ተቃጥለዋል አሉኝ።",
+            "en": "And they said unto me, The remnant that are left of the captivity there in the province are in great affliction and reproach: the wall of Jerusalem also is broken down, and the gates thereof are burned with fire.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ይህንም ቃል በሰማሁ ጊዜ ተቀምጬ አለቀስሁ፥ አያሌ ቀንም አዝን ነበር፤ በሰማይም አምላክ ፊት እጾምና እጸልይ ነበር፥",
+            "en": "And it came to pass, when I heard these words, that I sat down and wept, and mourned certain days, and fasted, and prayed before the God of heaven,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "እንዲህም አልሁ። አቤቱ የሰማይ አምላክ ሆይ፥ ለሚወድዱህና ትእዛዝህን ለሚያደርጉ ቃል ኪዳንንና ምሕረትን የምትጠብቅ፥ ታላቅና የተፈራህ አምላክ ሆይ፥",
+            "en": "And said, I beseech thee, O LORD God of heaven, the great and terrible God, that keepeth covenant and mercy for them that love him and observe his commandments:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "እኔ ባሪያህ ዛሬ በፊትህ ስለ ባሪያዎችህ ስለ እስራኤል ልጆች ሌሊትና ቀን የምጸልየውን ጸሎት ትሰማ ዘንድ ጆሮህ ያድምጥ፥ ዓይኖችህም ይከፈቱ፤ በአንተ ላይም ያደረግነውን የእስራኤልን ልጆች ኃጢአት እናዘዝልሃለሁ፤ እኔና የአባቴም ቤት በድለናል።",
+            "en": "Let thine ear now be attentive, and thine eyes open, that thou mayest hear the prayer of thy servant, which I pray before thee now, day and night, for the children of Israel thy servants, and confess the sins of the children of Israel, which we have sinned against thee: both I and my father's house have sinned.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "እኛም በአንተ ላይ እጅግ ክፉ ሠርተናል፤ ለባሪያህም ለሙሴ ያዘዝኸውን ትእዛዝና ሥርዓት ሕግም አልጠበቅንም።",
+            "en": "We have dealt very corruptly against thee, and have not kept the commandments, nor the statutes, nor the judgments, which thou commandedst thy servant Moses.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "አሁንም ብትተላለፉ በአሕዛብ መካከል እበትናችኋለሁ፤ ወደ እኔ ብትመለሱ ግን ትእዛዜንም ብትጠብቁ ብታደርጓትም፥ ከእናንተ ሰዎች እስከ ሰማይ ዳርቻ ድረስ ምንም ቢበተኑ ከዚያ እሰበስባቸዋለሁ፥ ስሜም ይኖርበት ዘንድ ወደ መረጥሁት ስፍራ አመጣቸዋለሁ ብለህ ለባሪያህ ለሙሴ ያዘዝኸውን ቃል እባክህ አስብ።",
+            "en": "Remember, I beseech thee, the word that thou commandedst thy servant Moses, saying, If ye transgress, I will scatter you abroad among the nations:",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "አሁንም ብትተላለፉ በአሕዛብ መካከል እበትናችኋለሁ፤ ወደ እኔ ብትመለሱ ግን ትእዛዜንም ብትጠብቁ ብታደርጓትም፥ ከእናንተ ሰዎች እስከ ሰማይ ዳርቻ ድረስ ምንም ቢበተኑ ከዚያ እሰበስባቸዋለሁ፥ ስሜም ይኖርበት ዘንድ ወደ መረጥሁት ስፍራ አመጣቸዋለሁ ብለህ ለባሪያህ ለሙሴ ያዘዝኸውን ቃል እባክህ አስብ።",
+            "en": "But if ye turn unto me, and keep my commandments, and do them; though there were of you cast out unto the uttermost part of the heaven, yet will I gather them from thence, and will bring them unto the place that I have chosen to set my name there.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "እነዚህም በታላቅ ኃይልህና በብርቱ እጅህ የተቤዠሃቸው ባሪያዎችህና ሕዝብህ ናቸው።",
+            "en": "Now these are thy servants and thy people, whom thou hast redeemed by thy great power, and by thy strong hand.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ጌታ ሆይ፥ ጆሮህ የባሪያህን ጸሎት፥ ስምህንም ይፈሩ ዘንድ የሚወድዱትን፥ የባሪያዎችህን ጸሎት ያድምጥ፤ ዛሬም ለባሪያህ አከናውንለት፥ በዚህም ሰው ፊት ምሕረትን ስጠው። እኔም ለንጉሡ ጠጅ አሳላፊው ነበርሁ።",
+            "en": "O Lord, I beseech thee, let now thine ear be attentive to the prayer of thy servant, and to the prayer of thy servants, who desire to fear thy name: and prosper, I pray thee, thy servant this day, and grant him mercy in the sight of this man. For I was the king's cupbearer.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "በንጉሡ በአርጤክስስ በሀያኛው ዓመት በኒሳን ወር የወይን ጠጅ በፊቱ በነበረ ጊዜ ጠጁን አንሥቼ ለንጉሡ ሰጠሁት። ቀድሞ ግን በፊቱ ያለ ኃዘን እኖር ነበር።",
+            "en": "And it came to pass in the month Nisan, in the twentieth year of Artaxerxes the king, that wine was before him: and I took up the wine, and gave it unto the king. Now I had not been beforetime sad in his presence.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ንጉሡም። ሳትታመም ፊትህ ለምን አዘነ? ይህ የልብ ኅዘን ነው እንጂ ሌላ ነገር አይደለም አለኝ። እጅግም ብዙ አድርጌ ፈራሁ።",
+            "en": "Wherefore the king said unto me, Why is thy countenance sad, seeing thou art not sick? this is nothing else but sorrow of heart. Then I was very sore afraid,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ንጉሡንም። ንጉሡ ሺህ ዓመት ይንገሥ፤ የአባቶቼ መቃብር ያለባት ከተማ ተፈትታለችና፥ በሮችዋም በእሳት ተቃጥለዋልና ፊቴ ስለ ምን አይዘን? አልሁት።",
+            "en": "And said unto the king, Let the king live for ever: why should not my countenance be sad, when the city, the place of my fathers' sepulchres, lieth waste, and the gates thereof are consumed with fire?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ንጉሡም። ምን ትለምነኛለህ? አለኝ። እኔም ወደ ሰማይ አምላክ ጸለይሁ።",
+            "en": "Then the king said unto me, For what dost thou make request? So I prayed to the God of heaven.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ንጉሡንም። ንጉሡን ደስ ቢያሰኝህ፥ ባሪያህም በፊትህ ሞገስ ቢያገኝ፥ እሠራው ዘንድ ወደ ይሁዳ ወደ አባቶቼ መቃብር ከተማ ስደደኝ አልሁት።",
+            "en": "And I said unto the king, If it please the king, and if thy servant have found favour in thy sight, that thou wouldest send me unto Judah, unto the city of my fathers' sepulchres, that I may build it.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ንግሥቲቱም በአጠገቡ ተቀምጣ ሳለች ንጉሡ። መንገድህ እስከ መቼ ድረስ ይሆናል? መቼስ ትመለሳለህ? አለኝ። ንጉሡም ይሰድደኝ ዘንድ ደስ አለው፤ እኔም ዘመኑን ቀጠርሁለት።",
+            "en": "And the king said unto me, (the queen also sitting by him,) For how long shall thy journey be? and when wilt thou return? So it pleased the king to send me; and I set him a time.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ንጉሡንም። ንጉሡ ደስ ቢለው፥ እስከ ይሁዳ አገር እንዲያደርሱኝ በወንዝ ማዶ ላሉት ገዦች ደብዳቤ ይሰጠኝ፤",
+            "en": "Moreover I said unto the king, If it please the king, let letters be given me to the governors beyond the river, that they may convey me over till I come into Judah;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "በቤቱም አጠገብ ላለው ለግንብ በሮች፥ ለከተማውም ቅጥር፥ ለምገባበትም ቤት እንጨት እንዲሰጠኝ ለንጉሡ ዱር ጠባቂ ለአሳፍ ደብዳቤ ይሰጠኝ አልሁት። ንጉሡም በእኔ ላይ መልካም እንደ ሆነችው እንደ አምላኬ እጅ ሰጠኝ።",
+            "en": "And a letter unto Asaph the keeper of the king's forest, that he may give me timber to make beams for the gates of the palace which appertained to the house, and for the wall of the city, and for the house that I shall enter into. And the king granted me, according to the good hand of my God upon me.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "በወንዙም ማዶ ወዳሉት አለቆች መጥቼ የንጉሡን ደብዳቤ ሰጠኋቸው ንጉሡም ከእኔ ጋር የሠራዊቱን አለቆችና ፈረሰኞች ሰደደ።",
+            "en": "Then I came to the governors beyond the river, and gave them the king's letters. Now the king had sent captains of the army and horsemen with me.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ሖሮናዊውም ሰንባላጥና ባሪያው አሞናዊ ጦብያ ለእስራኤል ልጆች መልካምን ነገር የሚሻ ሰው እንደ መጣ በሰሙ ጊዜ እጅግ ተበሳጩ።",
+            "en": "When Sanballat the Horonite, and Tobiah the servant, the Ammonite, heard of it, it grieved them exceedingly that there was come a man to seek the welfare of the children of Israel.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ወደ ኢየሩሳሌምም ደረስሁ፥ በዚያም ሦስት ቀን ያህል ተቀመጥሁ።",
+            "en": "So I came to Jerusalem, and was there three days.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "በሌሊትም ተነሣሁ፥ ከእኔም ጋር አያሌ ሰዎች ነበሩ፤ እግዚአብሔርም ለኢየሩሳሌም አደርገው ዘንድ በልቤ ያኖረውን ለማንም አላስታወቅሁም፤ ተቀምጬበት ከነበረው እንስሳ በቀር ከእኔ ጋር ምንም እንስሳ አልነበረም።",
+            "en": "And I arose in the night, I and some few men with me; neither told I any man what my God had put in my heart to do at Jerusalem: neither was there any beast with me, save the beast that I rode upon.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "በሸለቆውም በር ወጣሁ፥ ወደ ዘንዶውም ምንጭና ወደ ጕድፍ መጣያው በር ሄድሁ፤ የፈረሰውንም የኢየሩሳሌምን ቅጥር፥ በእሳትም የተቃጠሉትን በሮችዋን ተመለከትሁ።",
+            "en": "And I went out by night by the gate of the valley, even before the dragon well, and to the dung port, and viewed the walls of Jerusalem, which were broken down, and the gates thereof were consumed with fire.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ወደ ምንጩም በርና ወደ ንጉሡ መዋኛ አለፍሁ፤ ተቀምጬበትም የነበረው እንስሳ የሚያልፍበት ስፍራ አልነበረም።",
+            "en": "Then I went on to the gate of the fountain, and to the king's pool: but there was no place for the beast that was under me to pass.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "በሌሊትም በፈፋው በኩል ወጥቼ ቅጥሩን ተመለከትሁ፤ ዘወርም ብዬ በሸለቆው በር ገባሁ፥ እንዲሁም ተመለስሁ።",
+            "en": "Then went I up in the night by the brook, and viewed the wall, and turned back, and entered by the gate of the valley, and so returned.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ሹማምቱ ግን ወዴት እንደ ሄድሁ፥ ምን እንዳደረግሁም አላወቁም ነበር፤ ለአይሁድና ለካህናቱ፥ ለታላላቆችና ለሹማምቱም፥ ሥራም ይሠሩ ለነበሩት ለሌሎች ገና አልተናገርሁም ነበር።",
+            "en": "And the rulers knew not whither I went, or what I did; neither had I as yet told it to the Jews, nor to the priests, nor to the nobles, nor to the rulers, nor to the rest that did the work.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "እኔም። እኛ ያለንበትን ጕስቍልና ኢየሩሳሌም እንደ ፈረሰች፥ በሮችዋም በእሳት እንደ ተቃጠሉ ታያላችሁ፤ አሁንም ከእንግዲህ ወዲህ መሳለቂያ እንዳንሆን ኑና የኢየሩሳሌምን ቅጥር እንሥራ አልኋቸው።",
+            "en": "Then said I unto them, Ye see the distress that we are in, how Jerusalem lieth waste, and the gates thereof are burned with fire: come, and let us build up the wall of Jerusalem, that we be no more a reproach.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "የአምላኬም እጅ በእኔ ላይ መልካም እንደሆነች፥ ንጉሡም የነገረኝን ቃል ነገርኋቸው። እነርሱም። እንነሣና እንሥራ አሉ። እጃቸውንም ለበጎ ሥራ አበረቱ።",
+            "en": "Then I told them of the hand of my God which was good upon me; as also the king's words that he had spoken unto me. And they said, Let us rise up and build. So they strengthened their hands for this good work.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "ሖሮናዊውም ሰንባላጥ፥ ባሪያውም አሞናዊው ጦብያ፥ ዓረባዊውም ጌሳም በሰሙ ጊዜ በንቀት ሳቁብን፥ ቀላል አድርገውንም። ይህ የምታደርጉት ነገር ምንድር ነው? በውኑ በንጉሡ ላይ ትሸፍቱ ዘንድ ትወድዳላችሁን? አሉ።",
+            "en": "But when Sanballat the Horonite, and Tobiah the servant, the Ammonite, and Geshem the Arabian, heard it, they laughed us to scorn, and despised us, and said, What is this thing that ye do? will ye rebel against the king?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "እኔም መልሼ። የሰማይ አምላክ ያከናውንልናል፥ እኛም ባሪያዎቹ ተነሥተን እንሠራለን፤ እናንተ ግን በኢየሩሳሌም እድል ፈንታና መብት መታሰቢያም የላችሁም አልኋቸው።",
+            "en": "Then answered I them, and said unto them, The God of heaven, he will prosper us; therefore we his servants will arise and build: but ye have no portion, nor right, nor memorial, in Jerusalem.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "ታላቁም ካህን ኤልያሴብ ወንድሞቹም ካህናት ተነሥተው የበግ በር ሠሩ፤ ቀደሱትም፥ ሳንቃዎቹንም አቆሙ፤ እስከ ሃሜአ ግንብና እስከ ሐናንኤል ግንብ ድረስ ቀደሱት።",
+            "en": "Then Eliashib the high priest rose up with his brethren the priests, and they builded the sheep gate; they sanctified it, and set up the doors of it; even unto the tower of Meah they sanctified it, unto the tower of Hananeel.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "በአጠገቡ የኢያሪኮ ሰዎች ሠሩ፤ በአጠገባቸውም የአምሪ ልጅ ዘኩር ሠራ።",
+            "en": "And next unto him builded the men of Jericho. And next to them builded Zaccur the son of Imri.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "የሃስናአ ልጆችም የዓሣ በር ሠሩ፤ ሰረገሎቹን አኖሩ፥ ሳንቃዎቹንም አቆሙ፥ ቍልፎቹንና መወርወሪያዎቹንም አደረጉ።",
+            "en": "But the fish gate did the sons of Hassenaah build, who also laid the beams thereof, and set up the doors thereof, the locks thereof, and the bars thereof.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "በአጠገባቸውም የአቆስ ልጅ የኦርዮ ልጅ ሜሪሞት አደሰ። በአጠገባቸውም የሜሴዜቤል ልጅ የበራክያ ልጅ ሜሱላም አደሰ። በአጠገባቸውም የበዓና ልጅ ሳዶቅ አደሰ።",
+            "en": "And next unto them repaired Meremoth the son of Urijah, the son of Koz. And next unto them repaired Meshullam the son of Berechiah, the son of Meshezabeel. And next unto them repaired Zadok the son of Baana.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "በአጠገባቸውም ቴቁሐውያን አደሱ፤ ታላላቆቻቸው ግን ለጌታቸው ሥራ አንገታቸውን አላዋረዱም።",
+            "en": "And next unto them the Tekoites repaired; but their nobles put not their necks to the work of their Lord.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "የፋሴሐ ልጅ ዮዳሄና የበሶድያ ልጅ ሜሱላም አሮጌውን በር አደሱ፤ ሰረገሎቹን አኖሩ፥ ሳንቃዎቹንም አቆሙ፥ ቍልፎቹንና መወርወሪያዎቹንም አደረጉ።",
+            "en": "Moreover the old gate repaired Jehoiada the son of Paseah, and Meshullam the son of Besodeiah; they laid the beams thereof, and set up the doors thereof, and the locks thereof, and the bars thereof.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "በአጠገባቸውም ገባዖናዊው መልጥያና ሜሮኖታዊው ያዶን፥ የወንዙም ማዶ አለቃ ግዛት የሆኑ የገባዖንና የምጽጳ ሰዎች አደሱ።",
+            "en": "And next unto them repaired Melatiah the Gibeonite, and Jadon the Meronothite, the men of Gibeon, and of Mizpah, unto the throne of the governor on this side the river.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "በአጠገባቸውም ወርቅ አንጥረኛው የሐርሃያ ልጅ ዑዝኤል አደሰ። በአጠገቡም ከሽቱ ቀማሚዎች የነበረ ሐናንያ አደሰ፤ እስከ ሰፊው ቅጥር ድረስ ኢየሩሳሌምን ጠገኑ።",
+            "en": "Next unto him repaired Uzziel the son of Harhaiah, of the goldsmiths. Next unto him also repaired Hananiah the son of one of the apothecaries, and they fortified Jerusalem unto the broad wall.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "በአጠገባቸውም የኢየሩሳሌም ግዛት እኵሌታ አለቃ የሆር ልጅ ረፋያ አደሰ።",
+            "en": "And next unto them repaired Rephaiah the son of Hur, the ruler of the half part of Jerusalem.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "በአጠገባቸውም የኤርማፍ ልጅ ይዳያ በቤቱ አንጻር ያለውን አደሰ። በአጠገቡም የአሰበንያ ልጅ ሐጡስ አደሰ።",
+            "en": "And next unto them repaired Jedaiah the son of Harumaph, even over against his house. And next unto him repaired Hattush the son of Hashabniah.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "የካሪም ልጅ መልክያ፥ የፈሐት ሞዓብ ልጅም አሱብ ሌላውን ክፍልና የእቶኑን ግንብ አደሱ።",
+            "en": "Malchijah the son of Harim, and Hashub the son of Pahathmoab, repaired the other piece, and the tower of the furnaces.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "በአጠገባቸውም የኢየሩሳሌም ግዛት እኵሌታና የመንደሮችዋ አለቃ የአሎኤስ ልጅ ሰሎም አደሰ።",
+            "en": "And next unto him repaired Shallum the son of Halohesh, the ruler of the half part of Jerusalem, he and his daughters.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ሐኖንና የዛኖዋ ሰዎችም የሸለቆውን በር አደሱ፤ ሠሩት፥ ሳንቃዎቹንም አቆሙ፥ ቍልፎቹንና መወርወሪያዎቹንም አደረጉ፤ ደግሞም እስከ ጕድፍ መጣያው በር ድረስ አንድ ሺህ ክንድ የሚሆን ቅጥር ሠሩ።",
+            "en": "The valley gate repaired Hanun, and the inhabitants of Zanoah; they built it, and set up the doors thereof, the locks thereof, and the bars thereof, and a thousand cubits on the wall unto the dung gate.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "የቤትሐካሪምም ግዛት አለቃ የሬካብ ልጅ መልክያ የጕድፍ መጣያውን በር አደሰ፤ ሠራው፥ ሳንቃዎቹንም አቆመ፥ ቍልፎቹንና መወርወሪያዎቹንም አደረገ።",
+            "en": "But the dung gate repaired Malchiah the son of Rechab, the ruler of part of Bethhaccerem; he built it, and set up the doors thereof, the locks thereof, and the bars thereof.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "የምጽጳም ግዛት አለቃ የኮልሖዜ ልጅ ሰሎም የምንጩን በር አደሰ፤ ሠራው፥ ከደነውም፥ ሳንቃዎቹንም አቆመ፥ ቍልፎቹንና መወርወሪያዎቹንም አደረገ፤ ከዳዊትም ከተማ እስከሚወርደው ደረጃ ድረስ በንጉሡ አትክልት አጠገብ ያለውን የሼላን መዋኛ ቅጥር ሠራ።",
+            "en": "But the gate of the fountain repaired Shallun the son of Colhozeh, the ruler of part of Mizpah; he built it, and covered it, and set up the doors thereof, the locks thereof, and the bars thereof, and the wall of the pool of Siloah by the king's garden, and unto the stairs that go down from the city of David.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ከእርሱም በኋላ የቤትጹር ግዛት እኵሌታ አለቃ የዓዝቡቅ ልጅ ነህምያ በዳዊት መቃብር አንጻር እስካለው ስፍራ፥ እስከ ተሠራውም መዋኛ፥ እስከ ኃያላኑም ቤት ድረስ አደሰ።",
+            "en": "After him repaired Nehemiah the son of Azbuk, the ruler of the half part of Bethzur, unto the place over against the sepulchres of David, and to the pool that was made, and unto the house of the mighty.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "ከእርሱም በኋላ ሌዋውያንና የባኒ ልጅ ሬሁም አደሱ። በአጠገባቸውም የቅዒላ ግዛት እኵሌታ አለቃ ሐሸብያ ስለ ግዛቱ አደሰ።",
+            "en": "After him repaired the Levites, Rehum the son of Bani. Next unto him repaired Hashabiah, the ruler of the half part of Keilah, in his part.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "ከእርሱም በኋላ የቅዒላ ግዛት እኵሌታ አለቃ የኤንሐዳድ ልጅ በዋይ ወንድሞቹም አደሱ።",
+            "en": "After him repaired their brethren, Bavai the son of Henadad, the ruler of the half part of Keilah.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "በአጠገቡም የምጽጳ አለቃ የኢያሱ ልጅ ኤጽር በማዕዘኑ አጠገብ በጦር መሣሪያ ቤት አንጻር ሌላውን ክፍል አደሰ።",
+            "en": "And next to him repaired Ezer the son of Jeshua, the ruler of Mizpah, another piece over against the going up to the armoury at the turning of the wall.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "ከእርሱም በኋላ የዘባይ ልጅ ባሮክ ከማዕዘኑ ጀምሮ እስከ ታላቁ ካህን እስከ ኤልያሴብ ቤት መግቢያ ድረስ ሌላውን ክፍል ተግቶ አደሰ።",
+            "en": "After him Baruch the son of Zabbai earnestly repaired the other piece, from the turning of the wall unto the door of the house of Eliashib the high priest.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "ከእርሱም በኋላ የአቆስ ልጅ የኦርዮ ልጅ ሜሪሞት ከኤልያሴብ ቤት መግቢያ ጀምሮ እስከ ኤልያሴብ ቤት መጨረሻ ድረስ ሌላውን ክፍል አደሰ።",
+            "en": "After him repaired Meremoth the son of Urijah the son of Koz another piece, from the door of the house of Eliashib even to the end of the house of Eliashib.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 22,
+          "text": {
+            "am": "ከእርሱም በኋላ የቈላው ሰዎች ካህናቱ አደሱ።",
+            "en": "And after him repaired the priests, the men of the plain.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 23,
+          "text": {
+            "am": "ከእነርሱም በኋላ ብንያምና አሱብ በቤታቸው አንጻር ያለውን አደሱ። ከእነርሱም በኋላ የሐናንያ ልጅ የመዕሤያ ልጅ ዓዛርያስ በቤቱ አጠገብ ያለውን አደሰ።",
+            "en": "After him repaired Benjamin and Hashub over against their house. After him repaired Azariah the son of Maaseiah the son of Ananiah by his house.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 24,
+          "text": {
+            "am": "ከእርሱም በኋላ የኤንሐደድ ልጅ ቢንዊ ከዓዛርያስ ቤት ጀምሮ እስከ ማዕዘኑ ድረስ ሌላውን ክፍል አደሰ።",
+            "en": "After him repaired Binnui the son of Henadad another piece, from the house of Azariah unto the turning of the wall, even unto the corner.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 25,
+          "text": {
+            "am": "የኡዛይ ልጅ ፋላል በማዕዘኑ አንጻር ያለውንና በዘበኞች አደባባይ አጠገብ ከላይኛው የንጉሡ ቤት ወጥቶ የቆመውን ግንብ ሠራ። ከእርሱም በኋላ የፋሮስ ልጅ ፈዳያ ሠራ።",
+            "en": "Palal the son of Uzai, over against the turning of the wall, and the tower which lieth out from the king's high house, that was by the court of the prison. After him Pedaiah the son of Parosh.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 26,
+          "text": {
+            "am": "ናታኒምም በዖፌል በውኃው በር አንጻር በምሥራቅ በኩል ወጥቶ በቆመው ግንብ አጠገብ እስካለው ስፍራ ድረስ ተቀመጡ።",
+            "en": "Moreover the Nethinims dwelt in Ophel, unto the place over against the water gate toward the east, and the tower that lieth out.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 27,
+          "text": {
+            "am": "ከእርሱም በኋላ ቴቁሐውያን ወጥቶ በቆመው በታላቁ ግንብ አንጻር ያለውን እስከ ዖፌል ቅጥር ድረስ ሌላውን ክፍል አደሱ።",
+            "en": "After them the Tekoites repaired another piece, over against the great tower that lieth out, even unto the wall of Ophel.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 28,
+          "text": {
+            "am": "ከፈረሱ በር በላይ ካህናቱ እያንዳንዳቸው በየቤታቸው አንጻር አደሱ።",
+            "en": "From above the horse gate repaired the priests, every one over against his house.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 29,
+          "text": {
+            "am": "ከዚያ በኋላ የኢሜር ልጅ ሳዶቅ በቤቱ አንጻር አደሰ። ከእርሱም በኋላ የምሥራቁን በር ጠባቂ የሴኬንያ ልጅ ሸማያ አደሰ።",
+            "en": "After them repaired Zadok the son of Immer over against his house. After him repaired also Shemaiah the son of Shechaniah, the keeper of the east gate.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 30,
+          "text": {
+            "am": "ከእርሱ በኋላ የሰሌምያ ልጅ ሐናንያና የሴሌፍ ስድስተኛው ልጁ ሐኖን ሌላውን ክፍል አደሱ። ከዚያም በኋላ የበራክያ ልጅ ሜሱላም በጓዳው አንጻር ያለውን አደሰ።",
+            "en": "After him repaired Hananiah the son of Shelemiah, and Hanun the sixth son of Zalaph, another piece. After him repaired Meshullam the son of Berechiah over against his chamber.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 31,
+          "text": {
+            "am": "ከእርሱም በኋላ ከወርቅ አንጥረኞቹ የነበረ መልክያ እስከ ናታኒምና እስከ ነጋዴዎቹ ቤት ድረስ በሐሚፍቃድ በር አንጻር ያለውን እስከ ማዕዘኑ መውጫ ድረስ አደሰ።",
+            "en": "After him repaired Malchiah the goldsmith's son unto the place of the Nethinims, and of the merchants, over against the gate Miphkad, and to the going up of the corner.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 32,
+          "text": {
+            "am": "ከማዕዘኑም መውጫ ጀምረው እስከ በጉ በር ድረስ ወርቅ አንጥረኞችና ነጋዴዎች አደሱ።",
+            "en": "And between the going up of the corner unto the sheep gate repaired the goldsmiths and the merchants.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "ሰንባላጥም ቅጥሩን እንደ ሠራን በሰማ ጊዜ እጅግ ተቈጣ፥ ተበሳጨም፥ በአይሁድም አላገጠ።",
+            "en": "But it came to pass, that when Sanballat heard that we builded the wall, he was wroth, and took great indignation, and mocked the Jews.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "በወንድሞቹና በሰማርያ ሠራዊትም ፊት። እነዚህ ደካሞች አይሁድ የሚሠሩት ምንድር ነው? ይተዉላቸዋልን? ይሠዋሉን? በአንድ ቀንስ ይጨርሳሉን? የተቃጠለውንስ ድንጋይ ከፍርስራሹ መልሰው ያድኑታልን? ብሎ ተናገረ።",
+            "en": "And he spake before his brethren and the army of Samaria, and said, What do these feeble Jews? will they fortify themselves? will they sacrifice? will they make an end in a day? will they revive the stones out of the heaps of the rubbish which are burned?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "አሞናዊውም ጦብያ በአጠገቡ ቆሞ። በድንጋይ በሚሠሩት ቅጥራቸው ላይ ቀበሮ ቢመጣበት ያፈርሰዋል አለ።",
+            "en": "Now Tobiah the Ammonite was by him, and he said, Even that which they build, if a fox go up, he shall even break down their stone wall.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "አምላካችን ሆይ፥ ተንቀናልና ስማ፤ ስድባቸውን በራሳቸው ላይ መልስባቸው፤ በምርኮ አገር ለብዝበዛ አሳልፈህ ስጣቸው።",
+            "en": "Hear, O our God; for we are despised: and turn their reproach upon their own head, and give them for a prey in the land of captivity:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "በደላቸውንም አትክደን፥ ኃጢአታቸውም ከፊትህ አይደምሰስ፤ በሠራተኞች ፊት አስቆጥተውሃልና።",
+            "en": "And cover not their iniquity, and let not their sin be blotted out from before thee: for they have provoked thee to anger before the builders.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ቅጥሩንም ሠራን፤ ቅጥሩም ሁሉ እስከ እኵሌታው ድረስ ተጋጠመ፤ የሕዝቡም ልብ ለሥራው ጨከነ።",
+            "en": "So built we the wall; and all the wall was joined together unto the half thereof: for the people had a mind to work.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ሰንባላጥና ጦብያም ዓረባውያንም አሞናውያንም አሽዶዳውያንም የኢየሩሳሌም ቅጥር እየታደሰ እንደ ሄደ፥ የፈረሰውም ሊጠገን እንደ ተጀመረ በሰሙ ጊዜ እጅግ ተቈጡ።",
+            "en": "But it came to pass, that when Sanballat, and Tobiah, and the Arabians, and the Ammonites, and the Ashdodites, heard that the walls of Jerusalem were made up, and that the breaches began to be stopped, then they were very wroth,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "መጥተውም ኢየሩሳሌምን ይወጉና ያሸብሩ ዘንድ ሁሉም በአንድነት ተማማሉ።",
+            "en": "And conspired all of them together to come and to fight against Jerusalem, and to hinder it.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ወደ አምላካችንም ጸለይን፥ ከእነርሱም የተነሣ በአንጻራቸው ተጠባባቂዎች በሌሊትና በቀን አደረግን።",
+            "en": "Nevertheless we made our prayer unto our God, and set a watch against them day and night, because of them.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ይሁዳም። የተሸካሚዎች ኃይል ደከመ፥ ፍርስራሹም ብዙ ነው፤ ቅጥሩንም እንሠራ ዘንድ አንችልም አሉ።",
+            "en": "And Judah said, The strength of the bearers of burdens is decayed, and there is much rubbish; so that we are not able to build the wall.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ጠላቶቻችንም። ወደ መካከላቸው እስክንመጣና እስክንገድላቸው ድረስ ሥራቸውንም እስክናስተጓጕል ድረስ አያውቁምና አያዩም አሉ።",
+            "en": "And our adversaries said, They shall not know, neither see, till we come in the midst among them, and slay them, and cause the work to cease.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "በአጠገባቸውም የተቀመጡት አይሁድ መጥተው። ከስፍራው ሁሉ ይመጡብናል ብለው አሥር ጊዜ ነገሩን።",
+            "en": "And it came to pass, that when the Jews which dwelt by them came, they said unto us ten times, From all places whence ye shall return unto us they will be upon you.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ከቅጥሩም በስተ ኋላ በኩል ባለው በታችኛው ስፍራ ሰይፋቸውን ጦራቸውንም ቀስታቸውንም አስይዤ ሕዝቡን በየወገናቸው አቆምኋቸው።",
+            "en": "Therefore set I in the lower places behind the wall, and on the higher places, I even set the people after their families with their swords, their spears, and their bows.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "አይቼም ተነሣሁ፥ ታላላቆቹንና ሹማምቱንም የቀሩትንም ሕዝብ። አትፍሩአቸው፤ ታላቁንና የተፈራውን ጌታ አስቡ፥ ስለ ወንድሞቻችሁም ስለ ወንዶችና ስለ ሴቶች ልጆቻችሁም ስለ ሚስቶቻችሁም ስለ ቤቶቻችሁም ተዋጉ አልኋቸው።",
+            "en": "And I looked, and rose up, and said unto the nobles, and to the rulers, and to the rest of the people, Be not ye afraid of them: remember the Lord, which is great and terrible, and fight for your brethren, your sons, and your daughters, your wives, and your houses.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ጠላቶቻችንም ይህ ነገር እንደ ደረሰልን፥ እግዚአብሔርም ምክራቸውን ከንቱ እንዳደረገው ሰሙ፤ እኛም ሁላችን ወደ ቅጥሩ እያንዳንዳችን ወደ ሥራችን ተመለስን።",
+            "en": "And it came to pass, when our enemies heard that it was known unto us, and God had brought their counsel to nought, that we returned all of us to the wall, every one unto his work.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ከዚያም ቀን ጀምሮ እኵሌቶቹ ብላቴኖቼ ሥራ ይሠሩ ነበር፥ እኵሌቶቹም ጋሻና ጦር ቀስትና ጥሩርም ይዘው ነበር፤ አለቆቹም ከይሁዳ ቤት ሁሉ በኋላ ይቆሙ ነበር።",
+            "en": "And it came to pass from that time forth, that the half of my servants wrought in the work, and the other half of them held both the spears, the shields, and the bows, and the habergeons; and the rulers were behind all the house of Judah.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "ቅጥሩንም የሚሠሩትና ተሸካሚዎቹ በአንድ እጃቸው ይሠሩ ነበር፥ በአንድ እጃቸውም የጦር መሣሪያቸውን ይይዙ ነበር።",
+            "en": "They which builded on the wall, and they that bare burdens, with those that laded, every one with one of his hands wrought in the work, and with the other hand held a weapon.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "አናጢዎቹም ሁሉ እያንዳንዱ ሰይፉን በወገቡ ታጥቆ ይሠራ ነበር፤ ቀንደ መለከትም የሚነፋ በአጠገቤ ነበረ።",
+            "en": "For the builders, every one had his sword girded by his side, and so builded. And he that sounded the trumpet was by me.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "ታላላቆቹንና ሹማምቱን የቀሩትንም ሕዝብ። ሥራው ታላቅና ሰፊ ነው፥ እኛም በቅጥሩ ላይ ተበታትነናል፥ አንዱም ከሁለተኛው ርቆአል፤",
+            "en": "And I said unto the nobles, and to the rulers, and to the rest of the people, The work is great and large, and we are separated upon the wall, one far from another.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "የቀንደ መለከቱን ድምፅ ወደምትሰሙበት ስፍራ ወደዚያ ወደ እኛ ተሰብሰቡ፤ አምላካችን ስለ እኛ ይዋጋል አልኋቸው።",
+            "en": "In what place therefore ye hear the sound of the trumpet, resort ye thither unto us: our God shall fight for us.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "ሥራውንም ሠራን ከማለዳ ወገግታም ጀምሮ ከዋክብት እስኪወጡ ድረስ እኵሌቶቹ ጦር ይይዙ ነበር።",
+            "en": "So we laboured in the work: and half of them held the spears from the rising of the morning till the stars appeared.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 22,
+          "text": {
+            "am": "ደግሞም በዚያ ጊዜ ሕዝቡን። ሁላችሁ ከብላቴኖቻችሁ ጋር በኢየሩሳሌም ውስጥ እደሩ፤ በሌሊትም ጠባቂዎች ሁኑልን፥ በቀንም ሥሩ አልኋቸው።",
+            "en": "Likewise at the same time said I unto the people, Let every one with his servant lodge within Jerusalem, that in the night they may be a guard to us, and labour on the day.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 23,
+          "text": {
+            "am": "እኔና ወንድሞቼም ብላቴኖቼም በኋላዬም የነበሩት ጠባቂዎች ልብሳችንን አናወልቅም ነበር።",
+            "en": "So neither I, nor my brethren, nor my servants, nor the men of the guard which followed me, none of us put off our clothes, saving that every one put them off for washing.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "በወንድሞቻቸውም በአይሁድ ላይ ትልቅ የሕዝቡና የሚስቶቻቸው ጩኸት ሆነ።",
+            "en": "And there was a great cry of the people and of their wives against their brethren the Jews.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "አያሌዎቹም። ወንዶችና ሴቶች ልጆቻችን ብዙዎች ናቸው፤ በልተንም በሕይወት እንድንኖር እህልን እንሸምት ይሉ ነበር።",
+            "en": "For there were that said, We, our sons, and our daughters, are many: therefore we take up corn for them, that we may eat, and live.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "አያሌዎቹም። ከራብ የተነሣ እህልን እንሸምት ዘንድ እርሻችንና ወይናችንን ቤታችንንም አስይዘናል ይሉ ነበር።",
+            "en": "Some also there were that said, We have mortgaged our lands, vineyards, and houses, that we might buy corn, because of the dearth.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ሌሎቹም። ለንጉሡ ግብር እርሻችንንና ወይናችንን አስይዘን ገንዘብ ተበድረናል፤",
+            "en": "There were also that said, We have borrowed money for the king's tribute, and that upon our lands and vineyards.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "አሁንም ሥጋችን እንደ ወንድሞቻችን ሥጋ፥ ልጆቻችንም እንደ ልጆቻቸው ናቸው፤ እነሆም ወንዶችና ሴቶች ልጆቻችን ባሪያዎች ይሆኑ ዘንድ ሰጥተናል፥ ከሴቶችም ልጆቻችን ባሪያዎች ሆነው የሚኖሩ አሉ፤ ታላላቆችም እርሻችንና ወይናችንን ይዘዋልና ልናድናቸው አንችልም ይሉ ነበር።",
+            "en": "Yet now our flesh is as the flesh of our brethren, our children as their children: and, lo, we bring into bondage our sons and our daughters to be servants, and some of our daughters are brought unto bondage already: neither is it in our power to redeem them; for other men have our lands and vineyards.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "እኔም ጩኸታቸውንና ይህን ቃል በሰማሁ ጊዜ እጅግ ተቈጣሁ።",
+            "en": "And I was very angry when I heard their cry and these words.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "በልቤም አሰብሁ፥ ታላላቆቹንና ሹማምቱንም። ሁላችሁ እያንዳንዳችሁ ወለድ ትወስዳላችሁ ብዬ ተጣላኋቸው፤ ትልቅም ጉባኤ ሰበሰብሁባቸው።",
+            "en": "Then I consulted with myself, and I rebuked the nobles, and the rulers, and said unto them, Ye exact usury, every one of his brother. And I set a great assembly against them.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "እኔም። ለአሕዛብ የተሸጡትን ወንድሞቻችንን አይሁድን በፈቃዳችን ተቤዠን፤ እናንተስ ወንድሞቻችሁን ትሸጣላችሁን? እነርሱስ ለእኛ የተሸጡ ይሆናሉን? አልኋቸው። እነርሱም ዝም አሉ፥ መልስም አላገኙም።",
+            "en": "And I said unto them, We after our ability have redeemed our brethren the Jews, which were sold unto the heathen; and will ye even sell your brethren? or shall they be sold unto us? Then held they their peace, and found nothing to answer.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ደግሞም አልሁ። የምታደርጉት ነገር መልካም አይደለም፤ ጠላቶቻችን አሕዛብ እንዳይሰድቡን አምላካችንን በመፍራት ትሄዱ ዘንድ አይገባችሁምን?",
+            "en": "Also I said, It is not good that ye do: ought ye not to walk in the fear of our God because of the reproach of the heathen our enemies?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "እኔም ደግሞ ወንድሞቼም ብላቴኖቼም ገንዘብና እህል ለእነርሱ አበድረናል፤ እባካችሁ፥ ይህን ወለድ እንተውላቸው።",
+            "en": "I likewise, and my brethren, and my servants, might exact of them money and corn: I pray you, let us leave off this usury.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "እርሻቸውንና ወይናቸውን ወይራቸውንና ቤታቸውንም ከእነርሱም የወሰዳችሁትን ገንዘቡንና እህሉን፥ ወይን ጠጁንና ዘይቱን ከመቶ እጅ አንድ እጅ እባካችሁ ዛሬ መልሱላቸው።",
+            "en": "Restore, I pray you, to them, even this day, their lands, their vineyards, their oliveyards, and their houses, also the hundredth part of the money, and of the corn, the wine, and the oil, that ye exact of them.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "እነርሱም። እንመልስላቸዋለን፥ ከእነርሱም ምንም አንሻም፤ እንደ ተናገርህ እንዲሁ እናደርጋለን አሉ። ካህናቱንም ጠርቼ እንደዚህ ነገር ያደርጉ ዘንድ አማልኋቸው።",
+            "en": "Then said they, We will restore them, and will require nothing of them; so will we do as thou sayest. Then I called the priests, and took an oath of them, that they should do according to this promise.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ደግሞም ልብሴን አራገፍሁና። ይህን ነገር የማያደርገውን ሰው ከቤቱና ከሥራው እንዲሁ እግዚአብሔር ያራግፈው፤ እንዲሁም የተራገፈና ባዶ ይሁን አልሁ። ጉባኤውም ሁሉ። አሜን አሉ፥ እግዚአብሔርንም አመሰገኑ፤ ሕዝቡም እንደዚህ ነገር አደረጉ።",
+            "en": "Also I shook my lap, and said, So God shake out every man from his house, and from his labour, that performeth not this promise, even thus be he shaken out, and emptied. And all the congregation said, Amen, and praised the LORD. And the people did according to this promise.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ንጉሡም በይሁዳ ምድር ላይ አለቃ እሆን ዘንድ ካዘዘኝ ጊዜ ጀምሮ ከንጉሡ ከአርጤክስስ ከሀያኛው ዓመት እስከ ሠላሳ ሁለተኛው ዓመት ድረስ አሥራ ሁለት ዓመት ያህል እኔና ወንድሞቼ ለአለቃ የሚገባውን ስንቅ አልበላንም።",
+            "en": "Moreover from the time that I was appointed to be their governor in the land of Judah, from the twentieth year even unto the two and thirtieth year of Artaxerxes the king, that is, twelve years, I and my brethren have not eaten the bread of the governor.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ከእኔ አስቀድመው የነበሩት አለቆች ግን በሕዝቡ ላይ አክብደው ነበር፤ ስለ እንጀራውና ስለ ወይኑ አርባ ሰቅል ብር ይወስዱ ነበር፤ ሎሌዎቻቸውም ደግሞ በሕዝቡ ላይ ይሠለጥኑ ነበር፤ እኔ ግን እግዚአብሔርን ስለ ፈራሁ እንዲህ አላደረግሁም።",
+            "en": "But the former governors that had been before me were chargeable unto the people, and had taken of them bread and wine, beside forty shekels of silver; yea, even their servants bare rule over the people: but so did not I, because of the fear of God.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ደግሞም አጥብቄ የቅጥሩን ሥራ ሠራሁ፥ እርሻም አልገዛንም፤ ብላቴኖቼም ሁሉ ወደዚያው ወደ ሥራው ተሰበሰቡ።",
+            "en": "Yea, also I continued in the work of this wall, neither bought we any land: and all my servants were gathered thither unto the work.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "ደግሞም በዙሪያችን ካሉት አሕዛብ ወደ እኛ ከመጡት ሌላ ከአይሁድና ከሹማምቱ መቶ አምሳ ሰዎች በገበታዬ ነበሩ።",
+            "en": "Moreover there were at my table an hundred and fifty of the Jews and rulers, beside those that came unto us from among the heathen that are about us.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "ከወፎችም በቀር ለአንድ ቀን አንድ በሬና ስድስት የሰቡ በጎች፥ በአሥር በአሥር ቀንም ብዙ ልዩ ልዩ ዓይነት ወይን ጠጅ ይዘጋጅልኝ ነበር፤ ነገር ግን አገዛዝ በሕዝቡ ላይ ከብዶ ነበርና ለአለቃ የሚገባውን ስንቅ አልሻም ነበር።",
+            "en": "Now that which was prepared for me daily was one ox and six choice sheep; also fowls were prepared for me, and once in ten days store of all sorts of wine: yet for all this required not I the bread of the governor, because the bondage was heavy upon this people.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "አምላኬ ሆይ፥ ለዚህ ሕዝብ ያደረግሁትን ሁሉ ለበጎነት አስብልኝ።",
+            "en": "Think upon me, my God, for good, according to all that I have done for this people.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "እንዲህም ሆነ፤ ቅጥሩን እንደ ሠራሁ፥ ከፍራሹም አንዳች እንዳልቀረበት ሰንባላጥና ጦብያ ዓረባዊውም ጌሳም የቀሩትም ጠላቶቻችን ሰሙ፤ ነገር ግን እስከዚያ ጊዜ ድረስ በበሮቹ ውስጥ ሳንቃዎቹን አላቆምሁም ነበር።",
+            "en": "Now it came to pass, when Sanballat, and Tobiah, and Geshem the Arabian, and the rest of our enemies, heard that I had builded the wall, and that there was no breach left therein; (though at that time I had not set up the doors upon the gates;)",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ሰንባላጥና ጌሳም። መጥተህ በኦኖ ቈላ ውስጥ ባሉት መንደሮች እንገናኝ ብለው ላኩብኝ፤ ነገር ግን ክፉ ያደርጉብኝ ዘንድ ያስቡ ነበር።",
+            "en": "That Sanballat and Geshem sent unto me, saying, Come, let us meet together in some one of the villages in the plain of Ono. But they thought to do me mischief.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "እኔም። ትልቅ ሥራ እሠራለሁ፥ እወርድም ዘንድ አይቻለኝም፤ ሥራውን ትቼ ወደ እናንተ በመውረዴ ስለ ምን ሥራው ይታጐላል? ብዬ መልእክተኞችን ላክሁባቸው።",
+            "en": "And I sent messengers unto them, saying, I am doing a great work, so that I cannot come down: why should the work cease, whilst I leave it, and come down to you?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "እንዲህም ቃል አራት ጊዜ ላኩብኝ፤ እኔም እንደ ፊተኛው ቃል መለስሁላቸው።",
+            "en": "Yet they sent unto me four times after this sort; and I answered them after the same manner.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ሰንባላጥም እንደ ፊተኛው ጊዜ ብላቴናውን አምስተኛ ጊዜ ላከብኝ፤",
+            "en": "Then sent Sanballat his servant unto me in like manner the fifth time with an open letter in his hand;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "በእጁም ውስጥ። አንተና አይሁድ ዓመፅ እንድታስቡ፥ ስለዚህም ቅጥሩን እንድትሠራ፥ ንጉሣቸውም ትሆን ዘንድ እንድትወድድ በአሕዛብ ዘንድ ተሰምቶአል።",
+            "en": "Wherein was written, It is reported among the heathen, and Gashmu saith it, that thou and the Jews think to rebel: for which cause thou buildest the wall, that thou mayest be their king, according to these words.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ደግሞም። ንጉሥ በይሁዳ አለ ብለው ስለ አንተ በኢየሩሳሌም ይናገሩ ዘንድ ነቢያትን አቁመሃል፤ አሁንም ለንጉሡ ይህን ቃል ያወሩለታል፤ እንግዲህ መጥተህ በአንድነት እንማከር የሚል ክፍት ደብዳቤ ነበረ።",
+            "en": "And thou hast also appointed prophets to preach of thee at Jerusalem, saying, There is a king in Judah: and now shall it be reported to the king according to these words. Come now therefore, and let us take counsel together.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "እኔም። አንተ ከልብህ ፈጥረኸዋል እንጂ እንደ ተናገርኸው ነገር ምንም የለም ብዬ ላክሁበት።",
+            "en": "Then I sent unto him, saying, There are no such things done as thou sayest, but thou feignest them out of thine own heart.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "እነርሱም ሁሉ ሥራው እንዳይፈጸም። እጃቸው ይደክማል ብለው ያስፈራሩን ዘንድ ወደዱ፤ አሁንም፥ አምላክ ሆይ፥ እጄን አበርታ።",
+            "en": "For they all made us afraid, saying, Their hands shall be weakened from the work, that it be not done. Now therefore, O God, strengthen my hands.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "እኔም ወደ መሔጣብኤል ልጅ ወደ ድላያ ልጅ ወደ ሸማያ ቤት ገባሁ፤ እርሱም ተዘግቶ ነበርና። በእግዚአብሔር ቤት በመቅደሱ ውስጥ እንገናኝ የመቅደሱንም ደጆች እንዝጋ፤ እነርሱ መጥተው ይገድሉሃልና፥ በሌሊትም ይገድሉህ ዘንድ ይመጣሉና አለ።",
+            "en": "Afterward I came unto the house of Shemaiah the son of Delaiah the son of Mehetabeel, who was shut up; and he said, Let us meet together in the house of God, within the temple, and let us shut the doors of the temple: for they will come to slay thee; yea, in the night will they come to slay thee.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "እኔም። እንደ እኔ ያለ ሰው የሸሸና፥ ነፍሱንስ ያድን ዘንድ ወደ መቅደስ የገባ ማን ነው? እኔስ አልገባም አልሁት።",
+            "en": "And I said, Should such a man as I flee? and who is there, that, being as I am, would go into the temple to save his life? I will not go in.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "እግዚአብሔርም ልኮት እንዳልነበረ፥ በእኔ ላይ ግን ትንቢት እንደ ተናገረ፥ እነሆ፥ አወቅሁ፤ ጦብያና ሰንባላጥም ገዝተውት ነበር።",
+            "en": "And, lo, I perceived that God had not sent him; but that he pronounced this prophecy against me: for Tobiah and Sanballat had hired him.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ይህንም ነገር አደርግና እበድል ዘንድ፥ በእኔም ላይ ክፋት እንዲናገሩና እንዲያላግጡ ያስፈራራኝ ዘንድ ተገዝቶ ነበር።",
+            "en": "Therefore was he hired, that I should be afraid, and do so, and sin, and that they might have matter for an evil report, that they might reproach me.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "አምላኬ ሆይ፥ ስለዚህ ሥራቸው ጦብያንና ሰንባላጥን ያስፈራሩኝም ዘንድ የወደዱትን ነቢይቱን ኖዓድያን የቀሩትንም ነቢያት አስብ።",
+            "en": "My God, think thou upon Tobiah and Sanballat according to these their works, and on the prophetess Noadiah, and the rest of the prophets, that would have put me in fear.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ቅጥሩም በኤሉል ወር በሀያ አምስተኛው ቀን በአምሳ ሁለት ቀን ውስጥ ተጨረሰ።",
+            "en": "So the wall was finished in the twenty and fifth day of the month Elul, in fifty and two days.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ጠላቶቻችንም ሁሉ ይህን በሰሙ ጊዜ በዙሪያችን የነበሩ አሕዛብ ሁሉ ፈሩ፥ በራሳቸውም አሳብ እጅግ ተዋረዱ፥ ይህም ሥራ በእግዚአብሔር እንደ ተደረገ አወቁ።",
+            "en": "And it came to pass, that when all our enemies heard thereof, and all the heathen that were about us saw these things, they were much cast down in their own eyes: for they perceived that this work was wrought of our God.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "ጦብያም የኤራ ልጅ የሴኬንያ አማች ስለ ነበረ፥ ልጁም ይሆሐናን የቤራክያን ልጅ የሜሱላምን ሴት ልጅ ስላገባ፥ በይሁዳ ብዙ ሰዎች ከእርሱ ጋር ተማምለው ነበርና በዚያ ወራት ብዙ የይሁዳ አለቆች ወደ ጦብያ ደብዳቤዎች ይልኩ ነበር፥ የጦብያም ደብዳቤዎች ወደ እነርሱ ይመጡ ነበር።",
+            "en": "Moreover in those days the nobles of Judah sent many letters unto Tobiah, and the letters of Tobiah came unto them.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              17,
+              18
+            ]
+          }
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "ጦብያም የኤራ ልጅ የሴኬንያ አማች ስለ ነበረ፥ ልጁም ይሆሐናን የቤራክያን ልጅ የሜሱላምን ሴት ልጅ ስላገባ፥ በይሁዳ ብዙ ሰዎች ከእርሱ ጋር ተማምለው ነበርና በዚያ ወራት ብዙ የይሁዳ አለቆች ወደ ጦብያ ደብዳቤዎች ይልኩ ነበር፥ የጦብያም ደብዳቤዎች ወደ እነርሱ ይመጡ ነበር።",
+            "en": "For there were many in Judah sworn unto him, because he was the son in law of Shechaniah the son of Arah; and his son Johanan had taken the daughter of Meshullam the son of Berechiah.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              17,
+              18
+            ]
+          }
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "ደግሞም በፊቴ ስለ እርሱ መልካም ይናገሩ ነበር፥ ቃሌንም ያወሩለት ነበር፤ ጦብያም ሊያስፈራራኝ ደብዳቤዎችን ይልክ ነበር።",
+            "en": "Also they reported his good deeds before me, and uttered my words to him. And Tobiah sent letters to put me in fear.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "እንዲህም ሆነ፤ ቅጥሩ ከተሠራ በኋላ፥ ሳንቃዎቹንም ካቆምሁ በኋላ፥ በረኞቹና መዘምራኑ ሌዋውያኑም ከተሾሙ በኋላ፥",
+            "en": "Now it came to pass, when the wall was built, and I had set up the doors, and the porters and the singers and the Levites were appointed,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ወንድሜን አናኒንና የግንቡን አለቃ ሐናንያን በኢየሩሳሌም ላይ ሾምኋቸው፤ እርሱም እውነተኛ ከሌሎቹም ይልቅ እግዚአብሔርን የሚፈራ ሰው ነበረ።",
+            "en": "That I gave my brother Hanani, and Hananiah the ruler of the palace, charge over Jerusalem: for he was a faithful man, and feared God above many.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "እኔም። ፀሐይ እስኪሞቅ ድረስ የኢየሩሳሌም በሮች አይከፈቱ፤ እነርሱም ቆመው ሳሉ ደጆቹን ይዝጉ፥ ይቈልፉም፤ ከኢየሩሳሌምም ሰዎች አንዳንዱን በየተራው አንዳንዱንም በየቤቱ አንጻር ጠባቆችን አስቀምጡ አልኋቸው።",
+            "en": "And I said unto them, Let not the gates of Jerusalem be opened until the sun be hot; and while they stand by, let them shut the doors, and bar them: and appoint watches of the inhabitants of Jerusalem, every one in his watch, and every one to be over against his house.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ከተማይቱም ሰፊና ታላቅ ነበረች፤ በውስጥዋ የነበሩ ሕዝብ ግን ጥቂቶች ነበሩ፥ ቤቶቹም አልተሠሩም ነበር።",
+            "en": "Now the city was large and great: but the people were few therein, and the houses were not builded.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "አምላኬም ታላቆቹንና ሹማምቱን ሕዝቡንም ሰብስቤ እቈጥራቸው ዘንድ በልቤ አደረገ፤ አስቀድመው የመጡትን ሰዎች የትውልድ መጽሐፋቸውን አገኘሁ፥ በእርሱም እንደዚህ ተጽፎ አገኘሁ።",
+            "en": "And my God put into mine heart to gather together the nobles, and the rulers, and the people, that they might be reckoned by genealogy. And I found a register of the genealogy of them which came up at the first, and found written therein,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "የባቢሎን ንጉሥ ናቡከደነፆር ከማረካቸው ምርኮኞች ወደ ኢየሩሳሌምና ወደ ይሁዳ ወደ እየከተማቸው የተመለሱት የአገር ልጆች እነዚህ ናቸው።",
+            "en": "These are the children of the province, that went up out of the captivity, of those that had been carried away, whom Nebuchadnezzar the king of Babylon had carried away, and came again to Jerusalem and to Judah, every one unto his city;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ከዘሩባቤል፥ ከኢያሱ፥ ከነህምያ፥ ከአዛርያስ፥ ከረዓምያ፥ ከነሐማኒ፥ ከመርዶክዮስ፥ ከበላሳን፥ ከሚስጴሬት፥ ከበጉዋይ፥ ከነሑም፥ ከበዓና ጋር መጡ።",
+            "en": "Who came with Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai, Bilshan, Mispereth, Bigvai, Nehum, Baanah. The number, I say, of the men of the people of Israel was this;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "የእስራኤልም ሕዝብ ሰዎች ቍጥር ይህ ነው፤ የፋሮስ ልጆች፥ ሁለት ሺህ መቶ ሰባ ሁለት።",
+            "en": "The children of Parosh, two thousand an hundred seventy and two.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "የሰፋጥያስ ልጆች ሦስት መቶ ሰባ ሁለት።",
+            "en": "The children of Shephatiah, three hundred seventy and two.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "የኤራ ልጆች፥ ስድስት መቶ አምሳ ሁለት።",
+            "en": "The children of Arah, six hundred fifty and two.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ከኢያሱና ከኢዮአብ ልጆች የሆኑ የፈሐት ሞዓብ ልጆች፥ ሁለት ሺህ ስምንት መቶ አሥራ ስምንት።",
+            "en": "The children of Pahathmoab, of the children of Jeshua and Joab, two thousand and eight hundred and eighteen.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "የኤላም ልጆች፥ ሺህ ሁለት መቶ አምሳ አራት።",
+            "en": "The children of Elam, a thousand two hundred fifty and four.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "የዛቱዕ ልጆች፥ ስምንት መቶ አርባ አምስት።",
+            "en": "The children of Zattu, eight hundred forty and five.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "የዘካይ ልጆች፥ ሰባት መቶ ስድሳ።",
+            "en": "The children of Zaccai, seven hundred and threescore.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "የቢንዊ ልጆች፥ ስድስት መቶ አርባ ስምንት።",
+            "en": "The children of Binnui, six hundred forty and eight.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "የቤባይ ልጆች፥ ስድስት መቶ ሀያ ስምንት።",
+            "en": "The children of Bebai, six hundred twenty and eight.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "የዓዝጋድ ልጆች፥ ሁለት ሺህ ሦስት መቶ ሀያ ሁለት።",
+            "en": "The children of Azgad, two thousand three hundred twenty and two.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "የአዶኒቃም ልጆች፥ ስድስት መቶ ስድሳ ሰባት።",
+            "en": "The children of Adonikam, six hundred threescore and seven.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "የበጉዋይ ልጆች፥ ሁለት ሺህ ስድሳ ሰባት።",
+            "en": "The children of Bigvai, two thousand threescore and seven.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "የዓዲን ልጆች፥ ስድስት መቶ አምሳ አምስት።",
+            "en": "The children of Adin, six hundred fifty and five.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "የሕዝቅያስ ወገን የአጤር ልጆች፥ ዘጠና ስምንት።",
+            "en": "The children of Ater of Hezekiah, ninety and eight.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 22,
+          "text": {
+            "am": "የሐሱም ልጆች፥ ሦስት መቶ ሀያ ስምንት።",
+            "en": "The children of Hashum, three hundred twenty and eight.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 23,
+          "text": {
+            "am": "የቤሳይ ልጆች፥ ሦስት መቶ ሀያ አራት።",
+            "en": "The children of Bezai, three hundred twenty and four.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 24,
+          "text": {
+            "am": "የሐሪፍ ልጆች፥ መቶ አሥራ ሁለት።",
+            "en": "The children of Hariph, an hundred and twelve.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 25,
+          "text": {
+            "am": "የገባዖን ልጆች፥ ዘጠና አምስት።",
+            "en": "The children of Gibeon, ninety and five.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 26,
+          "text": {
+            "am": "የቤተ ልሔምና የነጦፋ ሰዎች፥ መቶ ሰማንያ ስምንት።",
+            "en": "The men of Bethlehem and Netophah, an hundred fourscore and eight.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 27,
+          "text": {
+            "am": "የዓናቶች ሰዎች፥ መቶ ሀያ ስምንት።",
+            "en": "The men of Anathoth, an hundred twenty and eight.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 28,
+          "text": {
+            "am": "የቤትዓዝሞት ሰዎች፥ አርባ ሁለት።",
+            "en": "The men of Bethazmaveth, forty and two.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 29,
+          "text": {
+            "am": "የቂርያትይዓሪምና የከፊራ የብኤሮትም ሰዎች፥ ሰባት መቶ አርባ ሦስት።",
+            "en": "The men of Kirjathjearim, Chephirah, and Beeroth, seven hundred forty and three.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 30,
+          "text": {
+            "am": "የራማና የጌባ ሰዎች፥ ስድስት መቶ ሀያ አንድ።",
+            "en": "The men of Ramah and Geba, six hundred twenty and one.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 31,
+          "text": {
+            "am": "የማክማስ ሰዎች፥ መቶ ሀያ ሁለት።",
+            "en": "The men of Michmas, an hundred and twenty and two.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 32,
+          "text": {
+            "am": "የቤቴልና የጋይ ሰዎች፥ መቶ ሀያ ሦስት።",
+            "en": "The men of Bethel and Ai, an hundred twenty and three.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 33,
+          "text": {
+            "am": "የሁለተኛው ናባው ሰዎች፥ አምሳ ሁለት።",
+            "en": "The men of the other Nebo, fifty and two.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 34,
+          "text": {
+            "am": "የሁለተኛው ኤላም ልጆች፥ ሺህ ሁለት መቶ አምሳ አራት።",
+            "en": "The children of the other Elam, a thousand two hundred fifty and four.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 35,
+          "text": {
+            "am": "የካሪም ልጆች፥ ሦስት መቶ ሀያ።",
+            "en": "The children of Harim, three hundred and twenty.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 36,
+          "text": {
+            "am": "የኢያሪኮ ልጆች፥ ሦስት መቶ አርባ አምስት",
+            "en": "The children of Jericho, three hundred forty and five.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 37,
+          "text": {
+            "am": "የሎድና የሐዲድ የኦኖም ልጆች፥ ሰባት መቶ ሀያ አንድ።",
+            "en": "The children of Lod, Hadid, and Ono, seven hundred twenty and one.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 38,
+          "text": {
+            "am": "የሴናዓ ልጆች፥ ሦስት ሺህ ዘጠኝ መቶ ሠላሳ።",
+            "en": "The children of Senaah, three thousand nine hundred and thirty.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 39,
+          "text": {
+            "am": "ካህናቱ፤ ከኢያሱ ወገን የዮዳኤ ልጆች፥ ዘጠኝ መቶ ሰባ ሦስት።",
+            "en": "The priests: the children of Jedaiah, of the house of Jeshua, nine hundred seventy and three.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 40,
+          "text": {
+            "am": "የኢሜር ልጆች፥ ሺህ አምሳ ሁለት።",
+            "en": "The children of Immer, a thousand fifty and two.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 41,
+          "text": {
+            "am": "የፋስኮር ልጆች፥ ሺህ ሁለት መቶ አርባ ሰባት።",
+            "en": "The children of Pashur, a thousand two hundred forty and seven.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 42,
+          "text": {
+            "am": "የካሪም ልጆች፥ ሺህ አሥራ ሰባት።",
+            "en": "The children of Harim, a thousand and seventeen.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 43,
+          "text": {
+            "am": "ሌዋውያኑ፤ ከሆዳይዋ ወገን የኢያሱና የቀድምኤል ልጆች፥ ሰባ አራት።",
+            "en": "The Levites: the children of Jeshua, of Kadmiel, and of the children of Hodevah, seventy and four.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 44,
+          "text": {
+            "am": "መዘምራኑ፤ የአሳፍ ልጆች፥ መቶ አርባ ስምንት።",
+            "en": "The singers: the children of Asaph, an hundred forty and eight.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 45,
+          "text": {
+            "am": "በረኞቹ፤ የሰሎም ልጆች፥ የአጤር ልጆች፥ የጤልሞን ልጆች፥ የዓቁብ ልጆች፥ የሐጢጣ ልጆች፥ የሶባይ ልጆች፥ መቶ ሠላሳ ስምንት።",
+            "en": "The porters: the children of Shallum, the children of Ater, the children of Talmon, the children of Akkub, the children of Hatita, the children of Shobai, an hundred thirty and eight.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 46,
+          "text": {
+            "am": "ናታኒም፥ የሲሐ ልጆች፥ የሐሡፋ ልጆች፥",
+            "en": "The Nethinims: the children of Ziha, the children of Hashupha, the children of Tabbaoth,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 47,
+          "text": {
+            "am": "የጠብዖት ልጆች፥ የኬራስ ልጆች፥ የሲዓ ልጆች፥",
+            "en": "The children of Keros, the children of Sia, the children of Padon,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 48,
+          "text": {
+            "am": "የፋዶን ልጆች፥ የልባና ልጆች፥",
+            "en": "The children of Lebana, the children of Hagaba, the children of Shalmai,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 49,
+          "text": {
+            "am": "የአጋባ ልጆች፥ የሰምላይ ልጆች፥ የሐናን ልጆች፥ የጌዴል ልጆች፥ የጋሐር ልጆች፥",
+            "en": "The children of Hanan, the children of Giddel, the children of Gahar,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 50,
+          "text": {
+            "am": "የራያ ልጆች፥ የረአሶን ልጆች፥ የኔቆዳ ልጆች፥",
+            "en": "The children of Reaiah, the children of Rezin, the children of Nekoda,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 51,
+          "text": {
+            "am": "የጋሴም ልጆች፥ የዖዛ ልጆች፥ የፋሴሐ ልጆች፥",
+            "en": "The children of Gazzam, the children of Uzza, the children of Phaseah,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 52,
+          "text": {
+            "am": "የቤሳይ ልጆች፥ የምዑናውያን ልጆች፥",
+            "en": "The children of Besai, the children of Meunim, the children of Nephishesim,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 53,
+          "text": {
+            "am": "የንፉሰሲም ልጆች፥ የበቅቡቅ ልጆች፥ የሐቀፋ ልጆች፥ የሐርሑር ልጆች፥",
+            "en": "The children of Bakbuk, the children of Hakupha, the children of Harhur,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 54,
+          "text": {
+            "am": "የበስሎት ልጆች፥ የምሒዳ ልጆች፥ የሐርሻ ልጆች፥",
+            "en": "The children of Bazlith, the children of Mehida, the children of Harsha,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 55,
+          "text": {
+            "am": "የበርቆስ ልጆች፥ የሲሣራ ልጆች፥",
+            "en": "The children of Barkos, the children of Sisera, the children of Tamah,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 56,
+          "text": {
+            "am": "የቴማ ልጆች፥ የንስያ ልጆች፥ የሐጢፋ ልጆች።",
+            "en": "The children of Neziah, the children of Hatipha.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 57,
+          "text": {
+            "am": "የሰሎሞን ባሪያዎች ልጆች፤ የሶጣይ ልጆች፥ የሶፌሬት ልጆች፥ የፍሩዳ ልጆች፥",
+            "en": "The children of Solomon's servants: the children of Sotai, the children of Sophereth, the children of Perida,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 58,
+          "text": {
+            "am": "የየዕላ ልጆች፥ የደርቆን ልጆች፥ የጌዴል ልጆች፥",
+            "en": "The children of Jaala, the children of Darkon, the children of Giddel,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 59,
+          "text": {
+            "am": "የሰፋጥያስ ልጆች፥ የሐጢል ልጆች፥ የፈከራት ልጆች፥ የሐፂቦይም ልጆች፥ የአሞን ልጆች።",
+            "en": "The children of Shephatiah, the children of Hattil, the children of Pochereth of Zebaim, the children of Amon.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 60,
+          "text": {
+            "am": "ናታኒም ሁሉና የሰሎሞን ባሪያዎች ልጆች ሦስት መቶ ዘጠና ሁለት ነበሩ።",
+            "en": "All the Nethinims, and the children of Solomon's servants, were three hundred ninety and two.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 61,
+          "text": {
+            "am": "ከቴልሜላ፥ ከቴላሬሳ፥ ከክሩብ፥ ከአዳን፥ ከኢሜር የወጡ እነዚህ ናቸው፤ ነገር ግን የአባቶቻቸውን ቤቶችና ዘራቸውን ወይም ከእስራኤል ወገን መሆናቸውን ያስታውቁ ዘንድ አልቻሉም፤",
+            "en": "And these were they which went up also from Telmelah, Telharesha, Cherub, Addon, and Immer: but they could not shew their father's house, nor their seed, whether they were of Israel.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 62,
+          "text": {
+            "am": "የዳላያ ልጆች፥ የጦብያ ልጆች፥ የኔቆዳ ልጆች፥ ስድስት መቶ አርባ ሁለት።",
+            "en": "The children of Delaiah, the children of Tobiah, the children of Nekoda, six hundred forty and two.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 63,
+          "text": {
+            "am": "ከካህናቱም የኤብያ ልጆች፥ የአቆስ ልጆች፥ ከገለዓዳዊው ከቤርዜሊ ልጆች ሚስት ያገባ በስሙም የተጠራ የቤርዜሊ ልጆች።",
+            "en": "And of the priests: the children of Habaiah, the children of Koz, the children of Barzillai, which took one of the daughters of Barzillai the Gileadite to wife, and was called after their name.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 64,
+          "text": {
+            "am": "እነዚህ በትውልድ መጽሐፍ ትውልዳቸውን ፈለጉ፥ ነገር ግን አልተገኘም፤ ከክህነትም ተከለከሉ።",
+            "en": "These sought their register among those that were reckoned by genealogy, but it was not found: therefore were they, as polluted, put from the priesthood.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 65,
+          "text": {
+            "am": "ሐቴርሰታም። በኡሪምና በቱሚም የሚፈርድ ካህን እስኪነሣ ደረስ ከተቀደሰው ነገር አትበሉም አላቸው።",
+            "en": "And the Tirshatha said unto them, that they should not eat of the most holy things, till there stood up a priest with Urim and Thummim.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 66,
+          "text": {
+            "am": "ሰባት ሺህ ሦስት መቶ ሠላሳ ሰባት ከነበሩ ከሎሌዎቻቸውና ከገረዶቻቸው ሌላ ጉባኤው ሁሉ አርባ ሁለት ሺህ ሦስት መቶ ስድሳ ነበሩ፤ ሁለቱ መቶም አርባ አምስት ወንዶችና ሴቶች መዘምራን ነበሩአቸው።",
+            "en": "The whole congregation together was forty and two thousand three hundred and threescore,",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              66,
+              67
+            ]
+          }
+        },
+        {
+          "verse": 67,
+          "text": {
+            "am": "ሰባት ሺህ ሦስት መቶ ሠላሳ ሰባት ከነበሩ ከሎሌዎቻቸውና ከገረዶቻቸው ሌላ ጉባኤው ሁሉ አርባ ሁለት ሺህ ሦስት መቶ ስድሳ ነበሩ፤ ሁለቱ መቶም አርባ አምስት ወንዶችና ሴቶች መዘምራን ነበሩአቸው።",
+            "en": "Beside their manservants and their maidservants, of whom there were seven thousand three hundred thirty and seven: and they had two hundred forty and five singing men and singing women.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              66,
+              67
+            ]
+          }
+        },
+        {
+          "verse": 68,
+          "text": {
+            "am": "ፈረሶቻቸውም ሰባት መቶ ሠላሳ ስድስት፥ በቅሎቻቸውም ሁለት መቶ አርባ አምስት፥",
+            "en": "Their horses, seven hundred thirty and six: their mules, two hundred forty and five:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 69,
+          "text": {
+            "am": "ግመሎቻቸውም አራት መቶ ሠላሳ አምስት፥ አህዮቻቸውም ስድስት ሺህ ሰባት መቶ ሀያ ነበሩ።",
+            "en": "Their camels, four hundred thirty and five: six thousand seven hundred and twenty asses.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 70,
+          "text": {
+            "am": "ከአባቶች ቤቶች አለቆችም አያሌዎቹ ሰዎች ስለ ሥራው ስጦታ ሰጡ። ሐቴርሰታም አንድ ሺህ የወርቅ ዳሪክ፥ አምሳም ድስቶች፥ አምስት መቶ ሠላሳም የካህናት ልብስ በቤተ መዛግብት ውስጥ ሰጠ።",
+            "en": "And some of the chief of the fathers gave unto the work. The Tirshatha gave to the treasure a thousand drams of gold, fifty basons, five hundred and thirty priests' garments.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 71,
+          "text": {
+            "am": "ከአባቶች ቤቶች አለቆችም አያሌዎቹ በሥራው ቤተ መዛግብት ውስጥ ሀያ ሺህ የወርቅ ዳሪክ፥ ሁለት ሺህ ሁለት መቶም ምናን ብር ሰጡ።",
+            "en": "And some of the chief of the fathers gave to the treasure of the work twenty thousand drams of gold, and two thousand and two hundred pound of silver.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 72,
+          "text": {
+            "am": "የቀሩትም ሕዝብ የሰጡት ሀያ ሺህ የወርቅ ዳሪክና ሁለት ሺህ ምናን ብር፥ ስድሳ ሰባትም የካህናት ልብስ ነበረ።",
+            "en": "And that which the rest of the people gave was twenty thousand drams of gold, and two thousand pound of silver, and threescore and seven priests' garments.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 73,
+          "text": {
+            "am": "ካህናቱና ሌዋውያኑም፥ በረኞቹና መዘምራኑም ከሕዝቡም አያሌዎቹ፥ ናታኒምም፥ እስራኤልም ሁሉ በከተሞቻቸው ተቀመጡ።",
+            "en": "So the priests, and the Levites, and the porters, and the singers, and some of the people, and the Nethinims, and all Israel, dwelt in their cities; and when the seventh month came, the children of Israel were in their cities.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "ሰባተኛውም ወር በደረሰ ጊዜ የእስራኤል ልጆች በከተሞቻቸው ነበሩ። ሕዝቡም ሁሉ በውኃው በር ፊት ወዳለው አደባባይ እንደ አንድ ሰው ሆነው ተሰበሰቡ፤ እግዚአብሔርም ለእስራኤል ያዘዘውን የሙሴን ሕግ መጽሐፍ ያመጣ ዘንድ ጸሐፊውን ዕዝራን ተናገሩት።",
+            "en": "And all the people gathered themselves together as one man into the street that was before the water gate; and they spake unto Ezra the scribe to bring the book of the law of Moses, which the LORD had commanded to Israel.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ካህኑም ዕዝራ በሰባተኛው ወር በመጀመሪያው ቀን ሕጉን በማኅበሩ በወንዶችና በሴቶች አስተውለውም በሚሰሙት ሁሉ ፊት አመጣው።",
+            "en": "And Ezra the priest brought the law before the congregation both of men and women, and all that could hear with understanding, upon the first day of the seventh month.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "በውኃውም በር ፊት ባለው አደባባይ ላይ ቆሞ፥ ወንዶችና ሴቶች የሚያስተውሉም ሲሰሙ፥ ከማለዳ ጀምሮ እስከ ቀትር ድረስ አነበበው፤ የሕዝቡም ሁሉ ጆሮ የሕጉን መጽሐፍ ለመስማት ያደምጥ ነበር።",
+            "en": "And he read therein before the street that was before the water gate from the morning until midday, before the men and the women, and those that could understand; and the ears of all the people were attentive unto the book of the law.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ጸሐፊውም ዕዝራ ስለዚህ ነገር በተሠራ በእንጨት መረባርብ ላይ ቆሞ ነበር፤ በአጠገቡ መቲትያ፥ ሽማዕ፥ ዓናያ፥ ኦርዮ፥ ኬልቅያስ፥ መዕሤያ በቀኙ በኩል፥ ፈዳያ፥ ሚሳኤል፥ መልክያ፥ ሐሱም፥ ሐሽበዳና፥ ዘካርያስ፥ ሜሱላም በግራው በኩል ቆመው ነበር።",
+            "en": "And Ezra the scribe stood upon a pulpit of wood, which they had made for the purpose; and beside him stood Mattithiah, and Shema, and Anaiah, and Urijah, and Hilkiah, and Maaseiah, on his right hand; and on his left hand, Pedaiah, and Mishael, and Malchiah, and Hashum, and Hashbadana, Zechariah, and Meshullam.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ዕዝራም በሕዝቡ ሁሉ ላይ ከፍ ብሎ ሕዝቡ ሁሉ እያዩ መጽሐፉን ገለጠ፤ በገለጠውም ጊዜ ሕዝቡ ሁሉ ቆሙ።",
+            "en": "And Ezra opened the book in the sight of all the people; (for he was above all the people;) and when he opened it, all the people stood up:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ዕዝራም ታላቁን አምላክ እግዚአብሔርን ባረከ፤ ሕዝቡም ሁሉ እጃቸውን እየዘረጉ። አሜን፥ አሜን ብለው መለሱ። ራሳቸውንም አዘነበሉ፥ በግምባራቸውም ተደፍተው ለእግዚአብሔር ሰገዱ።",
+            "en": "And Ezra blessed the LORD, the great God. And all the people answered, Amen, Amen, with lifting up their hands: and they bowed their heads, and worshipped the LORD with their faces to the ground.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ደግሞ ኢያሱና ባኒ፥ ሰራብያ፥ ያሚን፥ ዓቁብ፥ ሳባታይ፥ ሆዲያ፥ መዕሤያ፥ ቆሊጣስ፥ ዓዛርያስ፥ ዮዛባት፥ ሐናን፥ ፌልያ፥ ሌዋውያኑም ሕጉን ያስተውሉ ዘንድ ሕዝቡን ያስተምሩ ነበር፤ ሕዝቡም በየስፍራቸው ቆመው ነበር።",
+            "en": "Also Jeshua, and Bani, and Sherebiah, Jamin, Akkub, Shabbethai, Hodijah, Maaseiah, Kelita, Azariah, Jozabad, Hanan, Pelaiah, and the Levites, caused the people to understand the law: and the people stood in their place.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "የእግዚአብሔርንም ሕግ መጽሐፍ አነበቡ፤ ዕዝራም እግዚአብሔርን ማወቅ ያስተምርና ያስታውቅ ነበር፥ ሕዝቡም የሚነበበውን ያስተውሉ ነበር።",
+            "en": "So they read in the book in the law of God distinctly, and gave the sense, and caused them to understand the reading.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ሐቴርሰታ ነህምያም ጸሐፊውም ካህኑ ዕዝራ ሕዝቡንም የሚያስተምሩ ሌዋውያን ሕዝቡን ሁሉ። ዛሬ ለአምላካችን ለእግዚአብሔር የተቀደሰ ቀን ነው፤ አታልቅሱ እንባም አታፍስሱ አሉአቸው፤ ሕዝቡ ሁሉ የሕጉን ቃል በሰሙ ጊዜ ያለቅሱ ነበርና።",
+            "en": "And Nehemiah, which is the Tirshatha, and Ezra the priest the scribe, and the Levites that taught the people, said unto all the people, This day is holy unto the LORD your God; mourn not, nor weep. For all the people wept, when they heard the words of the law.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "እርሱም። ሂዱ፥ የሰባውንም ብሉ፥ ጣፋጩንም ጠጡ፥ ለእነዚያም ላልተዘጋጀላቸው እድል ፈንታቸውን ስደዱ፤ ዛሬ ለጌታችን የተቀደሰ ቀን ነው፤ የእግዚአብሔርም ደስታ ኃይላችሁ ነውና አትዘኑ አላቸው።",
+            "en": "Then he said unto them, Go your way, eat the fat, and drink the sweet, and send portions unto them for whom nothing is prepared: for this day is holy unto our Lord: neither be ye sorry; for the joy of the LORD is your strength.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ሌዋውያንም። ቀኑ የተቀደሰ ነውና ዝም በሉ፥ አትዘኑም ብለው ሕዝቡን ሁሉ ጸጥ ያደርጉ ነበር።",
+            "en": "So the Levites stilled all the people, saying, Hold your peace, for the day is holy; neither be ye grieved.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "ሕዝቡም ሁሉ የተነገረላቸውን ቃል አስተውለዋልና ሊበሉና ሊጠጡ እድል ፈንታም ሊሰድዱ ደስታም ሊያደርጉ ሄዱ።",
+            "en": "And all the people went their way to eat, and to drink, and to send portions, and to make great mirth, because they had understood the words that were declared unto them.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "በሁለተኛውም ቀን ከሕዝቡ ሁሉ የአባቶች ቤቶች አለቆች ካህናቱም ሌዋውያኑም የሕጉን ቃል ይተረጕምላቸው ዘንድ ወደ ጸሐፊው ወደ ዕዝራ ተሰበሰቡ።",
+            "en": "And on the second day were gathered together the chief of the fathers of all the people, the priests, and the Levites, unto Ezra the scribe, even to understand the words of the law.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "በሰባተኛውም ወር ባለው በዓል የእስራኤል ልጆች በዳስ ይቀመጡ ዘንድ በከተሞቻቸውና በኢየሩሳሌምም። ወደ ተራራ ሂዱ፤ የዘይትና የበረሀ ወይራ የባርሰነትም የዘንባባም የለመለመውን ዛፍ ቅርንጫፍ አምጡ፥ እንደ ተጻፈውም ዳሶችን ሥሩ ብለው ይናገሩ ያውጁም ዘንድ እግዚአብሔር በሙሴ እጅ እንዳዘዘ በሕጉ ውስጥ ተጽፎ አገኙ።",
+            "en": "And they found written in the law which the LORD had commanded by Moses, that the children of Israel should dwell in booths in the feast of the seventh month:",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              14,
+              15
+            ]
+          }
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "በሰባተኛውም ወር ባለው በዓል የእስራኤል ልጆች በዳስ ይቀመጡ ዘንድ በከተሞቻቸውና በኢየሩሳሌምም። ወደ ተራራ ሂዱ፤ የዘይትና የበረሀ ወይራ የባርሰነትም የዘንባባም የለመለመውን ዛፍ ቅርንጫፍ አምጡ፥ እንደ ተጻፈውም ዳሶችን ሥሩ ብለው ይናገሩ ያውጁም ዘንድ እግዚአብሔር በሙሴ እጅ እንዳዘዘ በሕጉ ውስጥ ተጽፎ አገኙ።",
+            "en": "And that they should publish and proclaim in all their cities, and in Jerusalem, saying, Go forth unto the mount, and fetch olive branches, and pine branches, and myrtle branches, and palm branches, and branches of thick trees, to make booths, as it is written.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              14,
+              15
+            ]
+          }
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ሕዝቡም ወጥተው አመጡ፤ እያንዳንዱም በቤቱ ሰገነት ላይ፥ በአደባባዩም ላይ፥ በእግዚአብሔርም ቤት አደባባዩ ላይ፥ በውኃውም በር አደባባይና በኤፍሬም በር አደባባይ ላይ ዳስ ሠራ።",
+            "en": "So the people went forth, and brought them, and made themselves booths, every one upon the roof of his house, and in their courts, and in the courts of the house of God, and in the street of the water gate, and in the street of the gate of Ephraim.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "ከምርኮም የተመለሱት ማኅበር ሁሉ ዳስ ሠሩ፥ በዳሱም ውስጥ ተቀመጡ። ከነዌም ልጅ ከኢያሱ ዘመን ጀምሮ እስከዚያ ቀን ድረስ የእስራኤል ልጆች እንዲህ ያለ አላደረጉም ነበር። እጅግም ታላቅ ደስታ ሆነ።",
+            "en": "And all the congregation of them that were come again out of the captivity made booths, and sat under the booths: for since the days of Jeshua the son of Nun unto that day had not the children of Israel done so. And there was very great gladness.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "ከመጀመሪያውም ቀን ጀምሮ እስከ መጨረሻው ቀን ድረስ ዕለት ዕለት የእግዚአብሔርን ሕግ መጽሐፍ ያነብብ ነበር። በዓሉን ሰባት ቀን ያህል አደረጉ፤ በስምንተኛውም ቀን እንደ ሕጉ የተቀደሰ ጉባኤ ነበረ።",
+            "en": "Also day by day, from the first day unto the last day, he read in the book of the law of God. And they kept the feast seven days; and on the eighth day was a solemn assembly, according unto the manner.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "በዚህም ወር በሀያ አራተኛው ቀን የእስራኤል ልጆች ጾመው፥ ማቅም ለብሰው፥ በላያቸውም ትቢያ ነስንሰው ተከማቹ።",
+            "en": "Now in the twenty and fourth day of this month the children of Israel were assembled with fasting, and with sackclothes, and earth upon them.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "የእስራኤልም ዘር ከእንግዶች ሁሉ ራሳቸውን ለዩ፥ ቆመውም ኃጢአታቸውንና የአባቶቻቸውን ኃጢአት ተናዘዙ።",
+            "en": "And the seed of Israel separated themselves from all strangers, and stood and confessed their sins, and the iniquities of their fathers.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "በየስፍራቸውም ቆመው የአምላካቸውን የእግዚአብሔርን የሕግ መጽሐፍ የቀን ሩብ ያህል አነበቡ፤ ሦስት የቀን ሩብም ያህል ተናዘዙ፥ ለአምላካቸው ለእግዚአብሔርም ሰገዱ።",
+            "en": "And they stood up in their place, and read in the book of the law of the LORD their God one fourth part of the day; and another fourth part they confessed, and worshipped the LORD their God.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ሌዋውያኑም ኢያሱና ባኒ፥ ቀድምኤል፥ ሰበንያ፥ ቡኒ፥ ሰራብያ፥ ባኒ፥ ክናኒ በደረጃዎች ላይ ቆመው ወደ አምላካቸው ወደ እግዚአብሔር በታላቅ ድምፅ ጮኹ።",
+            "en": "Then stood up upon the stairs, of the Levites, Jeshua, and Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, and Chenani, and cried with a loud voice unto the LORD their God.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ሌዋውያኑም ኢያሱ፥ ቀድምኤል፥ ባኒ፥ አሰበንያ፥ ሰራብያ፥ ሆዲያ፥ ሰበንያ፥ ፈታያ እንዲህ አሉ። ቆማችሁ ከዘላለም እስከ ዘላለም አምላካችንን እግዚአብሔርን ባርኩ። እንዲህም በሉ። በበረከትና በምስጋና ሁሉ ላይ ከፍ ከፍ ያለው ክቡር ስምህ ይባረክ።",
+            "en": "Then the Levites, Jeshua, and Kadmiel, Bani, Hashabniah, Sherebiah, Hodijah, Shebaniah, and Pethahiah, said, Stand up and bless the LORD your God for ever and ever: and blessed be thy glorious name, which is exalted above all blessing and praise.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "አንተ ብቻ እግዚአብሔር ነህ፤ ሰማዩንና የሰማያት ሰማይን ሠራዊታቸውንም ሁሉ፥ ምድሩንና በእርስዋ ላይ ያሉትን ሁሉ፥ ባሕሮቹንና በእነርሱ ውስጥ ያለውን ሁሉ፥ ፈጥረሃል፥ ሁሉንም ሕያው አድርገኸዋል፤ የሰማዩም ሠራዊት ለአንተ ይሰግዳሉ።",
+            "en": "Thou, even thou, art LORD alone; thou hast made heaven, the heaven of heavens, with all their host, the earth, and all things that are therein, the seas, and all that is therein, and thou preservest them all; and the host of heaven worshippeth thee.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "አንተ እግዚአብሔር አምላክ ነህ፤ አብራምን መረጥህ፥ ከዑር ከላውዴዎንም አወጣኸው፥ ስሙንም አብርሃም አልኸው፤",
+            "en": "Thou art the LORD the God, who didst choose Abram, and broughtest him forth out of Ur of the Chaldees, and gavest him the name of Abraham;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ልቡም በፊትህ የታመነ ሆኖ አገኘኸው፤ የከነዓናዊውንና የኬጢያዊውን የአሞራዊውንም የፌርዛዊውንም የኢያቡሳዊውንም የጌርጌሳዊውንም ምድር ለእርሱና ለዘሩ ትሰጥ ዘንድ ከእርሱ ጋር ቃል ኪዳን አደረግህ አንተም ጻድቅ ነህና ቃልህን ፈጸምህ።",
+            "en": "And foundest his heart faithful before thee, and madest a covenant with him to give the land of the Canaanites, the Hittites, the Amorites, and the Perizzites, and the Jebusites, and the Girgashites, to give it, I say, to his seed, and hast performed thy words; for thou art righteous:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "በግብጽም ሳሉ የአባታችንን መከራ አየህ፥ በኤርትራ ባሕርም ሳሉ ጩኸታቸውን ሰማህ፤",
+            "en": "And didst see the affliction of our fathers in Egypt, and heardest their cry by the Red sea;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "እንደ ታበዩባቸውም አውቀህ ነበርና በፈርዖንና በባሪያዎቹ ሁሉ በምድሩም ሕዝብ ሁሉ ላይ ምልክትና ተአምራት አሳየህ፤ ዛሬም እንደ ሆነው ስምህን አስጠራህ።",
+            "en": "And shewedst signs and wonders upon Pharaoh, and on all his servants, and on all the people of his land: for thou knewest that they dealt proudly against them. So didst thou get thee a name, as it is this day.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ከፊታቸውም ባሕሩን ከፈልህ፥ በባሕሩም መካከል በደረቅ አልፉ፤ ጠላቶቻቸውን ግን ድንጋይ ለጥልቅ ውኃ እንዲጣል በቀላይ ውስጥ ጣልሃቸው።",
+            "en": "And thou didst divide the sea before them, so that they went through the midst of the sea on the dry land; and their persecutors thou threwest into the deeps, as a stone into the mighty waters.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "የሚሄዱበትንም መንገድ ታበራላቸው ዘንድ በቀን በደመና ዓምድ፥ በሌሊትም በእሳት ዓምድ መራሃቸው።",
+            "en": "Moreover thou leddest them in the day by a cloudy pillar; and in the night by a pillar of fire, to give them light in the way wherein they should go.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ወደ ሲናም ተራራ ወረድህ፥ ከሰማይም ተናገርሃቸው፤ ቅኑን ፍርድና እውነቱን ሕግ መልካሙንም ሥርዓትና ትእዛዝ ሰጠሃቸው፤",
+            "en": "Thou camest down also upon mount Sinai, and spakest with them from heaven, and gavest them right judgments, and true laws, good statutes and commandments:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "የተቀደሰውንም ሰንበትህን አስታወቅሃቸው፥ ትእዛዝንና ሥርዓትን ሕግንም በባሪያህ በሙሴ እጅ አዘዝሃቸው።",
+            "en": "And madest known unto them thy holy sabbath, and commandedst them precepts, statutes, and laws, by the hand of Moses thy servant:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ለራባቸውም ከሰማይ እንጀራ ሰጠሃቸው፥ ለጥማታቸውም ከዓለቱ ውኃ አመጣህላቸው፤ ወደ ማልህላቸውም ምድር ገብተው ይወርሱ ዘንድ አዘዝሃቸው።",
+            "en": "And gavest them bread from heaven for their hunger, and broughtest forth water for them out of the rock for their thirst, and promisedst them that they should go in to possess the land which thou hadst sworn to give them.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ነገር ግን እነርሱና አባቶቻችን ታበዩ፥ አንገታቸውንም አደንደኑ፥ ትእዛዝህንም አልሰሙም፥",
+            "en": "But they and our fathers dealt proudly, and hardened their necks, and hearkened not to thy commandments,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "ለመስማትም እንቢ አሉ፥ ያደረግህላቸውንም ተአምራት አላሰቡም፤ አንገታቸውንም አደንደኑ፥ በዓመፃቸውም ወደ ባርነታቸው ይመለሱ ዘንድ አለቃ አደረጉ፤ አንተ ግን ይቅር ባይ፥ ቸርና መሐሪ አምላክ፥ ለቍጣም የምትዘገይ፥ ምሕረትንም የምታበዛ ነህ፥ አልተውሃቸውም።",
+            "en": "And refused to obey, neither were mindful of thy wonders that thou didst among them; but hardened their necks, and in their rebellion appointed a captain to return to their bondage: but thou art a God ready to pardon, gracious and merciful, slow to anger, and of great kindness, and forsookest them not.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "ቀልጦ የተሠራውንም እምቦሳ አድርገው። ከግብጽ ያወጣህ አምላክህ ይህ ነው ባሉ ጊዜ፥ እጅግም ባስቈጡህ ጊዜ፥",
+            "en": "Yea, when they had made them a molten calf, and said, This is thy God that brought thee up out of Egypt, and had wrought great provocations;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "አንተ በምሕረትህ ብዛት በምድረ በዳ አልተውሃቸውም፤ በመንገድም ይመራቸው ዘንድ የደመና ዓምድ በቀን፥ የሚሄዱበትንም መንገድ ያበራላቸው ዘንድ የእሳት ዓምድ በሌሊት ከእነርሱ አልራቀም።",
+            "en": "Yet thou in thy manifold mercies forsookest them not in the wilderness: the pillar of the cloud departed not from them by day, to lead them in the way; neither the pillar of fire by night, to shew them light, and the way wherein they should go.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "ያስተምራቸውም ዘንድ መልካሙን መንፈስህን ሰጠሃቸው፥ መናህንም ከአፋቸው አልከለከልህም፥ ለጥማታቸውም ውኃ ሰጠሃቸው።",
+            "en": "Thou gavest also thy good spirit to instruct them, and withheldest not thy manna from their mouth, and gavest them water for their thirst.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "አርባ ዓመትም በምድረ በዳ መገብሃቸው፥ ምንም አላጡም፤ ልብሳቸውም አላረጅም፥ እግራቸውም አላበጠም።",
+            "en": "Yea, forty years didst thou sustain them in the wilderness, so that they lacked nothing; their clothes waxed not old, and their feet swelled not.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 22,
+          "text": {
+            "am": "መንግሥታትንና አሕዛብን ከፍለህ ሰጠሃቸው፤ የሐሴቦንን ንጉሥ የሴዎንን ምድር፥ የባሳንንም ንጉሥ የዐግን ምድር ወረሱ።",
+            "en": "Moreover thou gavest them kingdoms and nations, and didst divide them into corners: so they possessed the land of Sihon, and the land of the king of Heshbon, and the land of Og king of Bashan.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 23,
+          "text": {
+            "am": "ልጆቻቸውንም እንደ ሰማይ ከዋክብት አበዛህ፤ ይገቡና ይወርሱ ዘንድ ለአባቶቻቸው ወደ ተናገርህላቸውም ምድር አገባሃቸው።",
+            "en": "Their children also multipliedst thou as the stars of heaven, and broughtest them into the land, concerning which thou hadst promised to their fathers, that they should go in to possess it.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 24,
+          "text": {
+            "am": "ልጆቹም ገብተው ምድሩን ወረሱ፥ የምድሩን ሰዎች ከነዓናውያንን በፊታቸው አዋረድህ፤ የሚወድዱትንም ነገር ያደረጉባቸው ዘንድ እነርሱንና ነገሥታቶቻቸውን የምድሩንም አሕዛብ በእጃቸው አሳልፈህ ሰጠሃቸው።",
+            "en": "So the children went in and possessed the land, and thou subduedst before them the inhabitants of the land, the Canaanites, and gavest them into their hands, with their kings, and the people of the land, that they might do with them as they would.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 25,
+          "text": {
+            "am": "ምሽጎቹንም ከተሞች የሰባውንም ምድር ወሰዱ፤ መልካሙን ነገር የሞሉትን ቤቶች፥ የተማሱትንም ጕድጓዶች፥ ወይኖቹንና ወይራዎቹን ብዙዎቹንም የፍሬ ዛፎች ወረሱ፤ በሉም፥ ጠገቡም፥ ወፈሩም፥ በታላቅ በጎነትህም ደስ አላቸው።",
+            "en": "And they took strong cities, and a fat land, and possessed houses full of all goods, wells digged, vineyards, and oliveyards, and fruit trees in abundance: so they did eat, and were filled, and became fat, and delighted themselves in thy great goodness.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 26,
+          "text": {
+            "am": "ነገር ግን እንቢተኞች ነበሩ፥ ዐመፁብህም፥ ሕግህንም ወደ ኋላቸው ጣሉት፤ ወደ አንተም ይመለሱ ዘንድ የመሰከሩባቸውን ነቢያትህን ገደሉ፥ እጅግም አስቈጡህ።",
+            "en": "Nevertheless they were disobedient, and rebelled against thee, and cast thy law behind their backs, and slew thy prophets which testified against them to turn them to thee, and they wrought great provocations.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 27,
+          "text": {
+            "am": "ስለዚህ ለጠላቶቻቸው እጅ አሳልፈህ ሰጠሃቸው፥ አስጨነቁአቸውም፤ በመከራቸውም ጊዜ ወደ አንተ ጮኹ፥ ከሰማይም ሰማሃቸው፤ እንደ ምሕረትህም ብዛት ከጠላቶቻቸው እጅ ያዳኑአቸውን ታዳጊዎችን ሰጠሃቸው።",
+            "en": "Therefore thou deliveredst them into the hand of their enemies, who vexed them: and in the time of their trouble, when they cried unto thee, thou heardest them from heaven; and according to thy manifold mercies thou gavest them saviours, who saved them out of the hand of their enemies.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 28,
+          "text": {
+            "am": "ባረፉም ጊዜ ተመልሰው በፊትህ ክፉ አደረጉ፤ በጠላቶቻቸው እጅ ተውሃቸው፥ ገዙአቸውም፤ ተመልሰውም ወደ አንተ በጮኹ ጊዜ ከሰማይ ሰማሃቸው፥ እንደ ምሕረትህም ብዛት ታደግሃቸው፤",
+            "en": "But after they had rest, they did evil again before thee: therefore leftest thou them in the hand of their enemies, so that they had the dominion over them: yet when they returned, and cried unto thee, thou heardest them from heaven; and many times didst thou deliver them according to thy mercies;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 29,
+          "text": {
+            "am": "ወደ ሕግህም ትመልሳቸው ዘንድ አስመሰከርህባቸው፤ ነገር ግን ታበዩ፥ ትእዛዝህንም አልሰሙም፥ ሰውም ባደረገው ጊዜ በሕይወት የሚኖርበትን ፍርድህን ተላለፉ፤ ትከሻቸውንም ሰጡ፥ አንገታቸውን አደነደኑ፥ አልሰሙምም።",
+            "en": "And testifiedst against them, that thou mightest bring them again unto thy law: yet they dealt proudly, and hearkened not unto thy commandments, but sinned against thy judgments, (which if a man do, he shall live in them;) and withdrew the shoulder, and hardened their neck, and would not hear.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 30,
+          "text": {
+            "am": "ነገር ግን ብዙ ዓመታት ታገሥሃቸው፥ በነቢያትህም እጅ በመንፈስህ መሰከርህባቸው፤ አላደመጡም፥ ስለዚህም በምድር አሕዛብ እጅ አሳልፈህ ሰጠሃቸው።",
+            "en": "Yet many years didst thou forbear them, and testifiedst against them by thy spirit in thy prophets: yet would they not give ear: therefore gavest thou them into the hand of the people of the lands.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 31,
+          "text": {
+            "am": "ነገር ግን አንተ ቸርና መሐሪ አምላክ ነህና በምሕረትህ ብዛት ፈጽመህ አላጠፋሃቸውም፥ አልተውሃቸውምም።",
+            "en": "Nevertheless for thy great mercies' sake thou didst not utterly consume them, nor forsake them; for thou art a gracious and merciful God.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 32,
+          "text": {
+            "am": "አሁንም አምላካችን ሆይ፥ ቃል ኪዳንንና ምሕረትን የምትጠብቅ ታላቅና ኃያል የተፈራኸውም አምላክ ሆይ፥ ከአሦር ነገሥታት ዘመን ጀምሮ እስከ ዛሬ ድረስ በእኛና በነገሥታቶቻችን በአለቆቻችንም በካህናቶቻችንም በነቢያቶቻችንም በአባቶቻችንም በሕዝብህ ሁሉ ላይ የደረሰው መከራ ሁሉ በፊትህ ጥቂት መስሎ አይታይህ።",
+            "en": "Now therefore, our God, the great, the mighty, and the terrible God, who keepest covenant and mercy, let not all the trouble seem little before thee, that hath come upon us, on our kings, on our princes, and on our priests, and on our prophets, and on our fathers, and on all thy people, since the time of the kings of Assyria unto this day.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 33,
+          "text": {
+            "am": "በደረሰብንም ነገር ሁሉ አንተ ጻድቅ ነህ፥ አንተ እውነት አድርገሃልና፥ እኛም ኃጢአት አድርገናል።",
+            "en": "Howbeit thou art just in all that is brought upon us; for thou hast done right, but we have done wickedly:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 34,
+          "text": {
+            "am": "ነገሥታቶቻችንም አለቆቻችንም ካህናቶቻችንም አባቶቻችንም ሕግህን አልጠበቁም፥ የመሰከርህባቸውንም ትእዛዝህንና ምስክርህን አልሰሙህም።",
+            "en": "Neither have our kings, our princes, our priests, nor our fathers, kept thy law, nor hearkened unto thy commandments and thy testimonies, wherewith thou didst testify against them.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 35,
+          "text": {
+            "am": "በመንግሥታቸውም በሰጠሃቸውም ታላቅ በጎነትህ፥ በፊታቸውም በሰጠኸው በሰባው ምድር አላመለኩህም፥ ከክፉም ሥራቸው አልተመለሱም።",
+            "en": "For they have not served thee in their kingdom, and in thy great goodness that thou gavest them, and in the large and fat land which thou gavest before them, neither turned they from their wicked works.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 36,
+          "text": {
+            "am": "እነሆ፥ ዛሬ ባሪያዎች ነን፤ ፍሬዋንና በረከትዋን ይበሉ ዘንድ ለአባቶቻችን በሰጠሃት ምድር፥ እነሆ፥ በእርስዋ ባሪያዎች ነን፥",
+            "en": "Behold, we are servants this day, and for the land that thou gavest unto our fathers to eat the fruit thereof and the good thereof, behold, we are servants in it:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 37,
+          "text": {
+            "am": "ስለ ኃጢአታችንም ለሾምህብን ነገሥታት በረከትዋን ታበዛለች፤ ሰውነታችንንም ይገዛሉ፥ በእንስሶቻችንም የሚወድዱትን ያደርጋሉ፥ እኛም በጽኑ መከራ ላይ ነን።",
+            "en": "And it yieldeth much increase unto the kings whom thou hast set over us because of our sins: also they have dominion over our bodies, and over our cattle, at their pleasure, and we are in great distress.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 38,
+          "text": {
+            "am": "ስለዚህም ሁሉ የታመነውን ቃል ኪዳን አድርገን እንጽፋለን፤ አለቆቻችንም ሌዋውያኖቻችንም ካህናቶቻችንም ያትሙበታል።",
+            "en": "And because of all this we make a sure covenant, and write it; and our princes, Levites, and priests, seal unto it.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "ያተሙትም እነዚህ ናቸው፤ የሐካልያ ልጅ ሐቴርሰታ ነህምያ፥",
+            "en": "Now those that sealed were, Nehemiah, the Tirshatha, the son of Hachaliah, and Zidkijah,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ሴዴቅያስ፥ ሠራያ፥",
+            "en": "Seraiah, Azariah, Jeremiah,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ዓዛርያስ፥ ኤርምያስ፥ ፋስኮር፥ አማርያ፥ መልክያ፥",
+            "en": "Pashur, Amariah, Malchijah,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ሐጡስ፥ ሰበንያ፥ መሉክ፥ ካሪም፥",
+            "en": "Hattush, Shebaniah, Malluch,",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              4,
+              5
+            ]
+          }
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ሐጡስ፥ ሰበንያ፥ መሉክ፥ ካሪም፥",
+            "en": "Harim, Meremoth, Obadiah,",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              4,
+              5
+            ]
+          }
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": null,
+            "en": "Daniel, Ginnethon, Baruch,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ሜሱላም፥ አብያ፥ ሚያሚን፥ መዓዝያ፥ ቤልጋል፥ ሸማያ፤ እነዚህ ካህናት ነበሩ።",
+            "en": "Meshullam, Abijah, Mijamin,",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              7,
+              8
+            ]
+          }
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ሜሱላም፥ አብያ፥ ሚያሚን፥ መዓዝያ፥ ቤልጋል፥ ሸማያ፤ እነዚህ ካህናት ነበሩ።",
+            "en": "Maaziah, Bilgai, Shemaiah: these were the priests.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              7,
+              8
+            ]
+          }
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ሌዋውያኑም፤ የአዛንያ ልጅ ኢያሱ፥ ከኤንሐዳድ ልጆች ቢንዊ፥ ቀድምኤል፤",
+            "en": "And the Levites: both Jeshua the son of Azaniah, Binnui of the sons of Henadad, Kadmiel;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ወንድሞቻቸውም ሰባንያ፥ ሆዲያ፥ ቆሊጣስ፥",
+            "en": "And their brethren, Shebaniah, Hodijah, Kelita, Pelaiah, Hanan,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ፌልያ፥ ሐናን፥ ሚካ፥ ረአብ፥ ሐሸብያ፥",
+            "en": "Micha, Rehob, Hashabiah,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "ዘኩር፥ ሰራብያ፥ ሰበንያ፥ ሆዲያ፥ ባኒ፥ ብኒኑ።",
+            "en": "Zaccur, Sherebiah, Shebaniah,",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              12,
+              13
+            ]
+          }
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ዘኩር፥ ሰራብያ፥ ሰበንያ፥ ሆዲያ፥ ባኒ፥ ብኒኑ።",
+            "en": "Hodijah, Bani, Beninu.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              12,
+              13
+            ]
+          }
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "የሕዝቡ አለቆች፤ ፋሮስ፥ ፈሐት ሞዓብ፥",
+            "en": "The chief of the people; Parosh, Pahathmoab, Elam, Zatthu, Bani,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ኤላም፥ ዛቱዕ፥ ባኒ፥ ቡኒ፥ ዓዝጋድ፥ ቤባይ፥",
+            "en": "Bunni, Azgad, Bebai,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "አዶንያስ፥ በጉዋይ፥ ዓዲን፥ አጤር፥ ሕዝቅያስ፥",
+            "en": "Adonijah, Bigvai, Adin,",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              16,
+              17
+            ]
+          }
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "አዶንያስ፥ በጉዋይ፥ ዓዲን፥ አጤር፥ ሕዝቅያስ፥",
+            "en": "Ater, Hizkijah, Azzur,",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              16,
+              17
+            ]
+          }
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "ዓዙር፥ ሆዲያ፥ ሐሱም፥ ቤሳይ፥",
+            "en": "Hodijah, Hashum, Bezai,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "ሐሪፍ፥ ዓናቶት፥ ኖባይ፥ መግጲዓስ፥ ሜሱላም",
+            "en": "Hariph, Anathoth, Nebai,",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              19,
+              20
+            ]
+          }
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "ሐሪፍ፥ ዓናቶት፥ ኖባይ፥ መግጲዓስ፥ ሜሱላም",
+            "en": "Magpiash, Meshullam, Hezir,",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              19,
+              20
+            ]
+          }
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "ኤዚር፥ ሜሴዜቤል፥ ሳዶቅ፥ ያዱአ፥ ፈላጥያ፥",
+            "en": "Meshezabeel, Zadok, Jaddua,",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              21,
+              22
+            ]
+          }
+        },
+        {
+          "verse": 22,
+          "text": {
+            "am": "ኤዚር፥ ሜሴዜቤል፥ ሳዶቅ፥ ያዱአ፥ ፈላጥያ፥",
+            "en": "Pelatiah, Hanan, Anaiah,",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              21,
+              22
+            ]
+          }
+        },
+        {
+          "verse": 23,
+          "text": {
+            "am": "ሐናን፥ ዓናያ፥ ሆሴዕ፥ ሐናንያ፥ አሱብ፥",
+            "en": "Hoshea, Hananiah, Hashub,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 24,
+          "text": {
+            "am": "አሎኤስ፥ ፈልሃ፥ ሶቤቅ፥ ሬሁም፥ ሐሰብና፥",
+            "en": "Hallohesh, Pileha, Shobek,",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              24,
+              25
+            ]
+          }
+        },
+        {
+          "verse": 25,
+          "text": {
+            "am": "አሎኤስ፥ ፈልሃ፥ ሶቤቅ፥ ሬሁም፥ ሐሰብና፥",
+            "en": "Rehum, Hashabnah, Maaseiah,",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              24,
+              25
+            ]
+          }
+        },
+        {
+          "verse": 26,
+          "text": {
+            "am": "መዕሤያ፥ አኪያ፥ ሐናን፥ ዓናን፥ መሉክ፥ ካሪም፥ በዓና።",
+            "en": "And Ahijah, Hanan, Anan,",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              26,
+              27
+            ]
+          }
+        },
+        {
+          "verse": 27,
+          "text": {
+            "am": "መዕሤያ፥ አኪያ፥ ሐናን፥ ዓናን፥ መሉክ፥ ካሪም፥ በዓና።",
+            "en": "Malluch, Harim, Baanah.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              26,
+              27
+            ]
+          }
+        },
+        {
+          "verse": 28,
+          "text": {
+            "am": "የቀሩትም ሕዝብ፥ ካህናቱም፥ ሌዋውያኑም፥ በረኞቹም፥ መዘምራንም፥ ናታኒምም፥ ከምድርም አሕዛብ ወደ እግዚአብሔር ሕግ ራሳቸውን የለዩ ሁሉ፥ ሚስቶቻቸውም፥ ወንዶችና ሴቶች ልጆቻቸውም፥ የሚያውቁትና የሚያስተውሉትም ሁሉ ወደ ወንድሞቻቸው ወደ ታላላቆቻቸው ተጠጉ፤",
+            "en": "And the rest of the people, the priests, the Levites, the porters, the singers, the Nethinims, and all they that had separated themselves from the people of the lands unto the law of God, their wives, their sons, and their daughters, every one having knowledge, and having understanding;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 29,
+          "text": {
+            "am": "በእግዚአብሔርም ባሪያ በሙሴ እጅ በተሰጠው በእግዚአብሔር ሕግ ይሄዱ ዘንድ፥ የጌታችንንም የእግዚአብሔርን ትእዛዝ ሁሉ ፍርዱንም ሥርዓቱንም ይጠብቁና ያደርጉ ዘንድ እርግማንና መሐላውን አደረጉ።",
+            "en": "They clave to their brethren, their nobles, and entered into a curse, and into an oath, to walk in God's law, which was given by Moses the servant of God, and to observe and do all the commandments of the LORD our Lord, and his judgments and his statutes;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 30,
+          "text": {
+            "am": "ሴቶች ልጆቻችንንም ለምድር አሕዛብ አንሰጥም፥ ሴቶች ልጆቻቸውንም ለልጆቻችን አንወስድም፤",
+            "en": "And that we would not give our daughters unto the people of the land, nor take their daughters for our sons:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 31,
+          "text": {
+            "am": "የምድርን አሕዛብ ሸቀጥና ልዩ ልዩ እህል ሊገበዩ በሰንበት ቀን ቢያመጡ፥ በሰንበት ወይም በተቀደሰው ቀን ከእነርሱ አንገዛም፤ የሰባተኛውንም ዓመት ፍሬና ዕዳን ማስከፈል እንተዋለን ብለው ማሉ።",
+            "en": "And if the people of the land bring ware or any victuals on the sabbath day to sell, that we would not buy it of them on the sabbath, or on the holy day: and that we would leave the seventh year, and the exaction of every debt.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 32,
+          "text": {
+            "am": "ስለ አምላካችንም ቤት አገልግሎት፥ ስለ ገጸ ኅብስትም፥ ዘወትርም በሰንበትና በመባቻ ስለ ማቅረብ ስለ እህሉ ቍርባንና ስለሚቃጠል መሥዋዕት፥ ስለ በዓላትም፥ ስለ ተቀደሱትም ነገሮች፥ ለእስራኤልም ስለሚያስተሰርየው ስለ ኃጢአት መሥዋዕት፥ ስለ አምላካችንም ቤት ሥራ ሁሉ በየዓመቱ የሰቅል ሢሶ እናመጣ ዘንድ ትእዛዝ በራሳችን ላይ አደረግን።",
+            "en": "Also we made ordinances for us, to charge ourselves yearly with the third part of a shekel for the service of the house of our God;",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              32,
+              33
+            ]
+          }
+        },
+        {
+          "verse": 33,
+          "text": {
+            "am": "ስለ አምላካችንም ቤት አገልግሎት፥ ስለ ገጸ ኅብስትም፥ ዘወትርም በሰንበትና በመባቻ ስለ ማቅረብ ስለ እህሉ ቍርባንና ስለሚቃጠል መሥዋዕት፥ ስለ በዓላትም፥ ስለ ተቀደሱትም ነገሮች፥ ለእስራኤልም ስለሚያስተሰርየው ስለ ኃጢአት መሥዋዕት፥ ስለ አምላካችንም ቤት ሥራ ሁሉ በየዓመቱ የሰቅል ሢሶ እናመጣ ዘንድ ትእዛዝ በራሳችን ላይ አደረግን።",
+            "en": "For the shewbread, and for the continual meat offering, and for the continual burnt offering, of the sabbaths, of the new moons, for the set feasts, and for the holy things, and for the sin offerings to make an atonement for Israel, and for all the work of the house of our God.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              32,
+              33
+            ]
+          }
+        },
+        {
+          "verse": 34,
+          "text": {
+            "am": "እኛም፥ ካህናቱና ሌዋውያኑ ሕዝቡም፥ እንደ አባቶቻችን ቤቶች በተወሰነ ጊዜ በየዓመቱ ወደ አምላካችን ቤት አምጥተን በሕጉ እንደ ተጻፈ በአምላካችን በእግዚአብሔር መሠዊያ ላይ ይቃጠል ዘንድ ስለ እንጨት ቍርባን ዕጣ ተጣጣልን፤",
+            "en": "And we cast the lots among the priests, the Levites, and the people, for the wood offering, to bring it into the house of our God, after the houses of our fathers, at times appointed year by year, to burn upon the altar of the LORD our God, as it is written in the law:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 35,
+          "text": {
+            "am": "በየዓመቱም የመሬታችንን በኵራት የሁሉ ዓይነት ዛፍ የፍሬ ሁሉ በኵራት ሁሉ ወደ እግዚአብሔር ቤት እናመጣ ዘንድ፥",
+            "en": "And to bring the firstfruits of our ground, and the firstfruits of all fruit of all trees, year by year, unto the house of the LORD:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 36,
+          "text": {
+            "am": "በሕጉም እንደ ተጻፈ የልጆቻችንና የእንስሶቻችንን በኵራት፥ የበሬዎቻችንንና የበጎቻችንን በኵራት በአምላካችን ቤት ወደሚያገለግሉት ካህናት ወደ አምላካችን ቤት እናመጣ ዘንድ፥",
+            "en": "Also the firstborn of our sons, and of our cattle, as it is written in the law, and the firstlings of our herds and of our flocks, to bring to the house of our God, unto the priests that minister in the house of our God:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 37,
+          "text": {
+            "am": "የእህላችንንም በኵራት፥ የእጅ ማንሣታችንን ቍርባን፥ የዛፍ ሁሉ ፍሬ፥ ወይኑንና ዘይቱንም ወደ ካህናቱ ወደ አምላካችን ቤት ጓዳዎች እናመጣ ዘንድ፥ ሌዋውያኑም ከከተሞቻችን እርሻ ሁሉ አሥራት ይቀበላሉና የመሬታችንን አሥራት ወደ ሌዋውያን እናመጣ ዘንድ ማልን።",
+            "en": "And that we should bring the firstfruits of our dough, and our offerings, and the fruit of all manner of trees, of wine and of oil, unto the priests, to the chambers of the house of our God; and the tithes of our ground unto the Levites, that the same Levites might have the tithes in all the cities of our tillage.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 38,
+          "text": {
+            "am": "ሌዋውያኑም አሥራቱን በተቀበሉ ጊዜ የአሮን ልጅ ካህኑ ከሌዋውያን ጋር ይሁን፤ ሌዋውያኑም የአሥራቱን አሥራት ወደ አምላካችን ቤት ወደ ጓዳዎች ወደ ዕቃ ቤት ያምጡት።",
+            "en": "And the priest the son of Aaron shall be with the Levites, when the Levites take tithes: and the Levites shall bring up the tithe of the tithes unto the house of our God, to the chambers, into the treasure house.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 39,
+          "text": {
+            "am": "የእስራኤል ልጆችና የሌዊ ልጆችም የእህሉንና የወይኑን የዘይቱንም የማንሣት ቍርባንን የመቅደሱ ዕቃዎችና የሚያገለግሉት ካህናት በረኞቹና መዘምራኑ ወዳሉባቸው ጓዳዎች ያግቡት፤ እንዲሁም የአምላካችንን ቤት ከቶ አንተውም።",
+            "en": "For the children of Israel and the children of Levi shall bring the offering of the corn, of the new wine, and the oil, unto the chambers, where are the vessels of the sanctuary, and the priests that minister, and the porters, and the singers: and we will not forsake the house of our God.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "የሕዝቡም አለቆች በኢየሩሳሌም ተቀመጡ፤ ከቀሩትም ሕዝብ ከአሥሩ ክፍል አንዱ በቅድስቲቱ ከተማ በኢየሩሳሌም፥ ዘጠኙም በሌሎች ከተሞች ይቀመጡ ዘንድ ዕጣ ተጣጣሉ።",
+            "en": "And the rulers of the people dwelt at Jerusalem: the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem the holy city, and nine parts to dwell in other cities.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ሕዝቡም በፈቃዳቸው በኢየሩሳሌም ለመቀመጥ የወደዱትን ሰዎች ሁሉ ባረኩ።",
+            "en": "And the people blessed all the men, that willingly offered themselves to dwell at Jerusalem.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "በኢየሩሳሌምም የተቀመጡት የአገሩ አለቆች እነዚህ ናቸው፤ እስራኤል ግን ካህናቱም ሌዋውያኑም ናታኒምም የሰሎሞንም ባሪያዎች ልጆች እያንዳንዳቸው በየርስታቸውና በየከተማቸው በይሁዳ ከተሞች ተቀመጡ።",
+            "en": "Now these are the chief of the province that dwelt in Jerusalem: but in the cities of Judah dwelt every one in his possession in their cities, to wit, Israel, the priests, and the Levites, and the Nethinims, and the children of Solomon's servants.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ከይሁዳና ከብንያምም ልጆች እነዚህ በኢየሩሳሌም ተቀመጡ። ከይሁዳ ልጆች፤ ከፋሬስ ልጆች የመላልኤል ልጅ የሰፋጥያስ ልጅ የአማርያ ልጅ የዘካርያስ ልጅ የዖዝያ ልጅ አታያ፤",
+            "en": "And at Jerusalem dwelt certain of the children of Judah, and of the children of Benjamin. Of the children of Judah; Athaiah the son of Uzziah, the son of Zechariah, the son of Amariah, the son of Shephatiah, the son of Mahalaleel, of the children of Perez;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "የሴሎናዊውም ልጅ የዘካርያስ ልጅ የዮያሪብ ልጅ የዓዳያ ልጅ የዖዛያ ልጅ የኮልሖዜ ልጅ የባሮክ ልጅ መዕሤያ።",
+            "en": "And Maaseiah the son of Baruch, the son of Colhozeh, the son of Hazaiah, the son of Adaiah, the son of Joiarib, the son of Zechariah, the son of Shiloni.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "በኢየሩሳሌም የተቀመጡት የፋሬስ ልጆች ሁሉ አራት መቶ ስድሳ ስምንት ጽኑዓን ነበሩ።",
+            "en": "All the sons of Perez that dwelt at Jerusalem were four hundred threescore and eight valiant men.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "የብንያምም ልጆች እነዚህ ናቸው፤ የየሻያ ልጅ የኢቲኤል ልጅ የመዕሤያ ልጅ የቆላያ ልጅ የፈዳያ ልጅ የዮእድ ልጅ የሜሱላም ልጅ ሰሉ።",
+            "en": "And these are the sons of Benjamin; Sallu the son of Meshullam, the son of Joed, the son of Pedaiah, the son of Kolaiah, the son of Maaseiah, the son of Ithiel, the son of Jesaiah.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ከእርሱም በኋላ ጌቤና ሳላይ ዘጠኝ መቶም ሀያ ስምንት።",
+            "en": "And after him Gabbai, Sallai, nine hundred twenty and eight.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "አለቃቸውም የዝክሪ ልጅ ኢዮኤል ነበረ፤ የሐስኑአም ልጅ ይሁዳ በከተማው ላይ ሁለተኛ ነበረ።",
+            "en": "And Joel the son of Zichri was their overseer: and Judah the son of Senuah was second over the city.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ከካህናቱ፤ የዮያሪብ ልጅ ዮዳኤ፥ ያኪን፥",
+            "en": "Of the priests: Jedaiah the son of Joiarib, Jachin.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "የእግዚአብሔርም ቤት አለቃ የአኪጦብ ልጅ የመራዮት ልጅ የሳዶቅ ልጅ የሜሱላም ልጅ የኪልቅያስ ልጅ ሠራያ፥",
+            "en": "Seraiah the son of Hilkiah, the son of Meshullam, the son of Zadok, the son of Meraioth, the son of Ahitub, was the ruler of the house of God.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "የቤቱንም ሥራ የሠሩ ወንድሞቻቸው ስምንት መቶ ሀያ ሁለት፤ የመልክያ ልጅ የፋስኮር ልጅ የዘካርያስ ልጅ የአማሲ ልጅ የፈላልያ ልጅ የይሮሐም ልጅ ዓዳያ፥",
+            "en": "And their brethren that did the work of the house were eight hundred twenty and two: and Adaiah the son of Jeroham, the son of Pelaliah, the son of Amzi, the son of Zechariah, the son of Pashur, the son of Malchiah,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ወንድሞቹም የአባቶቹ ቤቶች አለቆች ሁለት መቶ አርባ ሁለት፤ የኢሜር ልጅ የምሺሌሞት ልጅ የአሕዛይ ልጅ የኤዝርኤል ልጅ አማስያ፥",
+            "en": "And his brethren, chief of the fathers, two hundred forty and two: and Amashai the son of Azareel, the son of Ahasai, the son of Meshillemoth, the son of Immer,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ወንድሞቻቸውም መቶ ሀያ ስምንት ጽኑዓን ኃያላን፤ አለቃቸውም የሐግዶሊም ልጅ ዘብድኤል ነበረ።",
+            "en": "And their brethren, mighty men of valour, an hundred twenty and eight: and their overseer was Zabdiel, the son of one of the great men.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ከሌዋውያንም፤ የቡኒ ልጅ የአሳብያ ልጅ የዓዝሪቃም ልጅ የአሱብ ልጅ ሻማያ፤",
+            "en": "Also of the Levites: Shemaiah the son of Hashub, the son of Azrikam, the son of Hashabiah, the son of Bunni;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ከእግዚአብሔርም ቤት በሜዳ በነበረው ሥራ ላይ የነበሩ የሌዋውያን አለቆች ሳባታይና ዮዛባት፤",
+            "en": "And Shabbethai and Jozabad, of the chief of the Levites, had the oversight of the outward business of the house of God.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "በጸሎትም ጊዜ ምስጋናን የሚቀነቅኑ አለቃው የአሳፍ ልጅ የዘብዲ ልጅ የሚካ ልጅ መታንያ፥ በወንድሞቹም መካከል ሁለተኛ የነበረ በቅበቃር፥ የኤዶታምም ልጅ የጋላል ልጅ የሳሙስ ልጅ አብድያ።",
+            "en": "And Mattaniah the son of Micha, the son of Zabdi, the son of Asaph, was the principal to begin the thanksgiving in prayer: and Bakbukiah the second among his brethren, and Abda the son of Shammua, the son of Galal, the son of Jeduthun.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "በቅድስቲቱ ከተማ የነበሩ ሌዋውያን ሁሉ ሁለት መቶ ሰማንያ አራት ነበሩ።",
+            "en": "All the Levites in the holy city were two hundred fourscore and four.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "በሮቹንም የሚጠብቁ በረኞቹ፥ ዓቁብና ጤልሞን ወንድሞቻቸውም፥ መቶ ሰባ ሁለት ነበሩ።",
+            "en": "Moreover the porters, Akkub, Talmon, and their brethren that kept the gates, were an hundred seventy and two.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "ከእስራኤልም የቀሩት ከካህናትና ከሌዋውያንም እያንዳንዳቸው በየርስታቸው በይሁዳ ከተሞች ሁሉ ውስጥ ነበሩ።",
+            "en": "And the residue of Israel, of the priests, and the Levites, were in all the cities of Judah, every one in his inheritance.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "ናታኒምም በዖፌል ተቀምጠው ነበር፤ ሲሐና ጊሽጳ በናታኒም ላይ ነበሩ።",
+            "en": "But the Nethinims dwelt in Ophel: and Ziha and Gispa were over the Nethinims.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 22,
+          "text": {
+            "am": "በእግዚአብሔርም ቤት ሥራ ላይ ከነበሩ መዘምራን ከአሳፍ ልጆች ወገን የሚካ ልጅ የመታንያ ልጅ የሐሸብያ ልጅ የባኒ ልጅ ኦዚ በኢየሩሳሌም የሌዋውያን አለቃ ነበረ።",
+            "en": "The overseer also of the Levites at Jerusalem was Uzzi the son of Bani, the son of Hashabiah, the son of Mattaniah, the son of Micha. Of the sons of Asaph, the singers were over the business of the house of God.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 23,
+          "text": {
+            "am": "ስለ እነርሱም የንጉሥ ትእዛዝ ነበረ፤ የመዘምራኑም ሥርዓት ለየዕለቱ የተሠራ ነበረ።",
+            "en": "For it was the king's commandment concerning them, that a certain portion should be for the singers, due for every day.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 24,
+          "text": {
+            "am": "ከይሁዳም ልጅ ከዛራ ወገን የሜሴዜቤል ልጅ ፈታያ ስለ ሕዝቡ ነገር ሁሉ በንጉሡ አጠገብ ነበረ።",
+            "en": "And Pethahiah the son of Meshezabeel, of the children of Zerah the son of Judah, was at the king's hand in all matters concerning the people.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 25,
+          "text": {
+            "am": "ስለ መንደሮቹና ስለ እርሾቻቸው፤ ከይሁዳ ልጆች አያሌዎች በቂርያትአርባቅና በመንደሮችዋ፥ በዲቦንና በመንደሮችዋም፥ በይቀብጽኤልና በመንደሮችዋም፥",
+            "en": "And for the villages, with their fields, some of the children of Judah dwelt at Kirjatharba, and in the villages thereof, and at Dibon, and in the villages thereof, and at Jekabzeel, and in the villages thereof,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 26,
+          "text": {
+            "am": "በኢያሱ፥ በሞላዳ፥ በቤትጳሌጥ፥ በሐጸርሹዓል፥",
+            "en": "And at Jeshua, and at Moladah, and at Bethphelet,",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              26,
+              27
+            ]
+          }
+        },
+        {
+          "verse": 27,
+          "text": {
+            "am": "በኢያሱ፥ በሞላዳ፥ በቤትጳሌጥ፥ በሐጸርሹዓል፥",
+            "en": "And at Hazarshual, and at Beersheba, and in the villages thereof,",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              26,
+              27
+            ]
+          }
+        },
+        {
+          "verse": 28,
+          "text": {
+            "am": "በቤርሳቤህና በመንደሮችዋ፥ በጺቅላግ፥",
+            "en": "And at Ziklag, and at Mekonah, and in the villages thereof,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 29,
+          "text": {
+            "am": "በምኮናና በመንደሮችዋ፥ በዓይንሪሞን፥",
+            "en": "And at Enrimmon, and at Zareah, and at Jarmuth,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 30,
+          "text": {
+            "am": "በጾርዓ፥ በየርሙት፥ በዛኖዋ በዓዶላም በመንደሮቻቸውም፥ በለኪሶና በእርሻዎችዋ፥ በዓዜቃና በመንደሮችዋ ተቀመጡ። እንዲሁ ከቤርሳቤህ ጀምሮ እስከ ሄኖም ሸለቆ ድረስ ሰፈሩ።",
+            "en": "Zanoah, Adullam, and in their villages, at Lachish, and the fields thereof, at Azekah, and in the villages thereof. And they dwelt from Beersheba unto the valley of Hinnom.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 31,
+          "text": {
+            "am": "የብንያምም ልጆች ከጌባ ጀምሮ በማክማስ፥ በጋያ፥",
+            "en": "The children also of Benjamin from Geba dwelt at Michmash, and Aija, and Bethel, and in their villages,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 32,
+          "text": {
+            "am": "በቤቴልና በመንደሮችዋ፥ በዓናቶት፥ በኖብ፥",
+            "en": "And at Anathoth, Nob, Ananiah,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 33,
+          "text": {
+            "am": "በሐናንያ፥ በሐጾር፥ በራማ፥ በጊቴም፥ በሐዲድ፥",
+            "en": "Hazor, Ramah, Gittaim,",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              33,
+              34
+            ]
+          }
+        },
+        {
+          "verse": 34,
+          "text": {
+            "am": "በሐናንያ፥ በሐጾር፥ በራማ፥ በጊቴም፥ በሐዲድ፥",
+            "en": "Hadid, Zeboim, Neballat,",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              33,
+              34
+            ]
+          }
+        },
+        {
+          "verse": 35,
+          "text": {
+            "am": "በስቦይም፥ በንበላት፥ በሎድ፥ በኦኖ፥ በጌሐራሺም ተቀመጡ።",
+            "en": "Lod, and Ono, the valley of craftsmen.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 36,
+          "text": {
+            "am": "በይሁዳም ከነበሩ ሌዋውያን አያሌ ክፍሎች ወደ ብንያም ሆኑ።",
+            "en": "And of the Levites were divisions in Judah, and in Benjamin.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "ከሰላትያል ልጅ ከዘሩባቤልና ከኢያሱ ጋር የወጡት ካህናትና ሌዋውያን እነዚህ ነበሩ፤",
+            "en": "Now these are the priests and the Levites that went up with Zerubbabel the son of Shealtiel, and Jeshua: Seraiah, Jeremiah, Ezra,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ሠራያ፥ ኤርምያስ፥ ዕዝራ፥ አማርያ፥",
+            "en": "Amariah, Malluch, Hattush,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "መሉክ፥ ሐጡስ፥ ሴኬንያ፥ ሬሁም፥ ሜሪሞት፥",
+            "en": "Shechaniah, Rehum, Meremoth,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "አዶ፥ ጌንቶን፥ አብያ፥ ሚያሚን",
+            "en": "Iddo, Ginnetho, Abijah,",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              4,
+              5
+            ]
+          }
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "አዶ፥ ጌንቶን፥ አብያ፥ ሚያሚን",
+            "en": "Miamin, Maadiah, Bilgah,",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              4,
+              5
+            ]
+          }
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "መዓድያ፥ ቢልጋ፥ ሸማያ፥ ዮያሪብ፥ ዮዳኤ፥",
+            "en": "Shemaiah, and Joiarib, Jedaiah,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ሰሉ፥ ዓሞቅ፥ ኬልቅያስ፥ ዮዳኤ፤ እነዚህ በኢያሱ ዘመን የካህናቱና የወንድሞቻቸው አለቆች ነበሩ።",
+            "en": "Sallu, Amok, Hilkiah, Jedaiah. These were the chief of the priests and of their brethren in the days of Jeshua.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ሌዋውያኑም፤ ኢያሱ፥ ቢንዊ፥ ቀድምኤል፥ ሰራብያ፥ ይሁዳ፥ ከወንድሞቹም ጋር በመዘምራን ላይ የነበረ መታንያ።",
+            "en": "Moreover the Levites: Jeshua, Binnui, Kadmiel, Sherebiah, Judah, and Mattaniah, which was over the thanksgiving, he and his brethren.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ወንድሞቻቸውም በቅቡቅያና ዑኒ በየሰሞናቸው በአንጻራቸው ነበሩ።",
+            "en": "Also Bakbukiah and Unni, their brethren, were over against them in the watches.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ኢያሱም ዮአቂምን ወለደ፥ ዮአቂምም ኤልያሴብን ወለደ፥ ኤልያሴብም ዮአዳን ወለደ፥",
+            "en": "And Jeshua begat Joiakim, Joiakim also begat Eliashib, and Eliashib begat Joiada,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ዮአዳም ዮናታንን ወለደ፥ ዮናታንም ያዱአን ወለደ።",
+            "en": "And Joiada begat Jonathan, and Jonathan begat Jaddua.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "በዮአቂምም ዘመን የአባቶች ቤቶች አለቆች እነዚህ ካህናቱ ነበሩ፤ ከሠራያ ምራያ፥",
+            "en": "And in the days of Joiakim were priests, the chief of the fathers: of Seraiah, Meraiah; of Jeremiah, Hananiah;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ከኤርምያስ ሐናንያ፥ ከዕዝራ ሜሱላም፥",
+            "en": "Of Ezra, Meshullam; of Amariah, Jehohanan;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ከአማርያ ይሆሐናን፥ ከመሉኪ ዮናታን፥",
+            "en": "Of Melicu, Jonathan; of Shebaniah, Joseph;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ከሰበንያ ዮሴፍ፥ ከካሪም ዓድና፥ ከመራዮት ሔልቃይ፥",
+            "en": "Of Harim, Adna; of Meraioth, Helkai;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ከአዶ ዘካርያስ፥ ከጌንቶን ሜሱላም፥",
+            "en": "Of Iddo, Zechariah; of Ginnethon, Meshullam;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "ከአብያ ዚክሪ፥ ከሚያሚን ሞዓድያ፥",
+            "en": "Of Abijah, Zichri; of Miniamin, of Moadiah, Piltai;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "ፈልጣይ፥ ከቢልጋ ሳሙስ፥ ከሸማያ ዮናታን፥",
+            "en": "Of Bilgah, Shammua; of Shemaiah, Jehonathan;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "ከዮያሪብ መትናይ፥ ከዮዳኤ ኦዚ፥",
+            "en": "And of Joiarib, Mattenai; of Jedaiah, Uzzi;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "ከሳላይ ቃላይ፥ ከዓሞቅ ዔቤር፥",
+            "en": "Of Sallai, Kallai; of Amok, Eber;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "ከኬልቅያስ ሐሸብያ፥ ከዮዳኤ ናትናኤል።",
+            "en": "Of Hilkiah, Hashabiah; of Jedaiah, Nethaneel.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 22,
+          "text": {
+            "am": "ከሌዋውያኑም በኤልያሴብና በዮአዳ፥ በዮሐናንና በያዱአ ዘመን የአባቶች ቤቶች አለቆች ተጻፉ፤ ካህናቱም በፋርሳዊው በዳርዮስ መንግሥት ዘመን ተጻፉ።",
+            "en": "The Levites in the days of Eliashib, Joiada, and Johanan, and Jaddua, were recorded chief of the fathers: also the priests, to the reign of Darius the Persian.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 23,
+          "text": {
+            "am": "የሌዊ ልጆች የአባቶች ቤቶች አለቆች እስከ ኤልያሴብ ልጅ እስከ ዮሐናን ዘመን ድረስ በታሪክ መጽሐፍ ተጻፉ።",
+            "en": "The sons of Levi, the chief of the fathers, were written in the book of the chronicles, even until the days of Johanan the son of Eliashib.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 24,
+          "text": {
+            "am": "የሌዋውያኑም አለቆች፤ ሐሸብያ፥ ሰራብያ፥ የቀድምኤልም ልጅ ኢያሱ እንደ እግዚአብሔር ሰው እንደ ዳዊት ትእዛዝ በየሰሞናቸው በወንድሞቻቸው ፊት ለፊት ያከብሩና ያመሰግኑ ነበር።",
+            "en": "And the chief of the Levites: Hashabiah, Sherebiah, and Jeshua the son of Kadmiel, with their brethren over against them, to praise and to give thanks, according to the commandment of David the man of God, ward over against ward.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 25,
+          "text": {
+            "am": "መታንያ፥ በቅቡቅያ፥ አብድዮ፥ ሜሱላም፥ ጤልሞን፥ ዓቁብ በበሮች አጠገብ የሚገኙትን ዕቃ ቤቶች ለመጠበቅ በረኞች ነበሩ።",
+            "en": "Mattaniah, and Bakbukiah, Obadiah, Meshullam, Talmon, Akkub, were porters keeping the ward at the thresholds of the gates.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 26,
+          "text": {
+            "am": "እነዚህ በኢዮሴዴቅ ልጅ በኢያሱ ልጅ በዮአቂም በአለቃውም በነህምያ በጸሐፊውም በካህኑ በዕዝራ ዘመን ነበሩ።",
+            "en": "These were in the days of Joiakim the son of Jeshua, the son of Jozadak, and in the days of Nehemiah the governor, and of Ezra the priest, the scribe.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 27,
+          "text": {
+            "am": "የኢየሩሳሌምንም ቅጥር በቀደሱ ጊዜ ቅዳሴውን በደስታና በምስጋና በመዝሙርም በጸናጽልም በበገናም በመሰንቆም ለማድረግ ወደ ኢየሩሳሌም ያመጡአቸው ዘንድ ሌዋውያኑን በየስፍራቸው ሁሉ ፈለጉ።",
+            "en": "And at the dedication of the wall of Jerusalem they sought the Levites out of all their places, to bring them to Jerusalem, to keep the dedication with gladness, both with thanksgivings, and with singing, with cymbals, psalteries, and with harps.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 28,
+          "text": {
+            "am": "መዘምራኑም በኢየሩሳሌም ዙሪያ መንደሮች ሠርተው ነበርና የመዘምራኑ ልጆች ከኢየሩሳሌም ዙሪያና ከነጦፋውያን መንደሮች፥ ከቤትጌልገላም፥ ከጌባና ከዓዝሞት እርሻዎች ተሰበሰቡ።",
+            "en": "And the sons of the singers gathered themselves together, both out of the plain country round about Jerusalem, and from the villages of Netophathi;",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              28,
+              29
+            ]
+          }
+        },
+        {
+          "verse": 29,
+          "text": {
+            "am": "መዘምራኑም በኢየሩሳሌም ዙሪያ መንደሮች ሠርተው ነበርና የመዘምራኑ ልጆች ከኢየሩሳሌም ዙሪያና ከነጦፋውያን መንደሮች፥ ከቤትጌልገላም፥ ከጌባና ከዓዝሞት እርሻዎች ተሰበሰቡ።",
+            "en": "Also from the house of Gilgal, and out of the fields of Geba and Azmaveth: for the singers had builded them villages round about Jerusalem.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              28,
+              29
+            ]
+          }
+        },
+        {
+          "verse": 30,
+          "text": {
+            "am": "ካህናቱና ሌዋውያኑም ራሳቸውን አነጹ፤ ሕዝቡንም በሮቹንም ቅጥሩንም አነጹ።",
+            "en": "And the priests and the Levites purified themselves, and purified the people, and the gates, and the wall.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 31,
+          "text": {
+            "am": "የይሁዳንም አለቆች ወደ ቅጥሩ ላይ አወጣኋቸው፤ አመስጋኞቹንም በሁለት ታላላቅ ተርታ አቆምኋቸው፤ አንዱም ወደ ቀኝ በቅጥሩ ላይ ወደ ጕድፍ መጣያው በር ሄደ።",
+            "en": "Then I brought up the princes of Judah upon the wall, and appointed two great companies of them that gave thanks, whereof one went on the right hand upon the wall toward the dung gate:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 32,
+          "text": {
+            "am": "ከእነርሱም በኋላ ሆሻያ፥ የይሁዳም አለቆች እኵሌታ፥",
+            "en": "And after them went Hoshaiah, and half of the princes of Judah,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 33,
+          "text": {
+            "am": "ዓዛርያስ፥ ዕዝራ፥",
+            "en": "And Azariah, Ezra, and Meshullam,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 34,
+          "text": {
+            "am": "ሜሱላም፥ ይሁዳ፥ ብንያም፥ ሸማያ፥ ኤርምያስ፥",
+            "en": "Judah, and Benjamin, and Shemaiah, and Jeremiah,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 35,
+          "text": {
+            "am": "መለከትም ይዘው ከካህናቱ ልጆች አያሌዎች፥ የአሳፍም ልጅ የዘኩር ልጅ የሚካያ ልጅ የመታንያ ልጅ የሸማያ ልጅ የዮናታን ልጅ ዘካርያስ፥",
+            "en": "And certain of the priests' sons with trumpets; namely, Zechariah the son of Jonathan, the son of Shemaiah, the son of Mattaniah, the son of Michaiah, the son of Zaccur, the son of Asaph:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 36,
+          "text": {
+            "am": "ወንድሞቹም ሸማያ፥ ኤዝርኤል፥ ሚላላይ፥ ጊላላይ፥ መዓይ፥ ናትናኤል፥ ይሁዳ፥ አናኒ የእግዚአብሔርን ሰው የዳዊትን የዜማውን ዕቃ ይዘው ሄዱ፤ ጸሐፊውም ዕዝራ በፊታቸው ነበረ።",
+            "en": "And his brethren, Shemaiah, and Azarael, Milalai, Gilalai, Maai, Nethaneel, and Judah, Hanani, with the musical instruments of David the man of God, and Ezra the scribe before them.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 37,
+          "text": {
+            "am": "በምንጭም በር አቅንተው ሄዱ፤ በዳዊትም ከተማ ደረጃ፥ በቅጥሩም መውጫ፥ ከዳዊትም ቤት በላይ እስከ ውኃው በር ድረስ በምሥራቅ በኩል ሄዱ።",
+            "en": "And at the fountain gate, which was over against them, they went up by the stairs of the city of David, at the going up of the wall, above the house of David, even unto the water gate eastward.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 38,
+          "text": {
+            "am": "ሁለተኛውም የአመስጋኞቹ ተርታ ወደ ግራ ሄደ፤ እኔና የሕዝቡም እኵሌታ በስተኋላቸው ነበርን፤ በቅጥሩም ላይ፥ በእቶኑ ግንብ በላይ እስከ ሰፊው ቅጥር ድረስ፥ ከኤፍሬምም በር በላይ፥",
+            "en": "And the other company of them that gave thanks went over against them, and I after them, and the half of the people upon the wall, from beyond the tower of the furnaces even unto the broad wall;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 39,
+          "text": {
+            "am": "በአሮጌው በርና በዓሣ በር በሐናንኤልም ግንብ፥ በሃሜአ ግንብ እስከ በጎች በር ድረስ ሄዱ፤ በዘበኞችም በር አጠገብ ቆሙ።",
+            "en": "And from above the gate of Ephraim, and above the old gate, and above the fish gate, and the tower of Hananeel, and the tower of Meah, even unto the sheep gate: and they stood still in the prison gate.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 40,
+          "text": {
+            "am": "እንዲሁ ሁለቱ የአመስጋኞች ተርታዎች በእግዚአብሔር ቤት ቆሙ፤ ከእነርሱም ጋር እኔና የአለቆች እኵሌታ፥",
+            "en": "So stood the two companies of them that gave thanks in the house of God, and I, and the half of the rulers with me:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 41,
+          "text": {
+            "am": "ካህናቱም ኤልያቄም፥ መዕሤያ፥ ሚንያሚን፥ ሚካያ፥ ኤልዮዔናይ፥",
+            "en": "And the priests; Eliakim, Maaseiah, Miniamin, Michaiah, Elioenai, Zechariah, and Hananiah, with trumpets;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 42,
+          "text": {
+            "am": "ዘካርያስ፥ ሐናንያ መለከት ይዘው፥ መዕሤያ፥ ሸማያ፥ አልዓዛር፥ ኦዚ፥ ይሆሐናን፥ መልክያ፥ ኤላም፥ ኤጽር ቆምን። መዘምራኑም በታላቅ ድምፅ ዘመሩ፥ አለቃቸውም ይዝረሕያ ነበረ።",
+            "en": "And Maaseiah, and Shemaiah, and Eleazar, and Uzzi, and Jehohanan, and Malchijah, and Elam, and Ezer. And the singers sang loud, with Jezrahiah their overseer.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 43,
+          "text": {
+            "am": "እግዚአብሔርም በታላቅ ደስታ ደስ አሰኝቶአቸዋልና በዚያ ቀን ትልቅ መሥዋዕት አቀረቡ፥ ደስም አላቸው፤ ሴቶቹና ልጆቹም ደግሞ ደስ አላቸው፤ የኢየሩሳሌምም ደስታ ከሩቅ ተሰማ።",
+            "en": "Also that day they offered great sacrifices, and rejoiced: for God had made them rejoice with great joy: the wives also and the children rejoiced: so that the joy of Jerusalem was heard even afar off.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 44,
+          "text": {
+            "am": "ይሁዳም በአገልጋዮቹ ካህናትና ሌዋውያን ደስ ስላላቸው፥ የካህናቱንና የሌዋውያኑን እድል ፈንታ እንደ ሕጉ ከከተሞች እርሻዎች ያከማቹ ዘንድ ለእጅ ማንሣት ቍርባንና ለበኵራት ለአሥራትም በየዕቃ ቤቶቹ ላይ በዚያ ቀን ሰዎች ተሾሙ።",
+            "en": "And at that time were some appointed over the chambers for the treasures, for the offerings, for the firstfruits, and for the tithes, to gather into them out of the fields of the cities the portions of the law for the priests and Levites: for Judah rejoiced for the priests and for the Levites that waited.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 45,
+          "text": {
+            "am": "እነርሱም መዘምራኑና በረኞቹም የአምላካቸውን ሥርዓት የመንጻታቸውንም ሥርዓት እንደ ዳዊትና እንደ ልጁ እንደ ሰሎሞን ትእዛዝ ጠበቁ።",
+            "en": "And both the singers and the porters kept the ward of their God, and the ward of the purification, according to the commandment of David, and of Solomon his son.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 46,
+          "text": {
+            "am": "አስቀድሞም በዳዊትና በአሳፍ ዘመን እግዚአብሔርን በዜማ ለማመስገንና ለማክበር የመዘምራን አለቆች ነበሩ።",
+            "en": "For in the days of David and Asaph of old there were chief of the singers, and songs of praise and thanksgiving unto God.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 47,
+          "text": {
+            "am": "እስራኤልም ሁሉ በዘሩባቤልና በነህምያ ዘመን ለመዘምራኑና ለበረኞቹ እድል ፈንታቸውን በየዕለቱ ይሰጡ ነበር፤ የተቀደሰውንም ነገር ለሌዋውያን ሰጡ፥ ሌዋውያኑም ከተቀደሰው ነገር ለአሮን ልጆች ሰጡ።",
+            "en": "And all Israel in the days of Zerubbabel, and in the days of Nehemiah, gave the portions of the singers and the porters, every day his portion: and they sanctified holy things unto the Levites; and the Levites sanctified them unto the children of Aaron.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "በዚያም ቀን የሙሴን መጽሐፍ በሕዝቡ ጆሮ አነበቡ፤ አሞናውያንና ሞዓባውያንም ወደ እግዚአብሔር ጉባኤ ለዘላለም እንዳይገቡ የሚል በዚያ ተገኘ።",
+            "en": "On that day they read in the book of Moses in the audience of the people; and therein was found written, that the Ammonite and the Moabite should not come into the congregation of God for ever;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "የእስራኤልን ልጆች በእንጀራና በውኃ ስላልተቀበሉአቸውና ይረግማቸው ዘንድ በለዓምን ስለ ገዙባቸው ነው፤ ነገር ግን አምላካችን እርግማኑን ወደ በረከት መለሰው።",
+            "en": "Because they met not the children of Israel with bread and with water, but hired Balaam against them, that he should curse them: howbeit our God turned the curse into a blessing.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ሕጉንም በሰሙ ጊዜ ድብልቁን ሕዝብ ሁሉ ከእስራኤል ለዩ።",
+            "en": "Now it came to pass, when they had heard the law, that they separated from Israel all the mixed multitude.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ከዚህም አስቀድሞ በአምላካችን ቤት ጓዳዎች ላይ ተሾሞ የነበረው ካህኑ ኤልያሴብ ከጦቢያ ጋር ተወዳጅቶ፥",
+            "en": "And before this, Eliashib the priest, having the oversight of the chamber of the house of our God, was allied unto Tobiah:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ለሌዋውያን፥ ለመዘምራን፥ ለበረኞቹ እንደ ሕጉ የተሰጣቸውን የእህሉን ቍርባንና ዕጣኑን፥ ዕቃዎቹንም፥ የእህሉንና የወይኑን የዘይቱንም አሥራት፥ ለካህናቱም የሆነውን የማንሣት ቍርባን አስቀድሞ ያስቀመጡበትን ታላቁን ጓዳ አዘጋጅቶለት ነበር።",
+            "en": "And he had prepared for him a great chamber, where aforetime they laid the meat offerings, the frankincense, and the vessels, and the tithes of the corn, the new wine, and the oil, which was commanded to be given to the Levites, and the singers, and the porters; and the offerings of the priests.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "እኔ ግን በባቢሎን ንጉሥ በአርጤክስስ በሠላሳ ሁለተኛው ዓመት ወደ ንጉሡ ሄጄ ነበርና በዚህ ጊዜ በኢየሩሳሌም አልነበርሁም። ከጥቂት ዘመንም በኋላ የንጉሡን ፈቃድ ለመንሁ፤",
+            "en": "But in all this time was not I at Jerusalem: for in the two and thirtieth year of Artaxerxes king of Babylon came I unto the king, and after certain days obtained I leave of the king:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ወደ ኢየሩሳሌምም መጣሁ፤ ኤልያሴብም በእግዚአብሔር ቤት አደባባይ ለጦብያ ጓዳውን በማዘጋጀት ያደረገውን ክፉ ነገር አስተዋልሁ።",
+            "en": "And I came to Jerusalem, and understood of the evil that Eliashib did for Tobiah, in preparing him a chamber in the courts of the house of God.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "እጅግም አስከፋኝ፤ የጦብያንም የቤቱን ዕቃ ሁሉ ከጓዳ ወደ ውጪ ጣልሁ።",
+            "en": "And it grieved me sore: therefore I cast forth all the household stuff of Tobiah out of the chamber.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ጓዳዎቹንም እንዲያነጹ አዘዝሁ፤ የእግዚአብሔርንም ቤት ዕቃዎች የእህሉንም ቍርባን ዕጣኑንም መልሼ በዚያ አገባሁ።",
+            "en": "Then I commanded, and they cleansed the chambers: and thither brought I again the vessels of the house of God, with the meat offering and the frankincense.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ለሌዋውያንም እድል ፈንታቸው እንዳልተሰጠ፥ የሚያገለግሉትም ሌዋውያንና መዘምራን እያንዳንዱ ወደ እርሻው እንደ ሄዱ ተመለከትሁ።",
+            "en": "And I perceived that the portions of the Levites had not been given them: for the Levites and the singers, that did the work, were fled every one to his field.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "እኔም። የእግዚአብሔር ቤት ስለ ምን ተተወ? ብዬ ከአለቆቹ ጋር ተከራከርሁ። ሰበሰብኋቸውም፥ በየስፍራቸውም አቆምኋቸው።",
+            "en": "Then contended I with the rulers, and said, Why is the house of God forsaken? And I gathered them together, and set them in their place.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "ይሁዳም ሁሉ የእህሉንና የወይኑን የዘይቱንም አሥራት ወደ ዕቃ ቤቶች አመጡ።",
+            "en": "Then brought all Judah the tithe of the corn and the new wine and the oil unto the treasuries.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "በዕቃ ቤቶችም ላይ ካህኑን ሰሌምያን፥ ጸሐፊውንም ሳዶቅን፥ ከሌዋውያኑም ፈዳያን ሾምሁ፤ ከእነርሱም ጋር የመታንያ ልጅ የዘኩር ልጅ ሐናን ነበረ፤ እነርሱም የታመኑ ሆነው ተገኙ፥ ሥራቸውም ለወንድሞቻቸው ማከፋፈል ነበረ።",
+            "en": "And I made treasurers over the treasuries, Shelemiah the priest, and Zadok the scribe, and of the Levites, Pedaiah: and next to them was Hanan the son of Zaccur, the son of Mattaniah: for they were counted faithful, and their office was to distribute unto their brethren.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "አምላኬ ሆይ፥ ስለዚህ አስበኝ፤ ለአምላኬም ቤት ያደረግሁትን ወረታዬን አታጥፋ።",
+            "en": "Remember me, O my God, concerning this, and wipe not out my good deeds that I have done for the house of my God, and for the offices thereof.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "በዚያም ወራት በይሁዳ በሰንበት ቀን የወይን መጥመቂያን የሚረግጡትን፥ ነዶም የሚከመሩትን፥ የወይኑን ጠጅና የወይኑን ዘለላ በለሱንም ልዩ ልዩም ዓይነት ሸክም በአህዮች ላይ የሚጭኑትን፥ በሰንበትም ቀን ወደ ኢየሩሳሌም የሚያስገቡትን አየሁ፤ ገበያ ባደረጉበትም ቀን አስመሰከርሁባቸው።",
+            "en": "In those days saw I in Judah some treading wine presses on the sabbath, and bringing in sheaves, and lading asses; as also wine, grapes, and figs, and all manner of burdens, which they brought into Jerusalem on the sabbath day: and I testified against them in the day wherein they sold victuals.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ደግሞም በእርስዋ የተቀመጡ የጢሮስ ሰዎች ነበሩ፤ እነርሱም ዓሣዎችን ልዩ ልዩም ዓይነት ሸቀጥ አምጥተው በሰንበት ቀን በኢየሩሳሌም ለይሁዳ ልጆች ይሸጡ ነበር።",
+            "en": "There dwelt men of Tyre also therein, which brought fish, and all manner of ware, and sold on the sabbath unto the children of Judah, and in Jerusalem.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "ከይሁዳም ታላላቆች ጋር ተከራከርሁና። ይህ የምታደርጉት ክፉ ነገር ምንድር ነው? የሰንበትንስ ቀን ታረክሳላችሁን?",
+            "en": "Then I contended with the nobles of Judah, and said unto them, What evil thing is this that ye do, and profane the sabbath day?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "አባቶቻችሁ እንደዚህ አድርገው አልነበረምን? አምላካችንስ ይህን ክፉ ነገር ሁሉ በእኛና በዚህ ከተማ ላይ አምጥቶ አልነበረምን? እናንተም ሰንበትን በማርከሳችሁ በእስራኤል ላይ መዓትን ትጨምራላችሁ አልኋቸው።",
+            "en": "Did not your fathers thus, and did not our God bring all this evil upon us, and upon this city? yet ye bring more wrath upon Israel by profaning the sabbath.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "ከዚህ በኋላ ከሰንበት በፊት በኢየሩሳሌም በሮች ድንግዝግዝታ በሆነ ጊዜ በሮችዋ እንዲዘጉ፥ ሰንበትም እስኪያልፍ ድረስ እንዳይከፈቱ አዘዝሁ። በሰንበትም ቀን ሸክም እንዳይገባ ከብላቴኖቼ በአያሌዎቹ በሮችዋን አስጠበቅሁ።",
+            "en": "And it came to pass, that when the gates of Jerusalem began to be dark before the sabbath, I commanded that the gates should be shut, and charged that they should not be opened till after the sabbath: and some of my servants set I at the gates, that there should no burden be brought in on the sabbath day.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "ሁሉም አንድ ወይም ሁለት ጊዜ በኢየሩሳሌም ውጭ አድረው ገበያ አድርገው ነበር።",
+            "en": "So the merchants and sellers of all kind of ware lodged without Jerusalem once or twice.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "እኔም አስመሰከርሁባቸውና። በቅጥሩ ውጭ ለምን ታድራላችሁ? እንደ ገና ብታደርጉት እጆቼን አነሣባችኋለሁ አልኋቸው። ከዚያም ወዲያ በሰንበት ቀን እንደ ገና አልመጡም።",
+            "en": "Then I testified against them, and said unto them, Why lodge ye about the wall? if ye do so again, I will lay hands on you. From that time forth came they no more on the sabbath.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 22,
+          "text": {
+            "am": "ሌዋውያኑንም ራሳቸውን እንዲያነጹ፥ መጥተውም በሮቹን እንዲጠብቁ፥ የሰንበትንም ቀን እንዲቀድሱ ነገርኋቸው። አምላኬ ሆይ፥ ስለዚህ ደግሞ አስበኝ፥ እንደ ምሕረትህም ብዛት ራራልኝ።",
+            "en": "And I commanded the Levites that they should cleanse themselves, and that they should come and keep the gates, to sanctify the sabbath day. Remember me, O my God, concerning this also, and spare me according to the greatness of thy mercy.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 23,
+          "text": {
+            "am": "ደግሞም በዚያ ወራት የአዛጦንና የአሞንን የሞዓብንም ሴቶች ያገቡትን አይሁድ አየሁ።",
+            "en": "In those days also saw I Jews that had married wives of Ashdod, of Ammon, and of Moab:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 24,
+          "text": {
+            "am": "ከልጆቻቸውም እኵሌቶቹ በአዛጦን ቋንቋ ይናገሩ ነበር፥ በአይሁድም ቋንቋ መናገር አያውቁም ነበር።",
+            "en": "And their children spake half in the speech of Ashdod, and could not speak in the Jews' language, but according to the language of each people.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 25,
+          "text": {
+            "am": "ከእነርሱም ጋር ተከራከርሁ፥ ረገምኋቸውም፤ ከእነርሱም አያሌዎቹን መታሁ፥ ጠጉራቸውንም ነጨሁ፥ እንዲህም ብዬ በእግዚአብሔር አማልኋቸው። ሴቶች ልጆቻችሁን ለወንዶች ልጆቻቸው አትስጡ፥ ሴቶች ልጆቻቸውንም ለእናንተና ለልጆቻችሁ አትውሰዱ።",
+            "en": "And I contended with them, and cursed them, and smote certain of them, and plucked off their hair, and made them swear by God, saying, Ye shall not give your daughters unto their sons, nor take their daughters unto your sons, or for yourselves.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 26,
+          "text": {
+            "am": "የእስራኤል ንጉሥ ሰሎሞን በዚህ ነገር ኃጢአት አድርጎ የለምን? በብዙ አሕዛብም መካከል እንደ እርሱ ያለ ንጉሥ አልነበረም፥ በአምላኩም ዘንድ የተወደደ ነበረ፥ እግዚአብሔርም በእስራኤል ሁሉ ላይ አንግሦት ነበር፤ እርሱንም እንኳ እንግዶች ሴቶች አሳቱት።",
+            "en": "Did not Solomon king of Israel sin by these things? yet among many nations was there no king like him, who was beloved of his God, and God made him king over all Israel: nevertheless even him did outlandish women cause to sin.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 27,
+          "text": {
+            "am": "በውኑ ይህን ሁሉ ታላቅ ክፋት እንሠራ፥ እንግዶችንም ሴቶች በማግባት አምላካችን እንበድል ዘንድ እናንተን እንስማ?",
+            "en": "Shall we then hearken unto you to do all this great evil, to transgress against our God in marrying strange wives?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 28,
+          "text": {
+            "am": "ከዋነኛውም ካህን ከኤልያሴብ ልጅ ከዮአዳ ልጆች አንዱ ለሖሮናዊው ለሰንባላጥ አማች ነበረ፤ ከእኔም ዘንድ አባረርሁት።",
+            "en": "And one of the sons of Joiada, the son of Eliashib the high priest, was son in law to Sanballat the Horonite: therefore I chased him from me.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 29,
+          "text": {
+            "am": "አምላኬ ሆይ፥ ክህነትን የክህነትንና የሌዋውያንንም ቃል ኪዳን ስላፈረሱ አስባቸው።",
+            "en": "Remember them, O my God, because they have defiled the priesthood, and the covenant of the priesthood, and of the Levites.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 30,
+          "text": {
+            "am": "ከእንግዳ ነገርም ሁሉ አነጻኋቸው፤ ለካህናቱና ለሌዋውያኑም እያንዳንዳቸው በየሰሞናቸው፥",
+            "en": "Thus cleansed I them from all strangers, and appointed the wards of the priests and the Levites, every one in his business;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 31,
+          "text": {
+            "am": "በየጊዜያቸውም ለእንጨት ቍርባን ለበኵራቱም ሥርዓት አደረግሁ። አምላኬ ሆይ፥ በመልካም አስበኝ።",
+            "en": "And for the wood offering, at times appointed, and for the firstfruits. Remember me, O my God, for good.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    }
+  ]
+}

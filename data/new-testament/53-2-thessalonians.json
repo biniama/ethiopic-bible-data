@@ -1,0 +1,551 @@
+{
+  "book_number": 53,
+  "book_name_am": "፪ኛ ወደ ተሰሎንቄ ሰዎች",
+  "book_short_name_am": "፪ተሰ",
+  "book_name_en": "2 Thessalonians",
+  "book_short_name_en": "2Thess",
+  "book_name_geez": null,
+  "testament": "new",
+  "sources": [
+    "ethiopicbible.com"
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "ጳውሎስና ስልዋኖስ ጢሞቴዎስም፥ በእግዚአብሔር በአባታችን በጌታ በኢየሱስ ክርስቶስም ወደምትሆን ወደ ተሰሎንቄ ሰዎች ቤተ ክርስቲያን፤",
+            "en": "Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians in God our Father and the Lord Jesus Christ:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ከእግዚአብሔር ከአባታችን ከጌታ ከኢየሱስ ክርስቶስም ጸጋ ሰላምም ለእናንተ ይሁን።",
+            "en": "Grace unto you, and peace, from God our Father and the Lord Jesus Christ.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ወንድሞች ሆይ፥ እምነታችሁ እጅግ ስለሚያድግ የሁላችሁም የእያንዳንዳችሁ ፍቅር እርስ በርሳችሁ ስለሚበዛ፥ ሁልጊዜ ስለ እናንተ እግዚአብሔርን እንደሚገባ ልናመሰግን ግድ አለብን፤",
+            "en": "We are bound to thank God always for you, brethren, as it is meet, because that your faith groweth exceedingly, and the charity of every one of you all toward each other aboundeth;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ስለዚህ በምትታገሱበት በስደታችሁና በመከራችሁ ሁሉ ከመጽናታችሁና ከእምነታችሁ የተነሣ በእግዚአብሔር አብያተ ክርስቲያናት ስለ እናንተ ራሳችን እንመካለን።",
+            "en": "So that we ourselves glory in you in the churches of God for your patience and faith in all your persecutions and tribulations that ye endure:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ስለ እርሱ ደግሞ መከራ ለምትቀበሉለት ለእግዚአብሔር መንግሥት የምትበቁ ሆናችሁ ትቈጠሩ ዘንድ፥ ይህ የእግዚአብሔር ቅን ፍርድ ምልክት ነው።",
+            "en": "Which is a manifest token of the righteous judgment of God, that ye may be counted worthy of the kingdom of God, for which ye also suffer:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ጌታ ኢየሱስ ከሥልጣኑ መላእክት ጋር ከሰማይ በእሳት ነበልባል ሲገለጥ፥ መከራን ለሚያሳዩአችሁ መከራን፥ መከራንም ለምትቀበሉ ከእኛ ጋር ዕረፍትን ብድራት አድርጎ እንዲመልስ በእግዚአብሔር ፊት በእርግጥ ጽድቅ ነውና።",
+            "en": "Seeing it is a righteous thing with God to recompense tribulation to them that trouble you;",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              6,
+              7
+            ]
+          }
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ጌታ ኢየሱስ ከሥልጣኑ መላእክት ጋር ከሰማይ በእሳት ነበልባል ሲገለጥ፥ መከራን ለሚያሳዩአችሁ መከራን፥ መከራንም ለምትቀበሉ ከእኛ ጋር ዕረፍትን ብድራት አድርጎ እንዲመልስ በእግዚአብሔር ፊት በእርግጥ ጽድቅ ነውና።",
+            "en": "And to you who are troubled rest with us, when the Lord Jesus shall be revealed from heaven with his mighty angels,",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              6,
+              7
+            ]
+          }
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "እግዚአብሔርን የማያውቁትን፥ ለጌታችንም ለኢየሱስ ክርስቶስ ወንጌል የማይታዘዙትን ይበቀላል፤",
+            "en": "In flaming fire taking vengeance on them that know not God, and that obey not the gospel of our Lord Jesus Christ:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "በዚያም ቀን በቅዱሳኑ ሊከብር፥ ምስክርነታችንንም አምናችኋልና በሚያምኑት ሁሉ ዘንድ ሊገረም ሲመጣ፥ ከጌታ ፊት ከኃይሉም ክብር ርቀው በዘላለም ጥፋት ይቀጣሉ።",
+            "en": "Who shall be punished with everlasting destruction from the presence of the Lord, and from the glory of his power;",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              9,
+              10
+            ]
+          }
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "በዚያም ቀን በቅዱሳኑ ሊከብር፥ ምስክርነታችንንም አምናችኋልና በሚያምኑት ሁሉ ዘንድ ሊገረም ሲመጣ፥ ከጌታ ፊት ከኃይሉም ክብር ርቀው በዘላለም ጥፋት ይቀጣሉ።",
+            "en": "When he shall come to be glorified in his saints, and to be admired in all them that believe (because our testimony among you was believed) in that day.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              9,
+              10
+            ]
+          }
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ስለዚህም ደግሞ እንደ አምላካችን እንደ ጌታም እንደ ኢየሱስ ክርስቶስ ጸጋ፥ የጌታችን የኢየሱስ ክርስቶስ ስም በእናንተ ዘንድ ሊከብር እናንተም በእርሱ ዘንድ ልትከብሩ፥ አምላካችን ለመጥራቱ የምትበቁ አድርጎ ይቈጥራችሁ ዘንድ፥ የበጎነትንም ፈቃድ ሁሉ የእምነትንም ሥራ በኃይል ይፈጽም ዘንድ ስለ እናንተ ሁልጊዜ እንጸልያለን።",
+            "en": "Wherefore also we pray always for you, that our God would count you worthy of this calling, and fulfil all the good pleasure of his goodness, and the work of faith with power:",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              11,
+              12
+            ]
+          }
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "ስለዚህም ደግሞ እንደ አምላካችን እንደ ጌታም እንደ ኢየሱስ ክርስቶስ ጸጋ፥ የጌታችን የኢየሱስ ክርስቶስ ስም በእናንተ ዘንድ ሊከብር እናንተም በእርሱ ዘንድ ልትከብሩ፥ አምላካችን ለመጥራቱ የምትበቁ አድርጎ ይቈጥራችሁ ዘንድ፥ የበጎነትንም ፈቃድ ሁሉ የእምነትንም ሥራ በኃይል ይፈጽም ዘንድ ስለ እናንተ ሁልጊዜ እንጸልያለን።",
+            "en": "That the name of our Lord Jesus Christ may be glorified in you, and ye in him, according to the grace of our God and the Lord Jesus Christ.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              11,
+              12
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "ነገር ግን፥ ወንድሞች ሆይ፥ ስለ ጌታችን ስለ ኢየሱስ ክርስቶስ መምጣትና ወደ እርሱ ስለ መሰብሰባችን፥ በመንፈስ ወይም በቃል ወይም ከእኛ እንደሚመጣ በመልእክት። የጌታ ቀን ደርሶአል ብላችሁ፥ ከአእምሮአችሁ ቶሎ እንዳትናወጡ እንዳትደነግጡም እንለምናችኋለን።",
+            "en": "Now we beseech you, brethren, by the coming of our Lord Jesus Christ, and by our gathering together unto him,",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ነገር ግን፥ ወንድሞች ሆይ፥ ስለ ጌታችን ስለ ኢየሱስ ክርስቶስ መምጣትና ወደ እርሱ ስለ መሰብሰባችን፥ በመንፈስ ወይም በቃል ወይም ከእኛ እንደሚመጣ በመልእክት። የጌታ ቀን ደርሶአል ብላችሁ፥ ከአእምሮአችሁ ቶሎ እንዳትናወጡ እንዳትደነግጡም እንለምናችኋለን።",
+            "en": "That ye be not soon shaken in mind, or be troubled, neither by spirit, nor by word, nor by letter as from us, as that the day of Christ is at hand.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ማንም በማናቸውም መንገድ አያስታችሁ፤ ክህደቱ አስቀድሞ ሳይመጣና የዓመፅ ሰው እርሱም የጥፋት ልጅ ሳይገለጥ፥ አይደርስምና።",
+            "en": "Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "እኔ እግዚአብሔር ነኝ ብሎ አዋጅ እየነገረ በእግዚአብሔር ቤተ መቅደስ እስኪቀመጥ ድረስ፥ አምላክ ከተባለው ሁሉ፥ ሰዎችም ከሚያመልኩት ሁሉ በላይ ራሱን ከፍ ከፍ የሚያደርገው ተቃዋሚ እርሱ ነው።",
+            "en": "Who opposeth and exalteth himself above all that is called God, or that is worshipped; so that he as God sitteth in the temple of God, shewing himself that he is God.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ገና ከእናንተ ጋር ሳለሁ፥ ይህን እንዳልኋችሁ ትዝ አይላችሁምን?",
+            "en": "Remember ye not, that, when I was yet with you, I told you these things?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "በገዛ ራሱ ጊዜም ይገለጥ ዘንድ፥ የሚከለክለውን አሁን ታውቃላችሁ።",
+            "en": "And now ye know what withholdeth that he might be revealed in his time.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "የዓመፅ ምሥጢር አሁን ይሠራልና፤ ብቻ ከመንገድ እስኪወገድ ድረስ አሁን የሚከለክል አለ።",
+            "en": "For the mystery of iniquity doth already work: only he who now letteth will let, until he be taken out of the way.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "በዚያም ጊዜ ጌታ ኢየሱስ በአፉ መንፈስ የሚያጠፋው፥ ሲመጣም በመገለጡ የሚሽረው ዓመፀኛ ይገለጣል፤",
+            "en": "And then shall that Wicked be revealed, whom the Lord shall consume with the spirit of his mouth, and shall destroy with the brightness of his coming:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ይድኑ ዘንድ የእውነትን ፍቅር ስላልተቀበሉ ለሚጠፉ፥ የእርሱ መምጣት በተአምራት ሁሉና በምልክቶች በሐሰተኞች ድንቆችም በዓመፅም መታለል ሁሉ እንደ ሰይጣን አሠራር ነው።",
+            "en": "Even him, whose coming is after the working of Satan with all power and signs and lying wonders,",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              9,
+              10
+            ]
+          }
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ይድኑ ዘንድ የእውነትን ፍቅር ስላልተቀበሉ ለሚጠፉ፥ የእርሱ መምጣት በተአምራት ሁሉና በምልክቶች በሐሰተኞች ድንቆችም በዓመፅም መታለል ሁሉ እንደ ሰይጣን አሠራር ነው።",
+            "en": "And with all deceivableness of unrighteousness in them that perish; because they received not the love of the truth, that they might be saved.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              9,
+              10
+            ]
+          }
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ስለዚህም ምክንያት፥ በእውነት ያላመኑ ነገር ግን በዓመፅ ደስ ይላቸው የነበሩ ሁሉ ፍርድን እንዲቀበሉ፥ ሐሰትን ያምኑ ዘንድ እግዚአብሔር የስሕተትን አሠራር ይልክባቸዋል።",
+            "en": "And for this cause God shall send them strong delusion, that they should believe a lie:",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              11,
+              12
+            ]
+          }
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "ስለዚህም ምክንያት፥ በእውነት ያላመኑ ነገር ግን በዓመፅ ደስ ይላቸው የነበሩ ሁሉ ፍርድን እንዲቀበሉ፥ ሐሰትን ያምኑ ዘንድ እግዚአብሔር የስሕተትን አሠራር ይልክባቸዋል።",
+            "en": "That they all might be damned who believed not the truth, but had pleasure in unrighteousness.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              11,
+              12
+            ]
+          }
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "እኛ ግን፥ በጌታ የተወደዳችሁ ወንድሞች ሆይ፥ ሁልጊዜ ስለ እናንተ እግዚአብሔርን ልናመሰግን ግድ አለብን፥ እግዚአብሔር በመንፈስ መቀደስ እውነትንም በማመን ለመዳን እንደ በኵራት መርጦአችኋልና፤",
+            "en": "But we are bound to give thanks alway to God for you, brethren beloved of the Lord, because God hath from the beginning chosen you to salvation through sanctification of the Spirit and belief of the truth:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ለዚህም የጌታችንን የኢየሱስ ክርስቶስን ክብር ለማግኘት በወንጌላችን ጠራችሁ።",
+            "en": "Whereunto he called you by our gospel, to the obtaining of the glory of our Lord Jesus Christ.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "እንግዲያስ፥ ወንድሞች ሆይ፥ ጸንታችሁ ቁሙ፥ በቃላችንም ቢሆን ወይም በመልእክታችን የተማራችሁትን ወግ ያዙ።",
+            "en": "Therefore, brethren, stand fast, and hold the traditions which ye have been taught, whether by word, or our epistle.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ራሱ ጌታችን ኢየሱስ ክርስቶስና የወደደን በጸጋም የዘላለምን መጽናናት በጎንም ተስፋ የሰጠን እግዚአብሔር አባታችን ልባችሁን ያጽናኑት በበጎም ሥራና በቃል ሁሉ ያጽኑአችሁ።",
+            "en": "Now our Lord Jesus Christ himself, and God, even our Father, which hath loved us, and hath given us everlasting consolation and good hope through grace,",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              16,
+              17
+            ]
+          }
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "ራሱ ጌታችን ኢየሱስ ክርስቶስና የወደደን በጸጋም የዘላለምን መጽናናት በጎንም ተስፋ የሰጠን እግዚአብሔር አባታችን ልባችሁን ያጽናኑት በበጎም ሥራና በቃል ሁሉ ያጽኑአችሁ።",
+            "en": "Comfort your hearts, and stablish you in every good word and work.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              16,
+              17
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "በቀረውስ፥ ወንድሞች ሆይ፥ የጌታ ቃል እንዲሮጥ በእናንተም ዘንድ ደግሞ እንደሚሆን እንዲከበር፥ እምነትም ለሁሉ ስለማይሆን ከዓመፀኞችና ከክፉዎች ሰዎች እንድንድን ስለ እኛ ጸልዩ።",
+            "en": "Finally, brethren, pray for us, that the word of the Lord may have free course, and be glorified, even as it is with you:",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "በቀረውስ፥ ወንድሞች ሆይ፥ የጌታ ቃል እንዲሮጥ በእናንተም ዘንድ ደግሞ እንደሚሆን እንዲከበር፥ እምነትም ለሁሉ ስለማይሆን ከዓመፀኞችና ከክፉዎች ሰዎች እንድንድን ስለ እኛ ጸልዩ።",
+            "en": "And that we may be delivered from unreasonable and wicked men: for all men have not faith.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ነገር ግን የሚያጸናችሁ ከክፉውም የሚጠብቃችሁ ጌታ የታመነ ነው።",
+            "en": "But the Lord is faithful, who shall stablish you, and keep you from evil.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "የምናዛችሁንም አሁን እንድታደርጉ ወደ ፊትም ደግሞ እንድታደርጉ ስለ እናንተ በጌታ ታምነናል።",
+            "en": "And we have confidence in the Lord touching you, that ye both do and will do the things which we command you.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ጌታም ወደ እግዚአብሔር ፍቅር ወደ ክርስቶስም ትዕግሥት ልባችንን ያቅናው።",
+            "en": "And the Lord direct your hearts into the love of God, and into the patient waiting for Christ.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ወንድሞች ሆይ፥ ከእኛ እንደ ተቀበለው ወግ ሳይሆን ያለ ሥርዓት ከሚሄድ ወንድም ሁሉ ትለዩ ዘንድ በጌታችን በኢየሱስ ክርስቶስ ስም እናዛችኋለን።",
+            "en": "Now we command you, brethren, in the name of our Lord Jesus Christ, that ye withdraw yourselves from every brother that walketh disorderly, and not after the tradition which he received of us.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "እኛን ልትመስሉ እንዴት እንደሚገባችሁ ራሳችሁ ታውቃላችሁና፤ በእናንተ ዘንድ ያለ ሥርዓት አልሄድንምና፤",
+            "en": "For yourselves know how ye ought to follow us: for we behaved not ourselves disorderly among you;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ከእናንተ ዘንድ በአንዱ ስንኳ እንዳንከብድበት፥ ሌሊትና ቀን በድካምና በጥረት እየሠራን እንኖር ነበር እንጂ፥ ከማንም እንጀራን እንዲያው አልበላንም።",
+            "en": "Neither did we eat any man's bread for nought; but wrought with labour and travail night and day, that we might not be chargeable to any of you:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ይህም እኛን ልትመስሉ ራሳችንን እንደ ምሳሌ እንሰጣችሁ ዘንድ ነበር እንጂ፥ ያለ ሥልጣን ስለ ሆንን አይደለም።",
+            "en": "Not because we have not power, but to make ourselves an ensample unto you to follow us.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ደግሞ ከእናንተ ጋር ሳለን። ሊሠራ የማይወድ አይብላ ብለን አዘናችሁ ነበርና።",
+            "en": "For even when we were with you, this we commanded you, that if any would not work, neither should he eat.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ሥራ ከቶ ሳይሠሩ፥ በሰው ነገር እየገቡ፥ ያለ ሥርዓት ከእናንተ ዘንድ ስለሚሄዱ ስለ አንዳንዶች ሰምተናልና።",
+            "en": "For we hear that there are some which walk among you disorderly, working not at all, but are busybodies.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "እንደነዚህ ያሉትንም በጸጥታ እየሠሩ የገዛ እንጀራቸውን ይበሉ ዘንድ በጌታችን በኢየሱስ ክርስቶስ እናዛቸዋለን እንመክራቸውማለን።",
+            "en": "Now them that are such we command and exhort by our Lord Jesus Christ, that with quietness they work, and eat their own bread.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "እናንተ ግን፥ ወንድሞች ሆይ፥ መልካም ሥራን ለመሥራት አትታክቱ።",
+            "en": "But ye, brethren, be not weary in well doing.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "በዚህ መልእክት ለተላከ ቃላችን የማይታዘዝ ማንም ቢኖር፥ ይህን ተመልከቱት፥ ያፍርም ዘንድ ከእርሱ ጋር አትተባበሩ።",
+            "en": "And if any man obey not our word by this epistle, note that man, and have no company with him, that he may be ashamed.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ነገር ግን እንደ ወንድም ገሥጹት እንጂ እንደ ጠላት አትቍጠሩት።",
+            "en": "Yet count him not as an enemy, but admonish him as a brother.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "የሰላምም ጌታ ራሱ በሁሉ መንገድ ዘወትር ሰላምን ይስጣችሁ። ጌታ ከሁላችሁ ጋር ይሁን።",
+            "en": "Now the Lord of peace himself give you peace always by all means. The Lord be with you all.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "በገዛ እጄ የተጻፈ የእኔ የጳውሎስ ሰላምታ ይህ ነው፤ የመልእክቴ ሁሉ ማስረጃ ይህ ነው፤ እንዲህ እጽፋለሁ።",
+            "en": "The salutation of Paul with mine own hand, which is the token in every epistle: so I write.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "የጌታችን የኢየሱስ ክርስቶስ ጸጋ ከሁላችሁ ጋር ይሁን።",
+            "en": "The grace of our Lord Jesus Christ be with you all. Amen.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    }
+  ]
+}

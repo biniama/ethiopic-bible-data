@@ -1,0 +1,521 @@
+{
+  "book_number": 36,
+  "book_name_am": "ትንቢተ ሶፎንያስ",
+  "book_short_name_am": "ሶፎ",
+  "book_name_en": "Zephaniah",
+  "book_short_name_en": "Zeph",
+  "book_name_geez": null,
+  "testament": "old",
+  "sources": [
+    "ethiopicbible.com"
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "በይሁዳ ንጉሥ በአሞጽ ልጅ በኢዮስያስ ዘመን ወደ ሕዝቅያስ ልጅ ወደ አማርያ ልጅ ወደ ጎዶልያስ ልጅ ወደ ኵሲ ልጅ ወደ ሶፎንያስ የመጣ የእግዚአብሔር ቃል ይህ ነው።",
+            "en": "The word of the LORD which came unto Zephaniah the son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hizkiah, in the days of Josiah the son of Amon, king of Judah.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ነገርን ሁሉ ከምድር ፊት ፈጽሜ አጠፋለሁ፥ ይላል እግዚአብሔር።",
+            "en": "I will utterly consume all things from off the land, saith the LORD.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ሰውንና እንስሳን አጠፋለሁ፤ የሰማይን ወፎችና የባሕርን ዓሣዎች ማሰናከያንም ከኃጢአተኞች ጋር አጠፋለሁ፤ ሰውንም ከምድር ፊት እቈርጣለሁ፥ ይላል እግዚአብሔር።",
+            "en": "I will consume man and beast; I will consume the fowls of the heaven, and the fishes of the sea, and the stumblingblocks with the wicked; and I will cut off man from off the land, saith the LORD.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "እጄንም በይሁዳ ላይ በኢየሩሳሌምም በሚኖሩት ሁሉ ላይ እዘረጋለሁ፤ ከዚህም ስፍራ የበኣልን ቅሬታና የጣዖታቱን ካህናት ስም አጠፋለሁ፤",
+            "en": "I will also stretch out mine hand upon Judah, and upon all the inhabitants of Jerusalem; and I will cut off the remnant of Baal from this place, and the name of the Chemarims with the priests;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "በሰገነትም ላይ ለሰማይ ሠራዊት የሚሰግዱትን፥ በእግዚአብሔርና በንጉሣቸው በሚልኮም ምለው የሚሰግዱትን፥",
+            "en": "And them that worship the host of heaven upon the housetops; and them that worship and that swear by the LORD, and that swear by Malcham;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "እግዚአብሔርንም ከመከተል የተመለሱትን፥ እግዚአብሔርንም ያልፈለጉትንና ያልጠየቁትን አጠፋለሁ።",
+            "en": "And them that are turned back from the LORD; and those that have not sought the LORD, nor enquired for him.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "የእግዚአብሔር ቀን ቀርቦአልና፥ እግዚአብሔር መሥዋዕትን አዘጋጅቶአልና፥ የጠራቸውንም ቀድሶአልና በጌታ በእግዚአብሔር ፊት ዝም በሉ።",
+            "en": "Hold thy peace at the presence of the Lord GOD: for the day of the LORD is at hand: for the LORD hath prepared a sacrifice, he hath bid his guests.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "በእግዚአብሔርም መሥዋዕት ቀን አለቆችንና የንጉሥን ልጆች እንግዳ ልብስ የሚለብሱትንም ሁሉ እቀጣለሁ።",
+            "en": "And it shall come to pass in the day of the LORD'S sacrifice, that I will punish the princes, and the king's children, and all such as are clothed with strange apparel.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "በዚያም ቀን በመድረኩ ላይ የሚዘልሉትን፥ የጌታቸውን ቤት ዓመፃንና ሽንገላን የሚሞሉትን እቀጣለሁ።",
+            "en": "In the same day also will I punish all those that leap on the threshold, which fill their masters' houses with violence and deceit.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "በዚያ ቀን፥ ይላል እግዚአብሔር፥ ከዓሣው በር የጩኸት ድምፅ፥ ከከተማውም በሁለተኛው ክፍል ውካታ፥ ከኮረብቶቹም ታላቅ ሽብር ይሆናል።",
+            "en": "And it shall come to pass in that day, saith the LORD, that there shall be the noise of a cry from the fish gate, and an howling from the second, and a great crashing from the hills.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "እናንተ በመክቴሽ የምኖሩ ሆይ፥ የከነዓን ሕዝብ ሁሉ ጠፍተዋልና፥ ብርም የተሸከሙ ሁሉ ተቈርጠዋልና አልቅሱ።",
+            "en": "Howl, ye inhabitants of Maktesh, for all the merchant people are cut down; all they that bear silver are cut off.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "በዚያም ዘመን ኢየሩሳሌምን በመብራት እመረምራለሁ፤ በአተላቸውም ላይ የሚቀመጡትን፥ በልባቸውም። እግዚአብሔር መልካምን አያደርግም፥ ክፉም አያደርግም የሚሉትን ሰዎች እቀጣለሁ።",
+            "en": "And it shall come to pass at that time, that I will search Jerusalem with candles, and punish the men that are settled on their lees: that say in their heart, The LORD will not do good, neither will he do evil.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ብልጥግናቸውም ለምርኮ ይሆናል፥ ቤቶቻቸውም ይፈርሳሉ፤ ቤቶችንም ይሠራሉ፥ ነገር ግን አይቀመጡባቸውም፤ ወይንንም ይተክላሉ፥ የወይን ጠጁን ግን አይጠጡም።",
+            "en": "Therefore their goods shall become a booty, and their houses a desolation: they shall also build houses, but not inhabit them; and they shall plant vineyards, but not drink the wine thereof.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ታላቁ የእግዚአብሔር ቀን ቀርቦአል፤ የእግዚአብሔር ቀን ድምፅ ቀርቦአል እጅግም ፈጥኖአል፤ ኃያሉም በዚያ በመራራ ልቅሶ ይጮኻል።",
+            "en": "The great day of the LORD is near, it is near, and hasteth greatly, even the voice of the day of the LORD: the mighty man shall cry there bitterly.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ያ ቀን የመዓት ቀን የመከራና የጭንቀት ቀን፥ የመፍረስና የመጥፋት ቀን፥ የጨለማና የጭጋግ ቀን፥ የደመናና የድቅድቅ ጨለማ ቀን፥",
+            "en": "That day is a day of wrath, a day of trouble and distress, a day of wasteness and desolation, a day of darkness and gloominess, a day of clouds and thick darkness,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "በተመሸጉ ከተሞችና በረዘሙ ግንቦች ላይ የመለከትና የሰልፍ ጩኸት ቀን ነው።",
+            "en": "A day of the trumpet and alarm against the fenced cities, and against the high towers.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "በእግዚአብሔርም ላይ ኃጢአት ሠርተዋልና እንደ ዕውር እስኪሄዱ ድረስ ሰዎችን አስጨንቃለሁ፤ ደማቸውም እንደ ትቢያ፥ ሥጋቸውም እንደ ጕድፍ ይፈስሳል።",
+            "en": "And I will bring distress upon men, that they shall walk like blind men, because they have sinned against the LORD: and their blood shall be poured out as dust, and their flesh as the dung.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "በእግዚአብሔርም ቍጣ ቀን ብራቸውና ወርቃቸው ሊያድናቸው አይችልም፤ እርሱም በምድር የሚኖሩትን ሁሉ ፈጥኖ ይጨርሳቸዋልና ምድር ሁሉ በቅንዓቱ እሳት ትበላለች።",
+            "en": "Neither their silver nor their gold shall be able to deliver them in the day of the LORD'S wrath; but the whole land shall be devoured by the fire of his jealousy: for he shall make even a speedy riddance of all them that dwell in the land.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "እናንተ እፍረት የሌላችሁ ሕዝብ ሆይ፥ ትእዛዝ ሳይወጣ፥ ቀኑም እንደ ገለባ ሳያልፍ፥ የእግዚአብሔርም ቍጣ ትኵሳት ሳይመጣባችሁ፥ የእግዚአብሔርም ቍጣ ቀን ሳይደርስባችሁ ተሰብሰቡ፥ ተከማቹም።",
+            "en": "Gather yourselves together, yea, gather together, O nation not desired;",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "እናንተ እፍረት የሌላችሁ ሕዝብ ሆይ፥ ትእዛዝ ሳይወጣ፥ ቀኑም እንደ ገለባ ሳያልፍ፥ የእግዚአብሔርም ቍጣ ትኵሳት ሳይመጣባችሁ፥ የእግዚአብሔርም ቍጣ ቀን ሳይደርስባችሁ ተሰብሰቡ፥ ተከማቹም።",
+            "en": "Before the decree bring forth, before the day pass as the chaff, before the fierce anger of the LORD come upon you, before the day of the LORD'S anger come upon you.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "እናንተ ፍርዱን የጠበቃችሁ የምድር ትሑታን ሁሉ፥ እግዚአብሔርን ፈልጉ፤ ጽድቅንም ፈልጉ፥ ትሕትናንም ፈልጉ፤ ምናልባት በእግዚአብሔር ቍጣ ቀን ትሰወሩ ይሆናል።",
+            "en": "Seek ye the LORD, all ye meek of the earth, which have wrought his judgment; seek righteousness, seek meekness: it may be ye shall be hid in the day of the LORD'S anger.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ጋዛ ትበረበራለች፥ አስቀሎናም ባድማ ትሆናለች፤ አዞጦንንም በቀትር ወደ ውጭ ያሳድዱአታል፥ አቃሮንም ትነቀላለች።",
+            "en": "For Gaza shall be forsaken, and Ashkelon a desolation: they shall drive out Ashdod at the noon day, and Ekron shall be rooted up.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "በባሕር ዳር ለሚኖሩ ለከሊታውያን ሕዝብ ወዮላቸው! የፍልስጥኤማውያን ምድር ከነዓን ሆይ፥ የእግዚአብሔር ቃል በአንተ ላይ ነው፥ የሚቀመጥብህም ሰው እንዳይኖር አጠፋሃለሁ።",
+            "en": "Woe unto the inhabitants of the sea coast, the nation of the Cherethites! the word of the LORD is against you; O Canaan, the land of the Philistines, I will even destroy thee, that there shall be no inhabitant.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ቀርጤስም የእረኞች መኖሪያና የመንጎች በረት ይሆናል።",
+            "en": "And the sea coast shall be dwellings and cottages for shepherds, and folds for flocks.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "የባሕሩም ዳር ለይሁዳ ቤት ቅሬታ ይሆናል፥ በዚያም ይሰማራሉ፤ አምላካቸው እግዚአብሔር ይጐበኛቸዋልና፥ ምርኮአቸውንም ይመልሳልና በአስቀሎና ቤቶች ውስጥ ማታ ይተኛሉ።",
+            "en": "And the coast shall be for the remnant of the house of Judah; they shall feed thereupon: in the houses of Ashkelon shall they lie down in the evening: for the LORD their God shall visit them, and turn away their captivity.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "በሕዝቤም ላይ ያላገጡባትን፥ በድንበራቸውም ላይ እየታበዩ የተናገሩባትን የሞዓብን ማላገጥና የአሞንን ልጆች ስድብ ሰምቻለሁ።",
+            "en": "I have heard the reproach of Moab, and the revilings of the children of Ammon, whereby they have reproached my people, and magnified themselves against their border.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ስለዚህ የእስራኤል አምላክ የሠራዊት ጌታ እግዚአብሔር እንዲህ ይላል። እኔ ሕያው ነኝና በእርግጥ ሞዓብ እንደ ሰዶም፥ የአሞንም ልጆች እንደ ገሞራ፥ የሳማ ስፍራና የጨው ጕድጓድ ለዘላለምም ምድረ በዳ ሆነው ይኖራሉ፤ የሕዝቤም ቅሬታ ይበዘብዛቸዋል፥ ከወገኔም የተረፉት ይወርሱአቸዋል።",
+            "en": "Therefore as I live, saith the LORD of hosts, the God of Israel, Surely Moab shall be as Sodom, and the children of Ammon as Gomorrah, even the breeding of nettles, and saltpits, and a perpetual desolation: the residue of my people shall spoil them, and the remnant of my people shall possess them.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "በሠራዊት ጌታ በእግዚአብሔር ሕዝብ ላይ አላግጠዋልና፥ እየታበዩም ተናግረዋልና ይህ ስለ ትዕቢታቸው ያገኛቸዋል።",
+            "en": "This shall they have for their pride, because they have reproached and magnified themselves against the people of the LORD of hosts.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "እግዚአብሔር በእነርሱ ላይ የተፈራ ይሆናል፥ የምድርንም አማልክት ሁሉ ያከሳቸዋል፤ በአሕዛብም ደሴቶች ሁሉ ላይ የሚኖሩ ሰዎች ሁሉ በስፍራቸው ሆነው ለእርሱ ይሰግዳሉ።",
+            "en": "The LORD will be terrible unto them: for he will famish all the gods of the earth; and men shall worship him, every one from his place, even all the isles of the heathen.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "እናንተም ኢትዮጵያውያን ደግሞ፥ በሰይፌ ትገደላላችሁ።",
+            "en": "Ye Ethiopians also, ye shall be slain by my sword.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "እርሱም በሰሜን ላይ እጁን ይዘረጋል፥ አሦርንም ያጠፋል፤ ነነዌንም ባድማ፥ እንደ በረሃም ደረቅ ያደርጋታል።",
+            "en": "And he will stretch out his hand against the north, and destroy Assyria; and will make Nineveh a desolation, and dry like a wilderness.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "መንጎችም የምድርም አራዊት ሁሉ በውስጥዋ ይመሰጋሉ፤ ይብራና ጃርት በዓምዶችዋ መካከል ያድራሉ፤ ድምፃቸው በመስኮቶችዋ ይጮኻል፤ የዝግባም እንጨት ሥራ ይገለጣልና በመድረኮችዋ ላይ ጥፋት ይሆናል።",
+            "en": "And flocks shall lie down in the midst of her, all the beasts of the nations: both the cormorant and the bittern shall lodge in the upper lintels of it; their voice shall sing in the windows; desolation shall be in the thresholds: for he shall uncover the cedar work.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ተዘልላ የተቀመጠች፥ በልብዋም። እኔ ነኝ፥ ከእኔም በቀር ሌላ የለም ያለች ደስተኛይቱ ከተማ ይህች ናት፤ አራዊት የሚመሰጉባት ባድማ እንዴት ሆነች! በእርስዋ በኩል የሚያልፈው ሁሉ እጁን እያወዛወዘ ያፍዋጫል።",
+            "en": "This is the rejoicing city that dwelt carelessly, that said in her heart, I am, and there is none beside me: how is she become a desolation, a place for beasts to lie down in! every one that passeth by her shall hiss, and wag his hand.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "ለዓመፀኛይቱና ለረከሰች ለአስጨናቂይቱም ከተማ ወዮላት!",
+            "en": "Woe to her that is filthy and polluted, to the oppressing city!",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ድምፅን አልሰማችም፥ ተግሣጽንም አልተቀበለችም፤ በእግዚአብሔርም አልታመነችም፥ ወደ አምላክዋም አልቀረበችም።",
+            "en": "She obeyed not the voice; she received not correction; she trusted not in the LORD; she drew not near to her God.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "በውስጥዋ ያሉ አለቆችዋ እንደሚያገሡ አንበሶች ናቸው፤ ፈራጆችዋም እስከ ነገ ድረስ ምንም እንደማያስቀሩ እንደ ማታ ተኵላዎች ናቸው።",
+            "en": "Her princes within her are roaring lions; her judges are evening wolves; they gnaw not the bones till the morrow.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ነቢያቶችዋ ቅሌታሞችና ተንኰለኞች ሰዎች ናቸው፤ ካህናቶችዋም መቅደሱን አርክሰዋል፥ በሕግም ላይ ግፍ ሠርተዋል።",
+            "en": "Her prophets are light and treacherous persons: her priests have polluted the sanctuary, they have done violence to the law.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "እግዚአብሔር በውስጥዋ ጻድቅ ነው፤ ክፋትን አያደርግም፤ ፍርዱን በየማለዳው ወደ ብርሃን ያወጣል፥ ሳያወጣውም አይቀርም፤ ዓመፀኛው ግን እፍረትን አያውቅም።",
+            "en": "The just LORD is in the midst thereof; he will not do iniquity: every morning doth he bring his judgment to light, he faileth not; but the unjust knoweth no shame.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "አሕዛብን አጥፍቻለሁ፤ ግንቦቻቸው ሁሉ ፈርሰዋል፤ መንገዳቸውን ማንም እንዳያልፍባት ምድረ በዳ አድርጌአለሁ፥ ከተሞቻቸውም ማንም እንዳይኖርባቸው፥ አንድስ እንኳ እንዳይቀመጥባቸው ፈርሰዋል።",
+            "en": "I have cut off the nations: their towers are desolate; I made their streets waste, that none passeth by: their cities are destroyed, so that there is no man, that there is none inhabitant.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "እኔም- ይፈሩኛል፥ ተግሣጽንም ይቀበላሉ፤ ካዘዝኋትም ሁሉ ከዓይንዋ ምንም አይጠፋም ብዬ ነበር፤ እነርሱ ግን በማለዳ ተነሥተው ድርጊታቸውን ሁሉ አረከሱ።",
+            "en": "I said, Surely thou wilt fear me, thou wilt receive instruction; so their dwelling should not be cut off, howsoever I punished them: but they rose early, and corrupted all their doings.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "መዓቴንና የቍጣዬን ትኵሳት ሁሉ አፈስስባቸው ዘንድ ፍርዴ አሕዛብን ለመሰብሰብ፥ መንግሥታትንም ለማከማቸት ነውና፥ ምድርም ሁሉ በቅንዓቴ እሳት ትበላለችና ስለዚህ ለመበዝበዝ እስከምነሣበት ቀን ድረስ ጠብቁኝ፥ ይላል እግዚአብሔር።",
+            "en": "Therefore wait ye upon me, saith the LORD, until the day that I rise up to the prey: for my determination is to gather the nations, that I may assemble the kingdoms, to pour upon them mine indignation, even all my fierce anger: for all the earth shall be devoured with the fire of my jealousy.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "በዚያን ጊዜም አሕዛብ ሁሉ አንድ ሆነው እግዚአብሔርን ያገለግሉት ዘንድ ስሙን እንዲጠሩ ንጹሐን ልሳን እመልስላቸዋለሁ።",
+            "en": "For then will I turn to the people a pure language, that they may all call upon the name of the LORD, to serve him with one consent.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ከኢትዮጵያ ወንዞች ማዶ የሚማልዱኝ፥ የተበተኑት ሴቶች ልጆቼ፥ ቍርባኔን ያመጡልኛል።",
+            "en": "From beyond the rivers of Ethiopia my suppliants, even the daughter of my dispersed, shall bring mine offering.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "በዚያን ጊዜ እየታበዩ የሚፎክሩትን ከመካከልሽ አወጣለሁና፥ አንቺም በቅዱስ ተራራዬ ዳግመኛ አትኰሪምና በዚያ ቀን በእኔ ላይ ተላልፈሽ በሠራሽው ሥራ ሁሉ አትፍሪም።",
+            "en": "In that day shalt thou not be ashamed for all thy doings, wherein thou hast transgressed against me: for then I will take away out of the midst of thee them that rejoice in thy pride, and thou shalt no more be haughty because of my holy mountain.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "በመካከልሽም የዋህና ትሑት ሕዝብን አስቀራለሁ፤ በእግዚአብሔርም ስም ይታመናሉ።",
+            "en": "I will also leave in the midst of thee an afflicted and poor people, and they shall trust in the name of the LORD.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "የእስራኤል ቅሬታ ኃጢአትን አይሠሩም፥ ሐሰትንም አይናገሩም፥ በአፋቸውም ውስጥ ተንኰለኛ ምላስ አይገኝም፤ እነርሱም ይሰማራሉ፥ ይመሰጉማል፥ የሚያስፈራቸውም የለም።",
+            "en": "The remnant of Israel shall not do iniquity, nor speak lies; neither shall a deceitful tongue be found in their mouth: for they shall feed and lie down, and none shall make them afraid.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "የጽዮን ልጅ ሆይ፥ ዘምሪ፤ እስራኤል ሆይ፥ እልል በል፤ የኢየሩሳሌም ልጅ ሆይ፥ በፍጹም ልብሽ ሐሤት አድርጊ ደስም ይበልሽ።",
+            "en": "Sing, O daughter of Zion; shout, O Israel; be glad and rejoice with all the heart, O daughter of Jerusalem.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "እግዚአብሔር ፍርድሽን አስወግዶአል፥ ጠላትሽንም ጥሎአል፤ የእስራኤል ንጉሥ እግዚአብሔር በመካከልሽ አለ፥ ከእንግዲህም ወዲህ ክፉ ነገርን አታዪም።",
+            "en": "The LORD hath taken away thy judgments, he hath cast out thine enemy: the king of Israel, even the LORD, is in the midst of thee: thou shalt not see evil any more.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "በዚያን ቀን ለኢየሩሳሌም። ጽዮን ሆይ፥ አትፍሪ፥ እጆችሽም አይዛሉ።",
+            "en": "In that day it shall be said to Jerusalem, Fear thou not: and to Zion, Let not thine hands be slack.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "አምላክሽ እግዚአብሔር በመካከልሽ ታዳጊ ኃያል ነው፤ በደስታ በአንቺ ደስ ይለዋል፥ በፍቅሩም ያርፋል፥ በእልልታም በአንቺ ደስ ይለዋል ይባላል።",
+            "en": "The LORD thy God in the midst of thee is mighty; he will save, he will rejoice over thee with joy; he will rest in his love, he will joy over thee with singing.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "ከጉባኤው ርቀው የሚያዝኑትን፥ ከአንቺም የሆኑትን እሰበስባለሁ፤ ስድብ እንደ ሸክም ከብዶባቸው ነበር።",
+            "en": "I will gather them that are sorrowful for the solemn assembly, who are of thee, to whom the reproach of it was a burden.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "በዚያ ዘመን እነሆ፥ ባስጨነቁሽ ሁሉ ላይ አደርግባቸዋለሁ፤ አንካሳይቱንም አድናለሁ፥ የተጣለችውንም እሰበስባታለሁ፤ ባፈሩባትም ምድር ሁሉ ላይ ለምስጋናና ለከበረ ስም አደርጋቸዋለሁ።",
+            "en": "Behold, at that time I will undo all that afflict thee: and I will save her that halteth, and gather her that was driven out; and I will get them praise and fame in every land where they have been put to shame.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "በዚያ ዘመን አስገባችኋለሁ፥ በዚያም ዘመን እሰበስባችኋለሁ፤ ምርኮአችሁንም በዓይናችሁ ፊት በመለስሁ ጊዜ በምድር አሕዛብ ሁሉ መካከል ለከበረ ስምና ለምስጋና አደርጋችኋለሁ፥ ይላል እግዚአብሔር።",
+            "en": "At that time will I bring you again, even in the time that I gather you: for I will make you a name and a praise among all people of the earth, when I turn back your captivity before your eyes, saith the LORD.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    }
+  ]
+}

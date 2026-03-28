@@ -1,0 +1,1208 @@
+{
+  "book_number": 54,
+  "book_name_am": "፩ኛ ወደ ጢሞቴዎስ",
+  "book_short_name_am": "፩ጢሞ",
+  "book_name_en": "1 Timothy",
+  "book_short_name_en": "1Tim",
+  "book_name_geez": null,
+  "testament": "new",
+  "sources": [
+    "ethiopicbible.com"
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "መድኃኒታችን እግዚአብሔር ተስፋችንም ኢየሱስ ክርስቶስ እንዳዘዘው ትእዛዝ የኢየሱስ ክርስቶስ ሐዋርያ የሆነ ጳውሎስ፥",
+            "en": "Paul, an apostle of Jesus Christ by the commandment of God our Saviour, and Lord Jesus Christ, which is our hope;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "በእምነት እውነተኛ ልጄ ለሆነ ለጢሞቴዎስ፤ ከእግዚአብሔር ከአባታችን ከክርስቶስ ኢየሱስም ከጌታችን ጸጋና ምሕረት ሰላምም ይሁን።",
+            "en": "Unto Timothy, my own son in the faith: Grace, mercy, and peace, from God our Father and Jesus Christ our Lord.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ወደ መቄዶንያ በሄድሁ ጊዜ፥ አንዳንዶች ልዩ ትምህርትን እንዳያስተምሩና ወደ ተረት መጨረሻም ወደሌለው ወደ ትውልዶች ታሪክ እንዳያደምጡ ልታዛቸው በኤፌሶን ትቀመጥ ዘንድ ለመንሁህ፤ እንደ እነዚህ ያሉ ነገሮች ክርክርን ያመጣሉና በእምነት ግን ላለ ለእግዚአብሔር መጋቢነት አይጠቅሙም።",
+            "en": "As I besought thee to abide still at Ephesus, when I went into Macedonia, that thou mightest charge some that they teach no other doctrine,",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              3,
+              4
+            ]
+          }
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ወደ መቄዶንያ በሄድሁ ጊዜ፥ አንዳንዶች ልዩ ትምህርትን እንዳያስተምሩና ወደ ተረት መጨረሻም ወደሌለው ወደ ትውልዶች ታሪክ እንዳያደምጡ ልታዛቸው በኤፌሶን ትቀመጥ ዘንድ ለመንሁህ፤ እንደ እነዚህ ያሉ ነገሮች ክርክርን ያመጣሉና በእምነት ግን ላለ ለእግዚአብሔር መጋቢነት አይጠቅሙም።",
+            "en": "Neither give heed to fables and endless genealogies, which minister questions, rather than godly edifying which is in faith: so do.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              3,
+              4
+            ]
+          }
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "የትእዛዝ ፍጻሜ ግን ከንጹሕ ልብና ከበጎ ሕሊና ግብዝነትም ከሌለበት እምነት የሚወጣ ፍቅር ነው፤",
+            "en": "Now the end of the commandment is charity out of a pure heart, and of a good conscience, and of faith unfeigned:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ከእነዚህም አንዳንዶች ስተው፥ የሚሉትን ወይም ስለ እነርሱ አስረግጠው የሚናገሩትን ሳያስተውሉ፥ የሕግ አስተማሪዎች ሊሆኑ እየወደዱ፥ ወደ ከንቱ ንግግር ፈቀቅ ብለዋል።",
+            "en": "From which some having swerved have turned aside unto vain jangling;",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              6,
+              7
+            ]
+          }
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ከእነዚህም አንዳንዶች ስተው፥ የሚሉትን ወይም ስለ እነርሱ አስረግጠው የሚናገሩትን ሳያስተውሉ፥ የሕግ አስተማሪዎች ሊሆኑ እየወደዱ፥ ወደ ከንቱ ንግግር ፈቀቅ ብለዋል።",
+            "en": "Desiring to be teachers of the law; understanding neither what they say, nor whereof they affirm.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              6,
+              7
+            ]
+          }
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ነገር ግን ሰው እንደሚገባ ቢሰራበት ሕግ መልካም እንደ ሆነ እናውቃለን፤",
+            "en": "But we know that the law is good, if a man use it lawfully;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ይኸውም፥ ለበደለኞችና ለማይታዘዙ፥ ለዓመጸኞችና ለኃጢአተኞች፥ ቅድስና ለሌላቸውና ለርኵሳን፥ አባትና እናትን ለሚገድሉ፥ ለነፍሰ ገዳዮችና ለሴሰኞች፥ ከወንድ ጋርም ለሚተኙ፥ በሰዎችም ለሚነግዱ፥ ለውሸተኞችም በውሸትም ለሚምሉ፥ የብሩክ እግዚአብሔርንም ክብር እንደሚገልጥ ለእኔ አደራ እንደ ተሰጠኝ ወንጌል የሆነውን ደኅና ትምህርት ለሚቃወም ለሌላ ነገር ሁሉ ሕግ እንደ ተሰራ እንጂ ለጻድቅ እንዳልተሰራ ሲያውቅ ነው።",
+            "en": "Knowing this, that the law is not made for a righteous man, but for the lawless and disobedient, for the ungodly and for sinners, for unholy and profane, for murderers of fathers and murderers of mothers, for manslayers,",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              9,
+              10,
+              11
+            ]
+          }
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ይኸውም፥ ለበደለኞችና ለማይታዘዙ፥ ለዓመጸኞችና ለኃጢአተኞች፥ ቅድስና ለሌላቸውና ለርኵሳን፥ አባትና እናትን ለሚገድሉ፥ ለነፍሰ ገዳዮችና ለሴሰኞች፥ ከወንድ ጋርም ለሚተኙ፥ በሰዎችም ለሚነግዱ፥ ለውሸተኞችም በውሸትም ለሚምሉ፥ የብሩክ እግዚአብሔርንም ክብር እንደሚገልጥ ለእኔ አደራ እንደ ተሰጠኝ ወንጌል የሆነውን ደኅና ትምህርት ለሚቃወም ለሌላ ነገር ሁሉ ሕግ እንደ ተሰራ እንጂ ለጻድቅ እንዳልተሰራ ሲያውቅ ነው።",
+            "en": "For whoremongers, for them that defile themselves with mankind, for menstealers, for liars, for perjured persons, and if there be any other thing that is contrary to sound doctrine;",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              9,
+              10,
+              11
+            ]
+          }
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ይኸውም፥ ለበደለኞችና ለማይታዘዙ፥ ለዓመጸኞችና ለኃጢአተኞች፥ ቅድስና ለሌላቸውና ለርኵሳን፥ አባትና እናትን ለሚገድሉ፥ ለነፍሰ ገዳዮችና ለሴሰኞች፥ ከወንድ ጋርም ለሚተኙ፥ በሰዎችም ለሚነግዱ፥ ለውሸተኞችም በውሸትም ለሚምሉ፥ የብሩክ እግዚአብሔርንም ክብር እንደሚገልጥ ለእኔ አደራ እንደ ተሰጠኝ ወንጌል የሆነውን ደኅና ትምህርት ለሚቃወም ለሌላ ነገር ሁሉ ሕግ እንደ ተሰራ እንጂ ለጻድቅ እንዳልተሰራ ሲያውቅ ነው።",
+            "en": "According to the glorious gospel of the blessed God, which was committed to my trust.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              9,
+              10,
+              11
+            ]
+          }
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "ለአገልግሎቱ ሾሞኝ ታማኝ አድርጎ ስለ ቈጠረኝ፥ ኃይል የሰጠኝን ክርስቶስ ኢየሱስን ጌታችንን አመሰግናለሁ፤",
+            "en": "And I thank Christ Jesus our Lord, who hath enabled me, for that he counted me faithful, putting me into the ministry;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "አስቀድሞ ተሳዳቢና አሳዳጅ አንገላችም ምንም ብሆን፥ ይህን አደረገልኝ፤ ነገር ግን ሳላውቅ ባለማመን ስላደረግሁት ምህረትን አገኘሁ፥",
+            "en": "Who was before a blasphemer, and a persecutor, and injurious: but I obtained mercy, because I did it ignorantly in unbelief.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "የጌታችንም ጸጋ በክርስቶስ ኢየሱስ ካሉ ከእምነትና ከፍቅር ጋር አብልጦ በዛ።",
+            "en": "And the grace of our Lord was exceeding abundant with faith and love which is in Christ Jesus.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ኃጢአተኞችን ሊያድን ክርስቶስ ኢየሱስ ወደ ዓለም መጣ የሚለው ቃል የታመነና ሁሉ እንዲቀበሉት የተገባ ነው፤ ከኃጢአተኞችም ዋና እኔ ነኝ፤",
+            "en": "This is a faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; of whom I am chief.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ስለዚህ ግን፥ የዘላለምን ሕይወት ለማግኘት በእርሱ ያምኑ ዘንድ ላላቸው ሰዎች ምሳሌ እንድሆን፥ ኢየሱስ ክርስቶስ ዋና በምሆን በእኔ ላይ ትዕግስቱን ሁሉ ያሳይ ዘንድ፥ ምህረትን አገኘሁ።",
+            "en": "Howbeit for this cause I obtained mercy, that in me first Jesus Christ might shew forth all longsuffering, for a pattern to them which should hereafter believe on him to life everlasting.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "ብቻውን አምላክ ለሚሆን ለማይጠፋው ለማይታየውም ለዘመናት ንጉሥ ምስጋናና ክብር እስከ ዘላለም ድረስ ይሁን፤ አሜን።",
+            "en": "Now unto the King eternal, immortal, invisible, the only wise God, be honour and glory for ever and ever. Amen.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "ጢሞቴዎስ ልጄ ሆይ፥ አስቀድሞ ስለ አንተ እንደ ተነገረው ትንቢት፥ በእርሱ መልካም ጦርነት ትዋጋ ዘንድ ይህችን ትእዛዝ አደራ እሰጥሃለሁ፤",
+            "en": "This charge I commit unto thee, son Timothy, according to the prophecies which went before on thee, that thou by them mightest war a good warfare;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "እምነትና በጎ ሕሊና ይኑርህ፥ አንዳንዶች ሕሊናን ጥለው፥ መርከብ አለ መሪ እንደሚጠፋ፥ በእምነት ነገር ጠፍተዋልና፤",
+            "en": "Holding faith, and a good conscience; which some having put away concerning faith have made shipwreck:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "ከእነዚያም፥ እንዳይሳደቡ ይማሩ ዘንድ ለሰይጣን አሳልፌ የሰጠኋቸው፥ ሄሜኔዎስና እስክንድሮስ ናቸው።",
+            "en": "Of whom is Hymenaeus and Alexander; whom I have delivered unto Satan, that they may learn not to blaspheme.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "እንግዲህ እግዚአብሔርን በመምሰልና በጭምትነት ሁሉ ጸጥና ዝግ ብለን እንድንኖር፥ ልመናና ጸሎት ምልጃም ምስጋናም ስለ ሰዎች ሁሉ ስለ ነገሥታትና ስለ መኳንንትም ሁሉ እንዲደረጉ ከሁሉ በፊት እመክራለሁ።",
+            "en": "I exhort therefore, that, first of all, supplications, prayers, intercessions, and giving of thanks, be made for all men;",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "እንግዲህ እግዚአብሔርን በመምሰልና በጭምትነት ሁሉ ጸጥና ዝግ ብለን እንድንኖር፥ ልመናና ጸሎት ምልጃም ምስጋናም ስለ ሰዎች ሁሉ ስለ ነገሥታትና ስለ መኳንንትም ሁሉ እንዲደረጉ ከሁሉ በፊት እመክራለሁ።",
+            "en": "For kings, and for all that are in authority; that we may lead a quiet and peaceable life in all godliness and honesty.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ሰዎች ሁሉ ሊድኑና እውነቱን ወደ ማወቅ ሊደርሱ በሚወድ በእግዚአብሔር በመድኃኒታችን ፊት መልካምና ደስ የሚያሰኝ ይህ ነው።",
+            "en": "For this is good and acceptable in the sight of God our Saviour;",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              3,
+              4
+            ]
+          }
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ሰዎች ሁሉ ሊድኑና እውነቱን ወደ ማወቅ ሊደርሱ በሚወድ በእግዚአብሔር በመድኃኒታችን ፊት መልካምና ደስ የሚያሰኝ ይህ ነው።",
+            "en": "Who will have all men to be saved, and to come unto the knowledge of the truth.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              3,
+              4
+            ]
+          }
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "አንድ እግዚአብሔር አለና፥ በእግዚአብሔርና በሰውም መካከል ያለው መካከለኛው ደግሞ አንድ አለ፥ እርሱም ሰው የሆነ ክርስቶስ ኢየሱስ ነው፤",
+            "en": "For there is one God, and one mediator between God and men, the man Christ Jesus;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ራሱንም ለሁሉ ቤዛ ሰጠ፥ ይህም በገዛ ዘመኑ ምስክርነቱ ነበረ፤",
+            "en": "Who gave himself a ransom for all, to be testified in due time.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "እኔም ለዚህ ነገር አዋጅ ነጋሪና ሐዋርያ በእምነትና በእውነትም የአሕዛብ አስተማሪ ለመሆን ተሾምሁ፤ እውነት እናገራለሁ፤ አልዋሽም።",
+            "en": "Whereunto I am ordained a preacher, and an apostle, (I speak the truth in Christ, and lie not;) a teacher of the Gentiles in faith and verity.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "እንግዲህ ወንዶች በስፍራ ሁሉ አለ ቍጣና አለ ክፉ አሳብ የተቀደሱትን እጆች እያነሱ እንዲጸልዩ እፈቅዳለሁ።",
+            "en": "I will therefore that men pray every where, lifting up holy hands, without wrath and doubting.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "እንዲሁም ደግሞ ሴቶች በሚገባ ልብስ ከእፍረትና ራሳቸውን ከመግዛት ጋር ሰውነታቸውን ይሸልሙ፤ እግዚአብሔርን እንፈራለን ለሚሉት ሴቶች እንደሚገባ፥ መልካም በማድረግ እንጂ በሽሩባና በወርቅ ወይም በዕንቍ ወይም ዋጋው እጅግ በከበረ ልብስ አይሸለሙ።",
+            "en": "In like manner also, that women adorn themselves in modest apparel, with shamefacedness and sobriety; not with broided hair, or gold, or pearls, or costly array;",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              9,
+              10
+            ]
+          }
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "እንዲሁም ደግሞ ሴቶች በሚገባ ልብስ ከእፍረትና ራሳቸውን ከመግዛት ጋር ሰውነታቸውን ይሸልሙ፤ እግዚአብሔርን እንፈራለን ለሚሉት ሴቶች እንደሚገባ፥ መልካም በማድረግ እንጂ በሽሩባና በወርቅ ወይም በዕንቍ ወይም ዋጋው እጅግ በከበረ ልብስ አይሸለሙ።",
+            "en": "But (which becometh women professing godliness) with good works.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              9,
+              10
+            ]
+          }
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ሴት በነገር ሁሉ እየተገዛች በዝግታ ትማር፤",
+            "en": "Let the woman learn in silence with all subjection.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "ሴት ግን በዝግታ ትኑር እንጂ ልታስተምር ወይም በወንድ ላይ ልትሰለጥን አልፈቅድም።",
+            "en": "But I suffer not a woman to teach, nor to usurp authority over the man, but to be in silence.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "አዳም ቀድሞ ተፈጥሮአልና፥ በኋላም ሔዋን ተፈጠረች።",
+            "en": "For Adam was first formed, then Eve.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "የተታለለም አዳም አይደለም፥ ሴቲቱ ግን ተታልላ በመተላለፍ ወደቀች፤",
+            "en": "And Adam was not deceived, but the woman being deceived was in the transgression.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ነገር ግን በእምነትና በፍቅር በቅድስናም ራሳቸውን እየገዙ ቢኖሩ በመውለድ ትድናለች።",
+            "en": "Notwithstanding she shall be saved in childbearing, if they continue in faith and charity and holiness with sobriety.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "ማንም ኤጲስ ቆጶስነትን ቢፈልግ መልካምን ሥራ ይመኛል የሚለው ቃል የታመነ ነው።",
+            "en": "This is a true saying, If a man desire the office of a bishop, he desireth a good work.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "እንግዲህ ኤጲስ ቆጶስ እንዲህ ሊሆን ይገባዋል፤ የማይነቀፍ፥ የአንዲት ሚስት ባል፥ ልከኛ፥ ራሱን የሚገዛ፥ እንደሚገባው የሚሰራ፥ እንግዳ ተቀባይ፥ ለማስተማር የሚበቃ፥",
+            "en": "A bishop then must be blameless, the husband of one wife, vigilant, sober, of good behaviour, given to hospitality, apt to teach;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "የማይሰክር፥ የማይጨቃጨቅ ነገር ግን ገር የሆነ፥ የማይከራከር፥ ገንዘብን የማይወድ፥",
+            "en": "Not given to wine, no striker, not greedy of filthy lucre; but patient, not a brawler, not covetous;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ልጆቹን በጭምትነት ሁሉ እየገዛ የራሱን ቤት በመልካም የሚያስተዳድር፤",
+            "en": "One that ruleth well his own house, having his children in subjection with all gravity;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ሰው ግን የራሱን ቤት እንዲያስተዳድር ባያውቅ፥ የእግዚአብሔርን ቤተ ክርስቲያን እንዴት ይጠብቃታል?",
+            "en": "For if a man know not how to rule his own house, how shall he take care of the church of God?)",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "በትዕቢት ተነፍቶ በዲያቢሎስ ፍርድ እንዳይወድቅ፥ አዲስ ክርስቲያን አይሁን።",
+            "en": "Not a novice, lest being lifted up with pride he fall into the condemnation of the devil.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "በዲያቢሎስ ነቀፋና ወጥመድም እንዳይወድቅ፥ በውጭ ካሉት ሰዎች ደግሞ መልካም ምስክር ሊኖረው ይገባዋል።",
+            "en": "Moreover he must have a good report of them which are without; lest he fall into reproach and the snare of the devil.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "እንዲሁም ዲያቆናት ጭምቶች፥ በሁለት ቃል የማይናገሩ፥ ለብዙ ወይን ጠጅ የማይጎመጁ፥",
+            "en": "Likewise must the deacons be grave, not doubletongued, not given to much wine, not greedy of filthy lucre;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ነውረኛ ረብ የማይወዱ፥ በንጹሕ ሕሊና የሃይማኖትን ምሥጢር የሚይዙ ሊሆኑ ይገባቸዋል።",
+            "en": "Holding the mystery of the faith in a pure conscience.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "እነዚህም ደግሞ አስቀድሞ ይፈተኑ፥ ከዚያም በኋላ ያለ ነቀፋ ቢሆኑ በዲቁና ሥራ ያገልግሉ።",
+            "en": "And let these also first be proved; then let them use the office of a deacon, being found blameless.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "እንዲሁም ሴቶች ጭምቶች፥ የማያሙ፥ ልከኞች፥ በነገር ሁሉ የታመኑ ሊሆኑ ይገባቸዋል።",
+            "en": "Even so must their wives be grave, not slanderers, sober, faithful in all things.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "ዲያቆናት ልጆቻቸውንና የራሳቸውን ቤቶች በመልካም እየገዙ እያንዳንዳቸው የአንዲት ሴት ባሎች ይሁኑ።",
+            "en": "Let the deacons be the husbands of one wife, ruling their children and their own houses well.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "በዲቁና ሥራ በመልካም ያገለገሉ ለራሳቸው ትልቅ ማዕርግና በክርስቶስ ኢየሱስ ባለው እምነት ብዙ ድፍረት ያገኛሉ።",
+            "en": "For they that have used the office of a deacon well purchase to themselves a good degree, and great boldness in the faith which is in Christ Jesus.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ፈጥኜ ወደ አንተ እንድመጣ ተስፋ አድርጌ ይህን እጽፍልሃለሁ።",
+            "en": "These things write I unto thee, hoping to come unto thee shortly:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ብዘገይ ግን፥ በእግዚአብሔር ማደሪያ ቤት መኖር እንዴት እንደሚገባ ታውቅ ዘንድ እጽፍልሃለሁ፤ ቤቱም የእውነት ዓምድና መሠረት፥ የሕያው እግዚአብሔር ቤተ ክርስቲያን ነው።",
+            "en": "But if I tarry long, that thou mayest know how thou oughtest to behave thyself in the house of God, which is the church of the living God, the pillar and ground of the truth.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "እግዚአብሔርንም የመምሰል ምሥጢር ያለ ጥርጥር ታላቅ ነው፤ በሥጋ የተገለጠ፥ በመንፈስ የጸደቀ፥ ለመላእክት የታየ፥ በአሕዛብ የተሰበከ፥ በዓለም የታመነ፥ በክብር ያረገ።",
+            "en": "And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Spirit, seen of angels, preached unto the Gentiles, believed on in the world, received up into glory.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "መንፈስ ግን በግልጥ። በኋለኞች ዘመናት አንዳንዶች የሚያስቱ መናፍስትንና በውሸተኞች ግብዝነት የተሰጠውን የአጋንንትን ትምህርት እያደመጡ፥ ሃይማኖትን ይክዳሉ ይላል፤ በገዛ ሕሊናቸው እንደሚቃጠሉ ደንዝዘው፥",
+            "en": "Now the Spirit speaketh expressly, that in the latter times some shall depart from the faith, giving heed to seducing spirits, and doctrines of devils;",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "መንፈስ ግን በግልጥ። በኋለኞች ዘመናት አንዳንዶች የሚያስቱ መናፍስትንና በውሸተኞች ግብዝነት የተሰጠውን የአጋንንትን ትምህርት እያደመጡ፥ ሃይማኖትን ይክዳሉ ይላል፤ በገዛ ሕሊናቸው እንደሚቃጠሉ ደንዝዘው፥",
+            "en": "Speaking lies in hypocrisy; having their conscience seared with a hot iron;",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "እነዚህ ውሸተኞች መጋባትን ይከለክላሉ፥ አምነውም እውነትን የሚያውቁ ከምስጋና ጋር ይቀበሉ ዘንድ እግዚአብሔር ከፈጠረው መብል እንዲርቁ ያዝዛሉ።",
+            "en": "Forbidding to marry, and commanding to abstain from meats, which God hath created to be received with thanksgiving of them which believe and know the truth.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "እግዚአብሔር የፈጠረው ሁሉ መልካም ነውና፥ ከምስጋናም ጋር ቢቀበሉት የሚጣል ምንም የለም፤",
+            "en": "For every creature of God is good, and nothing to be refused, if it be received with thanksgiving:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "በእግዚአብሔር ቃልና በጸሎት የተቀደሰ ነውና።",
+            "en": "For it is sanctified by the word of God and prayer.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ስለዚህ ወንድሞችን ብታሳስብ፥ በእምነትና በተከተልኸው በመልካም ትምህርት ቃል የምትመገብ የኢየሱስ ክርስቶስ መልካም አገልጋይ ትሆናለህ።",
+            "en": "If thou put the brethren in remembrance of these things, thou shalt be a good minister of Jesus Christ, nourished up in the words of faith and of good doctrine, whereunto thou hast attained.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ነገር ግን ለዚህ ዓለም ከሚመችና የአሮጊቶችን ሴቶች ጨዋታ ከሚመስለው ተረት ራቅ። እግዚአብሔርን ለመምሰል ግን ራስህን አስለምድ።",
+            "en": "But refuse profane and old wives' fables, and exercise thyself rather unto godliness.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ሰውነትን ለሥጋዊ ነገር ማስለመድ ለጥቂት ይጠቅማልና፤ እግዚአብሔርን መምሰል ግን የአሁንና የሚመጣው ሕይወት ተስፋ ስላለው፥ ለነገር ሁሉ ይጠቅማል።",
+            "en": "For bodily exercise profiteth little: but godliness is profitable unto all things, having promise of the life that now is, and of that which is to come.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ይህ ቃል የታመነ ሁሉም እንዲቀበሉት የተገባ ነው፤",
+            "en": "This is a faithful saying and worthy of all acceptation.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ይህን ለማግኘት እንደክማለንና፥ ስለዚህም እንሰደባለን፤ ይህም ሰውን ሁሉ ይልቁንም የሚያምኑትን በሚያድን በሕያው አምላክ ተስፋ ስለምናደርግ ነው።",
+            "en": "For therefore we both labour and suffer reproach, because we trust in the living God, who is the Saviour of all men, specially of those that believe.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ይህን እዘዝና አስተምር። በቃልና በኑሮ በፍቅርም በእምነትም በንጽሕናም ለሚያምኑቱ ምሳሌ ሁን እንጂ፥ ማንም ታናሽነትህን አይናቀው።",
+            "en": "These things command and teach.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              11,
+              12
+            ]
+          }
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "ይህን እዘዝና አስተምር። በቃልና በኑሮ በፍቅርም በእምነትም በንጽሕናም ለሚያምኑቱ ምሳሌ ሁን እንጂ፥ ማንም ታናሽነትህን አይናቀው።",
+            "en": "Let no man despise thy youth; but be thou an example of the believers, in word, in conversation, in charity, in spirit, in faith, in purity.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              11,
+              12
+            ]
+          }
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "እስክመጣ ድረስ ለማንበብና ለመምከር ለማስተማርም ተጠንቀቅ።",
+            "en": "Till I come, give attendance to reading, to exhortation, to doctrine.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "በትንቢት ከሽማግሌዎች እጅ መጫን ጋር የተሰጠህን፥ በአንተ ያለውን የጸጋ ስጦታ ቸል አትበል።",
+            "en": "Neglect not the gift that is in thee, which was given thee by prophecy, with the laying on of the hands of the presbytery.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ማደግህ በነገር ሁሉ እንዲገለጥ ይህን አስብ፥ ይህንም አዘውትር።",
+            "en": "Meditate upon these things; give thyself wholly to them; that thy profiting may appear to all.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ለራስህና ለትምህርትህ ተጠንቀቅ፥ በእነዚህም ጽና፤ ይህን ብታደርግ፥ ራስህንም የሚሰሙህንም ታድናለህና።",
+            "en": "Take heed unto thyself, and unto the doctrine; continue in them: for in doing this thou shalt both save thyself, and them that hear thee.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "ሽማግሌ የሆነውን አትገሥጸው፥ እርሱን ግን እንደ አባት፥ ጎበዞችን እንደ ወንድሞች፥ የሸመገሉትን ሴቶች እንደ እናቶች፥ ቆነጃጅቱን እንደ እኅቶች በፍጹም ንጽሕና ለምናቸው።",
+            "en": "Rebuke not an elder, but intreat him as a father; and the younger men as brethren;",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ሽማግሌ የሆነውን አትገሥጸው፥ እርሱን ግን እንደ አባት፥ ጎበዞችን እንደ ወንድሞች፥ የሸመገሉትን ሴቶች እንደ እናቶች፥ ቆነጃጅቱን እንደ እኅቶች በፍጹም ንጽሕና ለምናቸው።",
+            "en": "The elder women as mothers; the younger as sisters, with all purity.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              1,
+              2
+            ]
+          }
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "በእውነት ባልቴቶች የሆኑትን ባልቴቶች አክብር።",
+            "en": "Honour widows that are widows indeed.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ማንም ባልቴት ግን ልጆች ወይም የልጅ ልጆች ቢኖሩአት፥ እነርሱ አስቀድመው ለገዛ ቤተ ሰዎቻቸው እግዚአብሔርን መምሰል ያሳዩ ዘንድ፥ ለወላጆቻቸውም ብድራትን ይመልሱላቸው ዘንድ ይማሩ፤ ይህ በእግዚአብሔር ፊት መልካምና የተወደደ ነውና።",
+            "en": "But if any widow have children or nephews, let them learn first to shew piety at home, and to requite their parents: for that is good and acceptable before God.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ብቻዋንም ኖራ በእውነት ባልቴት የምትሆን በእግዚአብሔር ተስፋ ታደርጋለች፥ ሌትና ቀንም በልመና በጸሎትም ጸንታ ትኖራለች፤",
+            "en": "Now she that is a widow indeed, and desolate, trusteth in God, and continueth in supplications and prayers night and day.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ቅምጥሊቱ ግን በሕይወትዋ ሳለች የሞተች ናት።",
+            "en": "But she that liveth in pleasure is dead while she liveth.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ያለ ነቀፋ እንዲሆኑ ይህን ደግሞ እዘዝ።",
+            "en": "And these things give in charge, that they may be blameless.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ነገር ግን ለእርሱ ስለ ሆኑት ይልቁንም ስለ ቤተ ሰዎቹ የማያስብ ማንም ቢሆን፥ ሃይማኖትን የካደ ከማያምንም ሰው ይልቅ የሚከፋ ነው።",
+            "en": "But if any provide not for his own, and specially for those of his own house, he hath denied the faith, and is worse than an infidel.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ባልቴት በመዝገብ ብትጻፍ ዕድሜዋ ከስድሳ ዓመት እንዳያንስ፥ የአንድም ባል ሚስት የነበረች እንድትሆን ያስፈልጋል፤",
+            "en": "Let not a widow be taken into the number under threescore years old, having been the wife of one man,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ልጆችን በማሳደግ እንግዶችንም በመቀበል፥ የቅዱሳንንም እግሮች በማጠብ፥ የተጨነቁትንም በመርዳት በጎንም ሥራ ሁሉ በመከተል፥ ይህን መልካም ሥራ በማድረግ የተመሰከረላት ልትሆን ይገባል።",
+            "en": "Well reported of for good works; if she have brought up children, if she have lodged strangers, if she have washed the saints' feet, if she have relieved the afflicted, if she have diligently followed every good work.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ባል የሞተባቸውን ቆነጃጅት ግን አትቀበል፤ በክርስቶስ ላይ ተነሥተው ሲቀማጠሉ ሊያገቡ ይወዳሉና፤",
+            "en": "But the younger widows refuse: for when they have begun to wax wanton against Christ, they will marry;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "የፊተኛውንም እምነታቸውን ስለ ናቁ ይፈረድባቸዋል፤",
+            "en": "Having damnation, because they have cast off their first faith.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ከዚህም ጋር ቤት ለቤት እየዞሩ ሥራን መፍታት ደግሞ ይማራሉ፥ የማይገባውንም እየተናገሩ ለፍላፊዎችና በነገር ገቢዎች ይሆናሉ እንጂ፥ ሥራ ፈቶች ብቻ አይደሉም።",
+            "en": "And withal they learn to be idle, wandering about from house to house; and not only idle, but tattlers also and busybodies, speaking things which they ought not.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "እንግዲህ ቆነጃጅት ሊያገቡ፥ ልጆችንም ሊወልዱ፥ ቤቶቻቸውንም ሊያስተዳድሩ፥ ተቃዋሚውም የሚሳደብበትን አንድን ምክንያት ስንኳ እንዳይሰጡ እፈቅዳለሁ፤",
+            "en": "I will therefore that the younger women marry, bear children, guide the house, give none occasion to the adversary to speak reproachfully.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ከአሁን በፊት አንዳንዶች ሰይጣንን እንዲከተሉ ፈቀቅ ብለዋልና።",
+            "en": "For some are already turned aside after Satan.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ባልቴቶች ያሉት የሚያምን ቢሆን ወይም የምታምን ብትሆን፥ ይርዱአቸው፥ ቤተ ክርስቲያንም እውነተኞችን ባልቴቶች እንድትረዳ አይክበዱባት።",
+            "en": "If any man or woman that believeth have widows, let them relieve them, and let not the church be charged; that it may relieve them that are widows indeed.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "በመልካም የሚያስተዳድሩ ሽማግሌዎች፥ ይልቁንም በመስበክና በማስተማር የሚደክሙት፥ እጥፍ ክብር ይገባቸዋል።",
+            "en": "Let the elders that rule well be counted worthy of double honour, especially they who labour in the word and doctrine.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "መጽሐፍ። የሚያበራየውን በሬ አፉን አትሰር፥ ደግሞ። ለሠራተኛ ደመወዙ ይገባዋል ይላልና።",
+            "en": "For the scripture saith, Thou shalt not muzzle the ox that treadeth out the corn. And, The labourer is worthy of his reward.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "ከሁለት ወይም ከሦስት ምስክር በቀር በሽማግሌ ላይ ክስ አትቀበል።",
+            "en": "Against an elder receive not an accusation, but before two or three witnesses.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "ሌሎቹ ደግሞ እንዲፈሩ፥ ኃጢአት የሚሰሩትን በሁሉ ፊት ገሥጻቸው።",
+            "en": "Them that sin rebuke before all, that others also may fear.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "አንድን እንኳ በአድልዎ ሳታደርግ፥ እነዚህን ያለ መዘንበል እንድትጠብቅ በእግዚአብሔርና በጌታ በኢየሱስ ክርስቶስ በተመረጡትም መላእክት ፊት እመክርሃለሁ።",
+            "en": "I charge thee before God, and the Lord Jesus Christ, and the elect angels, that thou observe these things without preferring one before another, doing nothing by partiality.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 22,
+          "text": {
+            "am": "በማንም ላይ ፈጥነህ እጆችህን አትጫን፥ በሌሎችም ኃጢአት አትተባበር፤ ራስህን በንጽህና ጠብቅ።",
+            "en": "Lay hands suddenly on no man, neither be partaker of other men's sins: keep thyself pure.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 23,
+          "text": {
+            "am": "ስለ ሆድህና ስለ በሽታህ ብዛት ጥቂት የወይን ጠጅ ጠጣ እንጂ፥ ወደ ፊት ውኃ ብቻ አትጠጣ።",
+            "en": "Drink no longer water, but use a little wine for thy stomach's sake and thine often infirmities.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 24,
+          "text": {
+            "am": "የአንዳንዶች ሰዎች ኃጢአት የተገለጠ ነው ፍርድንም ያመለክታል፥ ሌሎችን ግን ይከተላቸዋል፤",
+            "en": "Some men's sins are open beforehand, going before to judgment; and some men they follow after.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 25,
+          "text": {
+            "am": "እንዲሁ መልካም ሥራ ደግሞ የተገለጠ ነው፥ ያልተገለጠም ከሆነ ሊሰወር አይችልም።",
+            "en": "Likewise also the good works of some are manifest beforehand; and they that are otherwise cannot be hid.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "የእግዚአብሔር ስምና ትምህርቱ አንዳይሰደብ፥ ከቀንበር በታች ያሉቱ ባሪያዎች ሁሉ ለገዙአቸው ጌቶች ክብር ሁሉ እንደ ተገባቸው ይቍጠሩአቸው።",
+            "en": "Let as many servants as are under the yoke count their own masters worthy of all honour, that the name of God and his doctrine be not blasphemed.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "የሚያምኑም ጌቶች ያሉአቸው፥ ወንድሞች ስለ ሆኑ አይናቁአቸው፥ ነገር ግን በመልካም ሥራቸው የሚጠቅሙ የሚያምኑና የተወደዱ ስለ ሆኑ፥ ከፊት ይልቅ ያገልግሉ።",
+            "en": "And they that have believing masters, let them not despise them, because they are brethren; but rather do them service, because they are faithful and beloved, partakers of the benefit. These things teach and exhort.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "እነዚህን አስተምርና ምከር። ማንም ልዩ ትምህርት የሚያስተምር ከጌታችንም ከኢየሱስ ክርስቶስ በሆነው ጤናማ ቃልና እግዚአብሔርን ለመምሰል በሚስማማ ትምህርት የማይጠጋ ቢሆን፥",
+            "en": "If any man teach otherwise, and consent not to wholesome words, even the words of our Lord Jesus Christ, and to the doctrine which is according to godliness;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "በትዕቢት ተነፍቶአል አንዳችም አያውቅም፥ ነገር ግን ምርመራን በቃልም መዋጋትን እንደ በሽተኛ ይናፍቃል፤ ከእነዚህም ቅንዓትና ክርክር ስድብም ክፉ አሳብም እርስ በርስ መናደድም ይወጣሉ፥ አእምሮአቸውም በጠፋባቸው እውነትንም በተቀሙ፥ እግዚአብሔርን መምሰል ማትረፊያ የሚሆን በመሰላቸው ሰዎች ይገኛሉ። እንደነዚህ ካሉት ራቅ።",
+            "en": "He is proud, knowing nothing, but doting about questions and strifes of words, whereof cometh envy, strife, railings, evil surmisings,",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              4,
+              5
+            ]
+          }
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "በትዕቢት ተነፍቶአል አንዳችም አያውቅም፥ ነገር ግን ምርመራን በቃልም መዋጋትን እንደ በሽተኛ ይናፍቃል፤ ከእነዚህም ቅንዓትና ክርክር ስድብም ክፉ አሳብም እርስ በርስ መናደድም ይወጣሉ፥ አእምሮአቸውም በጠፋባቸው እውነትንም በተቀሙ፥ እግዚአብሔርን መምሰል ማትረፊያ የሚሆን በመሰላቸው ሰዎች ይገኛሉ። እንደነዚህ ካሉት ራቅ።",
+            "en": "Perverse disputings of men of corrupt minds, and destitute of the truth, supposing that gain is godliness: from such withdraw thyself.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              4,
+              5
+            ]
+          }
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ኑሮዬ ይበቃኛል ለሚለው ግን እግዚአብሔርን መምሰል እጅግ ማትረፊያ ነው፤",
+            "en": "But godliness with contentment is great gain.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ወደ ዓለም ምንም እንኳ አላመጣንምና፥",
+            "en": "For we brought nothing into this world, and it is certain we can carry nothing out.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "አንዳችንም ልንወስድ አይቻለንም፤ ምግብና ልብስ ከኖረን ግን፥ እርሱ ይበቃናል።",
+            "en": "And having food and raiment let us be therewith content.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ዳሩ ግን ባለ ጠጎች ሊሆኑ የሚፈልጉ በጥፋትና በመፍረስ ሰዎችን በሚያሰጥምና በሚያሰንፍ በሚጎዳም በብዙ ምኞትና በፈተና በወጥመድም ይወድቃሉ።",
+            "en": "But they that will be rich fall into temptation and a snare, and into many foolish and hurtful lusts, which drown men in destruction and perdition.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ገንዘብን መውደድ የክፋት ሁሉ ሥር ነውና፥ አንዳንዶች ይህን ሲመኙ፥ ከሃይማኖት ተሳስተው በብዙ ሥቃይ ራሳቸውን ወጉ።",
+            "en": "For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "አንተ ግን፥ የእግዚአብሔር ሰው ሆይ፥ ከዚህ ሽሽ፤ ጽድቅንና እግዚአብሔርን መምሰል እምነትንም ፍቅርንም መጽናትንም የዋህነትንም ተከታተል።",
+            "en": "But thou, O man of God, flee these things; and follow after righteousness, godliness, faith, love, patience, meekness.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "መልካሙን የእምነት ገድል ተጋደል፥ የተጠራህለትንም በብዙም ምስክሮች ፊት በመልካም መታመን የታመንህለትን የዘላለምን ሕይወት ያዝ።",
+            "en": "Fight the good fight of faith, lay hold on eternal life, whereunto thou art also called, and hast professed a good profession before many witnesses.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ሁሉን በሕይወት በሚጠብቅ በእግዚአብሔር ፊት፥ በጴንጤናዊውም በጲላጦስ ዘንድ መልካሙን መታመን በመሰከረ በክርስቶስ ኢየሱስ ፊት አዝሃለሁ፤",
+            "en": "I give thee charge in the sight of God, who quickeneth all things, and before Christ Jesus, who before Pontius Pilate witnessed a good confession;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ጌታችን ኢየሱስ ክርስቶስ እስኪገለጥ ድረስ ያለ እድፍና ያለ ነቀፋ ሆነህ ትእዛዙን ጠብቅ፤",
+            "en": "That thou keep this commandment without spot, unrebukeable, until the appearing of our Lord Jesus Christ:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ያንም መገለጡን በራሱ ጊዜ ብፁዕና ብቻውን የሆነ ገዥ፥ የነገሥታት ንጉሥና የጌቶች ጌታ፥ ያሳያል።",
+            "en": "Which in his times he shall shew, who is the blessed and only Potentate, the King of kings, and Lord of lords;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "እርሱ ብቻ የማይሞት ነው፤ ማንም ሊቀርበው በማይችል ብርሃን ይኖራል፤ አንድ ሰው እንኳ አላየውም ሊያይም አይቻለውም፤ ለእርሱ ክብርና የዘላለም ኃይል ይሁን፤ አሜን።",
+            "en": "Who only hath immortality, dwelling in the light which no man can approach unto; whom no man hath seen, nor can see: to whom be honour and power everlasting. Amen.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "በአሁኑ ዘመን ባለ ጠጎች የሆኑት የትዕቢትን ነገር እንዳያስቡ፥ ደስም እንዲለን ሁሉን አትርፎ በሚሰጠን በሕያው እግዚአብሔር እንጂ በሚያልፍ ባለ ጠግነት ተስፋ እንዳያደርጉ እዘዛቸው።",
+            "en": "Charge them that are rich in this world, that they be not highminded, nor trust in uncertain riches, but in the living God, who giveth us richly all things to enjoy;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "እውነተኛውን ሕይወት ይይዙ ዘንድ፥ ለሚመጣው ዘመን ለራሳቸው መልካም መሠረት የሚሆንላቸውን መዝገብ እየሰበሰቡ፥ መልካምን እንዲያደርጉ በበጎም ሥራ ባለ ጠጎች እንዲሆኑ፥ ሊረዱና ሊያካፍሉም የተዘጋጁ እንዲሆኑ ምከራቸው።",
+            "en": "That they do good, that they be rich in good works, ready to distribute, willing to communicate;",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              18,
+              19
+            ]
+          }
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "እውነተኛውን ሕይወት ይይዙ ዘንድ፥ ለሚመጣው ዘመን ለራሳቸው መልካም መሠረት የሚሆንላቸውን መዝገብ እየሰበሰቡ፥ መልካምን እንዲያደርጉ በበጎም ሥራ ባለ ጠጎች እንዲሆኑ፥ ሊረዱና ሊያካፍሉም የተዘጋጁ እንዲሆኑ ምከራቸው።",
+            "en": "Laying up in store for themselves a good foundation against the time to come, that they may lay hold on eternal life.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              18,
+              19
+            ]
+          }
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "ጢሞቴዎስ ሆይ፥ በውሸት እውቀት ከተባለ ለዓለም ከሚመች ከከንቱ መለፍለፍና መከራከር እየራቅህ፥ የተሰጠህን አደራ ጠብቅ፤",
+            "en": "O Timothy, keep that which is committed to thy trust, avoiding profane and vain babblings, and oppositions of science falsely so called:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "ይህ እውቀት አለን ብለው፥ አንዳንዶች ስለ እምነት ስተዋልና። ጸጋ ከአንተ ጋር ይሁን።",
+            "en": "Which some professing have erred concerning the faith. Grace be with thee. Amen.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    }
+  ]
+}

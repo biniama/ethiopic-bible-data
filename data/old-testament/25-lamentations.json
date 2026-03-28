@@ -1,0 +1,1442 @@
+{
+  "book_number": 25,
+  "book_name_am": "ሰቆቃው ኤርምያስ",
+  "book_short_name_am": "ሰቆ",
+  "book_name_en": "Lamentations",
+  "book_short_name_en": "Lam",
+  "book_name_geez": null,
+  "testament": "old",
+  "sources": [
+    "ethiopicbible.com"
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "አሌፍ። ሕዝብ ሞልቶባት የነበረች ከተማ ብቻዋን እንዴት ተቀመጠች! በአሕዛብ መካከል ታላቅ የነበረች እንደ መበለት ሆናለች፤ በአውራጆች መካከል ልዕልት የነበረች ተገዢ ሆናለች።",
+            "en": "How doth the city sit solitary, that was full of people! how is she become as a widow! she that was great among the nations, and princess among the provinces, how is she become tributary!",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ቤት። በሌሊት እጅግ ታላቅሳለች፥ እንባዋም በጕንጭዋ ላይ አለ፤ ከውሽሞችዋ ሁሉ የሚያጽናናት የለም፤ ወዳጆችዋ ሁሉ ወነጀሉአት ጠላቶችም ሆኑአት።",
+            "en": "She weepeth sore in the night, and her tears are on her cheeks: among all her lovers she hath none to comfort her: all her friends have dealt treacherously with her, they are become her enemies.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ጋሜል። ይሁዳ ስለ መጨነቅና ስለ ባርነት ብዛት ተማረከች፤ በአሕዛብ መካከል ተቀመጠች ዕረፍትም አላገኘችም፤ የሚያስጨንቁአት ሁሉ ተጨንቃ አገኙአት።",
+            "en": "Judah is gone into captivity because of affliction, and because of great servitude: she dwelleth among the heathen, she findeth no rest: all her persecutors overtook her between the straits.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ዳሌጥ። ወደ ዓመት በዓልም የሚመጣ የለምና የጽዮን መንገዶች አለቀሱ፤ በሮችዋ ሁሉ ፈርሰዋል ካህናቶችዋም እየጮኹ ያለቅሳሉ፤ ደናግሎችዋም ተጨነቁ እርስዋም በምሬት አለች።",
+            "en": "The ways of Zion do mourn, because none come to the solemn feasts: all her gates are desolate: her priests sigh, her virgins are afflicted, and she is in bitterness.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ሄ። ስለ ኃጢአትዋ ብዛት እግዚአብሔር አስጨንቆአታልና አስጨናቂዎችዋ ራስ ሆኑ ጠላቶችዋም ተከናወነላቸው፤ ሕፃናቶችዋ በአስጨናቂዎች ፊት ተማርከዋል።",
+            "en": "Her adversaries are the chief, her enemies prosper; for the LORD hath afflicted her for the multitude of her transgressions: her children are gone into captivity before the enemy.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ዋው። ከጽዮን ሴት ልጅ ውበትዋ ሁሉ ወጥቶአል፤ አለቆችዋ ማሰማርያ እንደማያገኙ ዋላዎች ሆኑ፤ ከሚያባርሩአቸው ፊት ተዳክመው ሄዱ።",
+            "en": "And from the daughter of Zion all her beauty is departed: her princes are become like harts that find no pasture, and they are gone without strength before the pursuer.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ዛይ። ኢየሩሳሌም በጭንቀትዋና በመከራዋ ወራት ከጥንት ጀምሮ የነበረላትን የከበረን ነገር ሁሉ አሰበች፤ ሕዝብዋ በአስጨናቂዎች እጅ በወደቀ ጊዜ የሚረዳትም በሌላት ጊዜ፥ አስጨናቂዎች አዩአት በመፍረስዋም ሳቁ።",
+            "en": "Jerusalem remembered in the days of her affliction and of her miseries all her pleasant things that she had in the days of old, when her people fell into the hand of the enemy, and none did help her: the adversaries saw her, and did mock at her sabbaths.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ሔት። ኢየሩሳሌም እጅግ ኃጢአት ሠርታለች፤ ስለዚህ ረክሳለች፤ ያከብሩአት የነበሩ ሁሉ ኀፍረተ ሥጋዋን አይተዋታልና አቃለሉአት፤ እርስዋም እየጮኸች ታለቅሳለች ወደ ኋላም ዘወር አለች።",
+            "en": "Jerusalem hath grievously sinned; therefore she is removed: all that honoured her despise her, because they have seen her nakedness: yea, she sigheth, and turneth backward.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ጤት። አደፍዋ በልብስዋ ዘርፍ ነበረ፤ ፍጻሜዋን አላሰበችም፤ ስለዚህ በድንቅ ተዋርዳለች፥ የሚያጽናናትም የለም፤ አቤቱ፥ ጠላት ከፍ ከፍ ብሎአልና መከራዬን ተመልከት።",
+            "en": "Her filthiness is in her skirts; she remembereth not her last end; therefore she came down wonderfully: she had no comforter. O LORD, behold my affliction: for the enemy hath magnified himself.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ዮድ። አስጨናቂው በከበረ ነገርዋ ሁሉ ላይ እጁን ዘረጋ፤ ወደ ጉባኤህ እንዳይገቡ ያዘዝሃቸው አሕዛብ ወደ መቅደስዋ ሲገቡ አይታለችና።",
+            "en": "The adversary hath spread out his hand upon all her pleasant things: for she hath seen that the heathen entered into her sanctuary, whom thou didst command that they should not enter into thy congregation.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ካፍ። ሕዝብዋ ሁሉ እየጮኹ ያለቅሳሉ እንጀራም ይፈልጋሉ፤ ሰውነታቸውን ለማበርታት የከበረ ሀብታቸውን ስለ መብል ሰጥተዋል፤ አቤቱ፥ ተጐሳቍያለሁና እይ፥ ተመልከትም።",
+            "en": "All her people sigh, they seek bread; they have given their pleasant things for meat to relieve the soul: see, O LORD, and consider; for I am become vile.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "ላሜድ። እናንተ መንገድ አላፊዎች ሁሉ፥ በእናንተ ዘንድ ምንም የለምን? እግዚአብሔር በጽኑ ቍጣው ቀን እኔን እንዳስጨነቀበት በእኔ ላይ እንደ ተደረገው እንደ እኔ መከራ የሚመስል መከራ እንዳለ ተመልከቱ፥ እዩ።",
+            "en": "Is it nothing to you, all ye that pass by? behold, and see if there be any sorrow like unto my sorrow, which is done unto me, wherewith the LORD hath afflicted me in the day of his fierce anger.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ሜም። ከላይ እሳትን ወደ አጥንቴ ሰደደ በረታችበትም፤ ለእግሬ ወጥመድ ዘረጋ ወደ ኋላም መለሰኝ፥ አጠፋኝም ቀኑንም ሁሉ አደከመኝ።",
+            "en": "From above hath he sent fire into my bones, and it prevaileth against them: he hath spread a net for my feet, he hath turned me back: he hath made me desolate and faint all the day.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ኖን። የኃጢአቶቼ ቀንበር በእጁ ተይዛለች፤ ታስረው በአንገቴ ላይ ወጥተዋል፤ ጕልበቴን አደከመ። ጌታ በፊታቸው እቆም ዘንድ በማልችላቸው እጅ አሳልፎ ሰጠኝ።",
+            "en": "The yoke of my transgressions is bound by his hand: they are wreathed, and come up upon my neck: he hath made my strength to fall, the Lord hath delivered me into their hands, from whom I am not able to rise up.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ሳምኬት። ጌታ ኃያላኖቼን ሁሉ ከውስጤ አስወገዳቸው፤ ጕልማሶቼን ያደቅቅ ዘንድ ጉባኤን ጠራብኝ፤ ጌታ ድንግሊቱን የይሁዳን ልጅ በመጥመቂያ እንደሚረገጥ አድርጎ ረገጣት።",
+            "en": "The Lord hath trodden under foot all my mighty men in the midst of me: he hath called an assembly against me to crush my young men: the Lord hath trodden the virgin, the daughter of Judah, as in a winepress.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ዔ። የሚያጽናናኝ ነፍሴንም የሚያበረታት ከእኔ ርቆአልና ስለዚህ አለቅሳለሁ፤ ዓይኔ፥ ዓይኔ ውኃ ያፈስሳል። ጠላት በርትቶአልና ልጆቼ ጠፍተዋል።",
+            "en": "For these things I weep; mine eye, mine eye runneth down with water, because the comforter that should relieve my soul is far from me: my children are desolate, because the enemy prevailed.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "ፌ። ጽዮን እጅዋን ዘረጋች፤ የሚያጽናናት የለም፤ እግዚአብሔር በያዕቆብ ዙሪያ ያሉትን እንዲያስጨንቁት አዘዘ፤ ኢየሩሳሌም በመካከላቸው እንደ ርኩስ ነገር ሆናለች።",
+            "en": "Zion spreadeth forth her hands, and there is none to comfort her: the LORD hath commanded concerning Jacob, that his adversaries should be round about him: Jerusalem is as a menstruous woman among them.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "ጻዴ። በአፉ ነገር ላይ ዓመፅ አድርጌአለሁና እግዚአብሔር ጻድቅ ነው። እናንተ አሕዛብ ሁሉ፥ እባካችሁ፥ ስሙ መከራዬንም ተመልከቱ፤ ደናግሎቼና ጐበዛዝቴ ተማርከው ሄዱ።",
+            "en": "The LORD is righteous; for I have rebelled against his commandment: hear, I pray you, all people, and behold my sorrow: my virgins and my young men are gone into captivity.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "ቆፍ። ውሽሞቼን ጠራሁ እነርሱም አታለሉኝ፤ ካህናቶቼና ሽማግሌዎቼ ሰውነታቸውን ያበረቱ ዘንድ መብል ሲፈልጉ በከተማ ውስጥ ሞቱ።",
+            "en": "I called for my lovers, but they deceived me: my priests and mine elders gave up the ghost in the city, while they sought their meat to relieve their souls.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "ሬስ። አቤቱ፥ ተጨንቄአለሁና፥ አንጀቴም ታውኮብኛልና ተመልከት፤ ዓመፃን ፈጽሞ አድርጌአለሁና ልቤ በውስጤ ተገላበጠብኝ፤ በሜዳ ሰይፍ ልጆቼን አጠፋ በቤትም ሞት አለ።",
+            "en": "Behold, O LORD; for I am in distress: my bowels are troubled; mine heart is turned within me; for I have grievously rebelled: abroad the sword bereaveth, at home there is as death.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "ሳን። እኔ እየጮኽሁ እንደማለቅስ ሰምተዋል፤ የሚያጽናናኝ የለም፤ ጠላቶቼ ሁሉ ስለ መከራዬ ሰምተዋል፤ አንተ አድርገኸዋልና ደስ አላቸው፤ ስለ እርሱ የተናገርኸውን ቀን ታመጣለህ እነርሱም እንደ እኔ ይሆናሉ።",
+            "en": "They have heard that I sigh: there is none to comfort me: all mine enemies have heard of my trouble; they are glad that thou hast done it: thou wilt bring the day that thou hast called, and they shall be like unto me.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 22,
+          "text": {
+            "am": "ታው። ልቅሶዬ እጅግ ነውና፥ ልቤም ደክሞአልና ክፋታቸው ሁሉ ወደ ፊትህ ይድረስ፥ ስለ ኃጢአቴ ሁሉ እንዳደረግህብኝ አድርግባቸው።",
+            "en": "Let all their wickedness come before thee; and do unto them, as thou hast done unto me for all my transgressions: for my sighs are many, and my heart is faint.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "አሌፍ። ጌታ በቍጣው የጽዮንን ሴት ልጅ እንደ ምን አደመናት! የእስራኤልን ውበት ከሰማይ ወደ ምድር ጣለ፥ በቍጣውም ቀን የእግሩን መረገጫ አላሰበም።",
+            "en": "How hath the Lord covered the daughter of Zion with a cloud in his anger, and cast down from heaven unto the earth the beauty of Israel, and remembered not his footstool in the day of his anger!",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ቤት። ጌታ የያዕቆብን ማደሪያዎች ሁሉ ዋጠ፥ አልራራምም፤ በመዓቱ የይሁዳን ሴት ልጅ አምቦች አፈረሰ፥ ወደ ምድርም አወረዳቸው፤ መንግሥቱንና አለቆችዋን አረከሰ።",
+            "en": "The Lord hath swallowed up all the habitations of Jacob, and hath not pitied: he hath thrown down in his wrath the strong holds of the daughter of Judah; he hath brought them down to the ground: he hath polluted the kingdom and the princes thereof.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ጋሜል። በጽኑ ቍጣው የእስራኤልን ቀንድ ሁሉ ቀጠቀጠ፤ ቀኝ እጁን ከጠላት ፊት ወደ ኋላ መለሰ፥ በዙሪያውም እንደሚባላ እንደ እሳት ነበልባል ያዕቆብን አቃጠለ።",
+            "en": "He hath cut off in his fierce anger all the horn of Israel: he hath drawn back his right hand from before the enemy, and he burned against Jacob like a flaming fire, which devoureth round about.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ዳሌጥ። ቀስቱን እንደ ጠላት ገተረ፥ እንደ አስጨናቂ ቀኝ እጁን አጸና፥ ለዓይንም የሚያምረውን ሁሉ ገደለ፤ በጽዮን ሴት ልጅ ድንኳን መዓቱን እንደ እሳት አፈሰሰ።",
+            "en": "He hath bent his bow like an enemy: he stood with his right hand as an adversary, and slew all that were pleasant to the eye in the tabernacle of the daughter of Zion: he poured out his fury like fire.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ሄ። ጌታ እንደ ጠላት ሆነ፥ እስራኤልን ዋጠ፤ አዳራሾችዋን ሁሉ ዋጠ፥ አምቦችዋን አጠፋ፤ በይሁዳም ሴት ልጅ ኀዘንና ልቅሶ አበዛ።",
+            "en": "The Lord was as an enemy: he hath swallowed up Israel, he hath swallowed up all her palaces: he hath destroyed his strong holds, and hath increased in the daughter of Judah mourning and lamentation.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ዋው። ማደሪያውን እንደ አትክልት ነቀለ፤ የበዓሉን ስፍራ አጠፋ፤ እግዚአብሔር በጽዮን ዓመት በዓሉንና ሰንበቱን አስረሳ፥ በቍጣውም መዓት ንጉሡንና ካህኑን አቃለለ።",
+            "en": "And he hath violently taken away his tabernacle, as if it were of a garden: he hath destroyed his places of the assembly: the LORD hath caused the solemn feasts and sabbaths to be forgotten in Zion, and hath despised in the indignation of his anger the king and the priest.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ዛይ። ጌታ መሠዊያውን ጣለ፥ መቅደሱን ጠላ፥ የአዳራሾችዋንም ቅጥር በጠላት እጅ አሳልፎ ሰጠ፤ ድምፃቸውን እንደ ዓመት በዓል ቀን በእግዚአብሔር ቤት ከፍ ከፍ አደረጉ።",
+            "en": "The Lord hath cast off his altar, he hath abhorred his sanctuary, he hath given up into the hand of the enemy the walls of her palaces; they have made a noise in the house of the LORD, as in the day of a solemn feast.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ሔት። እግዚአብሔር የጽዮንን ሴት ልጅ ቅጥር ያፈርስ ዘንድ አሰበ፤ የመለኪያውን ገመድ ዘረጋ፥ እጁን ከማጥፋት አልመለሰም፤ ምሽጉና ቅጥሩ እንዲያለቅሱ አደረገ፤ በአንድነት ደከሙ።",
+            "en": "The LORD hath purposed to destroy the wall of the daughter of Zion: he hath stretched out a line, he hath not withdrawn his hand from destroying: therefore he made the rampart and the wall to lament; they languished together.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ጤት። በሮችዋ በመሬት ውስጥ ሰጠሙ፥ መወርወሪያዎችዋን አጠፋ ሰበረም፤ ንጉሥዋና አለቆችዋ ሕግ በሌለባቸው በአሕዛብ መካከል አሉ፤ ነቢያቶቻዋም ከእግዚአብሔር ዘንድ ራእይ አላገኙም።",
+            "en": "Her gates are sunk into the ground; he hath destroyed and broken her bars: her king and her princes are among the Gentiles: the law is no more; her prophets also find no vision from the LORD.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ዮድ። የጽዮን ሴት ልጅ ሽማግሌዎች ዝም ብለው በመሬት ላይ ተቀምጠዋል፤ ትቢያን በራሳቸው ላይ ነሰነሱ፥ ማቅም ታጠቁ፤ የኢየሩሳሌም ደናግል ራሳቸውን ወደ ምድር አዘነበሉ።",
+            "en": "The elders of the daughter of Zion sit upon the ground, and keep silence: they have cast up dust upon their heads; they have girded themselves with sackcloth: the virgins of Jerusalem hang down their heads to the ground.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ካፍ። ሕፃኑና ጡት የሚጠባው በከተማይቱ ጐዳና ላይ ሲዝሉ፥ ዓይኔ በእንባ ደከመች፥ አንጀቴም ታወከ፤ ስለ ወገኔ ሴት ልጅ ቅጥቃጤ ጉበቴ በምድር ላይ ተዘረገፈ።",
+            "en": "Mine eyes do fail with tears, my bowels are troubled, my liver is poured upon the earth, for the destruction of the daughter of my people; because the children and the sucklings swoon in the streets of the city.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "ላሜድ። በከተማ ጐዳና እንደ ተወጋ ሰው በዛሉ ጊዜ፥ ነፍሳቸውም በእናቶቻቸው ብብት በወጣች ጊዜ፥ እናቶቻቸውን። እህልና የወይን ጠጅ ወዴት አለ? ይሉአቸዋል።",
+            "en": "They say to their mothers, Where is corn and wine? when they swooned as the wounded in the streets of the city, when their soul was poured out into their mothers' bosom.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ሜም። የኢየሩሳሌም ሴት ልጅ ሆይ፥ ምን እመሰክርልሻለሁ? በምንስ እመስልሻለሁ? ድንግሊቱ የጽዮን ልጅ ሆይ፥ አጽናናሽ ዘንድ በምን አስተካክልሻለሁ? ስብራትሽ እንደ ባሕር ታላቅ ነውና፤ የሚፈውስሽ ማን ነው?",
+            "en": "What thing shall I take to witness for thee? what thing shall I liken to thee, O daughter of Jerusalem? what shall I equal to thee, that I may comfort thee, O virgin daughter of Zion? for thy breach is great like the sea: who can heal thee?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ኖን። ነቢያቶችሽ ከንቱና ሐሰተኛ ራእይ አይተውልሻል፤ ምርኮሽንም ይመልሱ ዘንድ በደልሽን አልገለጡም፤ ከንቱና የማይረባ ነገርንም አይተውልሻል።",
+            "en": "Thy prophets have seen vain and foolish things for thee: and they have not discovered thine iniquity, to turn away thy captivity; but have seen for thee false burdens and causes of banishment.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ሳምኬት። መንገድ አላፊዎች ሁሉ እጃቸውን ያጨበጭቡብሻልና። በውኑ የውበት ፍጻሜና የምድር ሁሉ ደስታ የሚሉአት ከተማ ይህች ናትን? እያሉ፥ በኢየሩሳሌም ሴት ልጅ ላይ ያፍዋጫሉ፥ ራሳቸውንም ያነቃንቃሉ።",
+            "en": "All that pass by clap their hands at thee; they hiss and wag their head at the daughter of Jerusalem, saying, Is this the city that men call The perfection of beauty, The joy of the whole earth?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ዔ። ጠላቶችሽ ሁሉ አፋቸውን አላቀቁብሽ፤ እያፍዋጩና ጥርሳቸውን እያፋጩ። ውጠናታል፤ ነገር ግን ተስፋ ያደረግናት ቀን ይህች ናት፤ አግኝተናታል አይተናትማል ይላሉ።",
+            "en": "All thine enemies have opened their mouth against thee: they hiss and gnash the teeth: they say, We have swallowed her up: certainly this is the day that we looked for; we have found, we have seen it.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "ፌ። እግዚአብሔር ያሰበውን አደረገ፤ በቀድሞ ዘመን ያዘዘውን ቃል ፈጸመ፤ አፈረሰ አልራራምም፤ ጠላትንም ደስ አሰኘብሽ፥ የሚያስጨንቁሽንም ቀንድ ከፍ ከፍ አደረገ።",
+            "en": "The LORD hath done that which he had devised; he hath fulfilled his word that he had commanded in the days of old: he hath thrown down, and hath not pitied: and he hath caused thine enemy to rejoice over thee, he hath set up the horn of thine adversaries.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "ጻዴ። ልባቸው ወደ ጌታ ጮኸ። የጽዮን ሴት ልጅ ቅጥር ሆይ፥ እንባሽን እንደ ፈሳሽ ቀንና ሌሊት አፍስሺ፤ ለሰውነትሽ ዕረፍት አትስጪ፤ የዓይንሽ ብሌን አታቋርጥ።",
+            "en": "Their heart cried unto the Lord, O wall of the daughter of Zion, let tears run down like a river day and night: give thyself no rest; let not the apple of thine eye cease.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "ቆፍ። ተነሺ፥ በሌሊት በመጀመሪያ ክፍል ጩኺ፥ በጌታም ፊት ልብሽን እንደ ውኃ አፍስሺ፤ በጐዳና ሁሉ ራስ ላይ በራብ ስለ ደከሙ ስለ ሕፃናትሽ ነፍስ እጆችሽን ወደ እርሱ አንሺ።",
+            "en": "Arise, cry out in the night: in the beginning of the watches pour out thine heart like water before the face of the Lord: lift up thy hands toward him for the life of thy young children, that faint for hunger in the top of every street.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "ሬስ። አቤቱ፥ እይ፤ በማን ላይ እንደዚህ እንዳደረግህ ተመልከት። በውኑ ሴቶች ፍሬያቸውን፥ ያቀማጠሉአቸውን ሕፃናት፥ ይበላሉን? በውኑ ካህኑና ነቢዩ በጌታ መቅደስ ውስጥ ይገደላሉን?",
+            "en": "Behold, O LORD, and consider to whom thou hast done this. Shall the women eat their fruit, and children of a span long? shall the priest and the prophet be slain in the sanctuary of the Lord?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "ሳን። ብላቴናውና ሽማግሌው በመንገዶች ላይ ተጋደሙ፤ ደናግሎቼና ጐበዛዝቴ በሰይፍ ወድቀዋል፤ በቍጣህ ቀን ገደልሃቸው፤ ሳትራራ አረድሃቸው።",
+            "en": "The young and the old lie on the ground in the streets: my virgins and my young men are fallen by the sword; thou hast slain them in the day of thine anger; thou hast killed, and not pitied.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 22,
+          "text": {
+            "am": "ታው። እንደ በዓል ቀን የሚያስፈሩኝን ከዙሪያዬ ጠራህ፥ በእግዚአብሔር ቍጣ ቀንም ያመለጠ ወይም የቀረ አልተገኘም፤ ያቀማጠልኋቸውንና ያሳደግኋቸውን ጠላቴ በላቸው።",
+            "en": "Thou hast called as in a solemn day my terrors round about, so that in the day of the LORD'S anger none escaped nor remained: those that I have swaddled and brought up hath mine enemy consumed.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "አሌፍ። በቍጣው በትር መከራ ያየ ሰው እኔ ነኝ።",
+            "en": "I am the man that hath seen affliction by the rod of his wrath.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ብርሃን ወደ ሌለበት ወደ ጨለማ መርቶ ወሰደኝ።",
+            "en": "He hath led me, and brought me into darkness, but not into light.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ዘወትር ቀኑን ሁሉ እጁን በላዬ መለሰ።",
+            "en": "Surely against me is he turned; he turneth his hand against me all the day.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ቤት። ሥጋዬንና ቁርበቴን አስረጀ፥ አጥንቴን ሰበረ።",
+            "en": "My flesh and my skin hath he made old; he hath broken my bones.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ቅጥር ሠራብኝ በሐሞትና በድካምም ከበበኝ።",
+            "en": "He hath builded against me, and compassed me with gall and travail.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ቀድሞ ሞተው እንደ ነበሩ በጨለማ አኖረኝ።",
+            "en": "He hath set me in dark places, as they that be dead of old.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ጋሜል። እንዳልወጣ በዙሪያዬ ቅጥር ሠራብኝ፤ ሰንሰለቴን አከበደ።",
+            "en": "He hath hedged me about, that I cannot get out: he hath made my chain heavy.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "በጠራሁና በጮኽሁ ጊዜ ጸሎቴን ከለከለ።",
+            "en": "Also when I cry and shout, he shutteth out my prayer.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "መንገዴን በተጠረበ ድንጋይ ዘጋ፥ ጐዳናዬንም አጣመመ።",
+            "en": "He hath inclosed my ways with hewn stone, he hath made my paths crooked.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ዳሌጥ። እንደሚሸምቅ ድብ እንደ ተሸሸገም አንበሳ ሆነብኝ።",
+            "en": "He was unto me as a bear lying in wait, and as a lion in secret places.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "መንገዴን ለወጠ፥ ገነጣጠለኝም፤ ባድማ አደረገኝ።",
+            "en": "He hath turned aside my ways, and pulled me in pieces: he hath made me desolate.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "ቀስቱን ገተረ ለፍላጻውም እንደ ጊጤ አደረገኝ።",
+            "en": "He hath bent his bow, and set me as a mark for the arrow.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ሄ። የሰገባውን ፍላጻዎች በኵላሊቴ ውስጥ ተከለ።",
+            "en": "He hath caused the arrows of his quiver to enter into my reins.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ለወገኔ ሁሉ ማላገጫ ቀኑንም ሁሉ መሳለቂያ ሆንሁ።",
+            "en": "I was a derision to all my people; and their song all the day.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ምሬት ሞላብኝ በእሬትም አጠገበኝ።",
+            "en": "He hath filled me with bitterness, he hath made me drunken with wormwood.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ዋው። ጥርሴን በጭንጫ ሰበረ፥ በአመድም ከደነኝ።",
+            "en": "He hath also broken my teeth with gravel stones, he hath covered me with ashes.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "ነፍሴን ከሰላም አራቅህ፤ በጎ ነገርን ረሳሁ።",
+            "en": "And thou hast removed my soul far off from peace: I forgat prosperity.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "እኔም። ኃይሌ ከእግዚአብሔርም ዘንድ ያለው ተስፋዬ ጠፋ አልሁ።",
+            "en": "And I said, My strength and my hope is perished from the LORD:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "ዛይ። መከራዬንና ችግሬን እሬትንና ሐሞትን አስብ።",
+            "en": "Remembering mine affliction and my misery, the wormwood and the gall.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "ነፍሴ እያሰበችው በውስጤ ፈዘዘች።",
+            "en": "My soul hath them still in remembrance, and is humbled in me.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "ይህችን በልቤ አኖራለሁ፥ ስለዚህ እታገሣለሁ።",
+            "en": "This I recall to my mind, therefore have I hope.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 22,
+          "text": {
+            "am": "ሔት። ያልጠፋነው ከእግዚአብሔር ምሕረት የተነሣ ነው፤ ርኅራኄው አያልቅምና።",
+            "en": "It is of the LORD'S mercies that we are not consumed, because his compassions fail not.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 23,
+          "text": {
+            "am": "ማለዳ ማለዳ አዲስ ነው፤ ታማኝነትህ ብዙ ነው።",
+            "en": "They are new every morning: great is thy faithfulness.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 24,
+          "text": {
+            "am": "ነፍሴ። እግዚአብሔር እድል ፈንታዬ ነው፤ ስለዚህ ተስፋ አደርገዋለሁ አለች።",
+            "en": "The LORD is my portion, saith my soul; therefore will I hope in him.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 25,
+          "text": {
+            "am": "ጤት። እግዚአብሔር በተስፋ ለሚጠብቁት ለምትሻውም ነፍስ መልካም ነው።",
+            "en": "The LORD is good unto them that wait for him, to the soul that seeketh him.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 26,
+          "text": {
+            "am": "ሰው ዝም ብሎ የእግዚአብሔርን ማዳን ተስፋ ቢያደርግ መልካም ነው።",
+            "en": "It is good that a man should both hope and quietly wait for the salvation of the LORD.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 27,
+          "text": {
+            "am": "ሰው በታናሽነቱ ቀንበር ቢሸከም መልካም ነው።",
+            "en": "It is good for a man that he bear the yoke in his youth.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 28,
+          "text": {
+            "am": "ዮድ። እርሱ አሸክሞታልና ዝም ብሎ ለብቻው ይቀመጥ።",
+            "en": "He sitteth alone and keepeth silence, because he hath borne it upon him.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 29,
+          "text": {
+            "am": "ተስፋ የሆነው እንደ ሆነ አፉን በአፈር ውስጥ ያኑር።",
+            "en": "He putteth his mouth in the dust; if so be there may be hope.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 30,
+          "text": {
+            "am": "ጕንጩን ለሚመታው ይስጥ፥ ስድብንም ይጥገብ።",
+            "en": "He giveth his cheek to him that smiteth him: he is filled full with reproach.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 31,
+          "text": {
+            "am": "ካፍ። ጌታ ለዘላለም አይጥልምና፤",
+            "en": "For the Lord will not cast off for ever:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 32,
+          "text": {
+            "am": "ቢያሳዝንም እንደ ምሕረቱ ብዛት ይራራልና፤",
+            "en": "But though he cause grief, yet will he have compassion according to the multitude of his mercies.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 33,
+          "text": {
+            "am": "የሰውን ልጆች ከልቡ አያስጨንቅም፥ አያሳዝንምም።",
+            "en": "For he doth not afflict willingly nor grieve the children of men.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 34,
+          "text": {
+            "am": "ላሜድ። በምድር የተጋዙትን ሁሉ ከእግሩ በታች ይረግጣቸው ዘንድ፥",
+            "en": "To crush under his feet all the prisoners of the earth,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 35,
+          "text": {
+            "am": "የሰውን ፍርድ በልዑል ፊት ይመልስ ዘንድ፥",
+            "en": "To turn aside the right of a man before the face of the most High,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 36,
+          "text": {
+            "am": "የሰውን ፍርድ ያጣምም ዘንድ ጌታ እሺ አይልም።",
+            "en": "To subvert a man in his cause, the Lord approveth not.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 37,
+          "text": {
+            "am": "ሜም። ጌታ ያላዘዘውን የሚልና የሚፈጽም ማን ነው?",
+            "en": "Who is he that saith, and it cometh to pass, when the Lord commandeth it not?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 38,
+          "text": {
+            "am": "ከልዑል አፍ ክፉና መልካም ነገር አይወጣምን?",
+            "en": "Out of the mouth of the most High proceedeth not evil and good?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 39,
+          "text": {
+            "am": "ሕያው ሰው የሚያጕረመርም፥ ሰው ስለ ኃጢአቱ ቅጣት የሚያጕረመርም ስለ ምንድር ነው?",
+            "en": "Wherefore doth a living man complain, a man for the punishment of his sins?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 40,
+          "text": {
+            "am": "ኖን። መንገዳችንን እንመርምርና እንፈትን፥ ወደ እግዚአብሔርም እንመለስ።",
+            "en": "Let us search and try our ways, and turn again to the LORD.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 41,
+          "text": {
+            "am": "ልባችንን ከእጃችን ጋር በሰማይ ወዳለው ወደ እግዚአብሔር እናንሣ።",
+            "en": "Let us lift up our heart with our hands unto God in the heavens.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 42,
+          "text": {
+            "am": "በድለናል ዐምፀናልም፥ አንተም ይቅር አላልህም።",
+            "en": "We have transgressed and have rebelled: thou hast not pardoned.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 43,
+          "text": {
+            "am": "ሳምኬት። በቍጣ ከደንኸን አሳደድኸንም፤ ገደልኸን፥ አልራራህም።",
+            "en": "Thou hast covered with anger, and persecuted us: thou hast slain, thou hast not pitied.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 44,
+          "text": {
+            "am": "ጸሎት እንዳያልፍ ራስህን በደመና ከደንህ።",
+            "en": "Thou hast covered thyself with a cloud, that our prayer should not pass through.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 45,
+          "text": {
+            "am": "በአሕዛብ መካከል ጕድፍና ውዳቂ አደረግኸን።",
+            "en": "Thou hast made us as the offscouring and refuse in the midst of the people.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 46,
+          "text": {
+            "am": "ዔ። ጠላቶቻችን ሁሉ አፋቸውን ኣላቀቁብን።",
+            "en": "All our enemies have opened their mouths against us.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 47,
+          "text": {
+            "am": "ድንጋጤና ቍጣ፥ ጥፋትና ቅጥቃጤ ሆነብን።",
+            "en": "Fear and a snare is come upon us, desolation and destruction.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 48,
+          "text": {
+            "am": "ስለ ወገኔ ሴት ልጅ ቅጥቃጤ ዓይኔ የውኃ ፈሳሽ አፈሰሰች።",
+            "en": "Mine eye runneth down with rivers of water for the destruction of the daughter of my people.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 49,
+          "text": {
+            "am": "ፌ። እግዚአብሔር ከሰማይ እስኪጐበኝና እስኪመለከት ድረስ ዓይኔ ሳታቋርጥ ዝም ሳትል እንባ ታፈስሳለች።",
+            "en": "Mine eye trickleth down, and ceaseth not, without any intermission,",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              49,
+              50
+            ]
+          }
+        },
+        {
+          "verse": 50,
+          "text": {
+            "am": "ፌ። እግዚአብሔር ከሰማይ እስኪጐበኝና እስኪመለከት ድረስ ዓይኔ ሳታቋርጥ ዝም ሳትል እንባ ታፈስሳለች።",
+            "en": "Till the LORD look down, and behold from heaven.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              49,
+              50
+            ]
+          }
+        },
+        {
+          "verse": 51,
+          "text": {
+            "am": "ስለ ከተማዬ ቈነጃጅት ሁሉ ዓይኔ ነፍሴን አሳዘነች።",
+            "en": "Mine eye affecteth mine heart because of all the daughters of my city.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 52,
+          "text": {
+            "am": "ጻዴ። በከንቱ ነገር ጠላቶች የሆኑኝ እንደ ወፍ ማደንን አደኑኝ።",
+            "en": "Mine enemies chased me sore, like a bird, without cause.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 53,
+          "text": {
+            "am": "ሕይወቴን በጕድጓድ አጠፉ፥ በላዬም ድንጋይ ጣሉ።",
+            "en": "They have cut off my life in the dungeon, and cast a stone upon me.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 54,
+          "text": {
+            "am": "በራሴ ላይ ውኆች ተከነበሉ፤ እኔም። ጠፋሁ ብዬ ነበር።",
+            "en": "Waters flowed over mine head; then I said, I am cut off.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 55,
+          "text": {
+            "am": "ቆፍ። አቤቱ፥ በጠለቀ ጕድጓድ ውስጥ ሆኜ ስምህን ጠራሁ።",
+            "en": "I called upon thy name, O LORD, out of the low dungeon.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 56,
+          "text": {
+            "am": "ድምፄን ሰማህ፤ ጆሮህን ከልመናዬ አትመልስ።",
+            "en": "Thou hast heard my voice: hide not thine ear at my breathing, at my cry.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 57,
+          "text": {
+            "am": "በጠራሁህ ቀን ቀርበህ። አትፍራ አልህ።",
+            "en": "Thou drewest near in the day that I called upon thee: thou saidst, Fear not.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 58,
+          "text": {
+            "am": "ሬስ። ጌታ ሆይ፥ ስለ ነፍሴ ተምዋግተህ ሕይወቴን ተቤዠህ።",
+            "en": "O Lord, thou hast pleaded the causes of my soul; thou hast redeemed my life.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 59,
+          "text": {
+            "am": "አቤቱ፥ ጭንቀቴን አይተሃል፥ ፍርዴን ፍረድልኝ።",
+            "en": "O LORD, thou hast seen my wrong: judge thou my cause.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 60,
+          "text": {
+            "am": "በቀላቸውን ሁሉና በእኔ ላይ ያለውን አሳባቸውን ሁሉ አየህ።",
+            "en": "Thou hast seen all their vengeance and all their imaginations against me.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 61,
+          "text": {
+            "am": "ሳን። አቤቱ፥ ስድባቸውንና በእኔ ላይ ያለውን አሳባቸውን ሁሉ፥",
+            "en": "Thou hast heard their reproach, O LORD, and all their imaginations against me;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 62,
+          "text": {
+            "am": "የተነሡብኝን ሰዎች ከንፈሮች ቀኑንም ሁሉ ያሰቡብኝን አሳባቸውን ሰማህ።",
+            "en": "The lips of those that rose up against me, and their device against me all the day.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 63,
+          "text": {
+            "am": "መቀመጣቸውንና መነሣታቸውን ተመልከት፤ እኔ መሳለቂያቸው ነኝ።",
+            "en": "Behold their sitting down, and their rising up; I am their musick.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 64,
+          "text": {
+            "am": "ታው። አቤቱ፥ እንደ እጃቸው ሥራ ፍዳቸውን ትከፍላቸዋለህ።",
+            "en": "Render unto them a recompence, O LORD, according to the work of their hands.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 65,
+          "text": {
+            "am": "የልብ ዕውርነትንና እርግማንህን ትሰጣቸዋለህ።",
+            "en": "Give them sorrow of heart, thy curse unto them.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 66,
+          "text": {
+            "am": "አቤቱ፥ በቍጣ ታሳድዳቸዋለህ ከሰማይም በታች ታጠፋቸዋለህ።",
+            "en": "Persecute and destroy them in anger from under the heavens of the LORD.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "አሌፍ። ወርቁ እንዴት ደበሰ! ጥሩው ወርቅ እንዴት ተለወጠ! የመቅደሱ ድንጋዮች በጐዳና ሁሉ ራስ ተበተኑ።",
+            "en": "How is the gold become dim! how is the most fine gold changed! the stones of the sanctuary are poured out in the top of every street.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ቤት። ጥሩ ወርቅ የሚመስሉ የከበሩ የጽዮን ልጆች፥ የሸክላ ሠሪ እጅ እንደ ሠራው እንደ ሸክላ ዕቃ እንዴት ተቈጠሩ!",
+            "en": "The precious sons of Zion, comparable to fine gold, how are they esteemed as earthen pitchers, the work of the hands of the potter!",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ጋሜል። ቀበሮች እንኳ ጡቶታቸውን ገልጠው ግልገሎቻቸውን አጠቡ፤ የወገኔ ልጅ ግን እንደ ምድረ በዳ ሰጐን ጨካኝ ሆነች።",
+            "en": "Even the sea monsters draw out the breast, they give suck to their young ones: the daughter of my people is become cruel, like the ostriches in the wilderness.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ዳሌጥ። ጡት የሚጠባው የሕፃን ምላስ ከጥም የተነሣ ወደ ትናጋው ተጣበቀ፤ ሕፃናት እንጀራ ለመኑ፥ የሚቈርስላቸውም የለም።",
+            "en": "The tongue of the sucking child cleaveth to the roof of his mouth for thirst: the young children ask bread, and no man breaketh it unto them.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ሄ። የጣፈጠ ነገር ይበሉ የነበሩ በመንገድ ጠፉ፤ በቀይ ግምጃ ያድጉ የነበሩ የፍግ ክምር አቀፉ።",
+            "en": "They that did feed delicately are desolate in the streets: they that were brought up in scarlet embrace dunghills.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ዋው። የማንም እጅ ሳይወድቅባት ድንገት ከተገለበጠች ከሰዶም ኃጢአት ይልቅ የወገኔ ሴት ልጅ ኃጢአት በዛች።",
+            "en": "For the punishment of the iniquity of the daughter of my people is greater than the punishment of the sin of Sodom, that was overthrown as in a moment, and no hands stayed on her.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ዛይ። አለቆችዋ ከበረዶ ይልቅ ጥሩ፥ ከወተት ይልቅ ነጭ ነበሩ፤ ገላቸው ከቀይ ዕንቍ ይልቅ ቀይ ነበረ፥ መልካቸውም እንደ ሰንፔር ነበረ።",
+            "en": "Her Nazarites were purer than snow, they were whiter than milk, they were more ruddy in body than rubies, their polishing was of sapphire:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ሔት። ፊታቸው ከጥቀርሻ ይልቅ ጠቍሮአል፥ በመንገድም አልታወቁም፤ ቁርበታቸው ወደ አጥንታቸው ተጣብቆአል፤ ደርቆአል፤ እንደ እንጨት ሆኖአል።",
+            "en": "Their visage is blacker than a coal; they are not known in the streets: their skin cleaveth to their bones; it is withered, it is become like a stick.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ጤት። በሰይፍ የሞቱ በራብ ከሞቱት ይሻላሉ፤ እነዚህ የምድርን ፍሬ አጥተው ተወግተውም ቀጥነዋል።",
+            "en": "They that be slain with the sword are better than they that be slain with hunger: for these pine away, stricken through for want of the fruits of the field.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ዮድ። የርኅሩኆች ሴቶች እጆች ልጆቻችውን ቀቅለዋል፤ የወገኔ ሴት ልጅ በመቀጥቀጥዋ መብል ሆኑአቸው።",
+            "en": "The hands of the pitiful women have sodden their own children: they were their meat in the destruction of the daughter of my people.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ካፍ። እግዚአብሔር መዓቱን ፈጽሞአል፥ ጽኑ ቍጣውን አፍስሶአል፤ እሳትን በጽዮን ውስጥ አቃጠለ፥ መሠረትዋንም በላች።",
+            "en": "The LORD hath accomplished his fury; he hath poured out his fierce anger, and hath kindled a fire in Zion, and it hath devoured the foundations thereof.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "ላሜድ። የምድር ነገሥታት በዓለምም የሚኖሩ ሁሉ አስጨናቂና ጠላት በኢየሩሳሌም በር እንዲገባ አላመኑም።",
+            "en": "The kings of the earth, and all the inhabitants of the world, would not have believed that the adversary and the enemy should have entered into the gates of Jerusalem.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ሜም። የጻድቃንን ደም በውስጥዋ ስላፈሰሱ ስለ ነቢያቶችዋ ኃጢአትና ስለ ካህናቶች በደል ነው።",
+            "en": "For the sins of her prophets, and the iniquities of her priests, that have shed the blood of the just in the midst of her,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ኖን። ታውረው በመንገድ ላይ ተቅበዘበዙ፤ ልብሳቸው እንዳይዳሰስ በደም ረክሰዋል።",
+            "en": "They have wandered as blind men in the streets, they have polluted themselves with blood, so that men could not touch their garments.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ሳምኬት። እናንተ ርኩሳን፥ ራቁ፥ ርቃችሁም ሂዱ፥ አትንኩ ብለው ጮኹባቸው። በሸሹና በተቅበዘበዙ ጊዜ፥ በአሕዛብ መካከል። በዚህ ከእንግዲህ ወዲህ አይኖሩም ተባለ።",
+            "en": "They cried unto them, Depart ye; it is unclean; depart, depart, touch not: when they fled away and wandered, they said among the heathen, They shall no more sojourn there.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ዔ። የእግዚአብሔር ፊት በተናቸው እርሱም ከእንግዲህ ወዲህ አይመለከታቸውም፤ የካህናቱን ፊት አላፈሩም፥ ሽማግሌዎቹንም አላከበሩም።",
+            "en": "The anger of the LORD hath divided them; he will no more regard them: they respected not the persons of the priests, they favoured not the elders.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "ፌ። ዓይናችን ወደ ከንቱ ረዳታችን ገና ሲመለከት ጠፍቶአል፤ በመቆየታችን ማዳን የማይቻለውን ሕዝብ ጠብቀናል።",
+            "en": "As for us, our eyes as yet failed for our vain help: in our watching we have watched for a nation that could not save us.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "ጻዴ። በአደባባያችን እንዳንሄድ ፍለጋችንን ተከተሉ፤ ፍጻሜያችን ቀርቦአል፥ ዕድሜያችን አልቆአል፥ ፍጻሜያችን ደርሶአል።",
+            "en": "They hunt our steps, that we cannot go in our streets: our end is near, our days are fulfilled; for our end is come.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "ቆፍ። አሳዳጆቻችን ከሰማይ ንስር ይልቅ ፈጣኖች ሆኑ፤ በተራሮች ላይ አሳደዱን፥ በምድረ በዳ ሸመቁብን።",
+            "en": "Our persecutors are swifter than the eagles of the heaven: they pursued us upon the mountains, they laid wait for us in the wilderness.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "ሬስ። ስለ እርሱ። በአሕዛብ መካከል በጥላው በሕይወት እንኖራለን ያልነው በእግዚአብሔር የተቀባ፥ የሕይወታችን እስትንፋስ፥ በጕድጓዳቸው ተያዘ።",
+            "en": "The breath of our nostrils, the anointed of the LORD, was taken in their pits, of whom we said, Under his shadow we shall live among the heathen.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "ሳን። በዖፅ ምድር የምትኖሪ የኤዶምያስ ልጅ ሆይ፥ ደስ ይበልሽ ሐሤትም አድርጊ፤ ጽዋው ደግሞ ወደ አንቺ ያልፋል፥ አንቺም ትሰክሪአለሽ ትራቈቻለሽም።",
+            "en": "Rejoice and be glad, O daughter of Edom, that dwellest in the land of Uz; the cup also shall pass through unto thee: thou shalt be drunken, and shalt make thyself naked.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 22,
+          "text": {
+            "am": "ታው። የጽዮን ልጅ ሆይ፥ የበደልሽ ቅጣት ተፈጸመ፤ ከእንግዲህ ወዲህ አያስማርክሽም። የኤዶምያስ ልጅ ሆይ፥ በደልሽን ይቀጣል፤ ኃጢአትሽን ይገልጣል።",
+            "en": "The punishment of thine iniquity is accomplished, O daughter of Zion; he will no more carry thee away into captivity: he will visit thine iniquity, O daughter of Edom; he will discover thy sins.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "አቤቱ፥ የሆነብንን አስብ፤ ተመልከት ስድባችንንም እይ።",
+            "en": "Remember, O LORD, what is come upon us: consider, and behold our reproach.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ርስታችን ለእንግዶች፥ ቤቶቻችን ለሌሎች ሆኑ።",
+            "en": "Our inheritance is turned to strangers, our houses to aliens.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ድሀ አደጎችና አባት የሌለን ሆነናል፤ እናቶቻችን እንደ መበለቶች ሆነዋል።",
+            "en": "We are orphans and fatherless, our mothers are as widows.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ውኃችንን በብር ጠጣን እንጨታችንን በዋጋ ገዛን።",
+            "en": "We have drunken our water for money; our wood is sold unto us.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "አሳዳጆቻችን በአንገታችን ላይ ናቸው፤ እኛ ደክመናል ዕረፍትም የለንም።",
+            "en": "Our necks are under persecution: we labour, and have no rest.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ለግብጻውያንና ለአሦራውያን እንጀራ እንጠግብ ዘንድ እጅ ሰጠን።",
+            "en": "We have given the hand to the Egyptians, and to the Assyrians, to be satisfied with bread.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "አባቶቻችን ኃጢአትን ሠሩ ዛሬም የሉም፤ እኛም በደላቸውን ተሸከምን።",
+            "en": "Our fathers have sinned, and are not; and we have borne their iniquities.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ባሪያዎች ሠልጥነውብናል፤ ከእጃቸው የሚታደገን የለም።",
+            "en": "Servants have ruled over us: there is none that doth deliver us out of their hand.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ከምድረ በዳ ሰይፍ የተነሣ በሕይወታችን እንጀራችንን እናመጣለን።",
+            "en": "We gat our bread with the peril of our lives because of the sword of the wilderness.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ከሚያቃጥል ከራብ ትኩሳት የተነሣ ቁርበታችን እንደ ምድጃ ጠቈረ።",
+            "en": "Our skin was black like an oven because of the terrible famine.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "በጽዮን ሴቶችን፥ በይሁዳም ከተሞች ደናግልን አጐሰቈሉ።",
+            "en": "They ravished the women in Zion, and the maids in the cities of Judah.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "አለቆች በእጃቸው ተሰቀሉ፤ የሽማግሌዎች ፊት አልታፈረም።",
+            "en": "Princes are hanged up by their hand: the faces of elders were not honoured.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ጕልማሶች ወፍጮን ተሸከሙ፥ ልጆችም ከእንጨት በታች ተሰናከሉ።",
+            "en": "They took the young men to grind, and the children fell under the wood.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ሽማግሌዎች ከአደባባይ፥ ጕልማሶች ከበገናቸው ተሻሩ።",
+            "en": "The elders have ceased from the gate, the young men from their musick.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "የልባችን ደስታ ቀርቶአል፤ ዘፈናችን ወደ ልቅሶ ተለውጦአል።",
+            "en": "The joy of our heart is ceased; our dance is turned into mourning.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "አክሊል ከራሳችን ወድቆአል፤ ኃጢአት ሠርተናልና ወዮልን!",
+            "en": "The crown is fallen from our head: woe unto us, that we have sinned!",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "ስለዚህ ልባችን ታምሞአል፤ ስለዚህም ነገር ዓይናችን ፈዝዞአል፤",
+            "en": "For this our heart is faint; for these things our eyes are dim.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "ስለ ጽዮን ተራራ፥ ባድማ ሆናለችና፥ ቀበሮችም ተመላልሰውባታልና።",
+            "en": "Because of the mountain of Zion, which is desolate, the foxes walk upon it.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "አቤቱ፥ አንተ ለዘላለም ትኖራለህ፤ ዙፋንህ ከትውልድ እስከ ትውልድ ነው።",
+            "en": "Thou, O LORD, remainest for ever; thy throne from generation to generation.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "ስለ ምን ለዘላለም ትረሳናለህ? ስለ ምንስ ለረጅም ዘመን ትተወናለህ?",
+            "en": "Wherefore dost thou forget us for ever, and forsake us so long time?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "አቤቱ፥ ወደ አንተ መልሰን እኛም እንመለሳለን፤ ዘመናችንን እንደ ቀድሞ አድስ።",
+            "en": "Turn thou us unto thee, O LORD, and we shall be turned; renew our days as of old.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 22,
+          "text": {
+            "am": "ነገር ግን ፈጽመህ ጥለኸናል፤ እጅግ ተቈጥተኸናል።",
+            "en": "But thou hast utterly rejected us; thou art very wroth against us.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    }
+  ]
+}

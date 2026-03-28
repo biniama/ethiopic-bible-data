@@ -1,0 +1,479 @@
+{
+  "book_number": 33,
+  "book_name_am": "ትንቢተ ዮናስ",
+  "book_short_name_am": "ዮና",
+  "book_name_en": "Jonah",
+  "book_short_name_en": "Jonah",
+  "book_name_geez": null,
+  "testament": "old",
+  "sources": [
+    "ethiopicbible.com"
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "የእግዚአብሔርም ቃል ወደ አማቴ ልጅ ወደ ዮናስ እንዲህ ሲል መጣ ።",
+            "en": "Now the word of the LORD came unto Jonah the son of Amittai, saying,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ተነሥተህ ወደዚያች ወደ ታላቂቱ ከተማ ወደ ነነዌ ሂድ፥ ክፉታቸውም ወደ ፊቴ ወጥቶአልና በእርስዋ ላይ ስበክ።",
+            "en": "Arise, go to Nineveh, that great city, and cry against it; for their wickedness is come up before me.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ዮናስ ግን ከእግዚአብሔር ፊት ወደ ተርሴስ ይኰበልል ዘንድ ተነሣ፤ ወደ ኢዮጴም ወረደ፥ ወደ ተርሴስም የምታልፍ መርከብ አገኘ፤ ከእግዚአብሔርም ፊት ኰብልሎ ከእነርሱ ጋር ወደ ተርሴስ ይሄድ ዘንድ ዋጋ ሰጥቶ ወደ እርስዋ ገባ።",
+            "en": "But Jonah rose up to flee unto Tarshish from the presence of the LORD, and went down to Joppa; and he found a ship going to Tarshish: so he paid the fare thereof, and went down into it, to go with them unto Tarshish from the presence of the LORD.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "እግዚአብሔርም በባሕሩ ላይ ታላቅ ነፋስን አመጣ፥ በባሕርም ላይ ታላቅ ማዕበል ሆነ፥ መርከቢቱም ልትሰበር ቀረበች።",
+            "en": "But the LORD sent out a great wind into the sea, and there was a mighty tempest in the sea, so that the ship was like to be broken.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "መርከበኞቹም ፈሩ፥ እያንዳንዱም ወደ አምላኩ ጮኸ፤ መርከቢቱም እንድትቀልልላቸው በውስጥዋ የነበረውን ዕቃ ወደ ባሕር ጣሉት፤ ዮናስ ግን ወደ መርከቡ ውስጠኛው ክፍል ወርዶ ነበር፥ በከባድ እንቅልፍም ተኝቶ ነበር።",
+            "en": "Then the mariners were afraid, and cried every man unto his god, and cast forth the wares that were in the ship into the sea, to lighten it of them. But Jonah was gone down into the sides of the ship; and he lay, and was fast asleep.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "የመርከቡም አለቃ ወደ እርሱ ቀርቦ። ምነው ተኝተሃል? እንዳንጠፋ እግዚአብሔር ያስበን እንደ ሆነ ተነሥተህ አምላክህን ጥራ አለው።",
+            "en": "So the shipmaster came to him, and said unto him, What meanest thou, O sleeper? arise, call upon thy God, if so be that God will think upon us, that we perish not.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "እርስ በእርሳቸውም። ይህ ክፉ ነገር በማን ምክንያት እንዳገኘን እናውቅ ዘንድ ኑ፥ ዕጣ እንጣጣል ተባባሉ። ዕጣም ተጣጣሉ፥ ዕጣውም በዮናስ ላይ ወደቀ።",
+            "en": "And they said every one to his fellow, Come, and let us cast lots, that we may know for whose cause this evil is upon us. So they cast lots, and the lot fell upon Jonah.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "የዚያን ጊዜም። ይህ ክፉ ነገር በማን ምክንያት እንዳገኘን እባክህ ንገረን፤ ሥራህ ምንድር ነው? ከወዴትስ መጣህ? አገርህስ ወዴት ነው? ወይስ ከማን ወገን ነህ? አሉት።",
+            "en": "Then said they unto him, Tell us, we pray thee, for whose cause this evil is upon us; What is thine occupation? and whence comest thou? what is thy country? and of what people art thou?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "እርሱም። እኔ ዕብራዊ ነኝ፤ በሕሩንና የብሱን የፈጠረውን የሰማይን አምላክ እግዚአብሔርን እመልካለሁ አላቸው።",
+            "en": "And he said unto them, I am an Hebrew; and I fear the LORD, the God of heaven, which hath made the sea and the dry land.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "እነዚያም ሰዎች ከእግዚአብሔር ፊት እንደ ኰበለለ እርሱ ስለ ነገራቸው አውቀዋልና እጅግ ፈርተው። ይህ ያደረግኸው ምንድር ነው? አሉት።",
+            "en": "Then were the men exceedingly afraid, and said unto him, Why hast thou done this? For the men knew that he fled from the presence of the LORD, because he had told them.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ባሕሩንም ሞገዱ አጥብቆ ያናውጠው ነበርና። ባሕሩ ከእኛ ዘንድ ጸጥ እንዲል ምን እናድርግብህ? አሉት።",
+            "en": "Then said they unto him, What shall we do unto thee, that the sea may be calm unto us? for the sea wrought, and was tempestuous.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "እርሱም። ይህ ታላቅ ማዕበል በእኔ ምክንያት እንዳገኛችሁ አውቃለሁና አንሥታችሁ ወደ ባሕር ጣሉኝ፥ ባሕሩም ጸጥ ይልላችኋል አላቸው።",
+            "en": "And he said unto them, Take me up, and cast me forth into the sea; so shall the sea be calm unto you: for I know that for my sake this great tempest is upon you.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ሰዎቹ ግን ወደ ምድሩ ሊመለሱ አጥብቀው ቀዘፉ፤ ዳሩ ግን ባሕሩ እጅግ አብዝቶ ይናወጥባቸው ነበርና አልቻሉም።",
+            "en": "Nevertheless the men rowed hard to bring it to the land; but they could not: for the sea wrought, and was tempestuous against them.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ስለዚህ ወደ እግዚአብሔር ጮኸው። አቤቱ፥ እንደ ወደድህ አድርገሃልና እንለምንሃለን፤ አቤቱ፥ ስለዚህ ሰው ነፍስ እንዳንጠፋ ንጹሕም ደም በእኛ ላይ እንዳታደርግ እንለምንሃለን አሉ።",
+            "en": "Wherefore they cried unto the LORD, and said, We beseech thee, O LORD, we beseech thee, let us not perish for this man's life, and lay not upon us innocent blood: for thou, O LORD, hast done as it pleased thee.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ዮናስንም ወስደው ወደ ባሕሩ ጣሉት፤ ባሕሩም ከመናወጡ ጸጥ አለ።",
+            "en": "So they took up Jonah, and cast him forth into the sea: and the sea ceased from her raging.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ሰዎችም እግዚአብሔርን እጅግ ፈሩ፥ ለእግዚአብሔርም መሥዋዕትን አቀረቡ፥ ስእለትንም ተሳሉ።",
+            "en": "Then the men feared the LORD exceedingly, and offered a sacrifice unto the LORD, and made vows.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": null,
+            "en": "Now the LORD had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "እግዚአብሔርም ዮናስን የሚውጥ ታላቅ ዓሣ አሰናዳ፤ ዮናስም ሦስት ቀንና ሦስት ሌሊት በዓሣው ሆድ ውስጥ ነበረ።",
+            "en": "Then Jonah prayed unto the LORD his God out of the fish's belly,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ዮናስም በዓሣው ሆድ ውስጥ ሆኖ ወደ አምላኩ ወደ እግዚአብሔር ጸለየ፥ እንዲህም አለ።",
+            "en": "And said, I cried by reason of mine affliction unto the LORD, and he heard me; out of the belly of hell cried I, and thou heardest my voice.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "በመከራዬ ሳለሁ ወደ አምላኬ ወደ እግዚአብሔር ጮኽሁ፥ እርሱም ሰማኝ፤ በሲኦልም ሆድ ውስጥ ሆኜ ጮኽሁ፥ ቃሌንም አዳመጥህ።",
+            "en": "For thou hadst cast me into the deep, in the midst of the seas; and the floods compassed me about: all thy billows and thy waves passed over me.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ወደ ጥልቁ ወደ ባሕሩ ውስጥ ጣልኸኝ፥ ፈሳሾችም በዙሪያዬ ነበሩ፤ ማዕበልህና ሞገድህ ሁሉ በላዬ አለፉ።",
+            "en": "Then I said, I am cast out of thy sight; yet I will look again toward thy holy temple.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "እኔም። ከዓይንህ ፊት ተጣልሁ፤ ነገር ግን ወደ ቅዱስ መቅደስህ ደግሞ እመለከታለሁ አልሁ።",
+            "en": "The waters compassed me about, even to the soul: the depth closed me round about, the weeds were wrapped about my head.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ውኆችም እስከ ነፍሴ ድረስ ከበቡኝ፤ ጥልቁ ባሕር በዙሪያዬ ነበረ፤ የባሕሩ ሣር በራሴ ተጠምጥሞ ነበር።",
+            "en": "I went down to the bottoms of the mountains; the earth with her bars was about me for ever: yet hast thou brought up my life from corruption, O LORD my God.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ወደ ተራሮች መሠረት ወረድሁ፤ በምድርና በመወርወሪያዎችዋ ለዘላለም ተዘጋሁ፤ አንተ ግን፥ አቤቱ አምላኬ፥ ሕይወቴን ከጕድጓዱ አወጣህ።",
+            "en": "When my soul fainted within me I remembered the LORD: and my prayer came in unto thee, into thine holy temple.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ነፍሴ በዛለችብኝ ጊዜ እግዚአብሔርን አሰብሁት፤ ጸሎቴም ወደ አንተ ወደ ቅዱስ መቅደስህ ገባች።",
+            "en": "They that observe lying vanities forsake their own mercy.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ከንቱነትንና ሐሰትን የሚጠብቁ ምሕረታቸውን ትተዋል።",
+            "en": "But I will sacrifice unto thee with the voice of thanksgiving; I will pay that that I have vowed. Salvation is of the LORD.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "እኔ ግን በምስጋና ቃል እሠዋልሃለሁ፤ የተሳልሁትንም እከፍላለሁ። ደኅንነት ከእግዚአብሔር ዘንድ ነው።",
+            "en": "And the LORD spake unto the fish, and it vomited out Jonah upon the dry land.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "እግዚአብሔርም ዓሣውን አዘዘው፥ እርሱም ዮናስን በየብስ ላይ ተፋው።",
+            "en": null,
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "የእግዚአብሔርም ቃል ሁለተኛ ወደ ዮናስ እንዲህ ሲል መጣ።",
+            "en": "And the word of the LORD came unto Jonah the second time, saying,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ተነሥተህ ወደዚያች ወደ ታላቂቱ ከተማ ወደ ነነዌ ሂድ፥ የምነግርህንም ስብከት ስበክላት አለው።",
+            "en": "Arise, go unto Nineveh, that great city, and preach unto it the preaching that I bid thee.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ዮናስም ተነሥቶ እንደ እግዚአብሔር ቃል ወደ ነነዌ ሄደ፤ ነነዌም የሦስት ቀን መንገድ ያህል እጅግ ታላቅ ከተማ ነበረች።",
+            "en": "So Jonah arose, and went unto Nineveh, according to the word of the LORD. Now Nineveh was an exceeding great city of three days' journey.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ዮናስም የአንድ ቀን መንገድ ያህል ወደ ከተማይቱ ውስጥ ሊገባ ጀመረ፤ ጮኾም። በሦስት ቀን ውስጥ ነነዌ ትገለበጣለች አለ።",
+            "en": "And Jonah began to enter into the city a day's journey, and he cried, and said, Yet forty days, and Nineveh shall be overthrown.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "የነነዌም ሰዎች እግዚአብሔርን አመኑ፤ ለጾም አዋጅ ነገሩ፥ ከታላቁም ጀምሮ እስከ ታናሹ ድረስ ማቅ ለበሱ።",
+            "en": "So the people of Nineveh believed God, and proclaimed a fast, and put on sackcloth, from the greatest of them even to the least of them.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ወሬውም ወደ ነነዌ ንጉሥ ደረሰ፤ እርሱም ከዙፋኑ ተነሥቶ መጐናጸፊያውን አወለቀ ማቅም ለበሰ፥ በአመድም ላይ ተቀመጠ።",
+            "en": "For word came unto the king of Nineveh, and he arose from his throne, and he laid his robe from him, and covered him with sackcloth, and sat in ashes.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "አዋጅም አስነገረ፥ በነነዌም ውስጥ የንጉሡንና የመኳንንቱን ትእዛዝ አሳወጀ፥ እንዲህም አለ። ሰዎችና እንስሶች ላሞችና በጎች አንዳችን አይቅመሱ፤ አይሰማሩም ውኃንም አይጠጡ፤",
+            "en": "And he caused it to be proclaimed and published through Nineveh by the decree of the king and his nobles, saying, Let neither man nor beast, herd nor flock, taste any thing: let them not feed, nor drink water:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ሰዎችና እንስሶችም በማቅ ይከደኑ፥ ወደ እግዚአብሔርም በብርቱ ይጩኹ፤ ሰዎችም ሁሉ ከክፉ መንገዳቸውና በእጃቸው ካለው ግፍ ይመለሱ።",
+            "en": "But let man and beast be covered with sackcloth, and cry mightily unto God: yea, let them turn every one from his evil way, and from the violence that is in their hands.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "እኛ እንዳንጠፋ እግዚአብሔር ተመልሶ ይጸጸት እንደ ሆነ፥ ከጽኑ ቍጣውም ይመለስ እንደ ሆነ ማን ያውቃል?",
+            "en": "Who can tell if God will turn and repent, and turn away from his fierce anger, that we perish not?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "እግዚአብሔርም ከክፉ መንገዳቸው እንደተመለሱ ሥራቸውን አየ፤ እግዚአብሔርም ያደርግባቸው ዘንድ በተናገረው ክፉ ነገር ተጸጽቶ አላደረገውም።",
+            "en": "And God saw their works, that they turned from their evil way; and God repented of the evil, that he had said that he would do unto them; and he did it not.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "ይህም ዮናስን ከቶ ደስ አላሰኘውም፥ እርሱም ተቈጣ።",
+            "en": "But it displeased Jonah exceedingly, and he was very angry.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ወደ እግዚአብሔርም ጸለየና። አቤቱ፥ እለምንሃለሁ፤ በአገሬ ሳለሁ የተናገርሁት ይህ አልነበረምን? አንተ ቸርና ይቅር ባይ፥ ታጋሽም፥ ምሕረትህም የበዛ፥ ከክፉው ነገርም የተነሣ የምትጸጸት አምላክ እንደ ሆንህ አውቄ ነበርና ስለዚህ ወደ ተርሴስ ለመኰብለል ፈጥኜ ነበር።",
+            "en": "And he prayed unto the LORD, and said, I pray thee, O LORD, was not this my saying, when I was yet in my country? Therefore I fled before unto Tarshish: for I knew that thou art a gracious God, and merciful, slow to anger, and of great kindness, and repentest thee of the evil.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "አሁንም፥ አቤቱ፥ ከሕይወት ሞት ይሻለኛልና እባክህ፥ ነፍሴን ከእኔ ውሰድ አለው።",
+            "en": "Therefore now, O LORD, take, I beseech thee, my life from me; for it is better for me to die than to live.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "እግዚአብሔርም። በውኑ ትቈጣ ዘንድ ይገባሃልን? አለ።",
+            "en": "Then said the LORD, Doest thou well to be angry?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ዮናስም ከከተማይቱ ወጣ፥ ከከተማይቱም በስተ ምሥራቅ በኩል ተቀመጠ፤ ከተማይቱንም የሚያገኛትን እስኪያይ ድረስ በዚያ ለራሱ ዳስ ሠርቶ ከጥላው በታች ተቀመጠ።",
+            "en": "So Jonah went out of the city, and sat on the east side of the city, and there made him a booth, and sat under it in the shadow, till he might see what would become of the city.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "እግዚአብሔር አምላክም ቅል አዘጋጀ፥ ከጭንቀቱም ታድነው ዘንድ በራሱ ላይ ጥላ እንድትሆን በዮናስ ላይ ከፍ ከፍ አደረጋት፤ ዮናስም ስለ ቅሊቱ እጅግ ደስ አለው።",
+            "en": "And the LORD God prepared a gourd, and made it to come up over Jonah, that it might be a shadow over his head, to deliver him from his grief. So Jonah was exceeding glad of the gourd.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "በነጋው ግን ወገግ ባለ ጊዜ እግዚአብሔር ትልን አዘጋጀ፥ እርስዋም ቅሊቱን እስክትደርቅ ድረስ መታቻት።",
+            "en": "But God prepared a worm when the morning rose the next day, and it smote the gourd that it withered.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ፀሐይም በወጣች ጊዜ እግዚአብሔር ትኩስ የምሥራቅ ነፋስ አዘጋጀ ዮናስ እስኪዝል ድረስም ፀሐይ ራሱን መታው፤ ለራሱም ሞትን ፈለገና። ከሕይወት ሞት ይሻለኛል አለ።",
+            "en": "And it came to pass, when the sun did arise, that God prepared a vehement east wind; and the sun beat upon the head of Jonah, that he fainted, and wished in himself to die, and said, It is better for me to die than to live.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "እግዚአብሔርም ዮናስን። በውኑ ስለዚች ቅል ትቈጣ ዘንድ ይገባሃልን? አለው። እርሱም። እስከ ሞት ድረስ እቈጣ ዘንድ ይገባኛል አለ።",
+            "en": "And God said to Jonah, Doest thou well to be angry for the gourd? And he said, I do well to be angry, even unto death.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "እግዚአብሔርም። አንተ ትበቅል ዘንድ ላልደከምህባት ላላሳደግሃትም፥ በአንድ ሌሊት ለበቀለች፥ በአንድ ሌሊትም ለደረቀችው ቅል አዝነሃል።",
+            "en": "Then said the LORD, Thou hast had pity on the gourd, for the which thou hast not laboured, neither madest it grow; which came up in a night, and perished in a night:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "እኔስ ቀኛቸውንና ግራቸውን የማይለዩ ከመቶ ሀያ ሺህ የሚበልጡ ሰዎችና ብዙ እንስሶች ላሉባት ለታላቂቱ ከተማ ለነነዌ አላዝንምን? አለው።",
+            "en": "And should not I spare Nineveh, that great city, wherein are more than sixscore thousand persons that cannot discern between their right hand and their left hand; and also much cattle?",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    }
+  ]
+}

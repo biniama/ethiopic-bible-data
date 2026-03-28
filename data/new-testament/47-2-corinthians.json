@@ -1,0 +1,2513 @@
+{
+  "book_number": 47,
+  "book_name_am": "፪ኛ ወደ ቆሮንቶስ ሰዎች",
+  "book_short_name_am": "፪ቆሮ",
+  "book_name_en": "2 Corinthians",
+  "book_short_name_en": "2Cor",
+  "book_name_geez": null,
+  "testament": "new",
+  "sources": [
+    "ethiopicbible.com"
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "በእግዚአብሔር ፈቃድ የኢየሱስ ክርስቶስ ሐዋርያ የሆነ ጳውሎስ ወንድሙም ጢሞቴዎስ፥ በአካይያ አገር ሁሉ ከሚኖሩ ቅዱሳን ሁሉ ጋር በቆሮንቶስ ላለች ለእግዚአብሔር ቤተ ክርስቲያን፤",
+            "en": "Paul, an apostle of Jesus Christ by the will of God, and Timothy our brother, unto the church of God which is at Corinth, with all the saints which are in all Achaia:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ከእግዚአብሔር ከአባታችን ከጌታም ከኢየሱስ ክርስቶስ ጸጋና ሰላም ለእናንተ ይሁን።",
+            "en": "Grace be to you and peace from God our Father, and from the Lord Jesus Christ.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "የርኅራኄ አባት የመጽናናትም ሁሉ አምላክ የሆነ የጌታችን የኢየሱስ ክርስቶስ አምላክና አባት ይባረክ።",
+            "en": "Blessed be God, even the Father of our Lord Jesus Christ, the Father of mercies, and the God of all comfort;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "እርሱ በመከራችን ሁሉ ያጽናናናል፥ ስለዚህም እኛ ራሳችን በእግዚአብሔር በምንጽናናበት መጽናናት በመከራ ሁሉ ያሉትን ማጽናናት እንችላለን።",
+            "en": "Who comforteth us in all our tribulation, that we may be able to comfort them which are in any trouble, by the comfort wherewith we ourselves are comforted of God.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "የክርስቶስ ሥቃይ በእኛ ላይ እንደ በዛ፥ እንዲሁ መጽናናታችን ደግሞ በክርስቶስ በኩል ይበዛልናልና።",
+            "en": "For as the sufferings of Christ abound in us, so our consolation also aboundeth by Christ.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ዳሩ ግን መከራ ብንቀበል፥ ስለ መጽናናታችሁና ስለ መዳናችሁ ነው፤ ብንጽናናም፥ እኛ ደግሞ የምንሣቀይበት በዚያ ሥቃይ በመጽናት ስለሚደረግ ስለ መጽናናታችሁ ነው።",
+            "en": "And whether we be afflicted, it is for your consolation and salvation, which is effectual in the enduring of the same sufferings which we also suffer: or whether we be comforted, it is for your consolation and salvation.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ተስፋችንም ስለ እናንተ ጽኑ ነው፤ ሥቃያችንን እንደ ተካፈላችሁ እንዲሁም መጽናናታችንን ደግሞ እንድትካፈሉ እናውቃለንና።",
+            "en": "And our hope of you is stedfast, knowing, that as ye are partakers of the sufferings, so shall ye be also of the consolation.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "በእስያ ስለ ደረሰብን መከራችን፥ ወንድሞች ሆይ፥ ታውቁ ዘንድ እንወዳለንና፤ ስለ ሕይወታችን እንኳ ተስፋ እስክንቆርጥ ድረስ ከዓቅማችን በላይ ያለ ልክ ከብዶብን ነበር፤",
+            "en": "For we would not, brethren, have you ignorant of our trouble which came to us in Asia, that we were pressed out of measure, above strength, insomuch that we despaired even of life:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "አዎን፥ ሙታንን በሚያነሣ በእግዚአብሔር እንጂ በራሳችን እንዳንታመን፥ እኛ ራሳችን የሞትን ፍርድ በውስጣችን ሰምተን ነበር።",
+            "en": "But we had the sentence of death in ourselves, that we should not trust in ourselves, but in God which raiseth the dead:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "እርሱም ይህን ከሚያህል ሞት አዳነን፥ ያድነንማል፤ እናንተም ደግሞ ስለ እኛ እየጸለያችሁ አብራችሁ ስትረዱን፥ በብዙ ሰዎች በኩል ስለ ተሰጠን ስለ ጸጋ ስጦታ ብዙዎች ስለ እኛ ያመሰግኑ ዘንድ፥ ወደ ፊት ደግሞ እንዲያድን በእርሱ ተስፋ አድርገናል።",
+            "en": "Who delivered us from so great a death, and doth deliver: in whom we trust that he will yet deliver us;",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              10,
+              11
+            ]
+          }
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "እርሱም ይህን ከሚያህል ሞት አዳነን፥ ያድነንማል፤ እናንተም ደግሞ ስለ እኛ እየጸለያችሁ አብራችሁ ስትረዱን፥ በብዙ ሰዎች በኩል ስለ ተሰጠን ስለ ጸጋ ስጦታ ብዙዎች ስለ እኛ ያመሰግኑ ዘንድ፥ ወደ ፊት ደግሞ እንዲያድን በእርሱ ተስፋ አድርገናል።",
+            "en": "Ye also helping together by prayer for us, that for the gift bestowed upon us by the means of many persons thanks may be given by many on our behalf.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              10,
+              11
+            ]
+          }
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "ትምክህታችን ይህ ነውና፤ በእግዚአብሔር ጸጋ እንጂ በሥጋዊ ጥበብ ሳይሆን፥ በእግዚአብሔር ቅድስናና ቅንነት በዚህ ዓለም ይልቁንም በእናንተ ዘንድ እንደኖርን የሕሊናችን ምስክርነት ነው።",
+            "en": "For our rejoicing is this, the testimony of our conscience, that in simplicity and godly sincerity, not with fleshly wisdom, but by the grace of God, we have had our conversation in the world, and more abundantly to you-ward.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ከምታነቡትና ከምታስተውሉት በቀር ሌላ አንጽፍላችሁምና፤ በጌታችን በኢየሱስ ቀን እናንተ ደግሞ ትምክህታችን እንደምትሆኑ እንዲሁ ትምክህታችሁ እንድንሆን፥ በከፊል ስለ እኛ እንዳስተዋላችሁ ፈጽማችሁ ታስተውሉት ዘንድ ተስፋ አደርጋለሁ።",
+            "en": "For we write none other things unto you, than what ye read or acknowledge; and I trust ye shall acknowledge even to the end;",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              13,
+              14
+            ]
+          }
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ከምታነቡትና ከምታስተውሉት በቀር ሌላ አንጽፍላችሁምና፤ በጌታችን በኢየሱስ ቀን እናንተ ደግሞ ትምክህታችን እንደምትሆኑ እንዲሁ ትምክህታችሁ እንድንሆን፥ በከፊል ስለ እኛ እንዳስተዋላችሁ ፈጽማችሁ ታስተውሉት ዘንድ ተስፋ አደርጋለሁ።",
+            "en": "As also ye have acknowledged us in part, that we are your rejoicing, even as ye also are ours in the day of the Lord Jesus.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              13,
+              14
+            ]
+          }
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "በዚህም ታምኜ፥ ሁለተኛ ጸጋ ታገኙ ዘንድ አስቀድሜ ወደ እናንተ እንድመጣ፥",
+            "en": "And in this confidence I was minded to come unto you before, that ye might have a second benefit;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "በእናንተም መካከል ወደ መቄዶንያ እንዳልፍ ደግሞም ከመቄዶንያ ወደ እናንተ መጥቼ ወደ ይሁዳ በጉዞዬ እንድትረዱኝ አሰብሁ።",
+            "en": "And to pass by you into Macedonia, and to come again out of Macedonia unto you, and of you to be brought on my way toward Judaea.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "እንግዲህ ይህን ሳስብ ያን ጊዜ ቅሌትን አሳየሁን? ወይስ በእኔ ዘንድ አዎን አዎን አይደለም አይደለም ማለት እንዲሆን ያን የማስበው በዓለማዊ ልማድ ነውን?",
+            "en": "When I therefore was thus minded, did I use lightness? or the things that I purpose, do I purpose according to the flesh, that with me there should be yea yea, and nay nay?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "እግዚአብሔር ግን የታመነ ነው፥ ለእናንተም የሚነገረው ቃላችን አዎንና አይደለም አይሆንም።",
+            "en": "But as God is true, our word toward you was not yea and nay.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "በእኛ ማለት በእኔና በስልዋኖስ በጢሞቴዎስም በመካከላችሁ የተሰበከ የእግዚአብሔር ልጅ ኢየሱስ ክርስቶስ አዎንና አይደለም አልነበረም፥ ነገር ግን በእርሱ አዎን ሆኖአል።",
+            "en": "For the Son of God, Jesus Christ, who was preached among you by us, even by me and Silvanus and Timotheus, was not yea and nay, but in him was yea.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "እግዚአብሔር ለሰጠው የተስፋ ቃል ሁሉ አዎን ማለት በእርሱ ነውና፥ ስለዚህ ለእግዚአብሔር ስለ ክብሩ በእኛ የሚነገረው አሜን በእርሱ ደግሞ ነው።",
+            "en": "For all the promises of God in him are yea, and in him Amen, unto the glory of God by us.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "በክርስቶስም ከእናንተ ጋር የሚያጸናንና የቀባን እግዚአብሔር ነው፥",
+            "en": "Now he which stablisheth us with you in Christ, and hath anointed us, is God;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 22,
+          "text": {
+            "am": "ደግሞም ያተመን የመንፈሱንም መያዣ በልባችን የሰጠን እርሱ ነው።",
+            "en": "Who hath also sealed us, and given the earnest of the Spirit in our hearts.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 23,
+          "text": {
+            "am": "እኔ ግን ልራራላችሁ ስል እንደ ገና ወደ ቆሮንቶስ እንዳልመጣሁ በነፍሴ ላይ እግዚአብሔርን ምስክር እጠራለሁ።",
+            "en": "Moreover I call God for a record upon my soul, that to spare you I came not as yet unto Corinth.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 24,
+          "text": {
+            "am": "ለደስታችሁ ከእናንተ ጋር የምንሠራ ነን እንጂ፥ በእምነታችሁ በእናንተ ላይ የምንገዛ አይደለንም። በእምነታችሁ ቆማችኋልና።",
+            "en": "Not for that we have dominion over your faith, but are helpers of your joy: for by faith ye stand.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "ነገር ግን ዳግመኛ በኀዘን ወደ እናንተ እንዳልመጣ ስለ እኔ ቆረጥሁ።",
+            "en": "But I determined this with myself, that I would not come again to you in heaviness.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "እኔስ ባሳዝናችሁ፥ እንግዲያስ በእኔ ምክንያት ከሚያዝን በቀር ደስ የሚያሰኘኝ ማን ነው?",
+            "en": "For if I make you sorry, who is he then that maketh me glad, but the same which is made sorry by me?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ደስ ሊያሰኙኝ ከሚገባቸውም በመምጣቴ ኀዘን እንዳይሆንብኝ ይህንኑ ጻፍሁላችሁ፥ ደስታዬ የሁላችሁ ደስታ ነው ብዬ በሁላችሁ ታምኜአለሁና።",
+            "en": "And I wrote this same unto you, lest, when I came, I should have sorrow from them of whom I ought to rejoice; having confidence in you all, that my joy is the joy of you all.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "በብዙ መከራና ከልብ ጭንቀት በብዙም እንባ ጽፌላችሁ ነበርና፤ ይህም እናንተን አብዝቼ የምወድበትን ፍቅር እንድታውቁ እንጂ እንዳሳዝናችሁ አይደለም።",
+            "en": "For out of much affliction and anguish of heart I wrote unto you with many tears; not that ye should be grieved, but that ye might know the love which I have more abundantly unto you.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ነገር ግን ማንም አሳዝኖ ቢሆን፥ እንዳልከብድባችሁ፥ በክፍል ሁላችሁን እንጂ እኔን ያሳዘነ አይደለም።",
+            "en": "But if any have caused grief, he hath not grieved me, but in part: that I may not overcharge you all.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "እንደዚህ ላለ ሰው ይህ ከእናንተ የምትበዙት የቀጣችሁት ቅጣት ይበቃዋልና እንደዚህ ያለው ከልክ በሚበዛ ኀዘን እንዳይዋጥ፥",
+            "en": "Sufficient to such a man is this punishment, which was inflicted of many.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ይልቅ ተመልሳችሁ ይቅር ማለትና ማጽናናት ይገባችኋል።",
+            "en": "So that contrariwise ye ought rather to forgive him, and comfort him, lest perhaps such a one should be swallowed up with overmuch sorrow.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ስለዚህ ከእርሱ ጋር ፍቅርን እንድታጸኑ እለምናችኋለሁ፤",
+            "en": "Wherefore I beseech you that ye would confirm your love toward him.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ስለዚህ ደግሞ ጽፌ ነበርና፤ በሁሉ የምትታዘዙ እንደ ሆናችሁ የእናንተን መፈተን አውቅ ዘንድ አሳቤ ነበር።",
+            "en": "For to this end also did I write, that I might know the proof of you, whether ye be obedient in all things.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "እናንተ ግን ይቅር የምትሉትን እኔ ደግሞ ይቅር እለዋለሁ፤ እኔም ይቅር ካልሁ፥ ይቅር ያልሁትን ስለ እናንተ በክርስቶስ ፊት ይቅር ብዬአለሁ፥",
+            "en": "To whom ye forgive any thing, I forgive also: for if I forgave any thing, to whom I forgave it, for your sakes forgave I it in the person of Christ;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "በሰይጣን እንዳንታለል፤ የእርሱን አሳብ አንስተውምና።",
+            "en": "Lest Satan should get an advantage of us: for we are not ignorant of his devices.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "ስለ ክርስቶስም ወንጌል ወደ ጢሮአዳ በመጣሁ ጊዜ፥ ለጌታ ሥራ በር ምንም ቢከፈትልኝ፥ ቲቶን ወንድሜን ስላላገኘሁት መንፈሴ ዕረፍት አልነበረውም፥",
+            "en": "Furthermore, when I came to Troas to preach Christ's gospel, and a door was opened unto me of the Lord,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ነገር ግን ከእነርሱ ተሰናብቼ ወደ መቄዶንያ ወጣሁ።",
+            "en": "I had no rest in my spirit, because I found not Titus my brother: but taking my leave of them, I went from thence into Macedonia.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ነገር ግን በክርስቶስ ሁልጊዜ ድል በመንሣቱ ለሚያዞረን በእኛም በየስፍራው ሁሉ የእውቀቱን ሽታ ለሚገልጥ ለአምላክ ምስጋና ይሁን፤",
+            "en": "Now thanks be unto God, which always causeth us to triumph in Christ, and maketh manifest the savour of his knowledge by us in every place.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "በሚድኑቱና በሚጠፉቱ ዘንድ ለእግዚአብሔር የክርስቶስ መዓዛ ነንና፤",
+            "en": "For we are unto God a sweet savour of Christ, in them that are saved, and in them that perish:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ለእነዚህ ለሞት የሚሆን የሞት ሽታ ለእነዚያም ለሕይወት የሚሆን የሕይወት ሽታ ነን። ለዚህም ነገር የሚበቃ ማን ነው?",
+            "en": "To the one we are the savour of death unto death; and to the other the savour of life unto life. And who is sufficient for these things?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "የእግዚአብሔርን ቃል ቀላቅለው እንደሚሸቃቅጡት እንደ ብዙዎቹ አይደለንምና፤ በቅንነት ግን ከእግዚአብሔር እንደ ተላክን በእግዚአብሔር ፊት በክርስቶስ ሆነን እንናገራለን።",
+            "en": "For we are not as many, which corrupt the word of God: but as of sincerity, but as of God, in the sight of God speak we in Christ.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "እንደ ገና ራሳችንን ልናመሰግን እንጀምራለንን? ወይስ እንደ ሌሎች የማመስገኛ መልእክት ወደ እናንተ ወይስ ከእናንተ ያስፈልገን ይሆንን?",
+            "en": "Do we begin again to commend ourselves? or need we, as some others, epistles of commendation to you, or letters of commendation from you?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ሰዎች ሁሉ የሚያውቁትና የሚያነቡት በልባችን የተጻፈ መልእክታችን እናንተ ናችሁ።",
+            "en": "Ye are our epistle written in our hearts, known and read of all men:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "እናንተም በሕያው እግዚአብሔር መንፈስ እንጂ በቀለም አይደለም፥ ሥጋ በሆነ በልብ ጽላት እንጂ በድንጋይ ጽላት ያልተጻፈ፥ በእኛም የተገለገለ የክርስቶስ መልእክት እንደ ሆናችሁ የተገለጠ ነው።",
+            "en": "Forasmuch as ye are manifestly declared to be the epistle of Christ ministered by us, written not with ink, but with the Spirit of the living God; not in tables of stone, but in fleshy tables of the heart.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "በክርስቶስም በኩል ወደ እግዚአብሔር እንዲህ ያለ እምነት አለን።",
+            "en": "And such trust have we through Christ to God-ward:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ብቃታችን ከእግዚአብሔር ነው እንጂ፥ በገዛ እጃችን እንደሚሆን አንዳችን እንኳ ልናስብ ራሳችን የበቃን አይደለንም፤",
+            "en": "Not that we are sufficient of ourselves to think any thing as of ourselves; but our sufficiency is of God;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "እርሱም ደግሞ በመንፈስ እንጂ በፊደል ለማይሆን ለአዲስ ኪዳን አገልጋዮች እንሆን ዘንድ አበቃን፤ ፊደል ይገድላልና መንፈስ ግን ሕይወትን ይሰጣል።",
+            "en": "Who also hath made us able ministers of the new testament; not of the letter, but of the spirit: for the letter killeth, but the spirit giveth life.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ዳሩ ግን የእስራኤል ልጆች ስለዚያ ስለ ተሻረው ስለ ፊቱ ክብር የሙሴን ፊት ትኩር ብለው መመልከት እስኪሳናቸው ድረስ፥ ያ በፊደላት በድንጋዮች ላይ የተቀረጸ የሞት አገልግሎት በክብር ከሆነ፥",
+            "en": "But if the ministration of death, written and engraven in stones, was glorious, so that the children of Israel could not stedfastly behold the face of Moses for the glory of his countenance; which glory was to be done away:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "የመንፈስ አገልግሎት እንዴት ይልቅ በክብር አይሆንም?",
+            "en": "How shall not the ministration of the spirit be rather glorious?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "የኵነኔ አገልግሎት ክብር ከሆነ፥ ይልቅ የጽድቅ አገልግሎት በክብር አብዝቶ ይበልጣልና።",
+            "en": "For if the ministration of condemnation be glory, much more doth the ministration of righteousness exceed in glory.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ያ የከበረ እንኳ እጅግ በሚበልጠው ክብር ምክንያት በዚህ ነገር ክብሩን አጥቶአልና።",
+            "en": "For even that which was made glorious had no glory in this respect, by reason of the glory that excelleth.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ያ ይሻር የነበረው በክብር ከሆነ፥ ጸንቶ የሚኖረውማ እጅግ ይልቅ በክብር ሆኖአልና።",
+            "en": "For if that which is done away was glorious, much more that which remaineth is glorious.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "እንግዲህ እንዲህ ያለ ተስፋ ካለን እጅግ ገልጠን እንናገራለን፥",
+            "en": "Seeing then that we have such hope, we use great plainness of speech:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "የዚያንም ይሻር የነበረውን መጨረሻ ትኵር ብለው የእስራኤል ልጆች እንዳይመለከቱ፥ በፊቱ መጋረጃ እንዳደረገ እንደ ሙሴ አይደለንም።",
+            "en": "And not as Moses, which put a vail over his face, that the children of Israel could not stedfastly look to the end of that which is abolished:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ነገር ግን አሳባቸው ደነዘዘ። ብሉይ ኪዳን ሲነበብ ያ መጋረጃ ሳይወሰድ እስከ ዛሬ ድረስ ይኖራልና፤ በክርስቶስ ብቻ የተሻረ ነውና።",
+            "en": "But their minds were blinded: for until this day remaineth the same vail untaken away in the reading of the old testament; which vail is done away in Christ.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ነገር ግን እስከ ዛሬ ድረስ የሙሴ መጻሕፍት በተነበቡ ጊዜ ሁሉ ያ መጋረጃ በልባቸው ይኖራል፤",
+            "en": "But even unto this day, when Moses is read, the vail is upon their heart.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ወደ ጌታ ግን ዘወር ባለ ጊዜ ሁሉ መጋረጃው ይወሰዳል።",
+            "en": "Nevertheless when it shall turn to the Lord, the vail shall be taken away.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "ጌታ ግን መንፈስ ነው፤ የጌታም መንፈስ ባለበት በዚያ አርነት አለ።",
+            "en": "Now the Lord is that Spirit: and where the Spirit of the Lord is, there is liberty.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "እኛም ሁላችን በመጋረጃ በማይከደን ፊት የጌታን ክብር እንደ መስተዋት እያብለጨለጭን መንፈስ ከሚሆን ጌታ እንደሚደረግ ያን መልክ እንመስል ዘንድ ከክብር ወደ ክብር እንለወጣለን።",
+            "en": "But we all, with open face beholding as in a glass the glory of the Lord, are changed into the same image from glory to glory, even as by the Spirit of the Lord.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "ስለዚህ ምክንያት ምሕረት እንደ ተሰጠን መጠን ይህ አገልግሎት ስላለን አንታክትም።",
+            "en": "Therefore seeing we have this ministry, as we have received mercy, we faint not;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ነገር ግን የሚያሳፍረውን ስውር ነገር ጥለናልና በተንኮል አንመላለስም የእግዚአብሔርንም ቃል በውሸት አንቀላቅልም፤ እውነትን በመግለጥ ግን በእግዚአብሔር ፊት ለሰው ሕሊና ሁሉ ራሳችንን እናመሰግናለን።",
+            "en": "But have renounced the hidden things of dishonesty, not walking in craftiness, nor handling the word of God deceitfully; but by manifestation of the truth commending ourselves to every man's conscience in the sight of God.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ወንጌላችን የተከደነ ቢሆን እንኳ የተከደነባቸው ለሚጠፉ ነው።",
+            "en": "But if our gospel be hid, it is hid to them that are lost:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ለእነርሱም የእግዚአብሔር ምሳሌ የሆነ የክርስቶስ የክብሩ ወንጌል ብርሃን እንዳያበራላቸው፥ የዚህ ዓለም አምላክ የማያምኑትን አሳብ አሳወረ።",
+            "en": "In whom the god of this world hath blinded the minds of them which believe not, lest the light of the glorious gospel of Christ, who is the image of God, should shine unto them.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ክርስቶስ ኢየሱስን ጌታ እንደ ሆነ እንጂ ራሳችንን አንሰብክምና፥ ስለ ኢየሱስም ራሳችንን ለእናንተ ባሪያዎች እናደርጋለን።",
+            "en": "For we preach not ourselves, but Christ Jesus the Lord; and ourselves your servants for Jesus' sake.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "በክርስቶስ ፊት የእግዚአብሔርን የክብሩን እውቀት ብርሃን እንዲሰጥ በልባችን ውስጥ የበራ። በጨለማ ብርሃን ይብራ ያለ እግዚአብሔር ነውና።",
+            "en": "For God, who commanded the light to shine out of darkness, hath shined in our hearts, to give the light of the knowledge of the glory of God in the face of Jesus Christ.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ነገር ግን የኃይሉ ታላቅነት ከእግዚአብሔር እንጂ ከእኛ እንዳይሆን ይህ መዝገብ በሸክላ ዕቃ ውስጥ አለን፤",
+            "en": "But we have this treasure in earthen vessels, that the excellency of the power may be of God, and not of us.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "በሁሉ እንገፋለን እንጂ አንጨነቅም፤ እናመነታለን እንጂ ተስፋ አንቆርጥም፤",
+            "en": "We are troubled on every side, yet not distressed; we are perplexed, but not in despair;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "እንሰደዳለን እንጂ አንጣልም፤ እንወድቃለን እንጂ አንጠፋም፤",
+            "en": "Persecuted, but not forsaken; cast down, but not destroyed;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "የኢየሱስ ሕይወት ደግሞ በሥጋችን ይገለጥ ዘንድ ሁልጊዜ የኢየሱስን መሞት በሥጋችን ተሸክመን እንዞራለን።",
+            "en": "Always bearing about in the body the dying of the Lord Jesus, that the life also of Jesus might be made manifest in our body.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "የኢየሱስ ሕይወት ደግሞ በሚሞት ሥጋችን ይገለጥ ዘንድ እኛ ሕያዋን የሆንን ከኢየሱስ የተነሣ ዘወትር ለሞት አልፈን እንሰጣለንና።",
+            "en": "For we which live are alway delivered unto death for Jesus' sake, that the life also of Jesus might be made manifest in our mortal flesh.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "ስለዚህ ሞቱ በእኛ ሕይወቱም በእናንተ ይሠራል።",
+            "en": "So then death worketh in us, but life in you.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ነገር ግን። አመንሁ ስለዚህም ተናገርሁ ተብሎ እንደ ተጻፈ ያው አንዱ የእምነት መንፈስ ስላለን፥ እኛ ደግሞ እናምናለን ስለዚህም እንናገራለን፤",
+            "en": "We having the same spirit of faith, according as it is written, I believed, and therefore have I spoken; we also believe, and therefore speak;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ጌታን ኢየሱስን ያስነሣው እኛን ደግሞ ከኢየሱስ ጋር እንዲያስነሣን ከእናንተም ጋር እንዲያቀርበን እናውቃለንና።",
+            "en": "Knowing that he which raised up the Lord Jesus shall raise up us also by Jesus, and shall present us with you.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "በብዙዎች በኩል የተትረፈረፈው ጸጋ ለእግዚአብሔር ክብር ምስጋናን ያበዛ ዘንድ፥ ሁሉ ስለ እናንተ ነውና።",
+            "en": "For all things are for your sakes, that the abundant grace might through the thanksgiving of many redound to the glory of God.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ስለዚህም አንታክትም፥ ነገር ግን የውጭው ሰውነታችን ቢጠፋ እንኳ የውስጡ ሰውነታችን ዕለት ዕለት ይታደሳል።",
+            "en": "For which cause we faint not; but though our outward man perish, yet the inward man is renewed day by day.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "የማይታየውን እንጂ የሚታየውን ባንመለከት፥ ቀላል የሆነ የጊዜው መከራችን የክብርን የዘላለም ብዛት ከሁሉ መጠን ይልቅ ያደርግልናልና፤ የሚታየው የጊዜው ነውና፥ የማይታየው ግን የዘላለም ነው።",
+            "en": "For our light affliction, which is but for a moment, worketh for us a far more exceeding and eternal weight of glory;",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              17,
+              18
+            ]
+          }
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "የማይታየውን እንጂ የሚታየውን ባንመለከት፥ ቀላል የሆነ የጊዜው መከራችን የክብርን የዘላለም ብዛት ከሁሉ መጠን ይልቅ ያደርግልናልና፤ የሚታየው የጊዜው ነውና፥ የማይታየው ግን የዘላለም ነው።",
+            "en": "While we look not at the things which are seen, but at the things which are not seen: for the things which are seen are temporal; but the things which are not seen are eternal.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              17,
+              18
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "ድንኳን የሚሆነው ምድራዊ መኖሪያችን ቢፈርስ፥ በሰማይ ያለ በእጅ ያልተሠራ የዘላለም ቤት የሚሆን ከእግዚአብሔር የተሠራ ሕንጻ እንዳለን እናውቃለንና።",
+            "en": "For we know that if our earthly house of this tabernacle were dissolved, we have a building of God, an house not made with hands, eternal in the heavens.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "በዚህ ውስጥ በእውነት እንቃትታለንና፥",
+            "en": "For in this we groan, earnestly desiring to be clothed upon with our house which is from heaven:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ከሰማይም የሚሆነውን መኖሪያችንን እንድንለብስ እንናፍቃለንና ለብሰን ራቁታችንን አንገኝም።",
+            "en": "If so be that being clothed we shall not be found naked.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "በእውነትም የሚሞተው በሕይወት ይዋጥ ዘንድ ልንለብስ እንጂ ልንገፈፍ የማንወድ ስለ ሆነ፥ በድንኳኑ ያለን እኛ ከብዶን እንቃትታለን።",
+            "en": "For we that are in this tabernacle do groan, being burdened: not for that we would be unclothed, but clothed upon, that mortality might be swallowed up of life.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ነገር ግን ለዚሁ የሠራን እግዚአብሔር ነው እርሱም የመንፈሱን መያዣ ሰጠን።",
+            "en": "Now he that hath wrought us for the selfsame thing is God, who also hath given unto us the earnest of the Spirit.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "እንግዲህ ሁልጊዜ ታምነን፥ በእምነት እንጂ በማየት አንመላለስምና በሥጋ ስናድር ከጌታ ተለይተን በስደት እንዳለን የምናውቅ ከሆንን፥",
+            "en": "Therefore we are always confident, knowing that, whilst we are at home in the body, we are absent from the Lord:",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              6,
+              7
+            ]
+          }
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "እንግዲህ ሁልጊዜ ታምነን፥ በእምነት እንጂ በማየት አንመላለስምና በሥጋ ስናድር ከጌታ ተለይተን በስደት እንዳለን የምናውቅ ከሆንን፥",
+            "en": "For we walk by faith, not by sight:)",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              6,
+              7
+            ]
+          }
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ታምነናል ይልቁንም ከሥጋ ተለይተን በስደት መኖር በጌታም ዘንድ ማደር ደስ ይለናል።",
+            "en": "We are confident, I say, and willing rather to be absent from the body, and to be present with the Lord.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ስለዚህ ደግሞ ብናድር ወይም ተለይተን ብንሆን እርሱን ደስ የምናሰኝ ልንሆን እንቀናለን።",
+            "en": "Wherefore we labour, that, whether present or absent, we may be accepted of him.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "መልካም ቢሆን ወይም ክፉ እንዳደረገ፥ እያንዳንዱ በሥጋው የተሠራውን በብድራት ይቀበል ዘንድ ሁላችን በክርስቶስ በፍርድ ወንበር ፊት ልንገለጥ ይገባናልና።",
+            "en": "For we must all appear before the judgment seat of Christ; that every one may receive the things done in his body, according to that he hath done, whether it be good or bad.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "እንግዲህ የጌታን ፍርሃት አውቀን ሰዎችን እናስረዳለን ለእግዚአብሔር ግን የተገለጥን ነን፤ በሕሊናችሁም ደግሞ የተገለጥን እንደ ሆንን ተስፋ አደርጋለሁ።",
+            "en": "Knowing therefore the terror of the Lord, we persuade men; but we are made manifest unto God; and I trust also are made manifest in your consciences.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "በመልክ እንጂ በልብ ለማይመኩ የምትመልሱላቸው መልስ እንዲኖራችሁ፥ በእኛ ልትመኩ ምክንያት እንሰጣችኋለን እንጂ ራሳችንን ደግሞ ለእናንተ የምናመሰግን አይደለንም።",
+            "en": "For we commend not ourselves again unto you, but give you occasion to glory on our behalf, that ye may have somewhat to answer them which glory in appearance, and not in heart.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "እብዶች ብንሆን፥ ለእግዚአብሔር ነው፤ ባለ አእምሮዎች ብንሆን፥ ለእናንተ ነው።",
+            "en": "For whether we be beside ourselves, it is to God: or whether we be sober, it is for your cause.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ይህን ስለቆረጥን የክርስቶስ ፍቅር ግድ ይለናልና፤ አንዱ ስለ ሁሉ ሞተ፤ እንግዲያስ ሁሉ ሞቱ፤",
+            "en": "For the love of Christ constraineth us; because we thus judge, that if one died for all, then were all dead:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "በሕይወትም ያሉት ስለ እነርሱ ለሞተውና ለተነሣው እንጂ ወደ ፊት ለራሳቸው እንዳይኖሩ ስለ ሁሉ ሞተ።",
+            "en": "And that he died for all, that they which live should not henceforth live unto themselves, but unto him which died for them, and rose again.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ስለዚህ እኛ ከአሁን ጀምሮ ማንንም በሥጋ እንደሚሆን አናውቅም፤ ክርስቶስንም በሥጋ እንደ ሆነ ያወቅነው ብንሆን እንኳ፥ አሁን ግን ከእንግዲህ ወዲህ እንደዚህ አናውቀውም።",
+            "en": "Wherefore henceforth know we no man after the flesh: yea, though we have known Christ after the flesh, yet now henceforth know we him no more.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "ስለዚህ ማንም በክርስቶስ ቢሆን አዲስ ፍጥረት ነው፤ አሮጌው ነገር አልፎአል፤ እነሆ፥ ሁሉም አዲስ ሆኖአል።",
+            "en": "Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "ነገር ግን የሆነው ሁሉ፥ በክርስቶስ ከራሱ ጋር ካስታረቀን የማስታረቅም አገልግሎት ከሰጠን፥ ከእግዚአብሔር ነው፤",
+            "en": "And all things are of God, who hath reconciled us to himself by Jesus Christ, and hath given to us the ministry of reconciliation;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "እግዚአብሔር በክርስቶስ ሆኖ ዓለሙን ከራሱ ጋር ያስታርቅ ነበርና፥ በደላቸውን አይቆጥርባቸውም ነበር፤ በእኛም የማስታረቅ ቃል አኖረ።",
+            "en": "To wit, that God was in Christ, reconciling the world unto himself, not imputing their trespasses unto them; and hath committed unto us the word of reconciliation.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "እንግዲህ እግዚአብሔር በእኛ እንደሚማልድ ስለ ክርስቶስ መልክተኞች ነን፤ ከእግዚአብሔር ጋር ታረቁ ብለን ስለ ክርስቶስ እንለምናለን።",
+            "en": "Now then we are ambassadors for Christ, as though God did beseech you by us: we pray you in Christ's stead, be ye reconciled to God.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "እኛ በእርሱ ሆነን የእግዚአብሔር ጽድቅ እንሆን ዘንድ ኃጢአት ያላወቀውን እርሱን ስለ እኛ ኃጢአት አደረገው።",
+            "en": "For he hath made him to be sin for us, who knew no sin; that we might be made the righteousness of God in him.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "አብረንም እየሠራን የእግዚአብሔርን ጸጋ በከንቱ እንዳትቀበሉ ደግሞ እንለምናለን፤",
+            "en": "We then, as workers together with him, beseech you also that ye receive not the grace of God in vain.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "በተወደደ ሰዓት ሰማሁህ በመዳንም ቀን ረዳሁህ ይላልና፤ እነሆ፥ የተወደደው ሰዓት አሁን ነው፤ እነሆ፥ የመዳን ቀን አሁን ነው።",
+            "en": "For he saith, I have heard thee in a time accepted, and in the day of salvation have I succoured thee: behold, now is the accepted time; behold, now is the day of salvation.)",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "አገልግሎታችንም እንዳይነቀፍ በአንዳች ነገር ማሰናከያ ከቶ አንሰጥም።",
+            "en": "Giving no offence in any thing, that the ministry be not blamed:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ነገር ግን በሁሉ እንደ እግዚአብሔር አገልጋዮች ራሳችንን እናማጥናለን፤",
+            "en": "But in all things approving ourselves as the ministers of God, in much patience, in afflictions, in necessities, in distresses,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "በብዙ መጽናት፥ በመከራ፥ በችግር፥ በጭንቀት፥ በመገረፍ፥ በወኅኒ፥ በሁከት፥ በድካም፥ እንቅልፍ በማጣት፥",
+            "en": "In stripes, in imprisonments, in tumults, in labours, in watchings, in fastings;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "በመጦም፥ በንጽህና፥ በእውቀት፥ በትዕግሥት፥ በቸርነት፥ በመንፈስ ቅዱስ፥ ግብዝነት በሌለው ፍቅር፥ በእውነት ቃል፥",
+            "en": "By pureness, by knowledge, by longsuffering, by kindness, by the Holy Ghost, by love unfeigned,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "በእግዚአብሔር ኃይል፥ ለቀኝና ለግራ በሚሆን በጽድቅ የጦር ዕቃ፥ በክብርና በውርደት፥",
+            "en": "By the word of truth, by the power of God, by the armour of righteousness on the right hand and on the left,",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "በክፉ ወሬና በመልካም ወሬ ራሳችንን እናማጥናለን፤ አሳቾች ስንባል እውነተኞች ነን፤",
+            "en": "By honour and dishonour, by evil report and good report: as deceivers, and yet true;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ያልታወቁ ስንባል የታወቅን ነን፤ የምንሞት ስንመስል እነሆ ሕያዋን ነን፤ የተቀጣን ስንሆን አንገደልም፤",
+            "en": "As unknown, and yet well known; as dying, and, behold, we live; as chastened, and not killed;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ኀዘንተኞች ስንሆን ዘወትር ደስ ይለናል፤ ድሆች ስንሆን ብዙዎችን ባለ ጠጎች እናደርጋለን፤ አንዳች የሌለን ስንሆን ሁሉ የእኛ ነው።",
+            "en": "As sorrowful, yet alway rejoicing; as poor, yet making many rich; as having nothing, and yet possessing all things.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "እናንተ የቆሮንቶስ ሰዎች ሆይ፥ አፋችን ለእናንተ ተከፍቶአል ልባችንም ሰፍቶላችኋል፤",
+            "en": "O ye Corinthians, our mouth is open unto you, our heart is enlarged.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "በእኛ አልጠበባችሁም በሆዳችሁ ግን ጠቦባችኋል፤",
+            "en": "Ye are not straitened in us, but ye are straitened in your own bowels.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ልጆቼ እንደ መሆናችሁ ግን እላችኋለሁ፥ እናንተ ደግሞ ብድራት መልሳችሁልን ተስፋፉ።",
+            "en": "Now for a recompence in the same, (I speak as unto my children,) be ye also enlarged.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ከማያምኑ ጋር በማይመች አካሄድ አትጠመዱ፤ ጽድቅ ከዓመፅ ጋር ምን ተካፋይነት አለውና? ብርሃንም ከጨለማ ጋር ምን ኅብረት አለው?",
+            "en": "Be ye not unequally yoked together with unbelievers: for what fellowship hath righteousness with unrighteousness? and what communion hath light with darkness?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ክርስቶስስ ከቤልሆር ጋር ምን መስማማት አለው? ወይስ የሚያምን ከማያምን ጋር ምን ክፍል አለው?",
+            "en": "And what concord hath Christ with Belial? or what part hath he that believeth with an infidel?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ለእግዚአብሔር ቤተ መቅደስም ከጣዖት ጋር ምን መጋጠም አለው? እኛ የሕያው እግዚአብሔር ቤተ መቅደስ ነንና እንዲሁም እግዚአብሔር ተናገረ እንዲህ ሲል። በእነርሱ እኖራለሁ በመካከላቸውም እመላለሳለሁ፥ አምላካቸውም እሆናለሁ እነርሱም ሕዝቤ ይሆናሉ።",
+            "en": "And what agreement hath the temple of God with idols? for ye are the temple of the living God; as God hath said, I will dwell in them, and walk in them; and I will be their God, and they shall be my people.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "ስለዚህም ጌታ። ከመካከላቸው ውጡና የተለያችሁ ሁኑ ርኵስንም አትንኩ ይላል፤ ሁሉንም የሚገዛ ጌታ። እኔም እቀበላችኋለሁ፥ ለእናንተም አባት እሆናለሁ እናንተም ለእኔ ወንድ ልጆችና ሴት ልጆች ትሆናላችሁ ይላል።",
+            "en": "Wherefore come out from among them, and be ye separate, saith the Lord, and touch not the unclean thing; and I will receive you,",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              17,
+              18
+            ]
+          }
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "ስለዚህም ጌታ። ከመካከላቸው ውጡና የተለያችሁ ሁኑ ርኵስንም አትንኩ ይላል፤ ሁሉንም የሚገዛ ጌታ። እኔም እቀበላችኋለሁ፥ ለእናንተም አባት እሆናለሁ እናንተም ለእኔ ወንድ ልጆችና ሴት ልጆች ትሆናላችሁ ይላል።",
+            "en": "And will be a Father unto you, and ye shall be my sons and daughters, saith the Lord Almighty.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              17,
+              18
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "እንግዲህ፥ ወዳጆች ሆይ፥ የዚህ ተስፋ ቃል ካለን፥ በእግዚአብሔር ፍርሃት ቅድስናን ፍጹም እያደረግን ሥጋንና መንፈስን ከሚያረክስ ሁሉ ራሳችንን እናንጻ።",
+            "en": "Having therefore these promises, dearly beloved, let us cleanse ourselves from all filthiness of the flesh and spirit, perfecting holiness in the fear of God.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "በልባችሁ ስፍራ አስፉልን፤ ማንንም አልበደልንም፥ ማንንም አላጠፋንም፥ ማንንም አላታለልንም።",
+            "en": "Receive us; we have wronged no man, we have corrupted no man, we have defrauded no man.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ለኵነኔ አልልም፤ በአንድነት ለመሞትና በአንድነት ለመኖር በልባችን እንዳላችሁ አስቀድሜ ብዬአለሁና።",
+            "en": "I speak not this to condemn you: for I have said before, that ye are in our hearts to die and live with you.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ስለ እናንተ እምነቴ ታላቅ ነው፥ በእናንተ ምክንያት ትምክህቴ ታላቅ ነው፤ መጽናናት ሞልቶብኛል፤ በመከራችን ሁሉ ደስታዬ ከመጠን ይልቅ ይበዛል።",
+            "en": "Great is my boldness of speech toward you, great is my glorying of you: I am filled with comfort, I am exceeding joyful in all our tribulation.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ወደ መቄዶንያም በመጣን ጊዜ፥ በሁሉ ነገር መከራን ተቀበልን እንጂ ሥጋችን ዕረፍት አልነበረውም፤ በውጭ ጠብ ነበረ፥ በውስጥ ፍርሃት ነበረ።",
+            "en": "For, when we were come into Macedonia, our flesh had no rest, but we were troubled on every side; without were fightings, within were fears.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ነገር ግን ኀዘንተኞችን የሚያጽናና አምላክ በቲቶ መምጣት አጽናናን፤",
+            "en": "Nevertheless God, that comforteth those that are cast down, comforted us by the coming of Titus;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "በመምጣቱም ብቻ አይደለም ነገር ግን ናፍቆታችሁንና ልቅሶአችሁን ስለ እኔም ቅንዓታችሁን ሲናገረን በእናንተ ላይ በተጽናናበት መጽናናት ደግሞ ነው፤ ስለዚህም ከፊት ይልቅ ደስ አለን።",
+            "en": "And not by his coming only, but by the consolation wherewith he was comforted in you, when he told us your earnest desire, your mourning, your fervent mind toward me; so that I rejoiced the more.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "በመልእክቴ ያሳዘንኋችሁ ብሆን እንኳ አልጸጸትም፤ የተጸጸትሁ ብሆን እንኳ፥ ያ መልእክት ጥቂት ጊዜ ብቻ እንዳሳዘናችሁ አያለሁና አሁን ለንስሐ ስላዘናችሁ ደስ ብሎኛል እንጂ ስላዘናችሁ አይደለም፤",
+            "en": "For though I made you sorry with a letter, I do not repent, though I did repent: for I perceive that the same epistle hath made you sorry, though it were but for a season.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "በምንም ከእኛ የተነሣ እንዳትጎዱ እንደ እግዚአብሔር ፈቃድ አዝናችኋልና።",
+            "en": "Now I rejoice, not that ye were made sorry, but that ye sorrowed to repentance: for ye were made sorry after a godly manner, that ye might receive damage by us in nothing.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "እንደ እግዚአብሔር ፈቃድ የሆነ ኀዘን ጸጸት የሌለበትን፥ ወደ መዳንም የሚያደርሰውን ንስሐ ያደርጋልና፤ የዓለም ኀዘን ግን ሞትን ያመጣል።",
+            "en": "For godly sorrow worketh repentance to salvation not to be repented of: but the sorrow of the world worketh death.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "እነሆ፥ ይህ እንደ እግዚአብሔር ፈቃድ የሆነ ኀዘን እንዴት ያለ ትጋት፥ እንዴት ያለ መልስ፥ እንዴት ያለ ቁጣ፥ እንዴት ያለ ፍርሃት፥ እንዴት ያለ ናፍቆት፥ እንዴት ያለ ቅንዓት፥ እንዴት ያለ በቀል በመካከላችሁ አደረገ። በዚህ ነገር ንጹሐን እንደ ሆናችሁ በሁሉ አስረድታችኋል።",
+            "en": "For behold this selfsame thing, that ye sorrowed after a godly sort, what carefulness it wrought in you, yea, what clearing of yourselves, yea, what indignation, yea, what fear, yea, what vehement desire, yea, what zeal, yea, what revenge! In all things ye have approved yourselves to be clear in this matter.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "እንግዲያስ የጻፍሁላችሁ ብሆን እንኳ፥ ስለ እኛ ያላችሁ ትጋታችሁ ከእናንተ ዘንድ በእግዚአብሔር ፊት እንዲገለጥ እንጂ፥ ስለ በዳዩ ወይም ስለ ተበዳዩ አልጻፍሁም። ስለዚህ ተጽናንተናል።",
+            "en": "Wherefore, though I wrote unto you, I did it not for his cause that had done the wrong, nor for his cause that suffered wrong, but that our care for you in the sight of God might appear unto you.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "በመጽናናታችንም ስለ ቲቶ ደስታ አብልጦ ደስ አለን፥ መንፈሱ በሁላችሁ ዐርፎአልና፤",
+            "en": "Therefore we were comforted in your comfort: yea, and exceedingly the more joyed we for the joy of Titus, because his spirit was refreshed by you all.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ለእርሱ በምንም ስለ እናንተ የተመካሁ እንደ ሆነ አላፈርሁምና፥ ነገር ግን ሁሉን ለእናንተ በእውነት እንደ ተናገርን፥ እንደዚህ ደግሞ ትምክህታችን በቲቶ ፊት እውነት ሆነ።",
+            "en": "For if I have boasted any thing to him of you, I am not ashamed; but as we spake all things to you in truth, even so our boasting, which I made before Titus, is found a truth.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ስለዚህም በፍርሃትና በመንቀጥቀጥ እንዴት እንደተቀበላችሁት፥ የሁላችሁን መታዘዝ እያሰበ ፍቅሩ በእናንተ ላይ እጅግ በዝቶአል።",
+            "en": "And his inward affection is more abundant toward you, whilst he remembereth the obedience of you all, how with fear and trembling ye received him.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "በነገር ሁሉ ተማምኜባችኋለሁና ደስ ይለኛል።",
+            "en": "I rejoice therefore that I have confidence in you in all things.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "ወንድሞች ሆይ፥ ለመቄዶንያ አብያተ ክርስቲያናት የተሰጠውን የእግዚአብሔርን ጸጋ እናስታውቃችኋለን፤",
+            "en": "Moreover, brethren, we do you to wit of the grace of God bestowed on the churches of Macedonia;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "በብዙ መከራ ተፈትነው ሳሉ የደስታቸው ብዛትና የድህነታቸው ጥልቅነት የልግስናቸውን ባለ ጠግነት አብዝቶአል፤",
+            "en": "How that in a great trial of affliction the abundance of their joy and their deep poverty abounded unto the riches of their liberality.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "እንደ ዓቅማቸው መጠን ከዓቅማቸውም የሚያልፍ እንኳ ወደው እንደ ሰጡ እመሰክርላቸዋለሁና።",
+            "en": "For to their power, I bear record, yea, and beyond their power they were willing of themselves;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ለቅዱሳን በሆነው አገልግሎት እንዲተባበሩ ይህን ቸርነት በብዙ ልመና ከእኛ ይለምኑ ነበር፥",
+            "en": "Praying us with much intreaty that we would receive the gift, and take upon us the fellowship of the ministering to the saints.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "አስቀድመውም በእግዚአብሔር ፈቃድ ራሳቸውን ለጌታ ለእኛም ሰጡ እንጂ እንዳሰብን አይደለም።",
+            "en": "And this they did, not as we hoped, but first gave their own selves to the Lord, and unto us by the will of God.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ስለዚህም ቲቶ አስቀድሞ እንደ ጀመረ እንዲሁ ደግሞ ይህን ቸር ሥራ ደግሞ በእናንተ ዘንድ ሊፈጽም ለመንን።",
+            "en": "Insomuch that we desired Titus, that as he had begun, so he would also finish in you the same grace also.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ነገር ግን በነገር ሁሉ፥ በእምነትና በቃል በእውቀትም በትጋትም ሁሉ ለእኛም በፍቅራችሁ እንደ ተረፋችሁ፥ በዚህ ቸር ሥራ ደግሞ ትረፉ።",
+            "en": "Therefore, as ye abound in every thing, in faith, and utterance, and knowledge, and in all diligence, and in your love to us, see that ye abound in this grace also.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ትእዛዝ እንደምሰጥ አልልም፥ ነገር ግን በሌሎች ትጋት በኩል የፍቅራችሁን እውነተኛነት ደግሞ ልመረምር እላለሁ፤",
+            "en": "I speak not by commandment, but by occasion of the forwardness of others, and to prove the sincerity of your love.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "የጌታችንን የኢየሱስ ክርስቶስን ቸር ስጦታ አውቃችኋልና፤ ሀብታም ሲሆን፥ እናንተ በእርሱ ድህነት ባለ ጠጎች ትሆኑ ዘንድ ስለ እናንተ ድሀ ሆነ።",
+            "en": "For ye know the grace of our Lord Jesus Christ, that, though he was rich, yet for your sakes he became poor, that ye through his poverty might be rich.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "በዚህም ነገር ምክር እሰጣለሁ፤ ከአምና ጀምራችሁ ለማድረግ ብቻ ያይደለ ነገር ግን ለማሰብ ደግሞ አስቀድማችሁ የጀመራችሁት ይህ ይጠቅማችኋልና፤",
+            "en": "And herein I give my advice: for this is expedient for you, who have begun before, not only to do, but also to be forward a year ago.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "አሁንም ለማሰብ በጎ ፈቃድ እንደ ነበረ፥ እንዲሁ እንዳላችሁ መጠን መፈጸም ደግሞ ይሆን ዘንድ፥ ማድረጉን ደግሞ ፈጽሙ።",
+            "en": "Now therefore perform the doing of it; that as there was a readiness to will, so there may be a performance also out of that which ye have.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "በጎ ፈቃድ ቢኖር፥ እንዳለው መጠን የተወደደ ይሆናል እንጂ እንደሌለው መጠን አይደለም።",
+            "en": "For if there be first a willing mind, it is accepted according to that a man hath, and not according to that he hath not.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ለሌሎች ዕረፍት ለእናንተም መከራ እንዲሆን አይደለም፥ ትክክል እንዲሆን ነው እንጂ፤",
+            "en": "For I mean not that other men be eased, and ye burdened:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "የእነርሱ ትርፍ ደግሞ የእናንተን ጉድለት እንዲሞላ በአሁኑ ጊዜ የእናንተ ትርፍ የእነርሱን ጉድለት ይሙላ፤ በትክክል እንዲሆን፥ እንዲህ ተብሎ እንደ ተጻፈ።",
+            "en": "But by an equality, that now at this time your abundance may be a supply for their want, that their abundance also may be a supply for your want: that there may be equality:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ብዙ ያከማቸ አላተረፈም፥ ጥቂትም ያከማቸ አላጎደለም።",
+            "en": "As it is written, He that had gathered much had nothing over; and he that had gathered little had no lack.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ነገር ግን በቲቶ ልብ ስለ እናንተ ያንን ትጋት የሰጠ አምላክ ይመስገን፤",
+            "en": "But thanks be to God, which put the same earnest care into the heart of Titus for you.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "ምክራችንን ተቀብሎአልና፥ ትጋት ግን ስለ በዛበት ወዶ ወደ እናንተ ይወጣል።",
+            "en": "For indeed he accepted the exhortation; but being more forward, of his own accord he went unto you.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "ከእርሱም ጋር ስለ ወንጌል ስብከት በአብያተ ክርስቲያናት ሁሉ የተመሰገነውን ወንድም እንልካለን፤",
+            "en": "And we have sent with him the brother, whose praise is in the gospel throughout all the churches;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "ይህም ብቻ አይደለም ነገር ግን የጌታን የራሱን ክብርና የእኛን በጎ ፈቃድ ለማሳየት በምናገለግለው በዚህ ቸር ሥራ ከእኛ ጋር እንዲጓደድ በአብያተ ክርስቲያናት ደግሞ ተመረጠ።",
+            "en": "And not that only, but who was also chosen of the churches to travel with us with this grace, which is administered by us to the glory of the same Lord, and declaration of your ready mind:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "ስለምናገለግለው ስለዚህ ለጋስ ስጦታ ማንም እንዳይነቅፈን እንጠነቀቃለን፤",
+            "en": "Avoiding this, that no man should blame us in this abundance which is administered by us:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "በጌታ ፊት ብቻ ያይደለ ነገር ግን በሰው ፊት ደግሞ መልካም የሆነውን እናስባለንና።",
+            "en": "Providing for honest things, not only in the sight of the Lord, but also in the sight of men.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 22,
+          "text": {
+            "am": "ብዙ ጊዜም በብዙ ነገር መርምረን ትጉ እንደ ሆነ ያገኘነውን፥ አሁንም በእናንተ እጅግ ስለሚታመን ከፊት ይልቅ እጅግ ትጉ የሚሆነውን ወንድማችንን ከእነርሱ ጋር እንልካለን።",
+            "en": "And we have sent with them our brother, whom we have oftentimes proved diligent in many things, but now much more diligent, upon the great confidence which I have in you.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 23,
+          "text": {
+            "am": "ስለ ቲቶ የሚጠይቅ ቢኖር ስለ እናንተ አብሮኝ የሚሠራ ባልንጀራዬ ነው፤ ስለ ወንድሞቻችን የሚጠይቅ ቢኖርም የአብያተ ክርስቲያናት መልእክተኞችና የክርስቶስ ክብር ናቸው።",
+            "en": "Whether any do enquire of Titus, he is my partner and fellowhelper concerning you: or our brethren be enquired of, they are the messengers of the churches, and the glory of Christ.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 24,
+          "text": {
+            "am": "እንግዲህ የፍቅራችሁንና ስለ እናንተ ያለውን የትምክህታችንን መግለጫ በአብያተ ክርስቲያናት ፊት ለእነርሱ ግለጡ።",
+            "en": "Wherefore shew ye to them, and before the churches, the proof of your love, and of our boasting on your behalf.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "ለቅዱሳን ስለሚሆነው አገልግሎት ልጽፍላችሁ አያስፈልግምና፤",
+            "en": "For as touching the ministering to the saints, it is superfluous for me to write to you:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "በጎ ፈቃዳችሁን አውቄአለሁና፤ ስለዚህም። አካይያ ከአምና ጀምሮ ተዘጋጅቶአል ብዬ ለመቄዶንያ ሰዎች በእናንተ እመካለሁ፥ ቅንዓታችሁም የሚበዙቱን አነሣሥቶአል።",
+            "en": "For I know the forwardness of your mind, for which I boast of you to them of Macedonia, that Achaia was ready a year ago; and your zeal hath provoked very many.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ነገር ግን ለእነርሱ እንዳልሁ፥ የተዘጋጃችሁ ትሆኑ ዘንድ በዚህም ነገር ስለ እናንተ ያለው ትምክህታችን ከንቱ እንዳይሆን ወንድሞችን እልካለሁ፤",
+            "en": "Yet have I sent the brethren, lest our boasting of you should be in vain in this behalf; that, as I said, ye may be ready:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ምናልባት የመቄዶንያ ሰዎች ከእኔ ጋር ቢመጡ፥ ያልተዘጋጃችሁም ሆናችሁ ቢያገኙአችሁ፥ እናንተ እንድታፍሩ አላልንም እኛ ግን በዚህ እምነታችን እንድናፍር አይሁን።",
+            "en": "Lest haply if they of Macedonia come with me, and find you unprepared, we (that we say not, ye) should be ashamed in this same confident boasting.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "እንግዲህ እንደ በረከት ሆኖ ከስስት የማይሆን ይህ የተዘጋጀ ይሆን ዘንድ አስቀድመው ወደ እናንተ መጥተው፥ አስቀድማችሁ ተስፋ የሰጣችሁትን በረከት አስቀድመው እንዲፈጽሙ ወንድሞችን እለምን ዘንድ እንዲያስፈልገኝ አሰብሁ።",
+            "en": "Therefore I thought it necessary to exhort the brethren, that they would go before unto you, and make up beforehand your bounty, whereof ye had notice before, that the same might be ready, as a matter of bounty, and not as of covetousness.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ይህንም እላለሁ። በጥቂት የሚዘራ በጥቂት ደግሞ ያጭዳል፥ በበረከትም የሚዘራ በበረከት ደግሞ ያጭዳል።",
+            "en": "But this I say, He which soweth sparingly shall reap also sparingly; and he which soweth bountifully shall reap also bountifully.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "እግዚአብሔር በደስታ የሚሰጠውን ይወዳልና እያንዳንዱ በልቡ እንዳሰበ ይስጥ፥ በኀዘን ወይም በግድ አይደለም።",
+            "en": "Every man according as he purposeth in his heart, so let him give; not grudgingly, or of necessity: for God loveth a cheerful giver.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "በተነ፥ ለምስኪኖች ሰጠ፥ ጽድቁ ለዘላለም ይኖራል ተብሎ እንደ ተጻፈ፥ እግዚአብሔር፥ ሁልጊዜ በነገር ሁሉ ብቃትን ሁሉ አግኝታችሁ ለበጎ ሥራ ሁሉ ትበዙ ዘንድ፥ ጸጋን ሁሉ ሊያበዛላችሁ ይችላል።",
+            "en": "And God is able to make all grace abound toward you; that ye, always having all sufficiency in all things, may abound to every good work:",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "በተነ፥ ለምስኪኖች ሰጠ፥ ጽድቁ ለዘላለም ይኖራል ተብሎ እንደ ተጻፈ፥ እግዚአብሔር፥ ሁልጊዜ በነገር ሁሉ ብቃትን ሁሉ አግኝታችሁ ለበጎ ሥራ ሁሉ ትበዙ ዘንድ፥ ጸጋን ሁሉ ሊያበዛላችሁ ይችላል።",
+            "en": "As it is written, He hath dispersed abroad; he hath given to the poor: his righteousness remaineth for ever.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ለዘሪ ዘርን ለመብላትም እንጀራን በብዙ የሚሰጥ እርሱም የምትዘሩትን ዘር ይሰጣችኋል ያበረክትላችሁማል፥ የጽድቃችሁንም ፍሬ ያሳድጋል፤",
+            "en": "Now he that ministereth seed to the sower both minister bread for your food, and multiply your seed sown, and increase the fruits of your righteousness;)",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "በእኛ በኩል ለእግዚአብሔር የምስጋና ምክንያት የሚሆነውን ልግስና ሁሉ እንድታሳዩ በሁሉ ነገር ባለ ጠጎች ትሆናላችሁ።",
+            "en": "Being enriched in every thing to all bountifulness, which causeth through us thanksgiving to God.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "የዚህ ረድኤት አገልግሎት ለቅዱሳን የሚጎድላቸውን በሙሉ የሚሰጥ ብቻ አይደለምና፥ ነገር ግን ደግሞ በብዙ ምስጋና ለእግዚአብሔር ይበዛል፤",
+            "en": "For the administration of this service not only supplieth the want of the saints, but is abundant also by many thanksgivings unto God;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "በዚህ አገልግሎት ስለ ተፈተናችሁ፥ በክርስቶስ ወንጌል በማመናችሁ ስለሚሆን መታዘዝ እነርሱንና ሁሉንም ስለምትረዱበት ልግስና እግዚአብሔርን ያከብራሉ፥",
+            "en": "Whiles by the experiment of this ministration they glorify God for your professed subjection unto the gospel of Christ, and for your liberal distribution unto them, and unto all men;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ራሳቸውም ስለ እናንተ ሲያማልዱ፥ በእናንተ ላይ ከሚሆነው ከሚበልጠው ከእግዚአብሔር ጸጋ የተነሣ ይናፍቁአችኋል።",
+            "en": "And by their prayer for you, which long after you for the exceeding grace of God in you.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "ስለማይነገር ስጦታው እግዚአብሔር ይመስገን።",
+            "en": "Thanks be unto God for his unspeakable gift.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "እኔም ራሴ ጳውሎስ፥ በእናንተ ዘንድ ፊት ለፊት ሳለሁ ትሑት የሆንሁ፥ ከእናንተ ግን ብርቅ የምደፍራችሁ፥ በክርስቶስ የዋህነትና ገርነት እመክራችኋለሁ፤",
+            "en": "Now I Paul myself beseech you by the meekness and gentleness of Christ, who in presence am base among you, but being absent am bold toward you:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "በዓለማዊ ልማድ እንደምንመላለስ በሚቆጥሩን በአንዳንዶች ላይ አምኜ ልደፍር አስባለሁ፥ በዚያ እምነት ግን ከእናንተ ጋር ሆኜ እንዳልደፍር እለምንችኋለሁ።",
+            "en": "But I beseech you, that I may not be bold when I am present with that confidence, wherewith I think to be bold against some, which think of us as if we walked according to the flesh.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "በሰው ልማድ ምንም እንኳ የምንመላለስ ብንሆን፥ እንደ ሰው ልማድ አንዋጋም፤",
+            "en": "For though we walk in the flesh, we do not war after the flesh:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "የጦር ዕቃችን ሥጋዊ አይደለምና፥ ምሽግን ለመስበር ግን በእግዚአብሔር ፊት ብርቱ ነው፤",
+            "en": "For the weapons of our warfare are not carnal, but mighty through God to the pulling down of strong holds;)",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "የሰውንም አሳብ በእግዚአብሔርም እውቀት ላይ የሚነሣውን ከፍ ያለውን ነገር ሁሉ እናፈርሳለን ለክርስቶስም ለመታዘዝ አእምሮን ሁሉ እንማርካለን፥",
+            "en": "Casting down imaginations, and every high thing that exalteth itself against the knowledge of God, and bringing into captivity every thought to the obedience of Christ;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "መታዘዛችሁም በተፈጸመች ጊዜ አለመታዘዝን ሁሉ ልንበቀል ተዘጋጅተናል።",
+            "en": "And having in a readiness to revenge all disobedience, when your obedience is fulfilled.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "በፊታችሁ ያለውን ተመልከቱ። ማንም የክርስቶስ መሆኑን ተረድቶ ቢሆን፥ ይህን እንደ ገና በራሱ ይቁጠረው፤ እርሱ የክርስቶስ እንደ ሆነ እኛ ደግሞ እንዲሁ ነን።",
+            "en": "Do ye look on things after the outward appearance? If any man trust to himself that he is Christ's, let him of himself think this again, that, as he is Christ's, even so are we Christ's.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ጌታ እናንተን ለማነጽ እንጂ እናንተን ለማፍረስ ያይደለ በሰጠው በሥልጣናችን ከፊት ይልቅ ብመካ እንኳ አላፍርም።",
+            "en": "For though I should boast somewhat more of our authority, which the Lord hath given us for edification, and not for your destruction, I should not be ashamed:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "በመልእክቶቼ የማስደነግጣችሁ አይምሰላችሁ።",
+            "en": "That I may not seem as if I would terrify you by letters.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "መልእክቶቹስ ከባድና ኃይለኛ ናቸው፥ ሰውነቱ ግን ሲታይ ደካማ ነው፥ ንግግሩም የተናቀ ነው ይላሉና።",
+            "en": "For his letters, say they, are weighty and powerful; but his bodily presence is weak, and his speech contemptible.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "እንዲሁ የሚል ይህን ይቁጠረው፤ በሩቅ ሳለን በመልእክታችን በኩል በቃል እንዳለን፥ በፊቱ ደግሞ ሳለን በሥራ እንዲሁ ነን።",
+            "en": "Let such an one think this, that, such as we are in word by letters when we are absent, such will we be also in deed when we are present.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "ራሳቸውን ከሚያመሰግኑ ከአንዳንዶች ጋር ራሳችንን ልንቆጥር ወይም ራሳችንን ልናስተያይ አንደፍርምና፤ ነገር ግን እነርሱ ራሳቸውን ከራሳቸው ጋር ሲያመዛዝኑ፥ ራሳቸውንም ከራሳቸው ጋር ሲያስተያዩ፥ አያስተውሉም።",
+            "en": "For we dare not make ourselves of the number, or compare ourselves with some that commend themselves: but they measuring themselves by themselves, and comparing themselves among themselves, are not wise.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "እኛ ግን እግዚአብሔር እንደ ወሰነልን እስከ እናንተ እንኳ እንደሚደርስ እንደ ክፍላችን ልክ እንጂ ያለ ልክ አንመካም።",
+            "en": "But we will not boast of things without our measure, but according to the measure of the rule which God hath distributed to us, a measure to reach even unto you.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ወደ እናንተ እንደማንደርስ አድርገን ከመጠን አናልፍምና፥ የክርስቶስን ወንጌል በመስበክ እስከ እናንተ እንኳ ደርሰናልና፤",
+            "en": "For we stretch not ourselves beyond our measure, as though we reached not unto you: for we are come as far as to you also in preaching the gospel of Christ:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "በሌሎች ድካም ያለ ልክ አንመካም፥ ነገር ግን እምነታችሁ ሲያድግ ከእናንተ ወዲያ ባለው አገር እስክንሰብክ ሥራችንን እየጨመርን፥ በክፍላችን በእናንተ ዘንድ እንድንከብር ተስፋ እናደርጋለን፤ በሌላው ክፍል ስለ ተዘጋጀው ነገር አንመካም።",
+            "en": "Not boasting of things without our measure, that is, of other men's labours; but having hope, when your faith is increased, that we shall be enlarged by you according to our rule abundantly,",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              15,
+              16
+            ]
+          }
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "በሌሎች ድካም ያለ ልክ አንመካም፥ ነገር ግን እምነታችሁ ሲያድግ ከእናንተ ወዲያ ባለው አገር እስክንሰብክ ሥራችንን እየጨመርን፥ በክፍላችን በእናንተ ዘንድ እንድንከብር ተስፋ እናደርጋለን፤ በሌላው ክፍል ስለ ተዘጋጀው ነገር አንመካም።",
+            "en": "To preach the gospel in the regions beyond you, and not to boast in another man's line of things made ready to our hand.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              15,
+              16
+            ]
+          }
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "የሚመካ ግን በጌታ ይመካ፤ እግዚአብሔር የሚያመሰግነው እንጂ ራሱን የሚያመሰግን እርሱ ተፈትኖ የሚወጣ አይደለምና።",
+            "en": "But he that glorieth, let him glory in the Lord.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              17,
+              18
+            ]
+          }
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "የሚመካ ግን በጌታ ይመካ፤ እግዚአብሔር የሚያመሰግነው እንጂ ራሱን የሚያመሰግን እርሱ ተፈትኖ የሚወጣ አይደለምና።",
+            "en": "For not he that commendeth himself is approved, but whom the Lord commendeth.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              17,
+              18
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "በጥቂቱ ሞኝነቴ ብትታገሡኝ መልካም ይሆን ነበር፤ ቢሆንም በእርግጥ ታገሡኝ።",
+            "en": "Would to God ye could bear with me a little in my folly: and indeed bear with me.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "በእግዚአብሔር ቅንዓት እቀናላችኋለሁና፥ እንደ ንጽሕት ድንግል እናንተን ለክርስቶስ ላቀርብ ለአንድ ወንድ አጭቻችኋለሁና፤",
+            "en": "For I am jealous over you with godly jealousy: for I have espoused you to one husband, that I may present you as a chaste virgin to Christ.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ነገር ግን እባብ በተንኮሉ ሔዋንን እንዳሳታት፥ አሳባችሁ ተበላሽቶ ለክርስቶስ ከሚሆን ቅንነትና ንጽሕና ምናልባት እንዳይለወጥ ብዬ እፈራለሁ።",
+            "en": "But I fear, lest by any means, as the serpent beguiled Eve through his subtilty, so your minds should be corrupted from the simplicity that is in Christ.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "የሚመጣውም ያልሰበክነውን ሌላ ኢየሱስ ቢሰብክ፥ ወይም ያላገኛችሁትን ልዩ መንፈስ ወይም ያልተቀበላችሁትን ልዩ ወንጌል ብታገኙ፥ በመልካም ትታገሡታላችሁ።",
+            "en": "For if he that cometh preacheth another Jesus, whom we have not preached, or if ye receive another spirit, which ye have not received, or another gospel, which ye have not accepted, ye might well bear with him.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "ከእነዚህ ከዋነኞቹ ሐዋርያት በአንድ ነገር እንኳ እንደ ጎደልሁ ራሴን አልቆጥርም።",
+            "en": "For I suppose I was not a whit behind the very chiefest apostles.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "በአነጋገሬ ያልተማርሁ ብሆን እንኳ፥ በእውቀት ግን እንዲህ አይደለሁም። ነገር ግን በሰው ሁሉ መካከል በነገር ሁሉ ተገልጠንላችኋል።",
+            "en": "But though I be rude in speech, yet not in knowledge; but we have been throughly made manifest among you in all things.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ወይስ የእግዚአብሔርን ወንጌል ያለ ደመወዝ ስለ ሰበክሁላችሁ፥ እናንተ ከፍ እንድትሉ ራሴን እያዋረድሁ ኃጢአት አድርጌ ይሆንን?",
+            "en": "Have I committed an offence in abasing myself that ye might be exalted, because I have preached to you the gospel of God freely?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "እናንተን ለማገልገል ደመወዝ እየተቀበልሁ ሌሎችን አብያተ ክርስቲያናት ዘረፍሁ።",
+            "en": "I robbed other churches, taking wages of them, to do you service.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "ከእናንተም ጋር ሳለሁ በጎደለኝ ጊዜ፥ በማንም አልከበድሁበትም፤ ከመቄዶንያ የመጡት ወንድሞች የጎደለኝን በሙሉ ሰጥተዋልና፤ በነገርም ሁሉ እንዳልከብድባችሁ ተጠነቀቅሁ እጠነቀቅማለሁ።",
+            "en": "And when I was present with you, and wanted, I was chargeable to no man: for that which was lacking to me the brethren which came from Macedonia supplied: and in all things I have kept myself from being burdensome unto you, and so will I keep myself.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "የክርስቶስ እውነት በእኔ እንዳለ፥ ይህ ትምክህት በእኔ ዘንድ በአካይያ አገር አይከለከልም።",
+            "en": "As the truth of Christ is in me, no man shall stop me of this boasting in the regions of Achaia.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "ስለ ምን? ስለማልወዳችሁ ነውን? እግዚአብሔር ያውቃል።",
+            "en": "Wherefore? because I love you not? God knoweth.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "ነገር ግን በዚያ በሚመኩበት እንደ እኛ ሆነው ሊገኙ፥ ምክንያትን ከሚፈልጉቱ ምክንያትን እቆርጥ ዘንድ አሁን የማደርገውን ከዚህ ወዲህ ደግሞ አደርጋለሁ።",
+            "en": "But what I do, that I will do, that I may cut off occasion from them which desire occasion; that wherein they glory, they may be found even as we.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "እንደ እነዚህ ያሉ ሰዎች የክርስቶስን ሐዋርያት እንዲመስሉ ራሳቸውን እየለወጡ፥ ውሸተኞች ሐዋርያትና ተንኮለኞች ሠራተኞች ናቸውና።",
+            "en": "For such are false apostles, deceitful workers, transforming themselves into the apostles of Christ.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "ይህም ድንቅ አይደለም፤ ሰይጣን ራሱ የብርሃንን መልአክ እንዲመስል ራሱን ይለውጣልና።",
+            "en": "And no marvel; for Satan himself is transformed into an angel of light.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "እንግዲህ አገልጋዮቹ ደግሞ የጽድቅን አገልጋዮች እንዲመስሉ ራሳቸውን ቢለውጡ ታላቅ ነገር አይደለም፤ ፍጻሜአቸውም እንደ ሥራቸው ይሆናል።",
+            "en": "Therefore it is no great thing if his ministers also be transformed as the ministers of righteousness; whose end shall be according to their works.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "እንደ ገና እላለሁ። ለማንም ሰው ሞኝ የሆንሁ አይምሰለው፤ ያለዚያ ግን እኔ ደግሞ ጥቂት እመካ ዘንድ እንደ ሞኝ እንኳ ሆኜ ተቀበሉኝ።",
+            "en": "I say again, Let no man think me a fool; if otherwise, yet as a fool receive me, that I may boast myself a little.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "እንደዚህ ታምኜ ስመካ የምናገረው፥ በሞኝነት እንጂ ጌታ እንዳዘዘኝ አልናገርም።",
+            "en": "That which I speak, I speak it not after the Lord, but as it were foolishly, in this confidence of boasting.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "ብዙዎች በዓለማዊ ነገር ስለሚመኩ እኔ ደግሞ እመካለሁ።",
+            "en": "Seeing that many glory after the flesh, I will glory also.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "ልባሞች ስለምትሆኑ በደስታ ሞኞችን ትታገሣላችሁና፤",
+            "en": "For ye suffer fools gladly, seeing ye yourselves are wise.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "ማንም ባሪያዎች ቢያደርጋችሁ፥ ማንም ቢበላችሁ፥ ማንም ቢቀማችሁ፥ ማንም ቢኮራባችሁ፥ ማንም ፊታችሁን በጥፊ ቢመታችሁ ትታገሣላችሁና።",
+            "en": "For ye suffer, if a man bring you into bondage, if a man devour you, if a man take of you, if a man exalt himself, if a man smite you on the face.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "ደካሞች መስለን እንደ ነበርን በውርደት እላለሁ። ነገር ግን በሞኝነት እላለሁ፤ ማንም በሚደፍርበት እኔ ደግሞ እደፍርበታለሁ።",
+            "en": "I speak as concerning reproach, as though we had been weak. Howbeit whereinsoever any is bold, (I speak foolishly,) I am bold also.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 22,
+          "text": {
+            "am": "ዕብራውያን ናቸውን? እኔ ደግሞ ነኝ። የእስራኤል ወገን ናቸውን? እኔ ደግሞ ነኝ። የአብርሃም ዘር ናቸውን? እኔ ደግሞ ነኝ። የክርስቶስ አገልጋዮች ናቸውን?",
+            "en": "Are they Hebrews? so am I. Are they Israelites? so am I. Are they the seed of Abraham? so am I.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 23,
+          "text": {
+            "am": "እንደ እብድ ሰው እላለሁ፤ እኔ እበልጣለሁ፤ በድካም አብዝቼ፥ በመገረፍ አብዝቼ፥ በመታሰር አትርፌ፥ በመሞት ብዙ ጊዜ ሆንሁ።",
+            "en": "Are they ministers of Christ? (I speak as a fool) I am more; in labours more abundant, in stripes above measure, in prisons more frequent, in deaths oft.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 24,
+          "text": {
+            "am": "አይሁድ አንድ ሲጎድል አርባ ግርፋት አምስት ጊዜ ገረፉኝ።",
+            "en": "Of the Jews five times received I forty stripes save one.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 25,
+          "text": {
+            "am": "ሦስት ጊዜ በበትር ተመታሁ፤ አንድ ጊዜ በድንጋይ ተወገርሁ፤ መርከቤ ሦስት ጊዜ ተሰበረ፤ ሌሊትና ቀን በባሕር ውስጥ ኖርሁ።",
+            "en": "Thrice was I beaten with rods, once was I stoned, thrice I suffered shipwreck, a night and a day I have been in the deep;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 26,
+          "text": {
+            "am": "ብዙ ጊዜ በመንገድ ሄድሁ፤ በወንዝ ፍርሃት፥ በወንበዴዎች ፍርሃት፥ በወገኔ በኩል ፍርሃት፥ በአሕዛብ በኩል ፍርሃት፥ በከተማ ፍርሃት፥ በምድረ በዳ ፍርሃት፥ በባሕር ፍርሃት፥ በውሸተኞች ወንድሞች በኩል ፍርሃት ነበረብኝ፤",
+            "en": "In journeyings often, in perils of waters, in perils of robbers, in perils by mine own countrymen, in perils by the heathen, in perils in the city, in perils in the wilderness, in perils in the sea, in perils among false brethren;",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 27,
+          "text": {
+            "am": "በድካምና በጥረት ብዙ ጊዜም እንቅልፍ በማጣት፥ በራብና በጥም ብዙ ጊዜም በመጦም፥ በብርድና በራቁትነት ነበርሁ።",
+            "en": "In weariness and painfulness, in watchings often, in hunger and thirst, in fastings often, in cold and nakedness.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 28,
+          "text": {
+            "am": "የቀረውንም ነገር ሳልቆጥር፥ ዕለት ዕለት የሚከብድብኝ የአብያተ ክርስቲያናት ሁሉ አሳብ ነው።",
+            "en": "Beside those things that are without, that which cometh upon me daily, the care of all the churches.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 29,
+          "text": {
+            "am": "የሚደክም ማን ነው፥ እኔም አልደክምምን? የሚሰናከል ማን ነው፥ እኔም አልናደድምን?",
+            "en": "Who is weak, and I am not weak? who is offended, and I burn not?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 30,
+          "text": {
+            "am": "ትምክህት የሚያስፈልግ ከሆነ፥ ከድካሜ በሚሆነው ነገር እመካለሁ።",
+            "en": "If I must needs glory, I will glory of the things which concern mine infirmities.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 31,
+          "text": {
+            "am": "ለዘላለም የተባረከ የጌታችን የኢየሱስ ክርስቶስ አምላክና አባት እንዳልዋሽ ያውቃል።",
+            "en": "The God and Father of our Lord Jesus Christ, which is blessed for evermore, knoweth that I lie not.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 32,
+          "text": {
+            "am": "በደማስቆ አርስጦስዮስ ከተባለ ንጉሥ በታች የሆነ የሕዝብ ገዥ ሊይዘኝ እየወደደ የደማስቆ ሰዎችን ከተማ ያስጠብቅ ነበር፥",
+            "en": "In Damascus the governor under Aretas the king kept the city of the Damascenes with a garrison, desirous to apprehend me:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 33,
+          "text": {
+            "am": "በቅጥሩም ባለ መስኮት በቅርጫት አወረዱኝና ከእጁ አመለጥሁ።",
+            "en": "And through a window in a basket was I let down by the wall, and escaped his hands.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "ትምክህት የሚያስፈልግ ነው፤ አይጠቅምም ነገር ግን ከጌታ ወዳለው ራእይና መገለጥ እመጣለሁ።",
+            "en": "It is not expedient for me doubtless to glory. I will come to visions and revelations of the Lord.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ሰውን በክርስቶስ አውቃለሁ፥ በሥጋ እንደ ሆነ አላውቅም ወይም ከሥጋ ውጭ እንደ ሆነ አላውቅም፥ እግዚአብሔር ያውቃል፤ እንዲህ ያለው ሰው ከአሥራ አራት ዓመት በፊት እስከ ሦስተኛው ሰማይ ድረስ ተነጠቀ።",
+            "en": "I knew a man in Christ above fourteen years ago, (whether in the body, I cannot tell; or whether out of the body, I cannot tell: God knoweth;) such an one caught up to the third heaven.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "እንዲህ ያለውንም ሰው አውቃለሁ፥ በሥጋ እንደ ሆነ ወይም ያለ ሥጋ እንደ ሆነ አላውቅም፥ እግዚአብሔር ያውቃል፤",
+            "en": "And I knew such a man, (whether in the body, or out of the body, I cannot tell: God knoweth;)",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "ወደ ገነት ተነጠቀ፥ ሰውም ሊናገር የማይገባውን የማይነገረውን ቃል ሰማ።",
+            "en": "How that he was caught up into paradise, and heard unspeakable words, which it is not lawful for a man to utter.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "እንደዚህ ስላለው እመካለሁ፥ ስለ ራሴ ግን ከድካሜ በቀር አልመካም።",
+            "en": "Of such an one will I glory: yet of myself I will not glory, but in mine infirmities.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "ልመካ ብወድስ ሞኝ አልሆንም፥ እውነትን እላለሁና፤ ነገር ግን ማንም ከሚያይ ከእኔም ከሚሰማ የምበልጥ አድርጎ እንዳይቆጥረኝ ትቼአለሁ።",
+            "en": "For though I would desire to glory, I shall not be a fool; for I will say the truth: but now I forbear, lest any man should think of me above that which he seeth me to be, or that he heareth of me.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ስለዚህም በመገለጥ ታላቅነት እንዳልታበይ የሥጋዬ መውጊያ፥ እርሱም የሚጎስመኝ የሰይጣን መልእክተኛ ተሰጠኝ፤ ይኸውም እንዳልታበይ ነው።",
+            "en": "And lest I should be exalted above measure through the abundance of the revelations, there was given to me a thorn in the flesh, the messenger of Satan to buffet me, lest I should be exalted above measure.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ስለዚህ ነገር ከእኔ እንዲለይ ሦስት ጊዜ ጌታን ለመንሁ።",
+            "en": "For this thing I besought the Lord thrice, that it might depart from me.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "እርሱም። ጸጋዬ ይበቃሃል፥ ኃይሌ በድካም ይፈጸማልና አለኝ። እንግዲህ የክርስቶስ ኃይል ያድርብኝ ዘንድ በብዙ ደስታ በድካሜ ልመካ እወዳለሁ።",
+            "en": "And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ስለዚህ ስለ ክርስቶስ በድካም በመንገላታትም በችግርም በስደትም በጭንቀትም ደስ ይለኛል፤ ስደክም ያን ጊዜ ኃይለኛ ነኝና።",
+            "en": "Therefore I take pleasure in infirmities, in reproaches, in necessities, in persecutions, in distresses for Christ's sake: for when I am weak, then am I strong.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "በመመካቴ ሞኝ ሆኜአለሁ፤ እናንተ ግድ አላችሁኝ፤ እናንተ እኔን ልታመሰግኑ ይገባ ነበርና። እኔ ምንም ባልሆን እንኳ፥ ከዋነኞቹ ሐዋርያት በምንም አልጎድልምና።",
+            "en": "I am become a fool in glorying; ye have compelled me: for I ought to have been commended of you: for in nothing am I behind the very chiefest apostles, though I be nothing.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "በእርግጥ የሐዋርያነት ምልክት በመካከላችሁ በምልክትና በድንቅ ነገር በተአምራትም በሁሉ ትዕግሥት ተደረገ።",
+            "en": "Truly the signs of an apostle were wrought among you in all patience, in signs, and wonders, and mighty deeds.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "እኔ ራሴ ካልከበድሁባችሁ ከዚህ በቀር፥ ከሌላ ቤተ ክርስቲያን ያነሳችሁበት በምን እኮ ነው? ይህን በደሌን ይቅር በሉልኝ።",
+            "en": "For what is it wherein ye were inferior to other churches, except it be that I myself was not burdensome to you? forgive me this wrong.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "እነሆ፥ ወደ እናንተ እመጣ ዘንድ ስዘጋጅ ይህ ሦስተኛዬ ነው፤ አልከብድባችሁምም፥ እናንተን እንጂ ያላችሁን አልፈልግምና። ወላጆች ለልጆች እንጂ ልጆች ለወላጆች ገንዘብ ሊያከማቹ አይገባቸውምና።",
+            "en": "Behold, the third time I am ready to come to you; and I will not be burdensome to you: for I seek not yours, but you: for the children ought not to lay up for the parents, but the parents for the children.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 15,
+          "text": {
+            "am": "እኔ ግን ስለ ነፍሳችሁ በብዙ ደስታ ገንዘቤን እከፍላለሁ፥ ራሴን እንኳ እከፍላለሁ። ከመጠን ይልቅ ብወዳችሁ በዚህ ልክ ፍቅራችሁ የሚያንስ ነውን?",
+            "en": "And I will very gladly spend and be spent for you; though the more abundantly I love you, the less I be loved.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 16,
+          "text": {
+            "am": "ይሁን እንጂ እኔ አልከበድሁባችሁም፤ ነገር ግን ሸንጋይ ሆኜ በተንኰል ያዝኋችሁ።",
+            "en": "But be it so, I did not burden you: nevertheless, being crafty, I caught you with guile.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 17,
+          "text": {
+            "am": "ወደ እናንተ ከላክኋቸው በአንዱ ስንኳ አታለልኋችሁን?",
+            "en": "Did I make a gain of you by any of them whom I sent unto you?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 18,
+          "text": {
+            "am": "ቲቶን መከርሁት ከእርሱም ጋር ወንድሙን ላክሁት፤ ቲቶስ አታለላችሁን? በአንድ መንፈስ አልተመላለስንምን? በአንድ ፍለጋስ አልተመላለስንም?",
+            "en": "I desired Titus, and with him I sent a brother. Did Titus make a gain of you? walked we not in the same spirit? walked we not in the same steps?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 19,
+          "text": {
+            "am": "ለእናንተ ስለ ራሳችን እንድንመልስ ሁልጊዜ ይመስላችኋልን? በእግዚአብሔር ፊት በክርስቶስ ሆነን እንናገራለን፤ ነገር ግን፥ ወዳጆች፥ እናንተን ልናንጻችሁ ሁሉን እንናገራለን።",
+            "en": "Again, think ye that we excuse ourselves unto you? we speak before God in Christ: but we do all things, dearly beloved, for your edifying.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 20,
+          "text": {
+            "am": "ስመጣ፥ እንደምወደው ሳትሆኑ አገኛችሁ ይሆናል እኔም እንደምትወዱት ሳልሆን ታገኙኝ ይሆናል ብዬ እፈራለሁና፤ ምናልባት ክርክር ቅንዓትም ቁጣም አድመኝነትም ሐሜትም ማሾክሾክም ኩራትም ሁከትም ይሆናሉ፤",
+            "en": "For I fear, lest, when I come, I shall not find you such as I would, and that I shall be found unto you such as ye would not: lest there be debates, envyings, wraths, strifes, backbitings, whisperings, swellings, tumults:",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 21,
+          "text": {
+            "am": "እንደ ገና ስመጣ በእናንተ ዘንድ አምላኬ እንዲያዋርደኝ፥ አስቀድመውም ኃጢአት ከሠሩትና ስላደረጉት ርኵሰትና ዝሙት መዳራትም ንስሐ ካልገቡት ወገን ስለ ብዙዎች ምናልባት አዝናለሁ ብዬ እፈራለሁ።",
+            "en": "And lest, when I come again, my God will humble me among you, and that I shall bewail many which have sinned already, and have not repented of the uncleanness and fornication and lasciviousness which they have committed.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "sections": [],
+      "verses": [
+        {
+          "verse": 1,
+          "text": {
+            "am": "ወደ እናንተ ስመጣ ይህ ሦስተኛዬ ነው፤ ሁሉ ነገር በሁለትና በሦስት ምስክር አፍ ይጸናል።",
+            "en": "This is the third time I am coming to you. In the mouth of two or three witnesses shall every word be established.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 2,
+          "text": {
+            "am": "ሁለተኛ በእናንተ ዘንድ በነበርሁ ጊዜ እንደ ተናገርሁ አሁንም ደግሞ በሩቅ ስሆን፥ ክርስቶስ በእኔ አድሮ እንዲናገር ማስረጃ ከፈለጋችሁ፥ እንደ ገና ብመጣ እንዳልራራላቸው አስቀድመው ኃጢአት ላደረጉት ለሌሎችም ሁሉ አስቀድሜ ብዬአለሁ፥ አስቀድሜም እላለሁ። ክርስቶስም ስለ እናንተ አይደክምም ነገር ግን በእናንተ ኃይለኛ ነው።",
+            "en": "I told you before, and foretell you, as if I were present, the second time; and being absent now I write to them which heretofore have sinned, and to all other, that, if I come again, I will not spare:",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              2,
+              3
+            ]
+          }
+        },
+        {
+          "verse": 3,
+          "text": {
+            "am": "ሁለተኛ በእናንተ ዘንድ በነበርሁ ጊዜ እንደ ተናገርሁ አሁንም ደግሞ በሩቅ ስሆን፥ ክርስቶስ በእኔ አድሮ እንዲናገር ማስረጃ ከፈለጋችሁ፥ እንደ ገና ብመጣ እንዳልራራላቸው አስቀድመው ኃጢአት ላደረጉት ለሌሎችም ሁሉ አስቀድሜ ብዬአለሁ፥ አስቀድሜም እላለሁ። ክርስቶስም ስለ እናንተ አይደክምም ነገር ግን በእናንተ ኃይለኛ ነው።",
+            "en": "Since ye seek a proof of Christ speaking in me, which to you-ward is not weak, but is mighty in you.",
+            "gez": null
+          },
+          "audio": {},
+          "mergedWith": {
+            "am": [
+              2,
+              3
+            ]
+          }
+        },
+        {
+          "verse": 4,
+          "text": {
+            "am": "በድካም ተሰቅሎአልና፥ ነገር ግን በእግዚአብሔር ኃይል በሕይወት ይኖራል። እኛ ደግሞ ከእርሱ ጋር እንደክማለንና፥ ነገር ግን ስለ እናንተ በሆነ በእግዚአብሔር ኃይል ከእርሱ ጋር በሕይወት እንኖራለን።",
+            "en": "For though he was crucified through weakness, yet he liveth by the power of God. For we also are weak in him, but we shall live with him by the power of God toward you.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 5,
+          "text": {
+            "am": "በሃይማኖት ብትኖሩ ራሳችሁን መርምሩ፤ ራሳችሁን ፈትኑ፤ ወይስ ምናልባት የማትበቁ ባትሆኑ፥ ኢየሱስ ክርስቶስ በእናንተ ውስጥ እንዳለ ስለ እናንተ አታውቁምን?",
+            "en": "Examine yourselves, whether ye be in the faith; prove your own selves. Know ye not your own selves, how that Jesus Christ is in you, except ye be reprobates?",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 6,
+          "text": {
+            "am": "እኛ ግን የማንበቃ እንዳይደለን ልታውቁ ተስፋ አደርጋለሁ።",
+            "en": "But I trust that ye shall know that we are not reprobates.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 7,
+          "text": {
+            "am": "ክፉ ነገርንም ከቶ እንዳታደርጉ ወደ እግዚአብሔር እንጸልያለን፤ እኛ የምንበቃ ሆነን እንገለጥ ዘንድ አይደለም ነገር ግን እኛ ምንም እንደማንበቃ ብንሆን፥ እናንተ መልካሙን ታደርጉ ዘንድ ነው።",
+            "en": "Now I pray to God that ye do no evil; not that we should appear approved, but that ye should do that which is honest, though we be as reprobates.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 8,
+          "text": {
+            "am": "ለእውነት እንጂ በእውነት ላይ ምንም ለማድረግ አንችልምና።",
+            "en": "For we can do nothing against the truth, but for the truth.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 9,
+          "text": {
+            "am": "እኛ ስንደክም እናንተም ኃይለኞች ስትሆኑ ደስ ብሎናልና፤ እናንተ ፍጹማን ትሆኑ ዘንድ ለዚህ ደግሞ እንጸልያለን።",
+            "en": "For we are glad, when we are weak, and ye are strong: and this also we wish, even your perfection.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 10,
+          "text": {
+            "am": "ስለዚህ ጌታ ለማፍረስ ያይደለ ለማነጽ እንደ ሰጠኝ ሥልጣን፥ ከእናንተ ጋር ሳለሁ በቁርጥ እንዳልሠራ በሩቅ ሆኜ ይህን እጽፋለሁ።",
+            "en": "Therefore I write these things being absent, lest being present I should use sharpness, according to the power which the Lord hath given me to edification, and not to destruction.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 11,
+          "text": {
+            "am": "በቀረውስ፥ ወንድሞች ሆይ፥ ደኅና ሁኑ። ፍጹማን ሁኑ፥ ምክሬን ስሙ፥ በአንድ ልብ ሁኑ፥ በሰላም ኑሩ፥ የፍቅርና የሰላምም አምላክ ከእናንተ ጋር ይሆናል።",
+            "en": "Finally, brethren, farewell. Be perfect, be of good comfort, be of one mind, live in peace; and the God of love and peace shall be with you.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 12,
+          "text": {
+            "am": "በተቀደሰ አሳሳም እርስ በርሳችሁ ሰላምታ ተሰጣጡ።",
+            "en": "Greet one another with an holy kiss.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 13,
+          "text": {
+            "am": "ቅዱሳን ሁሉ ሰላምታ ያቀርቡላችኋል።",
+            "en": "All the saints salute you.",
+            "gez": null
+          },
+          "audio": {}
+        },
+        {
+          "verse": 14,
+          "text": {
+            "am": "የጌታ የኢየሱስ ክርስቶስ ጸጋ የእግዚአብሔርም ፍቅር የመንፈስ ቅዱስም ኅብረት ከሁላችሁ ጋር ይሁን። አሜን።",
+            "en": "The grace of the Lord Jesus Christ, and the love of God, and the communion of the Holy Ghost, be with you all. Amen.",
+            "gez": null
+          },
+          "audio": {}
+        }
+      ]
+    }
+  ]
+}
